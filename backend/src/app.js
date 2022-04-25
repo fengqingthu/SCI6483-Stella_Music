@@ -3,9 +3,9 @@
  * recommendation tree of Spotify through its API
  */
 
-var request = require('request');
+const request = require('request');
 const fs = require('fs');
-const path = require('path')
+const path = require('path');
 const { exit } = require('process');
 
 
@@ -14,14 +14,14 @@ var client_secret; // Your secret
 var token; // access token
 var token_life; // token expire time in seconds
 
-const BRANCH = 10
-const MAXLEVEL = 20
+const BRANCH = 10;
+const MAXLEVEL = 10;
 
-const secretpath = '../input/client_secret.txt'
-const tokenpath = '../output/token/token.txt'
-const rootpath = '../input/root.txt'
-const treedir = '../output/tree/'
-const songdir = '../output/songs/'
+const secretpath = '../input/client_secret.txt';
+const tokenpath = '../output/token/token.txt';
+const rootpath = '../input/root.txt';
+const treedir = '../output/tree/';
+const songdir = '../output/songs/';
 
 
 const _clean = (directory) => {
@@ -44,11 +44,11 @@ const _get_token = () => {
     console.log('========== ACCESSING TOKEN ==========');
 
     try {
-        let data = fs.readFileSync(secretpath, 'utf8')
-        console.log(`Read client_secret: ${data}`)
-        client_secret = data
+        let data = fs.readFileSync(secretpath, 'utf8');
+        console.log(`Read client_secret: ${data}`);
+        client_secret = data;
     } catch (err) {
-        console.error(err)
+        console.error(err);
     }
     
     // initialize authOptions
@@ -69,14 +69,14 @@ const _get_token = () => {
         token = body.access_token;
         token_life = body.expires_in;
 
-        console.log(`Get token: ${token}`)
-        console.log(`Exipres in: ${token_life}`)
+        console.log(`Get token: ${token}`);
+        console.log(`Exipres in: ${token_life}`);
 
-        const content = token + '\n' + token_life
+        const content = token + '\n' + token_life;
         fs.writeFile(tokenpath, content, err => {
             if (err) {
-                console.error(err)
-                return
+                console.error(err);
+                return;
             }
         })
         }
@@ -87,48 +87,47 @@ const _get_token = () => {
 const _read_token = () => {
     try {
 
-        let data = fs.readFileSync(tokenpath, 'utf8')
-        arr = data.split("\n")
-        console.log(`Read token: ${arr[0]}, will expire in ${arr[1]}s`)
-        token = arr[0]
-        return token
+        let data = fs.readFileSync(tokenpath, 'utf8');
+        arr = data.split("\n");
+        console.log(`Read token: ${arr[0]}, will expire in ${arr[1]}s`);
+        token = arr[0];
+        return token;
 
     } catch (err) {
-        console.error(err)
-        exit()
+        console.error(err);
+        exit();
     }
 }
 
-const _crawl = () => {
+const _crawl = (song_id) => {
     // read root song
-    var root_artist_id
-    var root_song_id
+    var root_artist_id;
+    var root_song_id;
 
     try {
-        let data = fs.readFileSync(rootpath, 'utf8')
+        let data = fs.readFileSync(rootpath, 'utf8');
 
-        arr = data.split("\n")
-        root_artist_id = arr[0]
-        root_song_id = arr[1]
+        arr = data.split("\n");
+        root_artist_id = arr[0];
+        root_song_id = arr[1];
 
     } catch (err) {
-        console.error(err)
-        exit()
+        console.error(err);
+        exit();
     }
 
     console.log('========== START CRAWLING ==========');
-    console.log(`Root: ${root_song_id}`)
-    _recommend(root_artist_id, root_song_id, 0)
+    console.log(`Root: ${root_song_id}`);
+    _recommend(root_artist_id, root_song_id, 0);
 }
 
 // return true if already cached otherwise false
 const _fetch_song = (song_id) => {
     // check if already cached
-    var opath
-    opath = songdir+song_id+".json"
+    var opath = songdir+song_id+".json";
 
     if (fs.existsSync(opath)) {
-        return true
+        return true;
     }
 
     // otherwise request the song from Spotify API and cache locally
@@ -155,22 +154,21 @@ const _fetch_song = (song_id) => {
         }
     });
     
-    return false
+    return false;
 }
 
 // private method to request for recommendation
 const _recommend = (seed_artist_id, seed_song_id, level) => {
     // if reach the max level
     if (level >= MAXLEVEL) {
-        return
+        return;
     }
     // check if already visited
-    var opath
-    opath = treedir+seed_song_id+".txt"
+    var opath = treedir+seed_song_id+".txt";
     if (fs.existsSync(opath)) {
-        return
+        return;
     }
-    // console.log(`Visiting level ${level}`)
+    // console.log(`Visiting level ${level}`);
     
 
     var query = `?seed_artists=${seed_artist_id}` 
@@ -199,9 +197,9 @@ const _recommend = (seed_artist_id, seed_song_id, level) => {
                     flag: "a+",});
                 
                 // cache locally
-                _fetch_song(body.tracks[i].id)
+                _fetch_song(body.tracks[i].id);
 
-                console.log(`Get ${body.tracks[i].id}`)
+                console.log(`Get ${body.tracks[i].id}`);
             }
             
             // start next level
@@ -210,7 +208,7 @@ const _recommend = (seed_artist_id, seed_song_id, level) => {
                 _recommend(body.tracks[i].artists[0].id,
                     body.tracks[i].id,
                     level+1
-                )
+                );
 
             }
         }
@@ -224,31 +222,85 @@ function sleep(ms) {
 
 // method to launch the instance
 const Launch = async() => {
-    console.log("========== LAUNCH ==========")
+    console.log("========== LAUNCH ==========");
     // setup
-    _clean(songdir)
-    _clean(treedir)
-    _get_token()
-    await sleep(1000)
+    // _clean(songdir);
+    // _clean(treedir);
+    _get_token();
+    await sleep(2000);
 
-    _read_token()
+    _read_token();
     // start crawling
-    _crawl()
+    // _crawl();
 
     // todo: interface handler
-}; Launch()
+    console.log(Get_tree('4WmB04GBqS4xPMYN9dHgBw', [10,10,10]))
+}; Launch();
+
+// method to get the children nodes, if not crawled yet return am empty array
+const _get_children = (song_id) => {
+
+    var path = treedir+song_id+".txt";
+
+    if (fs.existsSync(path)) {
+        try {
+            let data = fs.readFileSync(path, 'utf-8');
+            return data.split('\n');
+        } catch (err) {
+            throw err;
+        }
+        
+    } else {
+        var artist_id;
+        try {
+            artist_id = Read_song(song_id)['artists'][0]['id'];
+
+        } catch (err) {
+            console.log(err)
+            artist_id = '';
+        } finally {
+            _recommend(artist_id, song_id, 0);
+            return [];
+        }
+    }
+}
+
+// get tree
+const Get_tree = (root_id, branches) => {
+    try {
+        // base case
+        if (branches.length == 0) {
+            return {node: root_id, children: []};
+        }
+
+        var res = _get_children(root_id).slice(0, branches[0]);
+        var children = [];
+        for (let i = 0; i < res.length; i++) {
+            children.push(Get_tree(res[i], branches.slice(0, branches.length - 1)));
+        }
+        return {node: root_id, children: children};
+        
+    } catch (err) {
+        throw err;
+    }
+}
 
 // read info from cached songs
 const Read_song = (song_id) => {
 
-    var opath
-    opath = odir+song_id+".json"
+    var path = songdir+song_id+".json";
 
-    if (fs.existsSync(opath)) {
-        let data = fs.readFileSync(opath);
-        return JSON.parse(data)
+    if (fs.existsSync(path)) {
+
+        try {
+            let data = fs.readFileSync(path);
+            return JSON.parse(data);
+        } catch (err) {
+            throw err;
+        }
     } else {
+        // should not be used though
         _fetch_song(token, song_id);
-        return false
+        throw new Error('song not found');
     }
 }
