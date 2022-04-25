@@ -7,7 +7,9 @@ const request = require('request');
 const fs = require('fs');
 const path = require('path');
 const { exit } = require('process');
+const http = require("http");
 
+// ==================== CONFIGURATION ====================
 
 var client_id = 'ca9db14086f4432bb29b1dc2745dbc05'; // Your client id
 var client_secret; // Your secret
@@ -17,13 +19,20 @@ var token_life; // token expire time in seconds
 const BRANCH = 10;
 const MAXLEVEL = 10;
 
-const secretpath = '../input/client_secret.txt';
-const tokenpath = '../output/token/token.txt';
-const rootpath = '../input/root.txt';
-const treedir = '../output/tree/';
-const songdir = '../output/songs/';
+const INTERVAL = 500;
 
+const SECRETPATH = '../input/client_secret.txt';
+const TOKENPATH = '../output/token/token.txt';
+const ROOTPATH = '../input/root.txt';
+const TREEDIR = '../output/tree/';
+const SONGDIR = '../output/songs/';
 
+const host = 'localhost';
+const port = 8000;
+
+// ==================== PRIVATE METHODS ====================
+
+// method to clean given directory
 const _clean = (directory) => {
     fs.readdir(directory, (err, files) => {
         if (err) throw err;
@@ -38,13 +47,13 @@ const _clean = (directory) => {
       });
 }
 
-// private method to request for access token, write it to file
+// method to request for access token, write it to file
 const _get_token = () => {
 
     console.log('========== ACCESSING TOKEN ==========');
 
     try {
-        let data = fs.readFileSync(secretpath, 'utf8');
+        let data = fs.readFileSync(SECRETPATH, 'utf8');
         console.log(`Read client_secret: ${data}`);
         client_secret = data;
     } catch (err) {
@@ -73,7 +82,7 @@ const _get_token = () => {
         console.log(`Exipres in: ${token_life}`);
 
         const content = token + '\n' + token_life;
-        fs.writeFile(tokenpath, content, err => {
+        fs.writeFile(TOKENPATH, content, err => {
             if (err) {
                 console.error(err);
                 return;
@@ -83,11 +92,11 @@ const _get_token = () => {
     });
 }
 
-// method to read token into memory
+// method to read token from disk to memory
 const _read_token = () => {
     try {
 
-        let data = fs.readFileSync(tokenpath, 'utf8');
+        let data = fs.readFileSync(TOKENPATH, 'utf8');
         arr = data.split("\n");
         console.log(`Read token: ${arr[0]}, will expire in ${arr[1]}s`);
         token = arr[0];
@@ -99,13 +108,14 @@ const _read_token = () => {
     }
 }
 
+// read default root and start initial crawling
 const _crawl = (song_id) => {
     // read root song
     var root_artist_id;
     var root_song_id;
 
     try {
-        let data = fs.readFileSync(rootpath, 'utf8');
+        let data = fs.readFileSync(ROOTPATH, 'utf8');
 
         arr = data.split("\n");
         root_artist_id = arr[0];
@@ -121,50 +131,15 @@ const _crawl = (song_id) => {
     _recommend(root_artist_id, root_song_id, 0);
 }
 
-// return true if already cached otherwise false
-const _fetch_song = (song_id) => {
-    // check if already cached
-    var opath = songdir+song_id+".json";
-
-    if (fs.existsSync(opath)) {
-        return true;
-    }
-
-    // otherwise request the song from Spotify API and cache locally
-    var options = {
-        url: 'https://api.spotify.com/v1/tracks/'+song_id,
-        headers: {
-            'Authorization': 'Bearer ' + token,
-            // 'Content-Type': 'application/json',
-            // 'Host': 'api.spotify.com'
-        },
-        json: true
-    };
-
-    request.get(options, function(error, response, body) {
-
-        if (!error && response.statusCode === 200) {
-            if (!fs.existsSync(opath)) {
-                // create output file
-                fs.closeSync(fs.openSync(opath, 'w'));
-                // cache the song
-                let data = JSON.stringify(body, null, 2);
-                fs.writeFileSync(opath, data);
-            }
-        }
-    });
-    
-    return false;
-}
-
-// private method to request for recommendation
+// method to request for recommendation, crawl from root and asynchronously
+// cache info locally 
 const _recommend = (seed_artist_id, seed_song_id, level) => {
     // if reach the max level
     if (level >= MAXLEVEL) {
         return;
     }
     // check if already visited
-    var opath = treedir+seed_song_id+".txt";
+    var opath = TREEDIR+seed_song_id+".txt";
     if (fs.existsSync(opath)) {
         return;
     }
@@ -215,32 +190,52 @@ const _recommend = (seed_artist_id, seed_song_id, level) => {
     });
 }
 
+// asynchronously request the given song and cache it locally
+// return true if already cached otherwise false
+const _fetch_song = (song_id) => {
+    // check if already cached
+    var opath = SONGDIR+song_id+".json";
+
+    if (fs.existsSync(opath)) {
+        return true;
+    }
+
+    // otherwise request the song from Spotify API and cache locally
+    var options = {
+        url: 'https://api.spotify.com/v1/tracks/'+song_id,
+        headers: {
+            'Authorization': 'Bearer ' + token,
+            // 'Content-Type': 'application/json',
+            // 'Host': 'api.spotify.com'
+        },
+        json: true
+    };
+
+    request.get(options, function(error, response, body) {
+
+        if (!error && response.statusCode === 200) {
+            if (!fs.existsSync(opath)) {
+                // create output file
+                fs.closeSync(fs.openSync(opath, 'w'));
+                // cache the song
+                let data = JSON.stringify(body, null, 2);
+                fs.writeFileSync(opath, data);
+            }
+        }
+    });
+    return false;
+}
+
 // sleep function
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// method to launch the instance
-const Launch = async() => {
-    console.log("========== LAUNCH ==========");
-    // setup
-    // _clean(songdir);
-    // _clean(treedir);
-    _get_token();
-    await sleep(2000);
+// method to get children nodes, if not crawled yet 
+// start crawling and retry
+const _get_children = async(song_id) => {
 
-    _read_token();
-    // start crawling
-    // _crawl();
-
-    // todo: interface handler
-    console.log(Get_tree('4WmB04GBqS4xPMYN9dHgBw', [10,10,10]))
-}; Launch();
-
-// method to get the children nodes, if not crawled yet return am empty array
-const _get_children = (song_id) => {
-
-    var path = treedir+song_id+".txt";
+    var path = TREEDIR+song_id+".txt";
 
     if (fs.existsSync(path)) {
         try {
@@ -253,30 +248,42 @@ const _get_children = (song_id) => {
     } else {
         var artist_id;
         try {
-            artist_id = Read_song(song_id)['artists'][0]['id'];
+            let song_info = Read_song(song_id);
+            artist_id = song_info['artists'][0]['id'];
 
         } catch (err) {
-            console.log(err)
+            // console.log(err)
             artist_id = '';
         } finally {
-            _recommend(artist_id, song_id, 0);
-            return [];
+            // start a new crawling, only one level
+            _recommend(artist_id, song_id, 9);
+            return []; // for better availability
+            // retry or simply return an empty list? use case?
+            
+            // await sleep(INTERVAL);
+            // let res = await _get_children(song_id);
+            // return res;
         }
     }
 }
 
-// get tree
-const Get_tree = (root_id, branches) => {
+// ==================== PUBLIC METHODS ====================
+
+// method to get a tree with given root_id with an array of branch rates.
+// Eg. [4,3,2] represents a tree with number of nodes each level: 1, 4, 12, 24
+const Get_tree = async(root_id, branches) => {
     try {
         // base case
         if (branches.length == 0) {
             return {node: root_id, children: []};
         }
-
-        var res = _get_children(root_id).slice(0, branches[0]);
+        // recurse
+        let res = await _get_children(root_id);
+        res = res.slice(0, branches[0]);
         var children = [];
         for (let i = 0; i < res.length; i++) {
-            children.push(Get_tree(res[i], branches.slice(0, branches.length - 1)));
+            let subtree = await Get_tree(res[i], branches.slice(0, branches.length - 1));
+            children.push(subtree);
         }
         return {node: root_id, children: children};
         
@@ -286,9 +293,9 @@ const Get_tree = (root_id, branches) => {
 }
 
 // read info from cached songs
-const Read_song = (song_id) => {
+const Read_song = async(song_id) => {
 
-    var path = songdir+song_id+".json";
+    var path = SONGDIR+song_id+".json";
 
     if (fs.existsSync(path)) {
 
@@ -298,9 +305,46 @@ const Read_song = (song_id) => {
         } catch (err) {
             throw err;
         }
+
     } else {
-        // should not be used though
-        _fetch_song(token, song_id);
-        throw new Error('song not found');
+        // if not cached yet, fetch and retry
+        if (_fetch_song(token, song_id)) {
+            return Read_song(song_id);
+        } else {
+            await sleep(INTERVAL);
+            let res = await Read_song(song_id);
+            return res;
+        }
+        // throw new Error('song not found');
     }
 }
+
+// method to launch the instance
+const Launch = async() => {
+    console.log("========== LAUNCH ==========");
+    // setup
+    // _clean(SONGDIR);
+    // _clean(TREEDIR);
+    _get_token();
+    await sleep(INTERVAL);
+
+    _read_token();
+    // start crawling
+    // _crawl();
+
+    // todo: interface handler
+    let tree = await Get_tree('4WmB04GBqS4xPMYN9dHgBw', [6,5,4,3,2]);
+    console.log(tree);
+}; Launch();
+
+// ==================== HTTP CODE ====================
+
+// const requestListener = function (req, res) {
+//     res.writeHead(200);
+//     res.end("My first server!");
+// };
+
+// const server = http.createServer(requestListener);
+// server.listen(port, host, () => {
+//     console.log(`Server is running on http://${host}:${port}`);
+// });
