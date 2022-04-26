@@ -36,9 +36,9 @@ export default function Home() {
 
     // Texture
     const texture1 = new THREE.TextureLoader().load('./noise.png', function(texture) {
-      texture.wrapS = THREE.RepeatWrapping;
-      texture.wrapT = THREE.RepeatWrapping;
-      texture.repeat.set(3,3);
+      // texture.wrapS = THREE.RepeatWrapping;
+      // texture.wrapT = THREE.RepeatWrapping;
+      // texture.repeat.set(1,1);
     });
     
     // Uniform
@@ -56,17 +56,17 @@ export default function Home() {
       uniforms: uniforms1,
       vertexShader: vertexShader(),
       fragmentShader: fragmentShader(),
-      wireframe: true,
+      wireframe: false,
     });
 
     // Geometry
-    const planeGeometry = new THREE.PlaneGeometry(64, 64, 64, 64);
+    const planeGeometry = new THREE.PlaneGeometry(2,1.5);
     const planeMesh = new THREE.Mesh(planeGeometry, planeCustomMaterial);
     planeMesh.rotation.x = -Math.PI / 2 + Math.PI / 4;
-    planeMesh.scale.x = 2;
-    planeMesh.scale.y = 2;
-    planeMesh.scale.z = 2;
-    planeMesh.position.y = 8;
+    planeMesh.scale.x = 1;
+    planeMesh.scale.y = 1;
+    planeMesh.scale.z = 1;
+    planeMesh.position.y = 1;
     test.scene.add(planeMesh);
 
     if (gui === undefined) {
