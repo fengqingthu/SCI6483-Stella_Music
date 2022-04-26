@@ -27,6 +27,7 @@ export default class SceneInit {
 
     this.uniforms = {
       u_time: { type: "f", value: 1.0 },
+      // u_resolution: {type: "v2", value: new THREE.Vector2()},
       colorB: { type: "vec3", value: new THREE.Color(0xfff000) },
       colorA: { type: "vec3", value: new THREE.Color(0xffffff) },
     };
