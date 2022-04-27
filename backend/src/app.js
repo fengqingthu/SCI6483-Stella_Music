@@ -1,6 +1,9 @@
 /**
- * This is a basic node.js script to crawl the
- * recommendation tree of Spotify through its API
+ * Copy Right: Qing Feng @2022
+ * This is an application to navigate the recommendation tree
+ * of Spotify, simultaneouly cache the song info locally. The
+ * app provides http interfaces as a backend service for our
+ * Stella Music web app.
  */
 
 const request = require('request');
@@ -16,11 +19,12 @@ var client_secret; // Your secret
 var token; // access token
 var token_life; // token expire time in seconds
 
-const BRANCH = 10;
+const INITIAL_CRAWL = false;
+const MAXBRANCH = 10;
 const MAXLEVEL = 2;
 
 const WAIT = 1000; // time to wait for system setup or request to return
-var cooloff = 500; // time to pause after reaching request rate limit
+var cooloff = 500; // time to pause after reaching Spotify API rate limit
 const UNIT = 10;
 
 const SECRETPATH = '../input/client_secret.txt';
@@ -149,7 +153,7 @@ const _recommend = async(seed_artist_id, seed_song_id, level) => {
 
     var query = `?seed_artists=${seed_artist_id}` 
     + `&seed_tracks=${seed_song_id}`
-    + `&limit=${BRANCH}`;
+    + `&limit=${MAXBRANCH}`;
 
     var options = {
         url: 'https://api.spotify.com/v1/recommendations' + query,
@@ -359,7 +363,7 @@ const Launch = async() => {
     console.log("========== LAUNCHING ==========");
     console.log(`Initialize wait interval: ${WAIT}`);
     console.log(`Initialize request cooloff: ${cooloff}`);
-    console.log(`Crawling branch: ${BRANCH}`);
+    console.log(`Crawling branch: ${MAXBRANCH}`);
     console.log(`Crawling level: ${MAXLEVEL}`);
     // setup
     _clean(SONGDIR);
@@ -368,7 +372,7 @@ const Launch = async() => {
     await sleep(WAIT);
 
     _load_token();
-    // start initial crawling
+    // start initial crawling if desired
     // _crawl();
     console.log("========== LISTENING ==========");
     
@@ -379,6 +383,14 @@ const Launch = async() => {
 }; Launch();
 
 // ==================== HTTP CODE ====================
+
+// Usage:
+// curl http://localhost:8000/tree/<root_id>/<branch array>
+// eg. http://localhost:8000/tree/4WmB04GBqS4xPMYN9dHgBw/3,3,3
+// will return a tree rooted at 'Day One' with nodes each level:1, 3, 9, 27
+
+// curl http://localhost:8000/song/<song_id>
+// will return a json file containing the song's infomation
 
 const requestListener = async function (req, res) {
     res.setHeader("Content-Type", "application/json");
