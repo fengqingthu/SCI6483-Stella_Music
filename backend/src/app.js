@@ -363,8 +363,10 @@ const Launch = async() => {
     console.log("========== LAUNCHING ==========");
     console.log(`Initialize wait interval: ${WAIT}`);
     console.log(`Initialize request cooloff: ${cooloff}`);
-    console.log(`Crawling branch: ${MAXBRANCH}`);
-    console.log(`Crawling level: ${MAXLEVEL}`);
+    if (INITIAL_CRAWL) {
+        console.log(`Crawling branch: ${MAXBRANCH}`);
+        console.log(`Crawling level: ${MAXLEVEL}`);
+    }
     // setup
     _clean(SONGDIR);
     _clean(TREEDIR);
@@ -373,7 +375,9 @@ const Launch = async() => {
 
     _load_token();
     // start initial crawling if desired
-    // _crawl();
+    if (INITIAL_CRAWL) {
+        _crawl();
+    }
     console.log("========== LISTENING ==========");
     
     const server = http.createServer(requestListener);
