@@ -17,9 +17,11 @@ var token; // access token
 var token_life; // token expire time in seconds
 
 const BRANCH = 10;
-const MAXLEVEL = 10;
+const MAXLEVEL = 2;
 
-const INTERVAL = 500;
+const WAIT = 1000; // time to wait for system setup or request to return
+var cooloff = 500; // time to pause after reaching request rate limit
+const UNIT = 10;
 
 const SECRETPATH = '../input/client_secret.txt';
 const TOKENPATH = '../output/token/token.txt';
@@ -78,8 +80,7 @@ const _get_token = () => {
         token = body.access_token;
         token_life = body.expires_in;
 
-        console.log(`Get token: ${token}`);
-        console.log(`Exipres in: ${token_life}`);
+        console.log(`Get token: ${token}, will expire in ${token_life}s`);
 
         const content = token + '\n' + token_life;
         fs.writeFile(TOKENPATH, content, err => {
@@ -93,12 +94,12 @@ const _get_token = () => {
 }
 
 // method to read token from disk to memory
-const _read_token = () => {
+const _load_token = () => {
     try {
 
         let data = fs.readFileSync(TOKENPATH, 'utf8');
         arr = data.split("\n");
-        console.log(`Read token: ${arr[0]}, will expire in ${arr[1]}s`);
+        console.log(`Load token: ${arr[0]}, will expire in ${arr[1]}s`);
         token = arr[0];
         return token;
 
@@ -126,14 +127,14 @@ const _crawl = (song_id) => {
         exit();
     }
 
-    console.log('========== START CRAWLING ==========');
+    console.log('========== INITIAL CRAWLING ==========');
     console.log(`Root: ${root_song_id}`);
     _recommend(root_artist_id, root_song_id, 0);
 }
 
 // method to request for recommendation, crawl from root and asynchronously
 // cache info locally 
-const _recommend = (seed_artist_id, seed_song_id, level) => {
+const _recommend = async(seed_artist_id, seed_song_id, level) => {
     // if reach the max level
     if (level >= MAXLEVEL) {
         return;
@@ -159,8 +160,13 @@ const _recommend = (seed_artist_id, seed_song_id, level) => {
         },
         json: true
     };
-    request.get(options, function(error, response, body) {
+    // console.log(options);
+
+    request.get(options, async function(error, response, body) {
         if (!error && response.statusCode === 200) {
+
+            cooloff = Math.max(0, cooloff - UNIT);
+
             // create output file
             fs.closeSync(fs.openSync(opath, 'w'));
             // write children to file
@@ -186,13 +192,25 @@ const _recommend = (seed_artist_id, seed_song_id, level) => {
                 );
 
             }
+        } else {
+            if (error) {
+                console.log(`Recommendation request encounters ${error}`);
+            } else {
+                console.log(`Recommendation request fails with ${response.statusCode}`);
+            }
+            // cool down and retry if requests are sent too frequently
+            if (error || response.statusCode == 429) {
+                cooloff += UNIT;
+                await sleep(cooloff);
+                _recommend(seed_artist_id, seed_song_id, level);
+            }
         }
     });
 }
 
 // asynchronously request the given song and cache it locally
 // return true if already cached otherwise false
-const _fetch_song = (song_id) => {
+const _fetch_song = async(song_id) => {
     // check if already cached
     var opath = SONGDIR+song_id+".json";
 
@@ -202,7 +220,7 @@ const _fetch_song = (song_id) => {
 
     // otherwise request the song from Spotify API and cache locally
     var options = {
-        url: 'https://api.spotify.com/v1/tracks/'+song_id,
+        url: 'https://api.spotify.com/v1/tracks/' + song_id,
         headers: {
             'Authorization': 'Bearer ' + token,
             // 'Content-Type': 'application/json',
@@ -210,16 +228,33 @@ const _fetch_song = (song_id) => {
         },
         json: true
     };
+    // console.log(options);
 
-    request.get(options, function(error, response, body) {
+    request.get(options, async function(error, response, body) {
 
         if (!error && response.statusCode === 200) {
+
+            cooloff = Math.max(0, cooloff - UNIT);
+            
             if (!fs.existsSync(opath)) {
                 // create output file
                 fs.closeSync(fs.openSync(opath, 'w'));
                 // cache the song
                 let data = JSON.stringify(body, null, 2);
                 fs.writeFileSync(opath, data);
+                console.log(`Cached ${song_id}`);
+            }
+        } else {
+            if (error) {
+                console.log(`Fetch_song request encounters ${error}`);
+            } else {
+                console.log(`Fetch_song request fails with ${response.statusCode}`);
+            }
+            // increase cooloff time and retry if requests are sent too frequently
+            if (error || response.statusCode == 429) {
+                cooloff += UNIT;
+                await sleep(cooloff);
+                _fetch_song(song_id);
             }
         }
     });
@@ -235,7 +270,7 @@ function sleep(ms) {
 // start crawling and retry
 const _get_children = async(song_id) => {
 
-    var path = TREEDIR+song_id+".txt";
+    var path = TREEDIR + song_id + ".txt";
 
     if (fs.existsSync(path)) {
         try {
@@ -256,13 +291,13 @@ const _get_children = async(song_id) => {
             artist_id = '';
         } finally {
             // start a new crawling, only one level
-            _recommend(artist_id, song_id, 9);
-            return []; // for better availability
+            _recommend(artist_id, song_id, MAXLEVEL-1);
+            // return []; // for better availability
             // retry or simply return an empty list? use case?
             
-            // await sleep(INTERVAL);
-            // let res = await _get_children(song_id);
-            // return res;
+            await sleep(WAIT);
+            let res = await _get_children(song_id);
+            return res;
         }
     }
 }
@@ -308,43 +343,70 @@ const Read_song = async(song_id) => {
 
     } else {
         // if not cached yet, fetch and retry
-        if (_fetch_song(token, song_id)) {
+        let cached = await _fetch_song(song_id);
+        if (cached) {
             return Read_song(song_id);
         } else {
-            await sleep(INTERVAL);
+            await sleep(WAIT);
             let res = await Read_song(song_id);
             return res;
         }
-        // throw new Error('song not found');
     }
 }
 
 // method to launch the instance
 const Launch = async() => {
-    console.log("========== LAUNCH ==========");
+    console.log("========== LAUNCHING ==========");
+    console.log(`Initialize wait interval: ${WAIT}`);
+    console.log(`Initialize request cooloff: ${cooloff}`);
+    console.log(`Crawling branch: ${BRANCH}`);
+    console.log(`Crawling level: ${MAXLEVEL}`);
     // setup
-    // _clean(SONGDIR);
-    // _clean(TREEDIR);
+    _clean(SONGDIR);
+    _clean(TREEDIR);
     _get_token();
-    await sleep(INTERVAL);
+    await sleep(WAIT);
 
-    _read_token();
-    // start crawling
+    _load_token();
+    // start initial crawling
     // _crawl();
-
-    // todo: interface handler
-    let tree = await Get_tree('4WmB04GBqS4xPMYN9dHgBw', [6,5,4,3,2]);
-    console.log(tree);
+    console.log("========== LISTENING ==========");
+    
+    const server = http.createServer(requestListener);
+    server.listen(port, host, () => {
+        console.log(`Server is running on http://${host}:${port}`);
+    });
 }; Launch();
 
 // ==================== HTTP CODE ====================
 
-// const requestListener = function (req, res) {
-//     res.writeHead(200);
-//     res.end("My first server!");
-// };
-
-// const server = http.createServer(requestListener);
-// server.listen(port, host, () => {
-//     console.log(`Server is running on http://${host}:${port}`);
-// });
+const requestListener = async function (req, res) {
+    res.setHeader("Content-Type", "application/json");
+    var segs = req.url.split('/').slice(1,);
+    console.log(`Receive request:${segs}`);
+    try {
+        res.writeHead(200);
+        switch(segs[0]) {
+            case "tree":
+                let root_id = segs[1];
+                let branches = segs[2].split(',');
+                for (let i = 0; i < branches.length; i++) {
+                    branches[i] = Number(branches[i]);
+                }
+                
+                let tree = await Get_tree(root_id, branches);
+                // console.log(tree);
+                res.end(JSON.stringify(tree, null, 2));
+                break;
+            
+            case "song":
+                let song_id = segs[1];
+                let song = await Read_song(song_id);
+                // console.log(song);
+                res.end(JSON.stringify(song, null, 2));
+                break;
+        }
+    } catch (err) {
+        res.writeHead(400);
+    }
+};
