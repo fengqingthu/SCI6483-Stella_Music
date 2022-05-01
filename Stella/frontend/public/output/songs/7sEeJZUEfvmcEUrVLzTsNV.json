@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2nwNBRZ0DZlRAQBBO0Pdym"
+        },
+        "href": "https://api.spotify.com/v1/artists/2nwNBRZ0DZlRAQBBO0Pdym",
+        "id": "2nwNBRZ0DZlRAQBBO0Pdym",
+        "name": "Klaus Doldinger",
+        "type": "artist",
+        "uri": "spotify:artist:2nwNBRZ0DZlRAQBBO0Pdym"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6qzExKDAhi89usRDK4NX93"
+    },
+    "href": "https://api.spotify.com/v1/albums/6qzExKDAhi89usRDK4NX93",
+    "id": "6qzExKDAhi89usRDK4NX93",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27355572ffe07bc46f1c9349c01",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0255572ffe07bc46f1c9349c01",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485155572ffe07bc46f1c9349c01",
+        "width": 64
+      }
+    ],
+    "name": "O.S.T. Das Boot",
+    "release_date": "1984-12-06",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:6qzExKDAhi89usRDK4NX93"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2nwNBRZ0DZlRAQBBO0Pdym"
+      },
+      "href": "https://api.spotify.com/v1/artists/2nwNBRZ0DZlRAQBBO0Pdym",
+      "id": "2nwNBRZ0DZlRAQBBO0Pdym",
+      "name": "Klaus Doldinger",
+      "type": "artist",
+      "uri": "spotify:artist:2nwNBRZ0DZlRAQBBO0Pdym"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 224173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEA629293240"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7sEeJZUEfvmcEUrVLzTsNV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7sEeJZUEfvmcEUrVLzTsNV",
+  "id": "7sEeJZUEfvmcEUrVLzTsNV",
+  "is_local": false,
+  "name": "Das Boot",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/d7c53ee33a2a2bb86feee8015c323c281926f6e4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7sEeJZUEfvmcEUrVLzTsNV"
+}

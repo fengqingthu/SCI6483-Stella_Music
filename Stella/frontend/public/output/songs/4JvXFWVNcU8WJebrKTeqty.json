@@ -1,0 +1,185 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+        "id": "0VeT7hHTJFJZcENGekjCsB",
+        "name": "London Music Works",
+        "type": "artist",
+        "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1dtKQLHPPw2wBSTb2tPRVy"
+        },
+        "href": "https://api.spotify.com/v1/artists/1dtKQLHPPw2wBSTb2tPRVy",
+        "id": "1dtKQLHPPw2wBSTb2tPRVy",
+        "name": "Keith Ferreira",
+        "type": "artist",
+        "uri": "spotify:artist:1dtKQLHPPw2wBSTb2tPRVy"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7nyWJNt6OACBQxoFrJSLlG"
+    },
+    "href": "https://api.spotify.com/v1/albums/7nyWJNt6OACBQxoFrJSLlG",
+    "id": "7nyWJNt6OACBQxoFrJSLlG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273befac36a6dcf728155854cc4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02befac36a6dcf728155854cc4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851befac36a6dcf728155854cc4",
+        "width": 64
+      }
+    ],
+    "name": "Romance at the Movies",
+    "release_date": "2011-01-17",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7nyWJNt6OACBQxoFrJSLlG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+      "id": "0VeT7hHTJFJZcENGekjCsB",
+      "name": "London Music Works",
+      "type": "artist",
+      "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 136533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC1000336"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4JvXFWVNcU8WJebrKTeqty"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4JvXFWVNcU8WJebrKTeqty",
+  "id": "4JvXFWVNcU8WJebrKTeqty",
+  "is_local": false,
+  "name": "Theme (From \"Eternal Sunshine of the Spotless Mind\")",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/d7869cca25419c17b76c1b476a5e68db6b66b3ff?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:4JvXFWVNcU8WJebrKTeqty"
+}

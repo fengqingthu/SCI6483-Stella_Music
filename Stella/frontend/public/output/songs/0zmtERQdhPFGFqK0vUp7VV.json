@@ -1,0 +1,131 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        "href": "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+        "id": "378dH6EszOLFShpRzAQkVM",
+        "name": "Lindsey Stirling",
+        "type": "artist",
+        "uri": "spotify:artist:378dH6EszOLFShpRzAQkVM"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "EE",
+      "HR",
+      "HU",
+      "LT",
+      "LV",
+      "MD",
+      "ME",
+      "MK",
+      "RO",
+      "RS",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6KYYbd0nSJZMF48Rj13cIr"
+    },
+    "href": "https://api.spotify.com/v1/albums/6KYYbd0nSJZMF48Rj13cIr",
+    "id": "6KYYbd0nSJZMF48Rj13cIr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735973d4a1c3ea609ea49600e3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025973d4a1c3ea609ea49600e3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515973d4a1c3ea609ea49600e3",
+        "width": 64
+      }
+    ],
+    "name": "Lindsey Stirling",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6KYYbd0nSJZMF48Rj13cIr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+      },
+      "href": "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+      "id": "378dH6EszOLFShpRzAQkVM",
+      "name": "Lindsey Stirling",
+      "type": "artist",
+      "uri": "spotify:artist:378dH6EszOLFShpRzAQkVM"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "EE",
+    "HR",
+    "HU",
+    "LT",
+    "LV",
+    "MD",
+    "ME",
+    "MK",
+    "RO",
+    "RS",
+    "SI",
+    "SK",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 258800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USTEY0900057"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zmtERQdhPFGFqK0vUp7VV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zmtERQdhPFGFqK0vUp7VV",
+  "id": "0zmtERQdhPFGFqK0vUp7VV",
+  "is_local": false,
+  "name": "Crystallize",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0zmtERQdhPFGFqK0vUp7VV"
+}

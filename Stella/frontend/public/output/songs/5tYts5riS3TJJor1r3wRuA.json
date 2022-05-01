@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        },
+        "href": "https://api.spotify.com/v1/artists/61CPKXT0bcKj8MKTNTMOXa",
+        "id": "61CPKXT0bcKj8MKTNTMOXa",
+        "name": "Juliette Armanet",
+        "type": "artist",
+        "uri": "spotify:artist:61CPKXT0bcKj8MKTNTMOXa"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7HBgjWuATCcv75BckqyfDC"
+    },
+    "href": "https://api.spotify.com/v1/albums/7HBgjWuATCcv75BckqyfDC",
+    "id": "7HBgjWuATCcv75BckqyfDC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27356c1fcbc3552f3d4d31cc344",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0256c1fcbc3552f3d4d31cc344",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485156c1fcbc3552f3d4d31cc344",
+        "width": 64
+      }
+    ],
+    "name": "L'amour en solitaire",
+    "release_date": "2014-05-05",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7HBgjWuATCcv75BckqyfDC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+      },
+      "href": "https://api.spotify.com/v1/artists/61CPKXT0bcKj8MKTNTMOXa",
+      "id": "61CPKXT0bcKj8MKTNTMOXa",
+      "name": "Juliette Armanet",
+      "type": "artist",
+      "uri": "spotify:artist:61CPKXT0bcKj8MKTNTMOXa"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 222589,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR6V82461899"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5tYts5riS3TJJor1r3wRuA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5tYts5riS3TJJor1r3wRuA",
+  "id": "5tYts5riS3TJJor1r3wRuA",
+  "is_local": false,
+  "name": "L'amour en solitaire",
+  "popularity": 20,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5tYts5riS3TJJor1r3wRuA"
+}

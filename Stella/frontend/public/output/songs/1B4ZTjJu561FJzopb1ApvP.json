@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YtTF1pj1ZFufjkP0BEfWE"
+        },
+        "href": "https://api.spotify.com/v1/artists/1YtTF1pj1ZFufjkP0BEfWE",
+        "id": "1YtTF1pj1ZFufjkP0BEfWE",
+        "name": "Tom Tykwer",
+        "type": "artist",
+        "uri": "spotify:artist:1YtTF1pj1ZFufjkP0BEfWE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7"
+        },
+        "href": "https://api.spotify.com/v1/artists/4CefZM5UsS1y5rvzq8M8S7",
+        "id": "4CefZM5UsS1y5rvzq8M8S7",
+        "name": "Reinhold Heil",
+        "type": "artist",
+        "uri": "spotify:artist:4CefZM5UsS1y5rvzq8M8S7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/35CsFzAi3BR19Ar1wRlPb6"
+        },
+        "href": "https://api.spotify.com/v1/artists/35CsFzAi3BR19Ar1wRlPb6",
+        "id": "35CsFzAi3BR19Ar1wRlPb6",
+        "name": "Johnny Klimek",
+        "type": "artist",
+        "uri": "spotify:artist:35CsFzAi3BR19Ar1wRlPb6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        "href": "https://api.spotify.com/v1/artists/4GQwgdcDQwqtcHICjUNndp",
+        "id": "4GQwgdcDQwqtcHICjUNndp",
+        "name": "Sir Simon Rattle",
+        "type": "artist",
+        "uri": "spotify:artist:4GQwgdcDQwqtcHICjUNndp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+        "id": "6uRJnvQ3f8whVnmeoecv5Z",
+        "name": "Berliner Philharmoniker",
+        "type": "artist",
+        "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3HTgdXg8LMI4XWqwB8G7gq"
+    },
+    "href": "https://api.spotify.com/v1/albums/3HTgdXg8LMI4XWqwB8G7gq",
+    "id": "3HTgdXg8LMI4XWqwB8G7gq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27321e0736bc5d8f59daef81092",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0221e0736bc5d8f59daef81092",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485121e0736bc5d8f59daef81092",
+        "width": 64
+      }
+    ],
+    "name": "Das Parfum - Die Geschichte eines Mörders",
+    "release_date": "2006-09-04",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:3HTgdXg8LMI4XWqwB8G7gq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35CsFzAi3BR19Ar1wRlPb6"
+      },
+      "href": "https://api.spotify.com/v1/artists/35CsFzAi3BR19Ar1wRlPb6",
+      "id": "35CsFzAi3BR19Ar1wRlPb6",
+      "name": "Johnny Klimek",
+      "type": "artist",
+      "uri": "spotify:artist:35CsFzAi3BR19Ar1wRlPb6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7"
+      },
+      "href": "https://api.spotify.com/v1/artists/4CefZM5UsS1y5rvzq8M8S7",
+      "id": "4CefZM5UsS1y5rvzq8M8S7",
+      "name": "Reinhold Heil",
+      "type": "artist",
+      "uri": "spotify:artist:4CefZM5UsS1y5rvzq8M8S7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YtTF1pj1ZFufjkP0BEfWE"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YtTF1pj1ZFufjkP0BEfWE",
+      "id": "1YtTF1pj1ZFufjkP0BEfWE",
+      "name": "Tom Tykwer",
+      "type": "artist",
+      "uri": "spotify:artist:1YtTF1pj1ZFufjkP0BEfWE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+      "id": "6uRJnvQ3f8whVnmeoecv5Z",
+      "name": "Berliner Philharmoniker",
+      "type": "artist",
+      "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+      },
+      "href": "https://api.spotify.com/v1/artists/4GQwgdcDQwqtcHICjUNndp",
+      "id": "4GQwgdcDQwqtcHICjUNndp",
+      "name": "Sir Simon Rattle",
+      "type": "artist",
+      "uri": "spotify:artist:4GQwgdcDQwqtcHICjUNndp"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "LI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 254226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAYC0600945"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1B4ZTjJu561FJzopb1ApvP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1B4ZTjJu561FJzopb1ApvP",
+  "id": "1B4ZTjJu561FJzopb1ApvP",
+  "is_local": false,
+  "name": "Meeting Laura",
+  "popularity": 15,
+  "preview_url": "https://p.scdn.co/mp3-preview/515f102b0103fb5ea1a3544e5492439aca5f0f3f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:1B4ZTjJu561FJzopb1ApvP"
+}

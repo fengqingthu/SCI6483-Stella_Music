@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
+    },
+    "href": "https://api.spotify.com/v1/albums/7AUW3zs7IECZjVVks1tfb2",
+    "id": "7AUW3zs7IECZjVVks1tfb2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c22091658944eedeae42a1e1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c22091658944eedeae42a1e1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c22091658944eedeae42a1e1",
+        "width": 64
+      }
+    ],
+    "name": "Greatest Hits",
+    "release_date": "2002-09-03",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:7AUW3zs7IECZjVVks1tfb2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+      },
+      "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+      "id": "7w29UYBi0qsHi5RTcv3lmA",
+      "name": "Björk",
+      "type": "artist",
+      "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 287000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBTF0200106"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3rrtbnOBDzKQfyYKTezEFe",
+  "id": "3rrtbnOBDzKQfyYKTezEFe",
+  "is_local": false,
+  "name": "All Is Full of Love",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/733f7fe3a6220e24ce6284a2cd44e76b80e91400?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3rrtbnOBDzKQfyYKTezEFe"
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7cTq0bYGTIlPoXo9lFXJlL",
+        "id": "7cTq0bYGTIlPoXo9lFXJlL",
+        "name": "Van Canto",
+        "type": "artist",
+        "uri": "spotify:artist:7cTq0bYGTIlPoXo9lFXJlL"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0i0P9bwPADz3ccCZsSuNRT"
+    },
+    "href": "https://api.spotify.com/v1/albums/0i0P9bwPADz3ccCZsSuNRT",
+    "id": "0i0P9bwPADz3ccCZsSuNRT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273430a5d3111c5f5ca47722f55",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02430a5d3111c5f5ca47722f55",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851430a5d3111c5f5ca47722f55",
+        "width": 64
+      }
+    ],
+    "name": "Tribe Of Force",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:0i0P9bwPADz3ccCZsSuNRT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+      },
+      "href": "https://api.spotify.com/v1/artists/7cTq0bYGTIlPoXo9lFXJlL",
+      "id": "7cTq0bYGTIlPoXo9lFXJlL",
+      "name": "Van Canto",
+      "type": "artist",
+      "uri": "spotify:artist:7cTq0bYGTIlPoXo9lFXJlL"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261032206"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/12FUvXF2Cf7Kt4VQfTCwny"
+  },
+  "href": "https://api.spotify.com/v1/tracks/12FUvXF2Cf7Kt4VQfTCwny",
+  "id": "12FUvXF2Cf7Kt4VQfTCwny",
+  "is_local": false,
+  "name": "Rebellion",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:12FUvXF2Cf7Kt4VQfTCwny"
+}

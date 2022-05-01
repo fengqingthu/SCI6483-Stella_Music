@@ -1,0 +1,171 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2TMzh3M6roTVNUu9AnZ9iC"
+    },
+    "href": "https://api.spotify.com/v1/albums/2TMzh3M6roTVNUu9AnZ9iC",
+    "id": "2TMzh3M6roTVNUu9AnZ9iC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739c28d18146a355c89347c6dd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029c28d18146a355c89347c6dd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519c28d18146a355c89347c6dd",
+        "width": 64
+      }
+    ],
+    "name": "100 Greatest American TV Themes",
+    "release_date": "2010-09-20",
+    "release_date_precision": "day",
+    "total_tracks": 100,
+    "type": "album",
+    "uri": "spotify:album:2TMzh3M6roTVNUu9AnZ9iC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6aCpnXuGa59uv8u4zSRziE"
+      },
+      "href": "https://api.spotify.com/v1/artists/6aCpnXuGa59uv8u4zSRziE",
+      "id": "6aCpnXuGa59uv8u4zSRziE",
+      "name": "Michigan Music Works",
+      "type": "artist",
+      "uri": "spotify:artist:6aCpnXuGa59uv8u4zSRziE"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "AU",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "JP",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 206466,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0700320"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3toi6Ym5ijvkgue8E6C41L"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3toi6Ym5ijvkgue8E6C41L",
+  "id": "3toi6Ym5ijvkgue8E6C41L",
+  "is_local": false,
+  "name": "Superman (From \"Scrubs\")",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/37f070ba2094810286c32071aa158a4f75751378?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:3toi6Ym5ijvkgue8E6C41L"
+}

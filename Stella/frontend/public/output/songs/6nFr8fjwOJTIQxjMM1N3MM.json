@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+        "id": "0VeT7hHTJFJZcENGekjCsB",
+        "name": "London Music Works",
+        "type": "artist",
+        "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "DE",
+      "LI",
+      "LU"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/53EAfbz52O3esPZhR45BUm"
+    },
+    "href": "https://api.spotify.com/v1/albums/53EAfbz52O3esPZhR45BUm",
+    "id": "53EAfbz52O3esPZhR45BUm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ffec972f9ff16ffc9f7621ca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ffec972f9ff16ffc9f7621ca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ffec972f9ff16ffc9f7621ca",
+        "width": 64
+      }
+    ],
+    "name": "Musik Von Die Transformer Trilogie",
+    "release_date": "2011",
+    "release_date_precision": "year",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:53EAfbz52O3esPZhR45BUm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+      "id": "0VeT7hHTJFJZcENGekjCsB",
+      "name": "London Music Works",
+      "type": "artist",
+      "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "DE",
+    "LI",
+    "LU"
+  ],
+  "disc_number": 1,
+  "duration_ms": 397613,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC1100155"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6nFr8fjwOJTIQxjMM1N3MM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6nFr8fjwOJTIQxjMM1N3MM",
+  "id": "6nFr8fjwOJTIQxjMM1N3MM",
+  "is_local": false,
+  "name": "It's Our Fight (From \"Transformers 3\")",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/ab418c21dad7f5e69f4b0797e094caa7124deaa1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:6nFr8fjwOJTIQxjMM1N3MM"
+}

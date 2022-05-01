@@ -1,0 +1,127 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+        "id": "2xOp0rCDPAmYqnL2UFbaDY",
+        "name": "Benjamin Wallfisch",
+        "type": "artist",
+        "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+      }
+    ],
+    "available_markets": [
+      "BN",
+      "DK",
+      "FI",
+      "GB",
+      "HK",
+      "ID",
+      "KH",
+      "KR",
+      "LA",
+      "LK",
+      "MO",
+      "MY",
+      "NO",
+      "PH",
+      "SE",
+      "SG",
+      "TH",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1avvwX7vlY25wYovdVBEBt"
+    },
+    "href": "https://api.spotify.com/v1/albums/1avvwX7vlY25wYovdVBEBt",
+    "id": "1avvwX7vlY25wYovdVBEBt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27313a0853c7b1066cb81b12519",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0213a0853c7b1066cb81b12519",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485113a0853c7b1066cb81b12519",
+        "width": 64
+      }
+    ],
+    "name": "A Cure For Wellness (Original Motion Picture Soundtrack)",
+    "release_date": "2017-02-15",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:1avvwX7vlY25wYovdVBEBt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+      "id": "2xOp0rCDPAmYqnL2UFbaDY",
+      "name": "Benjamin Wallfisch",
+      "type": "artist",
+      "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+      },
+      "href": "https://api.spotify.com/v1/artists/599W9qxs3LzkiiEmkoK6Kx",
+      "id": "599W9qxs3LzkiiEmkoK6Kx",
+      "name": "Mirel Wagner",
+      "type": "artist",
+      "uri": "spotify:artist:599W9qxs3LzkiiEmkoK6Kx"
+    }
+  ],
+  "available_markets": [
+    "BN",
+    "DK",
+    "FI",
+    "GB",
+    "HK",
+    "ID",
+    "KH",
+    "KR",
+    "LA",
+    "LK",
+    "MO",
+    "MY",
+    "NO",
+    "PH",
+    "SE",
+    "SG",
+    "TH",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ811612103"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3a229HrUKLoJ4IXMh7Cj7G"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3a229HrUKLoJ4IXMh7Cj7G",
+  "id": "3a229HrUKLoJ4IXMh7Cj7G",
+  "is_local": false,
+  "name": "I Wanna Be Sedated (feat. Mirel Wagner)",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/d79f54aebc2ce906a81e21c101a5f424b41ed490?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:3a229HrUKLoJ4IXMh7Cj7G"
+}

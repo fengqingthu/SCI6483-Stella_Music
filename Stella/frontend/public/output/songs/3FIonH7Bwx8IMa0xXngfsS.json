@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        },
+        "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+        "id": "63MQldklfxkjYDoUE4Tppz",
+        "name": "M83",
+        "type": "artist",
+        "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2D7n3im1n6of8bdRPHK0TR"
+    },
+    "href": "https://api.spotify.com/v1/albums/2D7n3im1n6of8bdRPHK0TR",
+    "id": "2D7n3im1n6of8bdRPHK0TR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d753dce0e96bc3a441eb4929",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d753dce0e96bc3a441eb4929",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d753dce0e96bc3a441eb4929",
+        "width": 64
+      }
+    ],
+    "name": "You And The Night",
+    "release_date": "2014-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:2D7n3im1n6of8bdRPHK0TR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+      },
+      "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+      "id": "63MQldklfxkjYDoUE4Tppz",
+      "name": "M83",
+      "type": "artist",
+      "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 402346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB55H1300019"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3FIonH7Bwx8IMa0xXngfsS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3FIonH7Bwx8IMa0xXngfsS",
+  "id": "3FIonH7Bwx8IMa0xXngfsS",
+  "is_local": false,
+  "name": "Un Nouveau Soleil",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/fff65f021aa8063e38c9d29e02be3932b89f4edf?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:3FIonH7Bwx8IMa0xXngfsS"
+}

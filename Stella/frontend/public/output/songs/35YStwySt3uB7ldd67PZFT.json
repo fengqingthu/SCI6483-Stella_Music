@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qEM4txXHvfMbOUOK9L7pl",
+        "id": "6qEM4txXHvfMbOUOK9L7pl",
+        "name": "Ben Frost",
+        "type": "artist",
+        "uri": "spotify:artist:6qEM4txXHvfMbOUOK9L7pl"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1vWVmulCwBHYnN5LuQwjJv"
+    },
+    "href": "https://api.spotify.com/v1/albums/1vWVmulCwBHYnN5LuQwjJv",
+    "id": "1vWVmulCwBHYnN5LuQwjJv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e3f03a53747971b004a021ff",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e3f03a53747971b004a021ff",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e3f03a53747971b004a021ff",
+        "width": 64
+      }
+    ],
+    "name": "Dark: Cycle 1 (Original Music From The Netflix Series)",
+    "release_date": "2019-06-28",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1vWVmulCwBHYnN5LuQwjJv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qEM4txXHvfMbOUOK9L7pl",
+      "id": "6qEM4txXHvfMbOUOK9L7pl",
+      "name": "Ben Frost",
+      "type": "artist",
+      "uri": "spotify:artist:6qEM4txXHvfMbOUOK9L7pl"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 156084,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBER71800249"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/35YStwySt3uB7ldd67PZFT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/35YStwySt3uB7ldd67PZFT",
+  "id": "35YStwySt3uB7ldd67PZFT",
+  "is_local": false,
+  "name": "Alles Ist Miteinander Verbunden",
+  "popularity": 5,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:35YStwySt3uB7ldd67PZFT"
+}

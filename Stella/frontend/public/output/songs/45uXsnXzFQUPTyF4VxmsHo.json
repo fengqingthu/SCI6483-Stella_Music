@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        "href": "https://api.spotify.com/v1/artists/7C4sUpWGlTy7IANjruj02I",
+        "id": "7C4sUpWGlTy7IANjruj02I",
+        "name": "Peter Gabriel",
+        "type": "artist",
+        "uri": "spotify:artist:7C4sUpWGlTy7IANjruj02I"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2kXVFPs4QdO1fIu6zzBzvI"
+    },
+    "href": "https://api.spotify.com/v1/albums/2kXVFPs4QdO1fIu6zzBzvI",
+    "id": "2kXVFPs4QdO1fIu6zzBzvI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27329519b98daf95c68f8d2da9b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0229519b98daf95c68f8d2da9b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485129519b98daf95c68f8d2da9b",
+        "width": 64
+      }
+    ],
+    "name": "Passion: Music for The Last Temptation of Christ",
+    "release_date": "1989-06-05",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:2kXVFPs4QdO1fIu6zzBzvI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+      },
+      "href": "https://api.spotify.com/v1/artists/7C4sUpWGlTy7IANjruj02I",
+      "id": "7C4sUpWGlTy7IANjruj02I",
+      "name": "Peter Gabriel",
+      "type": "artist",
+      "uri": "spotify:artist:7C4sUpWGlTy7IANjruj02I"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCPB0900696"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/45uXsnXzFQUPTyF4VxmsHo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/45uXsnXzFQUPTyF4VxmsHo",
+  "id": "45uXsnXzFQUPTyF4VxmsHo",
+  "is_local": false,
+  "name": "The Feeling Begins",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/d67d1e9908d79003cd564af5401e287f09d2d7fc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:45uXsnXzFQUPTyF4VxmsHo"
+}

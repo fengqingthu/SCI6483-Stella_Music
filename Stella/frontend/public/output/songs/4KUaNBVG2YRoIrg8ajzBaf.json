@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        },
+        "href": "https://api.spotify.com/v1/artists/67ps5pbKVO7V9Fcb4lTIXz",
+        "id": "67ps5pbKVO7V9Fcb4lTIXz",
+        "name": "Wind Rose",
+        "type": "artist",
+        "uri": "spotify:artist:67ps5pbKVO7V9Fcb4lTIXz"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3jUF0J5D8AKLJyeabT8cVG"
+    },
+    "href": "https://api.spotify.com/v1/albums/3jUF0J5D8AKLJyeabT8cVG",
+    "id": "3jUF0J5D8AKLJyeabT8cVG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273812393de7a63b5e9e1eda934",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02812393de7a63b5e9e1eda934",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851812393de7a63b5e9e1eda934",
+        "width": 64
+      }
+    ],
+    "name": "Wintersaga",
+    "release_date": "2019-09-27",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:3jUF0J5D8AKLJyeabT8cVG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+      },
+      "href": "https://api.spotify.com/v1/artists/67ps5pbKVO7V9Fcb4lTIXz",
+      "id": "67ps5pbKVO7V9Fcb4lTIXz",
+      "name": "Wind Rose",
+      "type": "artist",
+      "uri": "spotify:artist:67ps5pbKVO7V9Fcb4lTIXz"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 315986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261985904"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4KUaNBVG2YRoIrg8ajzBaf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4KUaNBVG2YRoIrg8ajzBaf",
+  "id": "4KUaNBVG2YRoIrg8ajzBaf",
+  "is_local": false,
+  "name": "Diggy Diggy Hole",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4KUaNBVG2YRoIrg8ajzBaf"
+}

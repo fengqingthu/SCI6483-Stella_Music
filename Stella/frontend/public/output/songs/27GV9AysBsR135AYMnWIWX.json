@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5928hF4c1MriHfAgpFf8ya"
+        },
+        "href": "https://api.spotify.com/v1/artists/5928hF4c1MriHfAgpFf8ya",
+        "id": "5928hF4c1MriHfAgpFf8ya",
+        "name": "Trevor Jones",
+        "type": "artist",
+        "uri": "spotify:artist:5928hF4c1MriHfAgpFf8ya"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m"
+        },
+        "href": "https://api.spotify.com/v1/artists/3shMd6Vll0mOcviQ3hrk8m",
+        "id": "3shMd6Vll0mOcviQ3hrk8m",
+        "name": "Randy Edelman",
+        "type": "artist",
+        "uri": "spotify:artist:3shMd6Vll0mOcviQ3hrk8m"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6lZ7ueg6ozckgt5LvpLYV4"
+    },
+    "href": "https://api.spotify.com/v1/albums/6lZ7ueg6ozckgt5LvpLYV4",
+    "id": "6lZ7ueg6ozckgt5LvpLYV4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273962a0859fd2d4467b2c65794",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02962a0859fd2d4467b2c65794",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851962a0859fd2d4467b2c65794",
+        "width": 64
+      }
+    ],
+    "name": "The Last Of The Mohicans (Original Motion Picture Score)",
+    "release_date": "2000-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6lZ7ueg6ozckgt5LvpLYV4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5928hF4c1MriHfAgpFf8ya"
+      },
+      "href": "https://api.spotify.com/v1/artists/5928hF4c1MriHfAgpFf8ya",
+      "id": "5928hF4c1MriHfAgpFf8ya",
+      "name": "Trevor Jones",
+      "type": "artist",
+      "uri": "spotify:artist:5928hF4c1MriHfAgpFf8ya"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 338626,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3M50016113"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/27GV9AysBsR135AYMnWIWX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/27GV9AysBsR135AYMnWIWX",
+  "id": "27GV9AysBsR135AYMnWIWX",
+  "is_local": false,
+  "name": "Promontory",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:27GV9AysBsR135AYMnWIWX"
+}

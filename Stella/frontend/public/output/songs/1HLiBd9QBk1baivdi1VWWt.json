@@ -1,0 +1,139 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "IE",
+      "IL",
+      "IN",
+      "IS",
+      "IT",
+      "NL",
+      "NO",
+      "PT",
+      "RO",
+      "SE",
+      "TR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505"
+    },
+    "href": "https://api.spotify.com/v1/albums/6PcgVPzMx4kr63zEgPb505",
+    "id": "6PcgVPzMx4kr63zEgPb505",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27383f2b8c25b1d3892dba8272a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0283f2b8c25b1d3892dba8272a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485183f2b8c25b1d3892dba8272a",
+        "width": 64
+      }
+    ],
+    "name": "Notting Hill",
+    "release_date": "1999-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6PcgVPzMx4kr63zEgPb505"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5928hF4c1MriHfAgpFf8ya"
+      },
+      "href": "https://api.spotify.com/v1/artists/5928hF4c1MriHfAgpFf8ya",
+      "id": "5928hF4c1MriHfAgpFf8ya",
+      "name": "Trevor Jones",
+      "type": "artist",
+      "uri": "spotify:artist:5928hF4c1MriHfAgpFf8ya"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DSDKb9wF4bA6mpuRO9bic"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DSDKb9wF4bA6mpuRO9bic",
+      "id": "4DSDKb9wF4bA6mpuRO9bic",
+      "name": "Geoffrey Alexander",
+      "type": "artist",
+      "uri": "spotify:artist:4DSDKb9wF4bA6mpuRO9bic"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+      },
+      "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+      "id": "5yxyJsFanEAuwSM5kOuZKc",
+      "name": "London Symphony Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "IE",
+    "IL",
+    "IN",
+    "IS",
+    "IT",
+    "NL",
+    "NO",
+    "PT",
+    "RO",
+    "SE",
+    "TR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USIR29900129"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1HLiBd9QBk1baivdi1VWWt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1HLiBd9QBk1baivdi1VWWt",
+  "id": "1HLiBd9QBk1baivdi1VWWt",
+  "is_local": false,
+  "name": "Will And Anna",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:1HLiBd9QBk1baivdi1VWWt"
+}

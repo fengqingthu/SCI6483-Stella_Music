@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CA",
+      "DZ",
+      "FR",
+      "LU",
+      "MA",
+      "MC",
+      "MX",
+      "NL",
+      "TN",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4iSLQvZnARbMlgDqOHpaGE"
+    },
+    "href": "https://api.spotify.com/v1/albums/4iSLQvZnARbMlgDqOHpaGE",
+    "id": "4iSLQvZnARbMlgDqOHpaGE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273833cc1724a6b85279a3c9a4a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02833cc1724a6b85279a3c9a4a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851833cc1724a6b85279a3c9a4a",
+        "width": 64
+      }
+    ],
+    "name": "Dexter Season 1",
+    "release_date": "2007-08-27",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:4iSLQvZnARbMlgDqOHpaGE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Grvl7417KS5fGPzZHYBn9"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Grvl7417KS5fGPzZHYBn9",
+      "id": "0Grvl7417KS5fGPzZHYBn9",
+      "name": "Daniel Licht",
+      "type": "artist",
+      "uri": "spotify:artist:0Grvl7417KS5fGPzZHYBn9"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CA",
+    "DZ",
+    "FR",
+    "LU",
+    "MA",
+    "MC",
+    "MX",
+    "NL",
+    "TN",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 145386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US5940700185"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/00x7it0xGV7OfzCoENkzhs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/00x7it0xGV7OfzCoENkzhs",
+  "id": "00x7it0xGV7OfzCoENkzhs",
+  "is_local": false,
+  "name": "Blood Theme - Instrumental",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/4f90ccaf6949b08c37ed11b9b88585a483b9e38a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 24,
+  "type": "track",
+  "uri": "spotify:track:00x7it0xGV7OfzCoENkzhs"
+}

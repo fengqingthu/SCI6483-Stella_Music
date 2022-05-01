@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        },
+        "href": "https://api.spotify.com/v1/artists/2OVqg3lxC8ZIf0vHcEqaCf",
+        "id": "2OVqg3lxC8ZIf0vHcEqaCf",
+        "name": "Cliff Martinez",
+        "type": "artist",
+        "uri": "spotify:artist:2OVqg3lxC8ZIf0vHcEqaCf"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CA",
+      "DZ",
+      "FR",
+      "LU",
+      "MA",
+      "MC",
+      "MX",
+      "NL",
+      "TN",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4tnwCGNJUWVkUzFeAoLeGw"
+    },
+    "href": "https://api.spotify.com/v1/albums/4tnwCGNJUWVkUzFeAoLeGw",
+    "id": "4tnwCGNJUWVkUzFeAoLeGw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ece78b1d2e0666c8057a4a3e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ece78b1d2e0666c8057a4a3e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ece78b1d2e0666c8057a4a3e",
+        "width": 64
+      }
+    ],
+    "name": "The Knick (Original Series Soundtrack)",
+    "release_date": "2014",
+    "release_date_precision": "year",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:4tnwCGNJUWVkUzFeAoLeGw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+      },
+      "href": "https://api.spotify.com/v1/artists/2OVqg3lxC8ZIf0vHcEqaCf",
+      "id": "2OVqg3lxC8ZIf0vHcEqaCf",
+      "name": "Cliff Martinez",
+      "type": "artist",
+      "uri": "spotify:artist:2OVqg3lxC8ZIf0vHcEqaCf"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CA",
+    "DZ",
+    "FR",
+    "LU",
+    "MA",
+    "MC",
+    "MX",
+    "NL",
+    "TN",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 146986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US5941404922"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3C867ubjRENfPSdydG2PHa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3C867ubjRENfPSdydG2PHa",
+  "id": "3C867ubjRENfPSdydG2PHa",
+  "is_local": false,
+  "name": "Son of Placenta Previa",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/ee6278844d93e2c8b0b549698dbe3dbfdafecf39?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3C867ubjRENfPSdydG2PHa"
+}

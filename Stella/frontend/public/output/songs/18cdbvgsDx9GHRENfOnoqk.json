@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1EfjmYsxxO1MZYUF8TLik0"
+        },
+        "href": "https://api.spotify.com/v1/artists/1EfjmYsxxO1MZYUF8TLik0",
+        "id": "1EfjmYsxxO1MZYUF8TLik0",
+        "name": "狙击之神",
+        "type": "artist",
+        "uri": "spotify:artist:1EfjmYsxxO1MZYUF8TLik0"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3lVqIX2WpJFBE6ZXvBhhcl"
+    },
+    "href": "https://api.spotify.com/v1/albums/3lVqIX2WpJFBE6ZXvBhhcl",
+    "id": "3lVqIX2WpJFBE6ZXvBhhcl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27324301416c67546524f5fadcb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0224301416c67546524f5fadcb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485124301416c67546524f5fadcb",
+        "width": 64
+      }
+    ],
+    "name": "骷髅猎人",
+    "release_date": "1974-03-16",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:3lVqIX2WpJFBE6ZXvBhhcl"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EfjmYsxxO1MZYUF8TLik0"
+      },
+      "href": "https://api.spotify.com/v1/artists/1EfjmYsxxO1MZYUF8TLik0",
+      "id": "1EfjmYsxxO1MZYUF8TLik0",
+      "name": "狙击之神",
+      "type": "artist",
+      "uri": "spotify:artist:1EfjmYsxxO1MZYUF8TLik0"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 102910,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBWUL2108787"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/18cdbvgsDx9GHRENfOnoqk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/18cdbvgsDx9GHRENfOnoqk",
+  "id": "18cdbvgsDx9GHRENfOnoqk",
+  "is_local": false,
+  "name": "骷髅猎人",
+  "popularity": 6,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:18cdbvgsDx9GHRENfOnoqk"
+}

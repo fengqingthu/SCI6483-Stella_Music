@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/03GruNQP8X25PCoWzdvIGZ",
+        "id": "03GruNQP8X25PCoWzdvIGZ",
+        "name": "Klaus Badelt",
+        "type": "artist",
+        "uri": "spotify:artist:03GruNQP8X25PCoWzdvIGZ"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "TJ",
+      "UZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5HEj07bXkKVGdbmiXMmI68"
+    },
+    "href": "https://api.spotify.com/v1/albums/5HEj07bXkKVGdbmiXMmI68",
+    "id": "5HEj07bXkKVGdbmiXMmI68",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273291df8e2e5254e80e21c5bc6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02291df8e2e5254e80e21c5bc6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851291df8e2e5254e80e21c5bc6",
+        "width": 64
+      }
+    ],
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Soundtrack)",
+    "release_date": "2003-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:5HEj07bXkKVGdbmiXMmI68"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/03GruNQP8X25PCoWzdvIGZ",
+      "id": "03GruNQP8X25PCoWzdvIGZ",
+      "name": "Klaus Badelt",
+      "type": "artist",
+      "uri": "spotify:artist:03GruNQP8X25PCoWzdvIGZ"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AZ",
+    "BY",
+    "KG",
+    "KZ",
+    "TJ",
+    "UZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 112506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWD10321328"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2bBYxXm8FHzr2fsCvXkLmm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2bBYxXm8FHzr2fsCvXkLmm",
+  "id": "2bBYxXm8FHzr2fsCvXkLmm",
+  "is_local": false,
+  "name": "The Medallion Calls",
+  "popularity": 18,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2bBYxXm8FHzr2fsCvXkLmm"
+}

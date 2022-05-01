@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5svDnd8joFhbpbA3Ar0CfN",
+        "id": "5svDnd8joFhbpbA3Ar0CfN",
+        "name": "Junkie XL",
+        "type": "artist",
+        "uri": "spotify:artist:5svDnd8joFhbpbA3Ar0CfN"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0JGQ10jlljiXEguqGbMiYU"
+    },
+    "href": "https://api.spotify.com/v1/albums/0JGQ10jlljiXEguqGbMiYU",
+    "id": "0JGQ10jlljiXEguqGbMiYU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27316e68058ec38ab2e5401b55f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0216e68058ec38ab2e5401b55f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485116e68058ec38ab2e5401b55f",
+        "width": 64
+      }
+    ],
+    "name": "300: Rise of an Empire (Original Motion Picture Soundtrack)",
+    "release_date": "2014-02-25",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:0JGQ10jlljiXEguqGbMiYU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+      },
+      "href": "https://api.spotify.com/v1/artists/5svDnd8joFhbpbA3Ar0CfN",
+      "id": "5svDnd8joFhbpbA3Ar0CfN",
+      "name": "Junkie XL",
+      "type": "artist",
+      "uri": "spotify:artist:5svDnd8joFhbpbA3Ar0CfN"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 234653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNLR1400002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6xl7PqVoRfddAZjAfrviYc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6xl7PqVoRfddAZjAfrviYc",
+  "id": "6xl7PqVoRfddAZjAfrviYc",
+  "is_local": false,
+  "name": "Marathon",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/8bcd32045ba9b84e6982e5e0bf0a9013167a7027?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6xl7PqVoRfddAZjAfrviYc"
+}

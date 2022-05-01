@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        },
+        "href": "https://api.spotify.com/v1/artists/2vov4zolAP7zbIhB5CsIPm",
+        "id": "2vov4zolAP7zbIhB5CsIPm",
+        "name": "Alien Weaponry",
+        "type": "artist",
+        "uri": "spotify:artist:2vov4zolAP7zbIhB5CsIPm"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2CjKczzR0K77kUR7R1G2Di"
+    },
+    "href": "https://api.spotify.com/v1/albums/2CjKczzR0K77kUR7R1G2Di",
+    "id": "2CjKczzR0K77kUR7R1G2Di",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b746dcbc79c179a8a183817d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b746dcbc79c179a8a183817d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b746dcbc79c179a8a183817d",
+        "width": 64
+      }
+    ],
+    "name": "Tū",
+    "release_date": "2018-06-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:2CjKczzR0K77kUR7R1G2Di"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+      },
+      "href": "https://api.spotify.com/v1/artists/2vov4zolAP7zbIhB5CsIPm",
+      "id": "2vov4zolAP7zbIhB5CsIPm",
+      "name": "Alien Weaponry",
+      "type": "artist",
+      "uri": "spotify:artist:2vov4zolAP7zbIhB5CsIPm"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 395500,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261878505"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/15ns9F2JQwRrZuV81YUmfy"
+  },
+  "href": "https://api.spotify.com/v1/tracks/15ns9F2JQwRrZuV81YUmfy",
+  "id": "15ns9F2JQwRrZuV81YUmfy",
+  "is_local": false,
+  "name": "Kai Tangata",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:15ns9F2JQwRrZuV81YUmfy"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4suo4y34OSfkAxmna55cJS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4suo4y34OSfkAxmna55cJS",
+        "id": "4suo4y34OSfkAxmna55cJS",
+        "name": "Murray Gold & BBC National Orchestra of Wales",
+        "type": "artist",
+        "uri": "spotify:artist:4suo4y34OSfkAxmna55cJS"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2FGnIrrLSR4Lb4qSmy5mqe"
+    },
+    "href": "https://api.spotify.com/v1/albums/2FGnIrrLSR4Lb4qSmy5mqe",
+    "id": "2FGnIrrLSR4Lb4qSmy5mqe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d106b4ae052bf08f998cad20",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d106b4ae052bf08f998cad20",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d106b4ae052bf08f998cad20",
+        "width": 64
+      }
+    ],
+    "name": "Doctor Who: Series 5 (Original Television Soundtrack)",
+    "release_date": "2010-10-29",
+    "release_date_precision": "day",
+    "total_tracks": 65,
+    "type": "album",
+    "uri": "spotify:album:2FGnIrrLSR4Lb4qSmy5mqe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4suo4y34OSfkAxmna55cJS"
+      },
+      "href": "https://api.spotify.com/v1/artists/4suo4y34OSfkAxmna55cJS",
+      "id": "4suo4y34OSfkAxmna55cJS",
+      "name": "Murray Gold & BBC National Orchestra of Wales",
+      "type": "artist",
+      "uri": "spotify:artist:4suo4y34OSfkAxmna55cJS"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 244146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC1000345"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5214MbxZyYj5nMVcR2TvnK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5214MbxZyYj5nMVcR2TvnK",
+  "id": "5214MbxZyYj5nMVcR2TvnK",
+  "is_local": false,
+  "name": "I Am The Doctor",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/6d031139eb74868294f60d430582c5a22988d751?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:5214MbxZyYj5nMVcR2TvnK"
+}

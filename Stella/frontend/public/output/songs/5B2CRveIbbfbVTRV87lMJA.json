@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        },
+        "href": "https://api.spotify.com/v1/artists/2pElTJJ5D3ziEPyvZsW5eF",
+        "id": "2pElTJJ5D3ziEPyvZsW5eF",
+        "name": "Fernando Velázquez",
+        "type": "artist",
+        "uri": "spotify:artist:2pElTJJ5D3ziEPyvZsW5eF"
+      }
+    ],
+    "available_markets": [
+      "ES"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2rNqusmCdApyYULSlhqhjx"
+    },
+    "href": "https://api.spotify.com/v1/albums/2rNqusmCdApyYULSlhqhjx",
+    "id": "2rNqusmCdApyYULSlhqhjx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27392c0fc57125a2b347f566261",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0292c0fc57125a2b347f566261",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485192c0fc57125a2b347f566261",
+        "width": 64
+      }
+    ],
+    "name": "Un Monstruo Viene A Verme (Banda Sonora Original De La Película)",
+    "release_date": "2016-09-30",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:2rNqusmCdApyYULSlhqhjx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+      },
+      "href": "https://api.spotify.com/v1/artists/2pElTJJ5D3ziEPyvZsW5eF",
+      "id": "2pElTJJ5D3ziEPyvZsW5eF",
+      "name": "Fernando Velázquez",
+      "type": "artist",
+      "uri": "spotify:artist:2pElTJJ5D3ziEPyvZsW5eF"
+    }
+  ],
+  "available_markets": [
+    "ES"
+  ],
+  "disc_number": 1,
+  "duration_ms": 302680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQ4E1602389"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5B2CRveIbbfbVTRV87lMJA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5B2CRveIbbfbVTRV87lMJA",
+  "id": "5B2CRveIbbfbVTRV87lMJA",
+  "is_local": false,
+  "name": "La Verdad",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/2770a262073799f6dad067278e189ea089daddfe?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:5B2CRveIbbfbVTRV87lMJA"
+}

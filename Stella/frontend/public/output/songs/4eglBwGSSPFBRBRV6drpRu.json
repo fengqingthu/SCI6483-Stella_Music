@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0iqOcDJNnh51gemYhYhTUq"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iqOcDJNnh51gemYhYhTUq",
+        "id": "0iqOcDJNnh51gemYhYhTUq",
+        "name": "Tomandandy",
+        "type": "artist",
+        "uri": "spotify:artist:0iqOcDJNnh51gemYhYhTUq"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "FR",
+      "LU",
+      "MC",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3T3eLNyMxIqwctLKYrz3YU"
+    },
+    "href": "https://api.spotify.com/v1/albums/3T3eLNyMxIqwctLKYrz3YU",
+    "id": "3T3eLNyMxIqwctLKYrz3YU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273611a2bb787720384786d54b2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02611a2bb787720384786d54b2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851611a2bb787720384786d54b2",
+        "width": 64
+      }
+    ],
+    "name": "Resident Evil: Retribution (Original Motion Picture Soundtrack)",
+    "release_date": "2012-09-11",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:3T3eLNyMxIqwctLKYrz3YU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0iqOcDJNnh51gemYhYhTUq"
+      },
+      "href": "https://api.spotify.com/v1/artists/0iqOcDJNnh51gemYhYhTUq",
+      "id": "0iqOcDJNnh51gemYhYhTUq",
+      "name": "Tomandandy",
+      "type": "artist",
+      "uri": "spotify:artist:0iqOcDJNnh51gemYhYhTUq"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "FR",
+    "LU",
+    "MC",
+    "MX",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228280,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US5940903482"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4eglBwGSSPFBRBRV6drpRu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4eglBwGSSPFBRBRV6drpRu",
+  "id": "4eglBwGSSPFBRBRV6drpRu",
+  "is_local": false,
+  "name": "Flying Through The Air",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/0b3f290c6c39d089f31173d778c9a5b4124acd35?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4eglBwGSSPFBRBRV6drpRu"
+}

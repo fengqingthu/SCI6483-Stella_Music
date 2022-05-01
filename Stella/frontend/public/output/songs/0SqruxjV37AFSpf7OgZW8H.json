@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+        "id": "0VeT7hHTJFJZcENGekjCsB",
+        "name": "London Music Works",
+        "type": "artist",
+        "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6yTQbgKLO3aVtgD4pG6GcX"
+    },
+    "href": "https://api.spotify.com/v1/albums/6yTQbgKLO3aVtgD4pG6GcX",
+    "id": "6yTQbgKLO3aVtgD4pG6GcX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731d330eb9a2684a09ffc936ac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021d330eb9a2684a09ffc936ac",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511d330eb9a2684a09ffc936ac",
+        "width": 64
+      }
+    ],
+    "name": "100 Greatest Piano Pieces",
+    "release_date": "2018-06-15",
+    "release_date_precision": "day",
+    "total_tracks": 100,
+    "type": "album",
+    "uri": "spotify:album:6yTQbgKLO3aVtgD4pG6GcX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+      "id": "0VeT7hHTJFJZcENGekjCsB",
+      "name": "London Music Works",
+      "type": "artist",
+      "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 3,
+  "duration_ms": 174056,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0800039"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0SqruxjV37AFSpf7OgZW8H"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0SqruxjV37AFSpf7OgZW8H",
+  "id": "0SqruxjV37AFSpf7OgZW8H",
+  "is_local": false,
+  "name": "Plastic Bag Theme (From \"American Beauty\")",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/56b1398bbc7c569ca42adb481df1b4a759fe6c38?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0SqruxjV37AFSpf7OgZW8H"
+}

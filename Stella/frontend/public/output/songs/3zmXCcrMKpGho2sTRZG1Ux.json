@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
+    },
+    "href": "https://api.spotify.com/v1/albums/3KHLuUmpMLmkTXzGBYTcQR",
+    "id": "3KHLuUmpMLmkTXzGBYTcQR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732141e061e3bfa1f6924d66dd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022141e061e3bfa1f6924d66dd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512141e061e3bfa1f6924d66dd",
+        "width": 64
+      }
+    ],
+    "name": "20 #1's: One Hit Wonders",
+    "release_date": "2016-11-18",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:3KHLuUmpMLmkTXzGBYTcQR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+      },
+      "href": "https://api.spotify.com/v1/artists/4P70aqttdpJ9vuYFDmf7f6",
+      "id": "4P70aqttdpJ9vuYFDmf7f6",
+      "name": "Vangelis",
+      "type": "artist",
+      "uri": "spotify:artist:4P70aqttdpJ9vuYFDmf7f6"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 202805,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLF058190002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3zmXCcrMKpGho2sTRZG1Ux",
+  "id": "3zmXCcrMKpGho2sTRZG1Ux",
+  "is_local": false,
+  "name": "Chariots Of Fire",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 20,
+  "type": "track",
+  "uri": "spotify:track:3zmXCcrMKpGho2sTRZG1Ux"
+}

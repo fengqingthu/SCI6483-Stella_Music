@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #000000;
+  position: fixed;
+}
+p{
+  font-size: 12px;
+}
+.content {
+  padding-top: 10px;
+  transform: translate3d(50%, 0, 0);
+  text-align: left;
+  background: #202035;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+}

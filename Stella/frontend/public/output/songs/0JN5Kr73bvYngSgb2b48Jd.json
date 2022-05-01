@@ -1,0 +1,185 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+        "id": "0VeT7hHTJFJZcENGekjCsB",
+        "name": "London Music Works",
+        "type": "artist",
+        "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3zJ68q2vwXpeJypOxOM1DU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3zJ68q2vwXpeJypOxOM1DU",
+        "id": "3zJ68q2vwXpeJypOxOM1DU",
+        "name": "Daniel Caine Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:3zJ68q2vwXpeJypOxOM1DU"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Fej9YVwuGTtwBoUfW332b"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Fej9YVwuGTtwBoUfW332b",
+    "id": "3Fej9YVwuGTtwBoUfW332b",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27378f2c97a2794ecf728836fc8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0278f2c97a2794ecf728836fc8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485178f2c97a2794ecf728836fc8",
+        "width": 64
+      }
+    ],
+    "name": "Music for Adverts Vol. 3",
+    "release_date": "2012-11-05",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:3Fej9YVwuGTtwBoUfW332b"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+      "id": "0VeT7hHTJFJZcENGekjCsB",
+      "name": "London Music Works",
+      "type": "artist",
+      "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 261099,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0900135"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0JN5Kr73bvYngSgb2b48Jd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0JN5Kr73bvYngSgb2b48Jd",
+  "id": "0JN5Kr73bvYngSgb2b48Jd",
+  "is_local": false,
+  "name": "In the House - In a Heartbeat (From \"28 Days Later\")",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/c27bdad1b7fc684a283ebd2aeb907e1f9353f443?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0JN5Kr73bvYngSgb2b48Jd"
+}

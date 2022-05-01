@@ -1,0 +1,139 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        "href": "https://api.spotify.com/v1/artists/32ogthv0BdaSMPml02X9YB",
+        "id": "32ogthv0BdaSMPml02X9YB",
+        "name": "The Cinematic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:32ogthv0BdaSMPml02X9YB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AL",
+      "BA",
+      "BH",
+      "FR",
+      "GB",
+      "HR",
+      "IL",
+      "IQ",
+      "IS",
+      "KW",
+      "LB",
+      "LI",
+      "MC",
+      "ME",
+      "MK",
+      "OM",
+      "QA",
+      "RS",
+      "SA",
+      "SM",
+      "TR",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u"
+    },
+    "href": "https://api.spotify.com/v1/albums/48zPKXSCFOdMlgTaeVQn5u",
+    "id": "48zPKXSCFOdMlgTaeVQn5u",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ecec5de3f45c92bad735ed9b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ecec5de3f45c92bad735ed9b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ecec5de3f45c92bad735ed9b",
+        "width": 64
+      }
+    ],
+    "name": "The Crimson Wing: Mystery Of The Flamingos",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:48zPKXSCFOdMlgTaeVQn5u"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+      },
+      "href": "https://api.spotify.com/v1/artists/32ogthv0BdaSMPml02X9YB",
+      "id": "32ogthv0BdaSMPml02X9YB",
+      "name": "The Cinematic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:32ogthv0BdaSMPml02X9YB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fYr24qYhJejxewFrckFE4",
+      "id": "3fYr24qYhJejxewFrckFE4",
+      "name": "London Metropolitan Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3fYr24qYhJejxewFrckFE4"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AL",
+    "BA",
+    "BH",
+    "FR",
+    "GB",
+    "HR",
+    "IL",
+    "IQ",
+    "IS",
+    "KW",
+    "LB",
+    "LI",
+    "MC",
+    "ME",
+    "MK",
+    "OM",
+    "QA",
+    "RS",
+    "SA",
+    "SM",
+    "TR",
+    "XK",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 158346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWD10835201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1xRCmlU2GyzGem2vw4glxK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1xRCmlU2GyzGem2vw4glxK",
+  "id": "1xRCmlU2GyzGem2vw4glxK",
+  "is_local": false,
+  "name": "Arrival of the Birds",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1xRCmlU2GyzGem2vw4glxK"
+}

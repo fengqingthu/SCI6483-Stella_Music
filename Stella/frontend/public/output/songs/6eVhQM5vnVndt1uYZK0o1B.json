@@ -1,0 +1,141 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2"
+        },
+        "href": "https://api.spotify.com/v1/artists/7EPKocezwQQ2Ni9CKakEq2",
+        "id": "7EPKocezwQQ2Ni9CKakEq2",
+        "name": "Tricarico",
+        "type": "artist",
+        "uri": "spotify:artist:7EPKocezwQQ2Ni9CKakEq2"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CA",
+      "CH",
+      "CZ",
+      "DE",
+      "EE",
+      "EG",
+      "FI",
+      "FR",
+      "HK",
+      "HU",
+      "ID",
+      "IL",
+      "IS",
+      "IT",
+      "KR",
+      "LT",
+      "LV",
+      "MY",
+      "NO",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TW",
+      "US",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG"
+    },
+    "href": "https://api.spotify.com/v1/albums/0uWOUQZs4mZeDabU2xpRgG",
+    "id": "0uWOUQZs4mZeDabU2xpRgG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27338c522d69c47b8fdf2032add",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0238c522d69c47b8fdf2032add",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485138c522d69c47b8fdf2032add",
+        "width": 64
+      }
+    ],
+    "name": "Tricarico",
+    "release_date": "2002-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0uWOUQZs4mZeDabU2xpRgG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2"
+      },
+      "href": "https://api.spotify.com/v1/artists/7EPKocezwQQ2Ni9CKakEq2",
+      "id": "7EPKocezwQQ2Ni9CKakEq2",
+      "name": "Tricarico",
+      "type": "artist",
+      "uri": "spotify:artist:7EPKocezwQQ2Ni9CKakEq2"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CA",
+    "CH",
+    "CZ",
+    "DE",
+    "EE",
+    "EG",
+    "FI",
+    "FR",
+    "HK",
+    "HU",
+    "ID",
+    "IL",
+    "IS",
+    "IT",
+    "KR",
+    "LT",
+    "LV",
+    "MY",
+    "NO",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TW",
+    "US",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITH000200130"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6eVhQM5vnVndt1uYZK0o1B"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6eVhQM5vnVndt1uYZK0o1B",
+  "id": "6eVhQM5vnVndt1uYZK0o1B",
+  "is_local": false,
+  "name": "Musica",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6eVhQM5vnVndt1uYZK0o1B"
+}

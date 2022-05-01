@@ -1,0 +1,113 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        },
+        "href": "https://api.spotify.com/v1/artists/6cadOIa5DTh6a5mGo5r4bh",
+        "id": "6cadOIa5DTh6a5mGo5r4bh",
+        "name": "Trent Reznor and Atticus Ross",
+        "type": "artist",
+        "uri": "spotify:artist:6cadOIa5DTh6a5mGo5r4bh"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
+    },
+    "href": "https://api.spotify.com/v1/albums/0mAK8JyX2On5kLC3VMMgm7",
+    "id": "0mAK8JyX2On5kLC3VMMgm7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731a5a24128f6bcd8125b2f25f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021a5a24128f6bcd8125b2f25f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511a5a24128f6bcd8125b2f25f",
+        "width": 64
+      }
+    ],
+    "name": "The Girl With the Dragon Tattoo",
+    "release_date": "2011-12-09",
+    "release_date_precision": "day",
+    "total_tracks": 39,
+    "type": "album",
+    "uri": "spotify:album:0mAK8JyX2On5kLC3VMMgm7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+      },
+      "href": "https://api.spotify.com/v1/artists/6cadOIa5DTh6a5mGo5r4bh",
+      "id": "6cadOIa5DTh6a5mGo5r4bh",
+      "name": "Trent Reznor and Atticus Ross",
+      "type": "artist",
+      "uri": "spotify:artist:6cadOIa5DTh6a5mGo5r4bh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+      },
+      "href": "https://api.spotify.com/v1/artists/6emHCSoB4tJxTVXakbrpPz",
+      "id": "6emHCSoB4tJxTVXakbrpPz",
+      "name": "Karen O",
+      "type": "artist",
+      "uri": "spotify:artist:6emHCSoB4tJxTVXakbrpPz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma"
+      },
+      "href": "https://api.spotify.com/v1/artists/0hRijdwO8UsJMudc3476ma",
+      "id": "0hRijdwO8UsJMudc3476ma",
+      "name": "Trent Reznor",
+      "type": "artist",
+      "uri": "spotify:artist:0hRijdwO8UsJMudc3476ma"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HARKwnZLNQBeUGsTHX2AM",
+      "id": "5HARKwnZLNQBeUGsTHX2AM",
+      "name": "Atticus Ross",
+      "type": "artist",
+      "uri": "spotify:artist:5HARKwnZLNQBeUGsTHX2AM"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 167508,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US4DG1100199"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3g5kQgKEllNBUklsmARGg8",
+  "id": "3g5kQgKEllNBUklsmARGg8",
+  "is_local": false,
+  "name": "Immigrant Song",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/d08fc0500db9ea495a7af35b503a23178279d8bd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3g5kQgKEllNBUklsmARGg8"
+}

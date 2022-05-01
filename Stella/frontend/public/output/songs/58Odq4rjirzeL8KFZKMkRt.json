@@ -1,0 +1,155 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        "href": "https://api.spotify.com/v1/artists/3C4MmUJYQN9svNdedAR2BK",
+        "id": "3C4MmUJYQN9svNdedAR2BK",
+        "name": "Lisa Gerrard",
+        "type": "artist",
+        "uri": "spotify:artist:3C4MmUJYQN9svNdedAR2BK"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK",
+      "SM"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3w3b2aiMCRa0HtXbj5Y9Vs"
+    },
+    "href": "https://api.spotify.com/v1/albums/3w3b2aiMCRa0HtXbj5Y9Vs",
+    "id": "3w3b2aiMCRa0HtXbj5Y9Vs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f3ae4087d28052ba5146fc3e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f3ae4087d28052ba5146fc3e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f3ae4087d28052ba5146fc3e",
+        "width": 64
+      }
+    ],
+    "name": "The Silver Tree",
+    "release_date": "2007-03-23",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3w3b2aiMCRa0HtXbj5Y9Vs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+      },
+      "href": "https://api.spotify.com/v1/artists/3C4MmUJYQN9svNdedAR2BK",
+      "id": "3C4MmUJYQN9svNdedAR2BK",
+      "name": "Lisa Gerrard",
+      "type": "artist",
+      "uri": "spotify:artist:3C4MmUJYQN9svNdedAR2BK"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK",
+    "SM"
+  ],
+  "disc_number": 1,
+  "duration_ms": 442000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUQJ00600640"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/58Odq4rjirzeL8KFZKMkRt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/58Odq4rjirzeL8KFZKMkRt",
+  "id": "58Odq4rjirzeL8KFZKMkRt",
+  "is_local": false,
+  "name": "Space Weaver",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/a2a34ab029f12705860e05c5d71577fa91dcc4c7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:58Odq4rjirzeL8KFZKMkRt"
+}
