@@ -19,7 +19,8 @@ var client_secret; // Your secret
 var token; // access token
 var token_life; // token expire time in seconds
 
-const INITIAL_CRAWL = false;
+const CLEAN = true; // clean all cached data when launching
+const INITIAL_CRAWL = false; // start an initial crawl from given root when launching
 const MAXBRANCH = 10;
 const MAXLEVEL = 2;
 
@@ -32,6 +33,7 @@ const TOKENPATH = '../output/token/token.txt';
 const ROOTPATH = '../input/root.txt';
 const TREEDIR = '../output/tree/';
 const SONGDIR = '../output/songs/';
+const AUDIOFEATUREDIR = '../output/audio_features/'
 
 const host = 'localhost';
 const port = 8000;
@@ -173,19 +175,27 @@ const _recommend = async(seed_artist_id, seed_song_id, level) => {
 
             // create output file
             fs.closeSync(fs.openSync(opath, 'w'));
+
+            var song_ids = new Array();
+
             // write children to file
             for (let i = 0; i < body.tracks.length; i++) {
                 
+                song_ids.push(body.tracks[i].id);
+
                 fs.writeFileSync(opath, 
                     body.tracks[i].id+"\n",
                     {encoding: "utf8",
                     flag: "a+",});
                 
-                // cache locally
+                // cache song info locally
                 _fetch_song(body.tracks[i].id);
 
                 console.log(`Get ${body.tracks[i].id}`);
             }
+            
+            // cache audio features
+            _fetch_audio_features(song_ids);
             
             // start next level
             for (let i = 0; i < body.tracks.length; i++) {
@@ -263,6 +273,62 @@ const _fetch_song = async(song_id) => {
         }
     });
     return false;
+}
+
+// asynchronously request the audio features of an array of songs
+// and cache them locally
+const _fetch_audio_features = async(song_ids) => {
+    // check if already cached
+
+    var query = '?ids=' + song_ids.join();
+
+    // otherwise request the song from Spotify API and cache locally
+    var options = {
+        url: 'https://api.spotify.com/v1/audio-features' + query,
+        headers: {
+            'Authorization': 'Bearer ' + token,
+            // 'Content-Type': 'application/json',
+            // 'Host': 'api.spotify.com'
+        },
+        json: true
+    };
+    // console.log(options);
+
+    request.get(options, async function(error, response, body) {
+
+        if (!error && response.statusCode === 200) {
+
+            cooloff = Math.max(0, cooloff - UNIT);
+
+            var opath;
+            for (let i = 0; i < body.audio_features.length; i++) {
+
+                opath = AUDIOFEATUREDIR+body.audio_features[i].id+".json";
+                
+                if (!fs.existsSync(opath)) {
+                    // create output file
+                    fs.closeSync(fs.openSync(opath, 'w'));
+                    // cache the song
+                    let data = JSON.stringify(body.audio_features[i], null, 2);
+                    fs.writeFileSync(opath, data);
+                    console.log(`Cached audio_feature ${body.audio_features[i].id}`);
+                }
+            }
+            
+        } else {
+            if (error) {
+                console.log(`Fetch_audio_features request encounters ${error}`);
+            } else {
+                console.log(`Fetch_audio_features request fails with ${response.statusCode}`);
+            }
+            // increase cooloff time and retry if requests are sent too frequently
+            if (error || response.statusCode == 429) {
+                cooloff += UNIT;
+                await sleep(cooloff);
+                _fetch_audio_features(song_ids);
+            }
+        }
+    });
 }
 
 // sleep function
@@ -358,6 +424,29 @@ const Read_song = async(song_id) => {
     }
 }
 
+// read info from cached songs
+const Read_audio_feature = async(song_id) => {
+
+    var path = AUDIOFEATUREDIR+song_id+".json";
+
+    if (fs.existsSync(path)) {
+
+        try {
+            let data = fs.readFileSync(path);
+            return JSON.parse(data);
+        } catch (err) {
+            throw err;
+        }
+
+    } else {
+        // if not cached yet, fetch and retry
+        _fetch_audio_features([song_id]);
+        await sleep(WAIT);
+        let res = await Read_audio_feature(song_id);
+        return res;
+    }
+}
+
 // method to launch the instance
 const Launch = async() => {
     console.log("========== LAUNCHING ==========");
@@ -368,9 +457,14 @@ const Launch = async() => {
         console.log(`Crawling level: ${MAXLEVEL}`);
     }
     // setup
-    _clean(SONGDIR);
-    _clean(TREEDIR);
     _get_token();
+
+    if (CLEAN) {
+        _clean(SONGDIR);
+        _clean(TREEDIR);
+        _clean(AUDIOFEATUREDIR);
+    }
+    
     await sleep(WAIT);
 
     _load_token();
@@ -395,6 +489,9 @@ const Launch = async() => {
 
 // curl http://localhost:8000/song/<song_id>
 // will return a json file containing the song's infomation
+
+// curl http://localhost:8000/audio-features/<song_id>
+// will return a json file containing the song's audio feature
 
 const requestListener = async function (req, res) {
     res.setHeader("Content-Type", "application/json");
@@ -421,6 +518,13 @@ const requestListener = async function (req, res) {
                 // console.log(song);
                 res.end(JSON.stringify(song, null, 2));
                 break;
+            
+            case "audio-features":
+                let songid = segs[1];
+                let audio_feature = await Read_audio_feature(songid);
+                res.end(JSON.stringify(audio_feature, null, 2));
+                break;
+            
         }
     } catch (err) {
         res.writeHead(400);
