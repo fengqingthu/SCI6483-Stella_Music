@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        },
+        "href": "https://api.spotify.com/v1/artists/67pQ8Yr09zDDzzwWw3EG9R",
+        "id": "67pQ8Yr09zDDzzwWw3EG9R",
+        "name": "Martha Wainwright",
+        "type": "artist",
+        "uri": "spotify:artist:67pQ8Yr09zDDzzwWw3EG9R"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7n5vuNAxjPhxc3hxyyYW0U"
+    },
+    "href": "https://api.spotify.com/v1/albums/7n5vuNAxjPhxc3hxyyYW0U",
+    "id": "7n5vuNAxjPhxc3hxyyYW0U",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27323da1904a855c343f2a334f6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0223da1904a855c343f2a334f6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485123da1904a855c343f2a334f6",
+        "width": 64
+      }
+    ],
+    "name": "I Will Internalize",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:7n5vuNAxjPhxc3hxyyYW0U"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+      },
+      "href": "https://api.spotify.com/v1/artists/67pQ8Yr09zDDzzwWw3EG9R",
+      "id": "67pQ8Yr09zDDzzwWw3EG9R",
+      "name": "Martha Wainwright",
+      "type": "artist",
+      "uri": "spotify:artist:67pQ8Yr09zDDzzwWw3EG9R"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 250040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBGFB0500065"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2H3ufUejG5be8nSJsUUiv2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2H3ufUejG5be8nSJsUUiv2",
+  "id": "2H3ufUejG5be8nSJsUUiv2",
+  "is_local": false,
+  "name": "Dis, Quand Reviendras-Tu?",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/ecf1b34b518e1352b7f81d090098327666f25dec?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2H3ufUejG5be8nSJsUUiv2"
+}

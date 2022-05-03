@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        },
+        "href": "https://api.spotify.com/v1/artists/47bokO26f4LIt4zaAlCQwo",
+        "id": "47bokO26f4LIt4zaAlCQwo",
+        "name": "Elephant Stone",
+        "type": "artist",
+        "uri": "spotify:artist:47bokO26f4LIt4zaAlCQwo"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3ZiPCN1W3fWOINiQqgghnl"
+    },
+    "href": "https://api.spotify.com/v1/albums/3ZiPCN1W3fWOINiQqgghnl",
+    "id": "3ZiPCN1W3fWOINiQqgghnl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739f66c7dbc6fee4a7e3502d61",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029f66c7dbc6fee4a7e3502d61",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519f66c7dbc6fee4a7e3502d61",
+        "width": 64
+      }
+    ],
+    "name": "Elephant Stone",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3ZiPCN1W3fWOINiQqgghnl"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+      },
+      "href": "https://api.spotify.com/v1/artists/47bokO26f4LIt4zaAlCQwo",
+      "id": "47bokO26f4LIt4zaAlCQwo",
+      "name": "Elephant Stone",
+      "type": "artist",
+      "uri": "spotify:artist:47bokO26f4LIt4zaAlCQwo"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 315826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAA171230069"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5iiHkrKTXbJaadDsuejw8A"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5iiHkrKTXbJaadDsuejw8A",
+  "id": "5iiHkrKTXbJaadDsuejw8A",
+  "is_local": false,
+  "name": "A Silent Moment",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5iiHkrKTXbJaadDsuejw8A"
+}

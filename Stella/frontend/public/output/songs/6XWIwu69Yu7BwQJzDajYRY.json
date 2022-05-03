@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UAyCjS0OPMd1Ham8bvs9g",
+        "id": "6UAyCjS0OPMd1Ham8bvs9g",
+        "name": "JES",
+        "type": "artist",
+        "uri": "spotify:artist:6UAyCjS0OPMd1Ham8bvs9g"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT"
+    },
+    "href": "https://api.spotify.com/v1/albums/00CaQlX78h86BkRvuUnAnT",
+    "id": "00CaQlX78h86BkRvuUnAnT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d1695219697cc70d53acaca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d1695219697cc70d53acaca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d1695219697cc70d53acaca",
+        "width": 64
+      }
+    ],
+    "name": "Awaken (Part 2)",
+    "release_date": "2011-01-31",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:00CaQlX78h86BkRvuUnAnT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UAyCjS0OPMd1Ham8bvs9g",
+      "id": "6UAyCjS0OPMd1Ham8bvs9g",
+      "name": "JES",
+      "type": "artist",
+      "uri": "spotify:artist:6UAyCjS0OPMd1Ham8bvs9g"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2dxYclwJqZsLonuWRS5sQY",
+      "id": "2dxYclwJqZsLonuWRS5sQY",
+      "name": "Ron Reeser",
+      "type": "artist",
+      "uri": "spotify:artist:2dxYclwJqZsLonuWRS5sQY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dz7HkYG1BTjGpIkzTR1l8",
+      "id": "7dz7HkYG1BTjGpIkzTR1l8",
+      "name": "Dan Saenz",
+      "type": "artist",
+      "uri": "spotify:artist:7dz7HkYG1BTjGpIkzTR1l8"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 224986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLE711091106"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6XWIwu69Yu7BwQJzDajYRY",
+  "id": "6XWIwu69Yu7BwQJzDajYRY",
+  "is_local": false,
+  "name": "Awaken - Ron Reeser & Dan Saenz Radio Edit",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/d8310df2d519a2d232a65f3cb9eb7d8903c5ef0f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:6XWIwu69Yu7BwQJzDajYRY"
+}

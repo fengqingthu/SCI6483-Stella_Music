@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2abYYkCCHjz5t86sarvQfO"
+        },
+        "href": "https://api.spotify.com/v1/artists/2abYYkCCHjz5t86sarvQfO",
+        "id": "2abYYkCCHjz5t86sarvQfO",
+        "name": "Rooster Teeth",
+        "type": "artist",
+        "uri": "spotify:artist:2abYYkCCHjz5t86sarvQfO"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/06ZJ7WGYoD3uw2FgYsCmWP"
+    },
+    "href": "https://api.spotify.com/v1/albums/06ZJ7WGYoD3uw2FgYsCmWP",
+    "id": "06ZJ7WGYoD3uw2FgYsCmWP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736eea1d69e8026971b7547d8f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026eea1d69e8026971b7547d8f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516eea1d69e8026971b7547d8f",
+        "width": 64
+      }
+    ],
+    "name": "Getaway (From \"Camp Camp\") [feat. Richie Branson & Solar Slim]",
+    "release_date": "2016-07-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:06ZJ7WGYoD3uw2FgYsCmWP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2abYYkCCHjz5t86sarvQfO"
+      },
+      "href": "https://api.spotify.com/v1/artists/2abYYkCCHjz5t86sarvQfO",
+      "id": "2abYYkCCHjz5t86sarvQfO",
+      "name": "Rooster Teeth",
+      "type": "artist",
+      "uri": "spotify:artist:2abYYkCCHjz5t86sarvQfO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4WmdJEj7QfQ9PZah7JjZdZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4WmdJEj7QfQ9PZah7JjZdZ",
+      "id": "4WmdJEj7QfQ9PZah7JjZdZ",
+      "name": "Richie Branson",
+      "type": "artist",
+      "uri": "spotify:artist:4WmdJEj7QfQ9PZah7JjZdZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6E3kcy6wtNo5hpeTIXOaFi"
+      },
+      "href": "https://api.spotify.com/v1/artists/6E3kcy6wtNo5hpeTIXOaFi",
+      "id": "6E3kcy6wtNo5hpeTIXOaFi",
+      "name": "Solar Slim",
+      "type": "artist",
+      "uri": "spotify:artist:6E3kcy6wtNo5hpeTIXOaFi"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 195291,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "TCACQ1671675"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/02NadjJ9ra0yL5y0pobuGs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/02NadjJ9ra0yL5y0pobuGs",
+  "id": "02NadjJ9ra0yL5y0pobuGs",
+  "is_local": false,
+  "name": "Getaway (From \"Camp Camp\") [feat. Richie Branson & Solar Slim]",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:02NadjJ9ra0yL5y0pobuGs"
+}

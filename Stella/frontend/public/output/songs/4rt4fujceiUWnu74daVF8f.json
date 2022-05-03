@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        },
+        "href": "https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm",
+        "id": "6twIAGnYuIT1pncMAsXnEm",
+        "name": "Commodores",
+        "type": "artist",
+        "uri": "spotify:artist:6twIAGnYuIT1pncMAsXnEm"
+      }
+    ],
+    "available_markets": [
+      "MX"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/49dIsJYqG4CXpYVQEQMXeF"
+    },
+    "href": "https://api.spotify.com/v1/albums/49dIsJYqG4CXpYVQEQMXeF",
+    "id": "49dIsJYqG4CXpYVQEQMXeF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c3186683deb10d89940cb988",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c3186683deb10d89940cb988",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c3186683deb10d89940cb988",
+        "width": 64
+      }
+    ],
+    "name": "Colour Collection",
+    "release_date": "1999-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:49dIsJYqG4CXpYVQEQMXeF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+      },
+      "href": "https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm",
+      "id": "6twIAGnYuIT1pncMAsXnEm",
+      "name": "Commodores",
+      "type": "artist",
+      "uri": "spotify:artist:6twIAGnYuIT1pncMAsXnEm"
+    }
+  ],
+  "available_markets": [
+    "MX"
+  ],
+  "disc_number": 1,
+  "duration_ms": 224133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMO17900557"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4rt4fujceiUWnu74daVF8f"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4rt4fujceiUWnu74daVF8f",
+  "id": "4rt4fujceiUWnu74daVF8f",
+  "is_local": false,
+  "name": "Still",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:4rt4fujceiUWnu74daVF8f"
+}

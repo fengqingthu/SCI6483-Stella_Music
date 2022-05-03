@@ -1,0 +1,20 @@
+{
+  "danceability": 0.455,
+  "energy": 0.751,
+  "key": 7,
+  "loudness": -8.313,
+  "mode": 1,
+  "speechiness": 0.0354,
+  "acousticness": 0.000125,
+  "instrumentalness": 0.893,
+  "liveness": 0.116,
+  "valence": 0.209,
+  "tempo": 165.006,
+  "type": "audio_features",
+  "id": "3mCcYmKQ3K6joaJrylRzsi",
+  "uri": "spotify:track:3mCcYmKQ3K6joaJrylRzsi",
+  "track_href": "https://api.spotify.com/v1/tracks/3mCcYmKQ3K6joaJrylRzsi",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3mCcYmKQ3K6joaJrylRzsi",
+  "duration_ms": 325277,
+  "time_signature": 4
+}

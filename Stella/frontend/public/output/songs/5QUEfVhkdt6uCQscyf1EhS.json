@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        },
+        "href": "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+        "id": "5BKsn7SCN2XmbF7apdCpRS",
+        "name": "Goldfrapp",
+        "type": "artist",
+        "uri": "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/68fZGYpsaQuUTfRIyrGJRT"
+    },
+    "href": "https://api.spotify.com/v1/albums/68fZGYpsaQuUTfRIyrGJRT",
+    "id": "68fZGYpsaQuUTfRIyrGJRT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273419ed058f4974c4a71e8f5a1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02419ed058f4974c4a71e8f5a1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851419ed058f4974c4a71e8f5a1",
+        "width": 64
+      }
+    ],
+    "name": "Silver Eye",
+    "release_date": "2017-03-31",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:68fZGYpsaQuUTfRIyrGJRT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+      "id": "5BKsn7SCN2XmbF7apdCpRS",
+      "name": "Goldfrapp",
+      "type": "artist",
+      "uri": "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 234653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBR8R1600426"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5QUEfVhkdt6uCQscyf1EhS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5QUEfVhkdt6uCQscyf1EhS",
+  "id": "5QUEfVhkdt6uCQscyf1EhS",
+  "is_local": false,
+  "name": "Anymore",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/e423d7f7017a329a8512da538c18e431eeaef544?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5QUEfVhkdt6uCQscyf1EhS"
+}

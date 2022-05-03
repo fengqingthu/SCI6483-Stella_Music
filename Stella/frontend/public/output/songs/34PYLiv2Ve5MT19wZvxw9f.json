@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4AUPm9yTN47XYKXCJigth8"
+        },
+        "href": "https://api.spotify.com/v1/artists/4AUPm9yTN47XYKXCJigth8",
+        "id": "4AUPm9yTN47XYKXCJigth8",
+        "name": "Boy Epic",
+        "type": "artist",
+        "uri": "spotify:artist:4AUPm9yTN47XYKXCJigth8"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6N2jFSYfFcp0YljhCdAwE6"
+    },
+    "href": "https://api.spotify.com/v1/albums/6N2jFSYfFcp0YljhCdAwE6",
+    "id": "6N2jFSYfFcp0YljhCdAwE6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ce6905ad8d12b15ca3c3a5ea",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ce6905ad8d12b15ca3c3a5ea",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ce6905ad8d12b15ca3c3a5ea",
+        "width": 64
+      }
+    ],
+    "name": "Scars (Piano Version)",
+    "release_date": "2015-05-19",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6N2jFSYfFcp0YljhCdAwE6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AUPm9yTN47XYKXCJigth8"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AUPm9yTN47XYKXCJigth8",
+      "id": "4AUPm9yTN47XYKXCJigth8",
+      "name": "Boy Epic",
+      "type": "artist",
+      "uri": "spotify:artist:4AUPm9yTN47XYKXCJigth8"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 266880,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCACF1590174"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/34PYLiv2Ve5MT19wZvxw9f"
+  },
+  "href": "https://api.spotify.com/v1/tracks/34PYLiv2Ve5MT19wZvxw9f",
+  "id": "34PYLiv2Ve5MT19wZvxw9f",
+  "is_local": false,
+  "name": "Scars (Piano Version)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:34PYLiv2Ve5MT19wZvxw9f"
+}

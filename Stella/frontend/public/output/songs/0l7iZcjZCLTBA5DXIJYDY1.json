@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+        },
+        "href": "https://api.spotify.com/v1/artists/7p0bICJNx2HM4jS28qexvv",
+        "id": "7p0bICJNx2HM4jS28qexvv",
+        "name": "Jenifer",
+        "type": "artist",
+        "uri": "spotify:artist:7p0bICJNx2HM4jS28qexvv"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5PIKD9PXYxnG7M3JSJKcSk"
+    },
+    "href": "https://api.spotify.com/v1/albums/5PIKD9PXYxnG7M3JSJKcSk",
+    "id": "5PIKD9PXYxnG7M3JSJKcSk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273593d95ea75f75cc9c7e12569",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02593d95ea75f75cc9c7e12569",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851593d95ea75f75cc9c7e12569",
+        "width": 64
+      }
+    ],
+    "name": "Nouvelle page",
+    "release_date": "2018-10-26",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:5PIKD9PXYxnG7M3JSJKcSk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+      },
+      "href": "https://api.spotify.com/v1/artists/7p0bICJNx2HM4jS28qexvv",
+      "id": "7p0bICJNx2HM4jS28qexvv",
+      "name": "Jenifer",
+      "type": "artist",
+      "uri": "spotify:artist:7p0bICJNx2HM4jS28qexvv"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 161666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRP431800050"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0l7iZcjZCLTBA5DXIJYDY1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0l7iZcjZCLTBA5DXIJYDY1",
+  "id": "0l7iZcjZCLTBA5DXIJYDY1",
+  "is_local": false,
+  "name": "Comme c'est bon",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/c421c7276b31c28ce984399cfabab5e7c1cd3896?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0l7iZcjZCLTBA5DXIJYDY1"
+}

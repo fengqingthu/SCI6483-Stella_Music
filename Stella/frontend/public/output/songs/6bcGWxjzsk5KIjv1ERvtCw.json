@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "LU"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1o83UW0x71zDJ9c29RWcH9"
+    },
+    "href": "https://api.spotify.com/v1/albums/1o83UW0x71zDJ9c29RWcH9",
+    "id": "1o83UW0x71zDJ9c29RWcH9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c8e4bce2c74d196b5bf166f9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c8e4bce2c74d196b5bf166f9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c8e4bce2c74d196b5bf166f9",
+        "width": 64
+      }
+    ],
+    "name": "Vive Le Tour",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 100,
+    "type": "album",
+    "uri": "spotify:album:1o83UW0x71zDJ9c29RWcH9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r"
+      },
+      "href": "https://api.spotify.com/v1/artists/3RAqlLiVsYkndio9mey84r",
+      "id": "3RAqlLiVsYkndio9mey84r",
+      "name": "Pierre Groscolas",
+      "type": "artist",
+      "uri": "spotify:artist:3RAqlLiVsYkndio9mey84r"
+    }
+  ],
+  "available_markets": [
+    "LU"
+  ],
+  "disc_number": 1,
+  "duration_ms": 179453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR25F9300450"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6bcGWxjzsk5KIjv1ERvtCw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6bcGWxjzsk5KIjv1ERvtCw",
+  "id": "6bcGWxjzsk5KIjv1ERvtCw",
+  "is_local": false,
+  "name": "Lady Lay",
+  "popularity": 7,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:6bcGWxjzsk5KIjv1ERvtCw"
+}

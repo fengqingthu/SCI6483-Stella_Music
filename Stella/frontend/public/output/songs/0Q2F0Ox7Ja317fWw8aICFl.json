@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+        },
+        "href": "https://api.spotify.com/v1/artists/3fsCWTIuWIRvEGS7gerSJX",
+        "id": "3fsCWTIuWIRvEGS7gerSJX",
+        "name": "Jennifer Rush",
+        "type": "artist",
+        "uri": "spotify:artist:3fsCWTIuWIRvEGS7gerSJX"
+      }
+    ],
+    "available_markets": [
+      "AO",
+      "BF",
+      "BI",
+      "BJ",
+      "BW",
+      "CD",
+      "CG",
+      "CI",
+      "CM",
+      "CV",
+      "DJ",
+      "GA",
+      "GH",
+      "GM",
+      "GN",
+      "GQ",
+      "GW",
+      "KE",
+      "KM",
+      "LR",
+      "LS",
+      "MG",
+      "ML",
+      "MR",
+      "MU",
+      "MW",
+      "MZ",
+      "NA",
+      "NE",
+      "NG",
+      "RW",
+      "SC",
+      "SL",
+      "SN",
+      "ST",
+      "SZ",
+      "TD",
+      "TG",
+      "TZ",
+      "UG",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1h8p3niRrjGL4tgd0GVnkb"
+    },
+    "href": "https://api.spotify.com/v1/albums/1h8p3niRrjGL4tgd0GVnkb",
+    "id": "1h8p3niRrjGL4tgd0GVnkb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27382cfe4a07326926686d00eba",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0282cfe4a07326926686d00eba",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485182cfe4a07326926686d00eba",
+        "width": 64
+      }
+    ],
+    "name": "14 Great Hits",
+    "release_date": "2013-05-27",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:1h8p3niRrjGL4tgd0GVnkb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fsCWTIuWIRvEGS7gerSJX",
+      "id": "3fsCWTIuWIRvEGS7gerSJX",
+      "name": "Jennifer Rush",
+      "type": "artist",
+      "uri": "spotify:artist:3fsCWTIuWIRvEGS7gerSJX"
+    }
+  ],
+  "available_markets": [
+    "AO",
+    "BF",
+    "BI",
+    "BJ",
+    "BW",
+    "CD",
+    "CG",
+    "CI",
+    "CM",
+    "CV",
+    "DJ",
+    "GA",
+    "GH",
+    "GM",
+    "GN",
+    "GQ",
+    "GW",
+    "KE",
+    "KM",
+    "LR",
+    "LS",
+    "MG",
+    "ML",
+    "MR",
+    "MU",
+    "MW",
+    "MZ",
+    "NA",
+    "NE",
+    "NG",
+    "RW",
+    "SC",
+    "SL",
+    "SN",
+    "ST",
+    "SZ",
+    "TD",
+    "TG",
+    "TZ",
+    "UG",
+    "ZA",
+    "ZM",
+    "ZW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 267466,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEE868400010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Q2F0Ox7Ja317fWw8aICFl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Q2F0Ox7Ja317fWw8aICFl",
+  "id": "0Q2F0Ox7Ja317fWw8aICFl",
+  "is_local": false,
+  "name": "The Power of Love",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/eb05afe93c03c49245661dfd86d00f0a8e2c7734?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0Q2F0Ox7Ja317fWw8aICFl"
+}

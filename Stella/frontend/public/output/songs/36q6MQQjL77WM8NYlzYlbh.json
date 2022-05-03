@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5"
+        },
+        "href": "https://api.spotify.com/v1/artists/1hlBhTQtfsVJTgwLNpKof5",
+        "id": "1hlBhTQtfsVJTgwLNpKof5",
+        "name": "Jorn Lande",
+        "type": "artist",
+        "uri": "spotify:artist:1hlBhTQtfsVJTgwLNpKof5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/48sIqEQtYIpYsTKKgnbccA"
+        },
+        "href": "https://api.spotify.com/v1/artists/48sIqEQtYIpYsTKKgnbccA",
+        "id": "48sIqEQtYIpYsTKKgnbccA",
+        "name": "Trond Holter",
+        "type": "artist",
+        "uri": "spotify:artist:48sIqEQtYIpYsTKKgnbccA"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Hq8tE7OgKem9Ma6NQ20Lg"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Hq8tE7OgKem9Ma6NQ20Lg",
+    "id": "3Hq8tE7OgKem9Ma6NQ20Lg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731228ade40f128c3af1d2fc33",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021228ade40f128c3af1d2fc33",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511228ade40f128c3af1d2fc33",
+        "width": 64
+      }
+    ],
+    "name": "Jorn Lande & Trond Holter present DRACULA Swing of Death",
+    "release_date": "2015-01-23",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3Hq8tE7OgKem9Ma6NQ20Lg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hlBhTQtfsVJTgwLNpKof5",
+      "id": "1hlBhTQtfsVJTgwLNpKof5",
+      "name": "Jorn Lande",
+      "type": "artist",
+      "uri": "spotify:artist:1hlBhTQtfsVJTgwLNpKof5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48sIqEQtYIpYsTKKgnbccA"
+      },
+      "href": "https://api.spotify.com/v1/artists/48sIqEQtYIpYsTKKgnbccA",
+      "id": "48sIqEQtYIpYsTKKgnbccA",
+      "name": "Trond Holter",
+      "type": "artist",
+      "uri": "spotify:artist:48sIqEQtYIpYsTKKgnbccA"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 343666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITG271500027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/36q6MQQjL77WM8NYlzYlbh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/36q6MQQjL77WM8NYlzYlbh",
+  "id": "36q6MQQjL77WM8NYlzYlbh",
+  "is_local": false,
+  "name": "Walking on Water",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:36q6MQQjL77WM8NYlzYlbh"
+}

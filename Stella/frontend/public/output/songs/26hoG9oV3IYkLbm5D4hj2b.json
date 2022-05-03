@@ -1,0 +1,127 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        },
+        "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+        "id": "22ojy4H4ZVpowC4lRRC8In",
+        "name": "Destroyer",
+        "type": "artist",
+        "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AU",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "NZ",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7KlrBnmP3BjYIF0516MPXb"
+    },
+    "href": "https://api.spotify.com/v1/albums/7KlrBnmP3BjYIF0516MPXb",
+    "id": "7KlrBnmP3BjYIF0516MPXb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fb5aeb6613b8c8aa901c856e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fb5aeb6613b8c8aa901c856e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fb5aeb6613b8c8aa901c856e",
+        "width": 64
+      }
+    ],
+    "name": "Poison Season",
+    "release_date": "2015-08-28",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:7KlrBnmP3BjYIF0516MPXb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+      },
+      "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+      "id": "22ojy4H4ZVpowC4lRRC8In",
+      "name": "Destroyer",
+      "type": "artist",
+      "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AU",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "NZ",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMRG1556902"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/26hoG9oV3IYkLbm5D4hj2b"
+  },
+  "href": "https://api.spotify.com/v1/tracks/26hoG9oV3IYkLbm5D4hj2b",
+  "id": "26hoG9oV3IYkLbm5D4hj2b",
+  "is_local": false,
+  "name": "Dream Lover",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/afd2de6f62633c8308c61b875da2295c89e37581?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:26hoG9oV3IYkLbm5D4hj2b"
+}

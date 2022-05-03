@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q6hTJmeYXCwp0ivdtoSWA",
+        "id": "4q6hTJmeYXCwp0ivdtoSWA",
+        "name": "Dappy",
+        "type": "artist",
+        "uri": "spotify:artist:4q6hTJmeYXCwp0ivdtoSWA"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4h3JZJcAftS0JxE4Gf6sV7"
+    },
+    "href": "https://api.spotify.com/v1/albums/4h3JZJcAftS0JxE4Gf6sV7",
+    "id": "4h3JZJcAftS0JxE4Gf6sV7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738cd2f8ce3b5ff422b00b285a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028cd2f8ce3b5ff422b00b285a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518cd2f8ce3b5ff422b00b285a",
+        "width": 64
+      }
+    ],
+    "name": "Beautiful Me",
+    "release_date": "2015-03-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4h3JZJcAftS0JxE4Gf6sV7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA"
+      },
+      "href": "https://api.spotify.com/v1/artists/4q6hTJmeYXCwp0ivdtoSWA",
+      "id": "4q6hTJmeYXCwp0ivdtoSWA",
+      "name": "Dappy",
+      "type": "artist",
+      "uri": "spotify:artist:4q6hTJmeYXCwp0ivdtoSWA"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215627,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFZ1500001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7nSMUT4Dr89q2jCq0sfnd5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7nSMUT4Dr89q2jCq0sfnd5",
+  "id": "7nSMUT4Dr89q2jCq0sfnd5",
+  "is_local": false,
+  "name": "Beautiful Me",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7nSMUT4Dr89q2jCq0sfnd5"
+}

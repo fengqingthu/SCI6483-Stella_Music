@@ -1,0 +1,131 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "JM",
+      "JP",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2qwPVMQzybhS2jopA0wMy7"
+    },
+    "href": "https://api.spotify.com/v1/albums/2qwPVMQzybhS2jopA0wMy7",
+    "id": "2qwPVMQzybhS2jopA0wMy7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dc682ce03f7dbc0cf239e2c8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dc682ce03f7dbc0cf239e2c8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dc682ce03f7dbc0cf239e2c8",
+        "width": 64
+      }
+    ],
+    "name": "Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 23,
+    "type": "album",
+    "uri": "spotify:album:2qwPVMQzybhS2jopA0wMy7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7t8q7ikEtcPNtoaKAm9Vu6",
+      "id": "7t8q7ikEtcPNtoaKAm9Vu6",
+      "name": "Jerry Goldsmith",
+      "type": "artist",
+      "uri": "spotify:artist:7t8q7ikEtcPNtoaKAm9Vu6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3t58jfUhoMLYVO14XaUFLA",
+      "id": "3t58jfUhoMLYVO14XaUFLA",
+      "name": "Pat Metheny",
+      "type": "artist",
+      "uri": "spotify:artist:3t58jfUhoMLYVO14XaUFLA"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "JM",
+    "JP",
+    "KN",
+    "LC",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 209173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUG11201345"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6OOajAxP7iGn69ulNrxGtE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6OOajAxP7iGn69ulNrxGtE",
+  "id": "6OOajAxP7iGn69ulNrxGtE",
+  "is_local": false,
+  "name": "Nicaragua",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:6OOajAxP7iGn69ulNrxGtE"
+}

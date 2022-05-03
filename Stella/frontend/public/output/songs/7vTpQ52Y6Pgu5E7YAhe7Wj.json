@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Vb8yGTdhnyIbGS5evBxbF"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Vb8yGTdhnyIbGS5evBxbF",
+        "id": "6Vb8yGTdhnyIbGS5evBxbF",
+        "name": "Eddy Howard",
+        "type": "artist",
+        "uri": "spotify:artist:6Vb8yGTdhnyIbGS5evBxbF"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3JKlhNo9q3YfvV55ZUnhkj"
+    },
+    "href": "https://api.spotify.com/v1/albums/3JKlhNo9q3YfvV55ZUnhkj",
+    "id": "3JKlhNo9q3YfvV55ZUnhkj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fd29e53482aed8a23e067100",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fd29e53482aed8a23e067100",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fd29e53482aed8a23e067100",
+        "width": 64
+      }
+    ],
+    "name": "The Best Of The Mercury Years",
+    "release_date": "1996-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:3JKlhNo9q3YfvV55ZUnhkj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Vb8yGTdhnyIbGS5evBxbF"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Vb8yGTdhnyIbGS5evBxbF",
+      "id": "6Vb8yGTdhnyIbGS5evBxbF",
+      "name": "Eddy Howard",
+      "type": "artist",
+      "uri": "spotify:artist:6Vb8yGTdhnyIbGS5evBxbF"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 183400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USPR34707244"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7vTpQ52Y6Pgu5E7YAhe7Wj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7vTpQ52Y6Pgu5E7YAhe7Wj",
+  "id": "7vTpQ52Y6Pgu5E7YAhe7Wj",
+  "is_local": false,
+  "name": "I Wonder, I Wonder, I Wonder",
+  "popularity": 14,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:7vTpQ52Y6Pgu5E7YAhe7Wj"
+}

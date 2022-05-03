@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
+        },
+        "href": "https://api.spotify.com/v1/artists/3UQ87SmqkLxIMdenYnsLld",
+        "id": "3UQ87SmqkLxIMdenYnsLld",
+        "name": "Efence",
+        "type": "artist",
+        "uri": "spotify:artist:3UQ87SmqkLxIMdenYnsLld"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/587F9tFApXh49uWBbnVF8z"
+    },
+    "href": "https://api.spotify.com/v1/albums/587F9tFApXh49uWBbnVF8z",
+    "id": "587F9tFApXh49uWBbnVF8z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e505cd63a4b23272f1db8b5a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e505cd63a4b23272f1db8b5a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e505cd63a4b23272f1db8b5a",
+        "width": 64
+      }
+    ],
+    "name": "The Early Years",
+    "release_date": "2016-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:587F9tFApXh49uWBbnVF8z"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UQ87SmqkLxIMdenYnsLld",
+      "id": "3UQ87SmqkLxIMdenYnsLld",
+      "name": "Efence",
+      "type": "artist",
+      "uri": "spotify:artist:3UQ87SmqkLxIMdenYnsLld"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 281000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBSMU2821038"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6b0iRrvbML33I9nt3CMKXK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6b0iRrvbML33I9nt3CMKXK",
+  "id": "6b0iRrvbML33I9nt3CMKXK",
+  "is_local": false,
+  "name": "The Sun",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:6b0iRrvbML33I9nt3CMKXK"
+}

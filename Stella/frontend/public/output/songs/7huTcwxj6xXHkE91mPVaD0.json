@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Yc3oYPNlABAj17eZiNJqf",
+        "id": "5Yc3oYPNlABAj17eZiNJqf",
+        "name": "John Pizzarelli",
+        "type": "artist",
+        "uri": "spotify:artist:5Yc3oYPNlABAj17eZiNJqf"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/49sldSjv2ZA9HFD8yH8hGb"
+    },
+    "href": "https://api.spotify.com/v1/albums/49sldSjv2ZA9HFD8yH8hGb",
+    "id": "49sldSjv2ZA9HFD8yH8hGb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734a0f1ce9ff08956c7e1fd32e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024a0f1ce9ff08956c7e1fd32e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514a0f1ce9ff08956c7e1fd32e",
+        "width": 64
+      }
+    ],
+    "name": "Double Exposure",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:49sldSjv2ZA9HFD8yH8hGb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Yc3oYPNlABAj17eZiNJqf",
+      "id": "5Yc3oYPNlABAj17eZiNJqf",
+      "name": "John Pizzarelli",
+      "type": "artist",
+      "uri": "spotify:artist:5Yc3oYPNlABAj17eZiNJqf"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228280,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USTE11100099"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7huTcwxj6xXHkE91mPVaD0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7huTcwxj6xXHkE91mPVaD0",
+  "id": "7huTcwxj6xXHkE91mPVaD0",
+  "is_local": false,
+  "name": "I Feel Fine / Sidewinder",
+  "popularity": 22,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7huTcwxj6xXHkE91mPVaD0"
+}

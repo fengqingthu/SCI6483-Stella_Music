@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+        "id": "2exkZbmNqMKnT8LRWuxWgy",
+        "name": "Moderat",
+        "type": "artist",
+        "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7E6p7FOEuxkMXmp2T6Wqiq"
+    },
+    "href": "https://api.spotify.com/v1/albums/7E6p7FOEuxkMXmp2T6Wqiq",
+    "id": "7E6p7FOEuxkMXmp2T6Wqiq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273afce63aaae90e4ec739f6722",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02afce63aaae90e4ec739f6722",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851afce63aaae90e4ec739f6722",
+        "width": 64
+      }
+    ],
+    "name": "Last Time",
+    "release_date": "2014-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:7E6p7FOEuxkMXmp2T6Wqiq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+      "id": "2exkZbmNqMKnT8LRWuxWgy",
+      "name": "Moderat",
+      "type": "artist",
+      "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 315347,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEOE81310028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/02eME0NMGruQPYjq56bJEF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/02eME0NMGruQPYjq56bJEF",
+  "id": "02eME0NMGruQPYjq56bJEF",
+  "is_local": false,
+  "name": "Last Time",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/839580b00fe088a6ea6342073df28dcd0000c14f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:02eME0NMGruQPYjq56bJEF"
+}

@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+        },
+        "href": "https://api.spotify.com/v1/artists/55dlp5I9jyc4UjzlrcKMnq",
+        "id": "55dlp5I9jyc4UjzlrcKMnq",
+        "name": "Isobel Campbell",
+        "type": "artist",
+        "uri": "spotify:artist:55dlp5I9jyc4UjzlrcKMnq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+        "id": "1fpXM23IoNckJ7NDAm8YJQ",
+        "name": "Mark Lanegan",
+        "type": "artist",
+        "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
+    },
+    "href": "https://api.spotify.com/v1/albums/4vPZUSwLbvknOOo9UJZQVs",
+    "id": "4vPZUSwLbvknOOo9UJZQVs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730ef11b71c93846655f7b0d31",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020ef11b71c93846655f7b0d31",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510ef11b71c93846655f7b0d31",
+        "width": 64
+      }
+    ],
+    "name": "Hawk",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4vPZUSwLbvknOOo9UJZQVs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+      },
+      "href": "https://api.spotify.com/v1/artists/55dlp5I9jyc4UjzlrcKMnq",
+      "id": "55dlp5I9jyc4UjzlrcKMnq",
+      "name": "Isobel Campbell",
+      "type": "artist",
+      "uri": "spotify:artist:55dlp5I9jyc4UjzlrcKMnq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+      "id": "1fpXM23IoNckJ7NDAm8YJQ",
+      "name": "Mark Lanegan",
+      "type": "artist",
+      "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 343880,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71003569"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6QWHQgyYnoydNwUzBjVP50"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6QWHQgyYnoydNwUzBjVP50",
+  "id": "6QWHQgyYnoydNwUzBjVP50",
+  "is_local": false,
+  "name": "Come Undone",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:6QWHQgyYnoydNwUzBjVP50"
+}

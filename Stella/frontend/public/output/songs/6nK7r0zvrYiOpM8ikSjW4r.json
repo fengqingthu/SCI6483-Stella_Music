@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hL8IlB7tKuRiqChLyEJGr",
+        "id": "6hL8IlB7tKuRiqChLyEJGr",
+        "name": "HOFFMAESTRO",
+        "type": "artist",
+        "uri": "spotify:artist:6hL8IlB7tKuRiqChLyEJGr"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0hwB905RWG4hYwg3QFtcrK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0hwB905RWG4hYwg3QFtcrK",
+    "id": "0hwB905RWG4hYwg3QFtcrK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273daaa37fc73e7b1031d5d97a1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02daaa37fc73e7b1031d5d97a1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851daaa37fc73e7b1031d5d97a1",
+        "width": 64
+      }
+    ],
+    "name": "Hoffmaestro",
+    "release_date": "2014-12-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0hwB905RWG4hYwg3QFtcrK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hL8IlB7tKuRiqChLyEJGr",
+      "id": "6hL8IlB7tKuRiqChLyEJGr",
+      "name": "HOFFMAESTRO",
+      "type": "artist",
+      "uri": "spotify:artist:6hL8IlB7tKuRiqChLyEJGr"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 249920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA6G1456406"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6nK7r0zvrYiOpM8ikSjW4r"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6nK7r0zvrYiOpM8ikSjW4r",
+  "id": "6nK7r0zvrYiOpM8ikSjW4r",
+  "is_local": false,
+  "name": "No Hay Banda",
+  "popularity": 0,
+  "preview_url": "https://p.scdn.co/mp3-preview/1ac35349a7126e188f4394ad7ead38ca4b44e693?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:6nK7r0zvrYiOpM8ikSjW4r"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ly9gfnncBXv77g2zuRG9m"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ly9gfnncBXv77g2zuRG9m",
+        "id": "5ly9gfnncBXv77g2zuRG9m",
+        "name": "General Elektriks",
+        "type": "artist",
+        "uri": "spotify:artist:5ly9gfnncBXv77g2zuRG9m"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5KiJmAOl6mYK4Kp0kn3ggo"
+    },
+    "href": "https://api.spotify.com/v1/albums/5KiJmAOl6mYK4Kp0kn3ggo",
+    "id": "5KiJmAOl6mYK4Kp0kn3ggo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273db7d1b296e0dac636823eb9f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02db7d1b296e0dac636823eb9f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851db7d1b296e0dac636823eb9f",
+        "width": 64
+      }
+    ],
+    "name": "Good City For Dreamers",
+    "release_date": "2009-11-10",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5KiJmAOl6mYK4Kp0kn3ggo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ly9gfnncBXv77g2zuRG9m"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ly9gfnncBXv77g2zuRG9m",
+      "id": "5ly9gfnncBXv77g2zuRG9m",
+      "name": "General Elektriks",
+      "type": "artist",
+      "uri": "spotify:artist:5ly9gfnncBXv77g2zuRG9m"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 267573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USR8J0800003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2PgK8gUqh6liIimyMoOnmV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2PgK8gUqh6liIimyMoOnmV",
+  "id": "2PgK8gUqh6liIimyMoOnmV",
+  "is_local": false,
+  "name": "You Don't Listen",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/9bf62c264fb40bb04dba263d5c7b6f2f99e6dd2b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2PgK8gUqh6liIimyMoOnmV"
+}

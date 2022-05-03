@@ -42,6 +42,7 @@ function RecusiveSpinningOrb({ position, dimensions, color, song ,context,level}
 
   // console.log("context on Recursive",context)
   // console.log("level is",level)
+  // console.log(song);
   const sysRefs=useRef([]);
   const speedF=new Array(song.children.length);
   const angle=new Array(song.children.length);
@@ -90,7 +91,8 @@ function RecusiveSpinningOrb({ position, dimensions, color, song ,context,level}
   }else if(level==0){
     return (
       <>
-        <SoundPlanet position={position} song={song} dimensions={dimensions} context={context}></SoundPlanet>
+        {/* <SoundPlanet/> */}
+        {/* <SoundPlanet position={position} song={song} dimensions={dimensions} context={context}></SoundPlanet> */}
         {song.children.map((child,i) => {
           // console.log(i)
           // const plane = useRef(null);
@@ -103,7 +105,7 @@ function RecusiveSpinningOrb({ position, dimensions, color, song ,context,level}
             <group key={child.id} ref={(element) => {sysRefs.current[i] = element}}  position={position} >
               <RecusiveSpinningOrb
                 position={[Offset[0],0, Offset[1]]}
-                dimensions={[radius*(Math.random()*1.2+0.2), 32, 32]}
+                dimensions={[radius, 32, 32]}
                 color={color}
                 song={child}
                 key={child.id}

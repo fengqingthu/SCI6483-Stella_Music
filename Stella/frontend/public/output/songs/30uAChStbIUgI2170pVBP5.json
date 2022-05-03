@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        },
+        "href": "https://api.spotify.com/v1/artists/01DQQFGEOzbFugH5FcVAgI",
+        "id": "01DQQFGEOzbFugH5FcVAgI",
+        "name": "Amberian Dawn",
+        "type": "artist",
+        "uri": "spotify:artist:01DQQFGEOzbFugH5FcVAgI"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4gt30GkvPXmzj9qPwmNUVA"
+    },
+    "href": "https://api.spotify.com/v1/albums/4gt30GkvPXmzj9qPwmNUVA",
+    "id": "4gt30GkvPXmzj9qPwmNUVA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732ca2bfaea8621632f2d7db4f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022ca2bfaea8621632f2d7db4f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512ca2bfaea8621632f2d7db4f",
+        "width": 64
+      }
+    ],
+    "name": "Looking For You",
+    "release_date": "2020-01-31",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4gt30GkvPXmzj9qPwmNUVA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+      },
+      "href": "https://api.spotify.com/v1/artists/01DQQFGEOzbFugH5FcVAgI",
+      "id": "01DQQFGEOzbFugH5FcVAgI",
+      "name": "Amberian Dawn",
+      "type": "artist",
+      "uri": "spotify:artist:01DQQFGEOzbFugH5FcVAgI"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 233472,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262088010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/30uAChStbIUgI2170pVBP5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/30uAChStbIUgI2170pVBP5",
+  "id": "30uAChStbIUgI2170pVBP5",
+  "is_local": false,
+  "name": "Lay All Your Love On Me",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/5789b9e304fc90c9470a96743fb21fae57b0c16c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:30uAChStbIUgI2170pVBP5"
+}

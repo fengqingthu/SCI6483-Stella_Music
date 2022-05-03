@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mSJCvDX0W7Dn7S9C6vmvI",
+        "id": "1mSJCvDX0W7Dn7S9C6vmvI",
+        "name": "Anna of the North",
+        "type": "artist",
+        "uri": "spotify:artist:1mSJCvDX0W7Dn7S9C6vmvI"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Q3yJG9z24SwouL3qsZkOm",
+    "id": "6Q3yJG9z24SwouL3qsZkOm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fbe3af83cb4d7363f2d61f30",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fbe3af83cb4d7363f2d61f30",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fbe3af83cb4d7363f2d61f30",
+        "width": 64
+      }
+    ],
+    "name": "Believe",
+    "release_date": "2020-10-23",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:6Q3yJG9z24SwouL3qsZkOm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+      },
+      "href": "https://api.spotify.com/v1/artists/1mSJCvDX0W7Dn7S9C6vmvI",
+      "id": "1mSJCvDX0W7Dn7S9C6vmvI",
+      "name": "Anna of the North",
+      "type": "artist",
+      "uri": "spotify:artist:1mSJCvDX0W7Dn7S9C6vmvI"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 252716,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMCE32000463"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5U8frcz1zLfKDX5sDTpsnV",
+  "id": "5U8frcz1zLfKDX5sDTpsnV",
+  "is_local": false,
+  "name": "Believe",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/e8fd165d2bad91b5871000fcd897ca7445522b99?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5U8frcz1zLfKDX5sDTpsnV"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        },
+        "href": "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
+        "id": "4l1cKWYW591xnwEGxpUg3J",
+        "name": "Miike Snow",
+        "type": "artist",
+        "uri": "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "NZ",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ypgE8LXmgSdpBWCa5gTOF",
+    "id": "1ypgE8LXmgSdpBWCa5gTOF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a22430db1bf5c47e2f9b35a8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a22430db1bf5c47e2f9b35a8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a22430db1bf5c47e2f9b35a8",
+        "width": 64
+      }
+    ],
+    "name": "Happy To You",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1ypgE8LXmgSdpBWCa5gTOF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+      },
+      "href": "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
+      "id": "4l1cKWYW591xnwEGxpUg3J",
+      "name": "Miike Snow",
+      "type": "artist",
+      "uri": "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "NZ",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71201432"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1si9wrLogkenNU1c1EyIUo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1si9wrLogkenNU1c1EyIUo",
+  "id": "1si9wrLogkenNU1c1EyIUo",
+  "is_local": false,
+  "name": "The Wave",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1si9wrLogkenNU1c1EyIUo"
+}

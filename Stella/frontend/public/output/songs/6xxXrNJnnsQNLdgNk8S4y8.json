@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        },
+        "href": "https://api.spotify.com/v1/artists/4DToQR3aKrHQSSRzSz8Nzt",
+        "id": "4DToQR3aKrHQSSRzSz8Nzt",
+        "name": "The Hives",
+        "type": "artist",
+        "uri": "spotify:artist:4DToQR3aKrHQSSRzSz8Nzt"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
+    },
+    "href": "https://api.spotify.com/v1/albums/7lbksDekncvHf1FfZ5y1li",
+    "id": "7lbksDekncvHf1FfZ5y1li",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735b903bed9b096aa6022ff463",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025b903bed9b096aa6022ff463",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515b903bed9b096aa6022ff463",
+        "width": 64
+      }
+    ],
+    "name": "Veni Vidi Vicious",
+    "release_date": "2000",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7lbksDekncvHf1FfZ5y1li"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DToQR3aKrHQSSRzSz8Nzt",
+      "id": "4DToQR3aKrHQSSRzSz8Nzt",
+      "name": "The Hives",
+      "type": "artist",
+      "uri": "spotify:artist:4DToQR3aKrHQSSRzSz8Nzt"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 199759,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVHC0007060"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6xxXrNJnnsQNLdgNk8S4y8",
+  "id": "6xxXrNJnnsQNLdgNk8S4y8",
+  "is_local": false,
+  "name": "Hate To Say I Told You So",
+  "popularity": 60,
+  "preview_url": "https://p.scdn.co/mp3-preview/4dc15d54b560129def71fbf16fdddee25ef57cb2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:6xxXrNJnnsQNLdgNk8S4y8"
+}

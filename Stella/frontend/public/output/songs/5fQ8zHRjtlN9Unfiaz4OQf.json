@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        },
+        "href": "https://api.spotify.com/v1/artists/2FsZnS8gQ8jG1HGnPYNlm9",
+        "id": "2FsZnS8gQ8jG1HGnPYNlm9",
+        "name": "Jamie N Commons",
+        "type": "artist",
+        "uri": "spotify:artist:2FsZnS8gQ8jG1HGnPYNlm9"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "KR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
+    },
+    "href": "https://api.spotify.com/v1/albums/7MpGww78i1qn7ZPZBT27jH",
+    "id": "7MpGww78i1qn7ZPZBT27jH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c2c8b2bd6b4a4779d9bc3334",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c2c8b2bd6b4a4779d9bc3334",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c2c8b2bd6b4a4779d9bc3334",
+        "width": 64
+      }
+    ],
+    "name": "Rumble And Sway EP",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:7MpGww78i1qn7ZPZBT27jH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+      },
+      "href": "https://api.spotify.com/v1/artists/2FsZnS8gQ8jG1HGnPYNlm9",
+      "id": "2FsZnS8gQ8jG1HGnPYNlm9",
+      "name": "Jamie N Commons",
+      "type": "artist",
+      "uri": "spotify:artist:2FsZnS8gQ8jG1HGnPYNlm9"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "KR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 220613,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71301205"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5fQ8zHRjtlN9Unfiaz4OQf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5fQ8zHRjtlN9Unfiaz4OQf",
+  "id": "5fQ8zHRjtlN9Unfiaz4OQf",
+  "is_local": false,
+  "name": "The Preacher",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:5fQ8zHRjtlN9Unfiaz4OQf"
+}

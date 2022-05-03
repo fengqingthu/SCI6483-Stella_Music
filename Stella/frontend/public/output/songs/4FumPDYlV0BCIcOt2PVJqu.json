@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/43wKY96Kd6ucV8s3KTekTn"
+        },
+        "href": "https://api.spotify.com/v1/artists/43wKY96Kd6ucV8s3KTekTn",
+        "id": "43wKY96Kd6ucV8s3KTekTn",
+        "name": "Dan Le Sac vs Scroobius Pip",
+        "type": "artist",
+        "uri": "spotify:artist:43wKY96Kd6ucV8s3KTekTn"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5jAVcUTyXATBIYGfZrDEu2"
+    },
+    "href": "https://api.spotify.com/v1/albums/5jAVcUTyXATBIYGfZrDEu2",
+    "id": "5jAVcUTyXATBIYGfZrDEu2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d62d5405ca533d91f16b9c4b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d62d5405ca533d91f16b9c4b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d62d5405ca533d91f16b9c4b",
+        "width": 64
+      }
+    ],
+    "name": "Thou Shalt Always Kill",
+    "release_date": "2007-11-17",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:5jAVcUTyXATBIYGfZrDEu2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/43wKY96Kd6ucV8s3KTekTn"
+      },
+      "href": "https://api.spotify.com/v1/artists/43wKY96Kd6ucV8s3KTekTn",
+      "id": "43wKY96Kd6ucV8s3KTekTn",
+      "name": "Dan Le Sac vs Scroobius Pip",
+      "type": "artist",
+      "uri": "spotify:artist:43wKY96Kd6ucV8s3KTekTn"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 317419,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBGNS0900447"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4FumPDYlV0BCIcOt2PVJqu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4FumPDYlV0BCIcOt2PVJqu",
+  "id": "4FumPDYlV0BCIcOt2PVJqu",
+  "is_local": false,
+  "name": "Thou Shalt Always Kill",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/1ab90518efeec68ab0422cf72f18122a49c13c47?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4FumPDYlV0BCIcOt2PVJqu"
+}

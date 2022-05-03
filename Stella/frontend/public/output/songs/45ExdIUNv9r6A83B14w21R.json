@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        },
+        "href": "https://api.spotify.com/v1/artists/3i9hP422d2KMjaupTzBNVS",
+        "id": "3i9hP422d2KMjaupTzBNVS",
+        "name": "The Spencer Davis Group",
+        "type": "artist",
+        "uri": "spotify:artist:3i9hP422d2KMjaupTzBNVS"
+      }
+    ],
+    "available_markets": [
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5QYIHDcFnjcb9OomlntIAk"
+    },
+    "href": "https://api.spotify.com/v1/albums/5QYIHDcFnjcb9OomlntIAk",
+    "id": "5QYIHDcFnjcb9OomlntIAk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d48168a9ca9bc4e2fa3847d3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d48168a9ca9bc4e2fa3847d3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d48168a9ca9bc4e2fa3847d3",
+        "width": 64
+      }
+    ],
+    "name": "The Spencer Davis Group",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:5QYIHDcFnjcb9OomlntIAk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+      },
+      "href": "https://api.spotify.com/v1/artists/3i9hP422d2KMjaupTzBNVS",
+      "id": "3i9hP422d2KMjaupTzBNVS",
+      "name": "The Spencer Davis Group",
+      "type": "artist",
+      "uri": "spotify:artist:3i9hP422d2KMjaupTzBNVS"
+    }
+  ],
+  "available_markets": [
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 175160,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAAN6700008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/45ExdIUNv9r6A83B14w21R"
+  },
+  "href": "https://api.spotify.com/v1/tracks/45ExdIUNv9r6A83B14w21R",
+  "id": "45ExdIUNv9r6A83B14w21R",
+  "is_local": false,
+  "name": "I'm A Man",
+  "popularity": 22,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:45ExdIUNv9r6A83B14w21R"
+}

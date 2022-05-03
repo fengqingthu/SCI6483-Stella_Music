@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1"
+        },
+        "href": "https://api.spotify.com/v1/artists/3r2qdoM2Ryp8aBb3S3qIG1",
+        "id": "3r2qdoM2Ryp8aBb3S3qIG1",
+        "name": "Novastar",
+        "type": "artist",
+        "uri": "spotify:artist:3r2qdoM2Ryp8aBb3S3qIG1"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0pcCNi2eXavxIu2hfsMv55"
+    },
+    "href": "https://api.spotify.com/v1/albums/0pcCNi2eXavxIu2hfsMv55",
+    "id": "0pcCNi2eXavxIu2hfsMv55",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a19d2a165989fc6130a401f5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a19d2a165989fc6130a401f5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a19d2a165989fc6130a401f5",
+        "width": 64
+      }
+    ],
+    "name": "Novastar",
+    "release_date": "2000-07-14",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0pcCNi2eXavxIu2hfsMv55"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1"
+      },
+      "href": "https://api.spotify.com/v1/artists/3r2qdoM2Ryp8aBb3S3qIG1",
+      "id": "3r2qdoM2Ryp8aBb3S3qIG1",
+      "name": "Novastar",
+      "type": "artist",
+      "uri": "spotify:artist:3r2qdoM2Ryp8aBb3S3qIG1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4846EweTNJP1oTLOXBn4i8"
+      },
+      "href": "https://api.spotify.com/v1/artists/4846EweTNJP1oTLOXBn4i8",
+      "id": "4846EweTNJP1oTLOXBn4i8",
+      "name": "John Luongo",
+      "type": "artist",
+      "uri": "spotify:artist:4846EweTNJP1oTLOXBn4i8"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 227800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEWO19900059"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2YSy87pZp2pWFdNK9kEY9u"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2YSy87pZp2pWFdNK9kEY9u",
+  "id": "2YSy87pZp2pWFdNK9kEY9u",
+  "is_local": false,
+  "name": "The Best Is Yet to Come",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/ef85617e86ff035cfa67db659dd33d189e02ec36?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2YSy87pZp2pWFdNK9kEY9u"
+}

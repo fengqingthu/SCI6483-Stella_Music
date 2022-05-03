@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3tM6SwRysCaIK0kW4h0mVP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3tM6SwRysCaIK0kW4h0mVP",
+        "id": "3tM6SwRysCaIK0kW4h0mVP",
+        "name": "Spose",
+        "type": "artist",
+        "uri": "spotify:artist:3tM6SwRysCaIK0kW4h0mVP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3fjrZU6vFRHr2WWflvbias"
+    },
+    "href": "https://api.spotify.com/v1/albums/3fjrZU6vFRHr2WWflvbias",
+    "id": "3fjrZU6vFRHr2WWflvbias",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734800ae967b90888a14e70a4c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024800ae967b90888a14e70a4c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514800ae967b90888a14e70a4c",
+        "width": 64
+      }
+    ],
+    "name": "I'm Awesome",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:3fjrZU6vFRHr2WWflvbias"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3tM6SwRysCaIK0kW4h0mVP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3tM6SwRysCaIK0kW4h0mVP",
+      "id": "3tM6SwRysCaIK0kW4h0mVP",
+      "name": "Spose",
+      "type": "artist",
+      "uri": "spotify:artist:3tM6SwRysCaIK0kW4h0mVP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 249160,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "USUM71005354"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1qsoQzhJM3eHiF6EFjajZL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1qsoQzhJM3eHiF6EFjajZL",
+  "id": "1qsoQzhJM3eHiF6EFjajZL",
+  "is_local": false,
+  "name": "I'm Awesome",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1qsoQzhJM3eHiF6EFjajZL"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        },
+        "href": "https://api.spotify.com/v1/artists/4l8xPGtl6DHR2uvunqrl8r",
+        "id": "4l8xPGtl6DHR2uvunqrl8r",
+        "name": "CAN",
+        "type": "artist",
+        "uri": "spotify:artist:4l8xPGtl6DHR2uvunqrl8r"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5B3lifL7gpG6usvLSOjQvc"
+    },
+    "href": "https://api.spotify.com/v1/albums/5B3lifL7gpG6usvLSOjQvc",
+    "id": "5B3lifL7gpG6usvLSOjQvc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735072deb0228300a41b766e54",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025072deb0228300a41b766e54",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515072deb0228300a41b766e54",
+        "width": 64
+      }
+    ],
+    "name": "Turtles Have Short Legs",
+    "release_date": "2017-04-04",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5B3lifL7gpG6usvLSOjQvc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+      },
+      "href": "https://api.spotify.com/v1/artists/4l8xPGtl6DHR2uvunqrl8r",
+      "id": "4l8xPGtl6DHR2uvunqrl8r",
+      "name": "CAN",
+      "type": "artist",
+      "uri": "spotify:artist:4l8xPGtl6DHR2uvunqrl8r"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205219,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEX171726005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7KjGBrZxramgcQfTgl63j9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7KjGBrZxramgcQfTgl63j9",
+  "id": "7KjGBrZxramgcQfTgl63j9",
+  "is_local": false,
+  "name": "Turtles Have Short Legs",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/0b996b94177157d239a71a8ea0ca76b60189c421?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7KjGBrZxramgcQfTgl63j9"
+}

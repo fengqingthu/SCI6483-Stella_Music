@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+        "id": "053q0ukIDRgzwTr4vNSwab",
+        "name": "Grimes",
+        "type": "artist",
+        "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5CQbuEmt9rY7yS2xPiXxw7"
+    },
+    "href": "https://api.spotify.com/v1/albums/5CQbuEmt9rY7yS2xPiXxw7",
+    "id": "5CQbuEmt9rY7yS2xPiXxw7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27339be5d35af9eda1162c1a82e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0239be5d35af9eda1162c1a82e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485139be5d35af9eda1162c1a82e",
+        "width": 64
+      }
+    ],
+    "name": "Miss Anthropocene (Rave Edition)",
+    "release_date": "2021-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5CQbuEmt9rY7yS2xPiXxw7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id": "053q0ukIDRgzwTr4vNSwab",
+      "name": "Grimes",
+      "type": "artist",
+      "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 270982,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFL1900406"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5deLCvXuDrTOTV7XiJuO8Z"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5deLCvXuDrTOTV7XiJuO8Z",
+  "id": "5deLCvXuDrTOTV7XiJuO8Z",
+  "is_local": false,
+  "name": "4ÆM",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/3c31d1a08f7ac140623973c400acb4a1c565e69b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5deLCvXuDrTOTV7XiJuO8Z"
+}

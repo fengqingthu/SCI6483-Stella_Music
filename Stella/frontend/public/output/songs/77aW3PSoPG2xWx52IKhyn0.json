@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        },
+        "href": "https://api.spotify.com/v1/artists/23E65IfLBGQv0FBrMwCcG2",
+        "id": "23E65IfLBGQv0FBrMwCcG2",
+        "name": "Peter McPoland",
+        "type": "artist",
+        "uri": "spotify:artist:23E65IfLBGQv0FBrMwCcG2"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5kuP911loq1txvF7ZmFSrx"
+    },
+    "href": "https://api.spotify.com/v1/albums/5kuP911loq1txvF7ZmFSrx",
+    "id": "5kuP911loq1txvF7ZmFSrx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27335b371bfc27cced33eee6007",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0235b371bfc27cced33eee6007",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485135b371bfc27cced33eee6007",
+        "width": 64
+      }
+    ],
+    "name": "Wait a While",
+    "release_date": "2019-11-08",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:5kuP911loq1txvF7ZmFSrx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+      },
+      "href": "https://api.spotify.com/v1/artists/23E65IfLBGQv0FBrMwCcG2",
+      "id": "23E65IfLBGQv0FBrMwCcG2",
+      "name": "Peter McPoland",
+      "type": "artist",
+      "uri": "spotify:artist:23E65IfLBGQv0FBrMwCcG2"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 323808,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZHNA1938701"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/77aW3PSoPG2xWx52IKhyn0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/77aW3PSoPG2xWx52IKhyn0",
+  "id": "77aW3PSoPG2xWx52IKhyn0",
+  "is_local": false,
+  "name": "Wait a While",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:77aW3PSoPG2xWx52IKhyn0"
+}

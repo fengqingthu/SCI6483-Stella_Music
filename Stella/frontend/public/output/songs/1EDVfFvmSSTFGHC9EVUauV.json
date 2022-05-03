@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ifC4znYCvmMSJ0rght5JS",
+        "id": "1ifC4znYCvmMSJ0rght5JS",
+        "name": "Haux",
+        "type": "artist",
+        "uri": "spotify:artist:1ifC4znYCvmMSJ0rght5JS"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "DZ",
+      "FR",
+      "IT",
+      "KR",
+      "MA",
+      "MC",
+      "MT",
+      "SM",
+      "TN",
+      "TR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7aEajkk4wlI2lYXeUMHu2G"
+    },
+    "href": "https://api.spotify.com/v1/albums/7aEajkk4wlI2lYXeUMHu2G",
+    "id": "7aEajkk4wlI2lYXeUMHu2G",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e5660075f19f6bdd20f36073",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e5660075f19f6bdd20f36073",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e5660075f19f6bdd20f36073",
+        "width": 64
+      }
+    ],
+    "name": "Touch",
+    "release_date": "2017-04-14",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7aEajkk4wlI2lYXeUMHu2G"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ifC4znYCvmMSJ0rght5JS",
+      "id": "1ifC4znYCvmMSJ0rght5JS",
+      "name": "Haux",
+      "type": "artist",
+      "uri": "spotify:artist:1ifC4znYCvmMSJ0rght5JS"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "DZ",
+    "FR",
+    "IT",
+    "KR",
+    "MA",
+    "MC",
+    "MT",
+    "SM",
+    "TN",
+    "TR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUS11700133"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1EDVfFvmSSTFGHC9EVUauV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1EDVfFvmSSTFGHC9EVUauV",
+  "id": "1EDVfFvmSSTFGHC9EVUauV",
+  "is_local": false,
+  "name": "Touch",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/8a5caa40835246fa84d718e6e2b35ae6f9453f65?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1EDVfFvmSSTFGHC9EVUauV"
+}

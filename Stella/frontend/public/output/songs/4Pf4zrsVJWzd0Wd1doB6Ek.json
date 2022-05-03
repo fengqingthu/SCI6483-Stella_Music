@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hV6oxGLeLFw17DGjIPkYD",
+        "id": "6hV6oxGLeLFw17DGjIPkYD",
+        "name": "Cosmo Sheldrake",
+        "type": "artist",
+        "uri": "spotify:artist:6hV6oxGLeLFw17DGjIPkYD"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0j3JXvhwr5TPF4rt3qfzxL"
+    },
+    "href": "https://api.spotify.com/v1/albums/0j3JXvhwr5TPF4rt3qfzxL",
+    "id": "0j3JXvhwr5TPF4rt3qfzxL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738acc4360095eeb009741f1fc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028acc4360095eeb009741f1fc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518acc4360095eeb009741f1fc",
+        "width": 64
+      }
+    ],
+    "name": "The Much Much How How and I",
+    "release_date": "2018-04-06",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:0j3JXvhwr5TPF4rt3qfzxL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hV6oxGLeLFw17DGjIPkYD",
+      "id": "6hV6oxGLeLFw17DGjIPkYD",
+      "name": "Cosmo Sheldrake",
+      "type": "artist",
+      "uri": "spotify:artist:6hV6oxGLeLFw17DGjIPkYD"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 268712,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKPL1791896"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Pf4zrsVJWzd0Wd1doB6Ek"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Pf4zrsVJWzd0Wd1doB6Ek",
+  "id": "4Pf4zrsVJWzd0Wd1doB6Ek",
+  "is_local": false,
+  "name": "Wriggle",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/f73299afe5d151ecf16b8f7ef67efa754749b5f9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4Pf4zrsVJWzd0Wd1doB6Ek"
+}

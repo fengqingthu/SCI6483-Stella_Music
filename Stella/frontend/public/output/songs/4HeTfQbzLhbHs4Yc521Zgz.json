@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj"
+        },
+        "href": "https://api.spotify.com/v1/artists/5TkylUv5ysSbNoawmn3PBj",
+        "id": "5TkylUv5ysSbNoawmn3PBj",
+        "name": "Agar Agar",
+        "type": "artist",
+        "uri": "spotify:artist:5TkylUv5ysSbNoawmn3PBj"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0r7LcRhcH4nE91a6SxtHOZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/0r7LcRhcH4nE91a6SxtHOZ",
+    "id": "0r7LcRhcH4nE91a6SxtHOZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273531a4249c26f9fee79505d07",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02531a4249c26f9fee79505d07",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851531a4249c26f9fee79505d07",
+        "width": 64
+      }
+    ],
+    "name": "Prettiest Virgin (Myth Syzer Remix)",
+    "release_date": "2017-06-27",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0r7LcRhcH4nE91a6SxtHOZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj"
+      },
+      "href": "https://api.spotify.com/v1/artists/5TkylUv5ysSbNoawmn3PBj",
+      "id": "5TkylUv5ysSbNoawmn3PBj",
+      "name": "Agar Agar",
+      "type": "artist",
+      "uri": "spotify:artist:5TkylUv5ysSbNoawmn3PBj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP"
+      },
+      "href": "https://api.spotify.com/v1/artists/61y0Qj5xUcKnbHYxuaqSRP",
+      "id": "61y0Qj5xUcKnbHYxuaqSRP",
+      "name": "Myth Syzer",
+      "type": "artist",
+      "uri": "spotify:artist:61y0Qj5xUcKnbHYxuaqSRP"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 254142,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRPIN1700150"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4HeTfQbzLhbHs4Yc521Zgz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4HeTfQbzLhbHs4Yc521Zgz",
+  "id": "4HeTfQbzLhbHs4Yc521Zgz",
+  "is_local": false,
+  "name": "Prettiest Virgin - Myth Syzer Remix",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/2696fc13479988f11fd24b0f9b237c229f3b25dd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4HeTfQbzLhbHs4Yc521Zgz"
+}

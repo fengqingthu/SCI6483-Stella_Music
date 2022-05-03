@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        "href": "https://api.spotify.com/v1/artists/7b04D0yLktCUpvxQBhmG7R",
+        "id": "7b04D0yLktCUpvxQBhmG7R",
+        "name": "LEISURE",
+        "type": "artist",
+        "uri": "spotify:artist:7b04D0yLktCUpvxQBhmG7R"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/69LGdwaju9mTtINKSqIn9B"
+    },
+    "href": "https://api.spotify.com/v1/albums/69LGdwaju9mTtINKSqIn9B",
+    "id": "69LGdwaju9mTtINKSqIn9B",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736a417cba67fb048c0434018d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026a417cba67fb048c0434018d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516a417cba67fb048c0434018d",
+        "width": 64
+      }
+    ],
+    "name": "LEISURE",
+    "release_date": "2016-10-21",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:69LGdwaju9mTtINKSqIn9B"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+      },
+      "href": "https://api.spotify.com/v1/artists/7b04D0yLktCUpvxQBhmG7R",
+      "id": "7b04D0yLktCUpvxQBhmG7R",
+      "name": "LEISURE",
+      "type": "artist",
+      "uri": "spotify:artist:7b04D0yLktCUpvxQBhmG7R"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205601,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCACF1562385"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5LC90RzqxnfiYZvTq3Wx5N"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5LC90RzqxnfiYZvTq3Wx5N",
+  "id": "5LC90RzqxnfiYZvTq3Wx5N",
+  "is_local": false,
+  "name": "Got It Bad",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/dc4e5946ffde36d9e48a078fd78b49ed14660983?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5LC90RzqxnfiYZvTq3Wx5N"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr"
+        },
+        "href": "https://api.spotify.com/v1/artists/1JOdUvDAzNy3L37rZ4Nigr",
+        "id": "1JOdUvDAzNy3L37rZ4Nigr",
+        "name": "pewdiepie",
+        "type": "artist",
+        "uri": "spotify:artist:1JOdUvDAzNy3L37rZ4Nigr"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7zIrWCQMwYARVnRG0Qbzco"
+    },
+    "href": "https://api.spotify.com/v1/albums/7zIrWCQMwYARVnRG0Qbzco",
+    "id": "7zIrWCQMwYARVnRG0Qbzco",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27333e8d1a9e06a4d409ba17a10",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0233e8d1a9e06a4d409ba17a10",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485133e8d1a9e06a4d409ba17a10",
+        "width": 64
+      }
+    ],
+    "name": "Coco",
+    "release_date": "2021-02-14",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7zIrWCQMwYARVnRG0Qbzco"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr"
+      },
+      "href": "https://api.spotify.com/v1/artists/1JOdUvDAzNy3L37rZ4Nigr",
+      "id": "1JOdUvDAzNy3L37rZ4Nigr",
+      "name": "pewdiepie",
+      "type": "artist",
+      "uri": "spotify:artist:1JOdUvDAzNy3L37rZ4Nigr"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 233314,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QZS652135055"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6d3lCLeV0X2uFqStrWkbFx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6d3lCLeV0X2uFqStrWkbFx",
+  "id": "6d3lCLeV0X2uFqStrWkbFx",
+  "is_local": false,
+  "name": "Coco",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6d3lCLeV0X2uFqStrWkbFx"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.442,
+  "energy": 0.424,
+  "key": 5,
+  "loudness": -7.218,
+  "mode": 1,
+  "speechiness": 0.0365,
+  "acousticness": 0.766,
+  "instrumentalness": 0.0000039,
+  "liveness": 0.104,
+  "valence": 0.497,
+  "tempo": 120.693,
+  "type": "audio_features",
+  "id": "781VezZdjkZ1xagw24BNex",
+  "uri": "spotify:track:781VezZdjkZ1xagw24BNex",
+  "track_href": "https://api.spotify.com/v1/tracks/781VezZdjkZ1xagw24BNex",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/781VezZdjkZ1xagw24BNex",
+  "duration_ms": 251211,
+  "time_signature": 5
+}

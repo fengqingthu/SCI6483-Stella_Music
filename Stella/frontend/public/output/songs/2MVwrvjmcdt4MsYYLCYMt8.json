@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+        "id": "7mnBLXK823vNxN3UWB7Gfz",
+        "name": "The Black Keys",
+        "type": "artist",
+        "uri": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+    },
+    "href": "https://api.spotify.com/v1/albums/7qE6RXYyz5kj5Tll7mJU0v",
+    "id": "7qE6RXYyz5kj5Tll7mJU0v",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734cf61635ecdee5d4c4ef2bac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024cf61635ecdee5d4c4ef2bac",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514cf61635ecdee5d4c4ef2bac",
+        "width": 64
+      }
+    ],
+    "name": "Brothers",
+    "release_date": "2010-05-18",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:7qE6RXYyz5kj5Tll7mJU0v"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+      },
+      "href": "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+      "id": "7mnBLXK823vNxN3UWB7Gfz",
+      "name": "The Black Keys",
+      "type": "artist",
+      "uri": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNO11000078"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2MVwrvjmcdt4MsYYLCYMt8",
+  "id": "2MVwrvjmcdt4MsYYLCYMt8",
+  "is_local": false,
+  "name": "Tighten Up",
+  "popularity": 60,
+  "preview_url": "https://p.scdn.co/mp3-preview/f99163f415b42fff946a434f29da0aea56fa2eda?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2MVwrvjmcdt4MsYYLCYMt8"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Sk0H4rS0QuQESESHELFy0",
+        "id": "2Sk0H4rS0QuQESESHELFy0",
+        "name": "Mélanie Pain",
+        "type": "artist",
+        "uri": "spotify:artist:2Sk0H4rS0QuQESESHELFy0"
+      }
+    ],
+    "available_markets": [
+      "HK",
+      "MY",
+      "SG",
+      "TW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4SsqQlNLzgOzN5nQexG6jb"
+    },
+    "href": "https://api.spotify.com/v1/albums/4SsqQlNLzgOzN5nQexG6jb",
+    "id": "4SsqQlNLzgOzN5nQexG6jb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732a9d1ace90094fa2357bd6b3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022a9d1ace90094fa2357bd6b3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512a9d1ace90094fa2357bd6b3",
+        "width": 64
+      }
+    ],
+    "name": "Bye Bye Manchester",
+    "release_date": "2012-10-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4SsqQlNLzgOzN5nQexG6jb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Sk0H4rS0QuQESESHELFy0",
+      "id": "2Sk0H4rS0QuQESESHELFy0",
+      "name": "Mélanie Pain",
+      "type": "artist",
+      "uri": "spotify:artist:2Sk0H4rS0QuQESESHELFy0"
+    }
+  ],
+  "available_markets": [
+    "HK",
+    "MY",
+    "SG",
+    "TW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 189066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "fr13z1200120"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0weVYRZAbrwBqewnAMsnTg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0weVYRZAbrwBqewnAMsnTg",
+  "id": "0weVYRZAbrwBqewnAMsnTg",
+  "is_local": false,
+  "name": "Bye Bye Manchester",
+  "popularity": 1,
+  "preview_url": "https://p.scdn.co/mp3-preview/c084b4d604ae348a3e1bec96523abb3a52700a3f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0weVYRZAbrwBqewnAMsnTg"
+}

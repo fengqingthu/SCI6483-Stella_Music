@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1dCNxWZF94AHIy1g5KpUdz"
+        },
+        "href": "https://api.spotify.com/v1/artists/1dCNxWZF94AHIy1g5KpUdz",
+        "id": "1dCNxWZF94AHIy1g5KpUdz",
+        "name": "Jay and the Coffee",
+        "type": "artist",
+        "uri": "spotify:artist:1dCNxWZF94AHIy1g5KpUdz"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6F10JC0cn6bBJx7PkEPHxJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/6F10JC0cn6bBJx7PkEPHxJ",
+    "id": "6F10JC0cn6bBJx7PkEPHxJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27351fe420b2b7eb374df5c1670",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0251fe420b2b7eb374df5c1670",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485151fe420b2b7eb374df5c1670",
+        "width": 64
+      }
+    ],
+    "name": "Jay and the Coffee",
+    "release_date": "2018-04-02",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:6F10JC0cn6bBJx7PkEPHxJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dCNxWZF94AHIy1g5KpUdz"
+      },
+      "href": "https://api.spotify.com/v1/artists/1dCNxWZF94AHIy1g5KpUdz",
+      "id": "1dCNxWZF94AHIy1g5KpUdz",
+      "name": "Jay and the Coffee",
+      "type": "artist",
+      "uri": "spotify:artist:1dCNxWZF94AHIy1g5KpUdz"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 96999,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "BE8GP1700003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0lLqnADodcu9ZN0baPq9wd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0lLqnADodcu9ZN0baPq9wd",
+  "id": "0lLqnADodcu9ZN0baPq9wd",
+  "is_local": false,
+  "name": "1.37",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0lLqnADodcu9ZN0baPq9wd"
+}

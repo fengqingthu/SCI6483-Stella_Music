@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5WoWlP0ihSFIxnppxjwSgE",
+        "id": "5WoWlP0ihSFIxnppxjwSgE",
+        "name": "Low Roar",
+        "type": "artist",
+        "uri": "spotify:artist:5WoWlP0ihSFIxnppxjwSgE"
+      }
+    ],
+    "available_markets": [
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4pHkWEHgxX6r5e3VarsCy1"
+    },
+    "href": "https://api.spotify.com/v1/albums/4pHkWEHgxX6r5e3VarsCy1",
+    "id": "4pHkWEHgxX6r5e3VarsCy1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ecdf9aee1c7841c42203a802",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ecdf9aee1c7841c42203a802",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ecdf9aee1c7841c42203a802",
+        "width": 64
+      }
+    ],
+    "name": "Once In A Long, Long While...",
+    "release_date": "2017-04-14",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4pHkWEHgxX6r5e3VarsCy1"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+      },
+      "href": "https://api.spotify.com/v1/artists/5WoWlP0ihSFIxnppxjwSgE",
+      "id": "5WoWlP0ihSFIxnppxjwSgE",
+      "name": "Low Roar",
+      "type": "artist",
+      "uri": "spotify:artist:5WoWlP0ihSFIxnppxjwSgE"
+    }
+  ],
+  "available_markets": [
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 169805,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM5L61700002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0RQxcw3y07kcc37NpzrdwS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0RQxcw3y07kcc37NpzrdwS",
+  "id": "0RQxcw3y07kcc37NpzrdwS",
+  "is_local": false,
+  "name": "Bones",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/911c30a215e2390414ca21d9f1e3bc04af11c7bb?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0RQxcw3y07kcc37NpzrdwS"
+}

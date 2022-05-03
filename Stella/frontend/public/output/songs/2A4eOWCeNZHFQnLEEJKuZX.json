@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+        "id": "0n94vC3S9c3mb2HyNAOcjg",
+        "name": "The Head And The Heart",
+        "type": "artist",
+        "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "HT",
+      "NZ",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
+    },
+    "href": "https://api.spotify.com/v1/albums/0HOYbncHll4TcojWXrfYfV",
+    "id": "0HOYbncHll4TcojWXrfYfV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ed698663b54902f1e4937a36",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ed698663b54902f1e4937a36",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ed698663b54902f1e4937a36",
+        "width": 64
+      }
+    ],
+    "name": "The Head And The Heart",
+    "release_date": "2011-01-11",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0HOYbncHll4TcojWXrfYfV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+      },
+      "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+      "id": "0n94vC3S9c3mb2HyNAOcjg",
+      "name": "The Head And The Heart",
+      "type": "artist",
+      "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "HT",
+    "NZ",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 259120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSUB1191507"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2A4eOWCeNZHFQnLEEJKuZX",
+  "id": "2A4eOWCeNZHFQnLEEJKuZX",
+  "is_local": false,
+  "name": "Lost in My Mind",
+  "popularity": 61,
+  "preview_url": "https://p.scdn.co/mp3-preview/fffc93d4ba65a8ffbb428f18501a99fde9af3125?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:2A4eOWCeNZHFQnLEEJKuZX"
+}

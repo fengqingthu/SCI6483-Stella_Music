@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        "href": "https://api.spotify.com/v1/artists/0wnYgCeP013HkKoOyC5V32",
+        "id": "0wnYgCeP013HkKoOyC5V32",
+        "name": "Allie X",
+        "type": "artist",
+        "uri": "spotify:artist:0wnYgCeP013HkKoOyC5V32"
+      }
+    ],
+    "available_markets": [
+      "IT",
+      "SM"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S"
+    },
+    "href": "https://api.spotify.com/v1/albums/12ty08Y0h6TtP469jEtJ9S",
+    "id": "12ty08Y0h6TtP469jEtJ9S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b7c5a35b8d2c64f77218a765",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b7c5a35b8d2c64f77218a765",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b7c5a35b8d2c64f77218a765",
+        "width": 64
+      }
+    ],
+    "name": "CollXtion II",
+    "release_date": "2017-06-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:12ty08Y0h6TtP469jEtJ9S"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wnYgCeP013HkKoOyC5V32",
+      "id": "0wnYgCeP013HkKoOyC5V32",
+      "name": "Allie X",
+      "type": "artist",
+      "uri": "spotify:artist:0wnYgCeP013HkKoOyC5V32"
+    }
+  ],
+  "available_markets": [
+    "IT",
+    "SM"
+  ],
+  "disc_number": 1,
+  "duration_ms": 196179,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBLFP1708886"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/59HRIFXMIkjsYF0Ji2MlKA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/59HRIFXMIkjsYF0Ji2MlKA",
+  "id": "59HRIFXMIkjsYF0Ji2MlKA",
+  "is_local": false,
+  "name": "Paper Love",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/7b0a15e3863095f306567f15ff2742e6e39e7121?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:59HRIFXMIkjsYF0Ji2MlKA"
+}

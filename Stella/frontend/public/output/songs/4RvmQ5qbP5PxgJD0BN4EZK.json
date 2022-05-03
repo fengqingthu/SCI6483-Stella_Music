@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        },
+        "href": "https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC",
+        "id": "6VDdCwrBM4qQaGxoAyxyJC",
+        "name": "Cold War Kids",
+        "type": "artist",
+        "uri": "spotify:artist:6VDdCwrBM4qQaGxoAyxyJC"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
+    },
+    "href": "https://api.spotify.com/v1/albums/3InEURs5PQ2CMrnvzSVaPy",
+    "id": "3InEURs5PQ2CMrnvzSVaPy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d53045e0198dc684c52ac451",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d53045e0198dc684c52ac451",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d53045e0198dc684c52ac451",
+        "width": 64
+      }
+    ],
+    "name": "Dear Miss Lonelyhearts",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3InEURs5PQ2CMrnvzSVaPy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+      },
+      "href": "https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC",
+      "id": "6VDdCwrBM4qQaGxoAyxyJC",
+      "name": "Cold War Kids",
+      "type": "artist",
+      "uri": "spotify:artist:6VDdCwrBM4qQaGxoAyxyJC"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 180133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USCJ81200925"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4RvmQ5qbP5PxgJD0BN4EZK",
+  "id": "4RvmQ5qbP5PxgJD0BN4EZK",
+  "is_local": false,
+  "name": "Miracle Mile",
+  "popularity": 56,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4RvmQ5qbP5PxgJD0BN4EZK"
+}

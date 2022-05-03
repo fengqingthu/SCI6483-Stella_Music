@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        },
+        "href": "https://api.spotify.com/v1/artists/1WrqUPWlHN5FXCRcQgrkas",
+        "id": "1WrqUPWlHN5FXCRcQgrkas",
+        "name": "Lucius",
+        "type": "artist",
+        "uri": "spotify:artist:1WrqUPWlHN5FXCRcQgrkas"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj"
+    },
+    "href": "https://api.spotify.com/v1/albums/04AoJc9Z5y2fwSjmMBmGXj",
+    "id": "04AoJc9Z5y2fwSjmMBmGXj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733c63fb36cacf828e8c9e5c13",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023c63fb36cacf828e8c9e5c13",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513c63fb36cacf828e8c9e5c13",
+        "width": 64
+      }
+    ],
+    "name": "Good Grief (Expanded Edition)",
+    "release_date": "2016-03-11",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:04AoJc9Z5y2fwSjmMBmGXj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+      },
+      "href": "https://api.spotify.com/v1/artists/1WrqUPWlHN5FXCRcQgrkas",
+      "id": "1WrqUPWlHN5FXCRcQgrkas",
+      "name": "Lucius",
+      "type": "artist",
+      "uri": "spotify:artist:1WrqUPWlHN5FXCRcQgrkas"
+    }
+  ],
+  "available_markets": [
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 276973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQE91500204"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4gadf9ZVfmy6dN9BPunKRl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4gadf9ZVfmy6dN9BPunKRl",
+  "id": "4gadf9ZVfmy6dN9BPunKRl",
+  "is_local": false,
+  "name": "Almost Makes Me Wish for Rain",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/efab1056f402c647687b6a837d93b9eedceea4e2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:4gadf9ZVfmy6dN9BPunKRl"
+}

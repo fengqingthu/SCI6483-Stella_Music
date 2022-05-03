@@ -1,0 +1,129 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw"
+        },
+        "href": "https://api.spotify.com/v1/artists/0r9Q7acXxkDPoqfRfAb9Aw",
+        "id": "0r9Q7acXxkDPoqfRfAb9Aw",
+        "name": "Kotiteollisuus",
+        "type": "artist",
+        "uri": "spotify:artist:0r9Q7acXxkDPoqfRfAb9Aw"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "BE",
+      "BG",
+      "BR",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "IS",
+      "JP",
+      "KR",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MX",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "PH",
+      "PT",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TR",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7Afe0FvSTcQVkLsibeWMoU"
+    },
+    "href": "https://api.spotify.com/v1/albums/7Afe0FvSTcQVkLsibeWMoU",
+    "id": "7Afe0FvSTcQVkLsibeWMoU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d1d7cfd930f5cb28085fa512",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d1d7cfd930f5cb28085fa512",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d1d7cfd930f5cb28085fa512",
+        "width": 64
+      }
+    ],
+    "name": "Murheen mailla - singlet 1996-2007",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:7Afe0FvSTcQVkLsibeWMoU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw"
+      },
+      "href": "https://api.spotify.com/v1/artists/0r9Q7acXxkDPoqfRfAb9Aw",
+      "id": "0r9Q7acXxkDPoqfRfAb9Aw",
+      "name": "Kotiteollisuus",
+      "type": "artist",
+      "uri": "spotify:artist:0r9Q7acXxkDPoqfRfAb9Aw"
+    }
+  ],
+  "available_markets": [
+    "CY",
+    "DE",
+    "EG",
+    "FI",
+    "FR",
+    "KR",
+    "MT",
+    "MY",
+    "PH",
+    "SA",
+    "TR",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 266986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FIJKA0300144"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4rSB4zRQbtRSdCV7ziRS1G"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4rSB4zRQbtRSdCV7ziRS1G",
+  "id": "4rSB4zRQbtRSdCV7ziRS1G",
+  "is_local": false,
+  "name": "Minä olen",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:4rSB4zRQbtRSdCV7ziRS1G"
+}

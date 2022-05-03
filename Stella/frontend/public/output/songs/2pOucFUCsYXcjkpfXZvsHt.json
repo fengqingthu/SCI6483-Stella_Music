@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3huVQoEWdqUTvlYpFVUHcF",
+        "id": "3huVQoEWdqUTvlYpFVUHcF",
+        "name": "Original Soundtrack",
+        "type": "artist",
+        "uri": "spotify:artist:3huVQoEWdqUTvlYpFVUHcF"
+      }
+    ],
+    "available_markets": [
+      "BD",
+      "BN",
+      "BT",
+      "FM",
+      "HK",
+      "ID",
+      "IN",
+      "KH",
+      "KR",
+      "LA",
+      "LK",
+      "MO",
+      "MV",
+      "MY",
+      "NP",
+      "PH",
+      "PK",
+      "SG",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1XN3M1lowRiMKy68Fh784w"
+    },
+    "href": "https://api.spotify.com/v1/albums/1XN3M1lowRiMKy68Fh784w",
+    "id": "1XN3M1lowRiMKy68Fh784w",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cfcd82a8c07d9f3eae221e3a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cfcd82a8c07d9f3eae221e3a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cfcd82a8c07d9f3eae221e3a",
+        "width": 64
+      }
+    ],
+    "name": "Rocky IV",
+    "release_date": "1985-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1XN3M1lowRiMKy68Fh784w"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Q2nBzXfyXGIEf8KpHqeHn"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Q2nBzXfyXGIEf8KpHqeHn",
+      "id": "5Q2nBzXfyXGIEf8KpHqeHn",
+      "name": "Vince DiCola",
+      "type": "artist",
+      "uri": "spotify:artist:5Q2nBzXfyXGIEf8KpHqeHn"
+    }
+  ],
+  "available_markets": [
+    "BD",
+    "BN",
+    "BT",
+    "FM",
+    "HK",
+    "ID",
+    "IN",
+    "KH",
+    "KR",
+    "LA",
+    "LK",
+    "MO",
+    "MV",
+    "MY",
+    "NP",
+    "PH",
+    "PK",
+    "SG",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 357293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVR10400291"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2pOucFUCsYXcjkpfXZvsHt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2pOucFUCsYXcjkpfXZvsHt",
+  "id": "2pOucFUCsYXcjkpfXZvsHt",
+  "is_local": false,
+  "name": "War/Fanfare from Rocky IV",
+  "popularity": 7,
+  "preview_url": "https://p.scdn.co/mp3-preview/6a007aaddcc2512075f6c74afd1973103b40ccdf?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2pOucFUCsYXcjkpfXZvsHt"
+}

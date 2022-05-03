@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
+        },
+        "href": "https://api.spotify.com/v1/artists/5c9uFWpZY2MTlk7Rft0tgp",
+        "id": "5c9uFWpZY2MTlk7Rft0tgp",
+        "name": "Janis Ian",
+        "type": "artist",
+        "uri": "spotify:artist:5c9uFWpZY2MTlk7Rft0tgp"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO"
+    },
+    "href": "https://api.spotify.com/v1/albums/6RjDm4cjV3MFndKrpLUxpO",
+    "id": "6RjDm4cjV3MFndKrpLUxpO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b8e0137a5b9473f98b884f01",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b8e0137a5b9473f98b884f01",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b8e0137a5b9473f98b884f01",
+        "width": 64
+      }
+    ],
+    "name": "Between the Lines (Remastered)",
+    "release_date": "1975-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6RjDm4cjV3MFndKrpLUxpO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
+      },
+      "href": "https://api.spotify.com/v1/artists/5c9uFWpZY2MTlk7Rft0tgp",
+      "id": "5c9uFWpZY2MTlk7Rft0tgp",
+      "name": "Janis Ian",
+      "type": "artist",
+      "uri": "spotify:artist:5c9uFWpZY2MTlk7Rft0tgp"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 283880,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBARL1700749"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7wJpqjqk8QbHpCakY1ZacY",
+  "id": "7wJpqjqk8QbHpCakY1ZacY",
+  "is_local": false,
+  "name": "At Seventeen - Remastered",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/1c7d04aaaa8044056cd536996b69d1e95a9b71ac?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7wJpqjqk8QbHpCakY1ZacY"
+}

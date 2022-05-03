@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        },
+        "href": "https://api.spotify.com/v1/artists/0c09mxGbMHuFLpPJMY6JdA",
+        "id": "0c09mxGbMHuFLpPJMY6JdA",
+        "name": "Arion",
+        "type": "artist",
+        "uri": "spotify:artist:0c09mxGbMHuFLpPJMY6JdA"
+      }
+    ],
+    "available_markets": [
+      "FI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7t2XjjxFpArJHrvFjeXAhM"
+    },
+    "href": "https://api.spotify.com/v1/albums/7t2XjjxFpArJHrvFjeXAhM",
+    "id": "7t2XjjxFpArJHrvFjeXAhM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273db65b1ef4b9ed96eb50f7df2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02db65b1ef4b9ed96eb50f7df2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851db65b1ef4b9ed96eb50f7df2",
+        "width": 64
+      }
+    ],
+    "name": "Life Is Not Beautiful",
+    "release_date": "2018-10-19",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:7t2XjjxFpArJHrvFjeXAhM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+      },
+      "href": "https://api.spotify.com/v1/artists/0c09mxGbMHuFLpPJMY6JdA",
+      "id": "0c09mxGbMHuFLpPJMY6JdA",
+      "name": "Arion",
+      "type": "artist",
+      "uri": "spotify:artist:0c09mxGbMHuFLpPJMY6JdA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
+      },
+      "href": "https://api.spotify.com/v1/artists/4aHpq3SeE9HiKNft9Bcj55",
+      "id": "4aHpq3SeE9HiKNft9Bcj55",
+      "name": "Elize Ryd",
+      "type": "artist",
+      "uri": "spotify:artist:4aHpq3SeE9HiKNft9Bcj55"
+    }
+  ],
+  "available_markets": [
+    "FI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211620,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FIRAN1600011"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4a5Baxdzk9DhtfplzzwU6w"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4a5Baxdzk9DhtfplzzwU6w",
+  "id": "4a5Baxdzk9DhtfplzzwU6w",
+  "is_local": false,
+  "name": "At The Break Of Dawn (feat. Elize Ryd)",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/e3b23ab1359d41be4b307f04bbef64f86599b45f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4a5Baxdzk9DhtfplzzwU6w"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5jv5Bn43OqH8fxEBTk8lJx"
+        },
+        "href": "https://api.spotify.com/v1/artists/5jv5Bn43OqH8fxEBTk8lJx",
+        "id": "5jv5Bn43OqH8fxEBTk8lJx",
+        "name": "Doyle W. Donehoo",
+        "type": "artist",
+        "uri": "spotify:artist:5jv5Bn43OqH8fxEBTk8lJx"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3N5aB8UffAYXffxAFgR23g"
+    },
+    "href": "https://api.spotify.com/v1/albums/3N5aB8UffAYXffxAFgR23g",
+    "id": "3N5aB8UffAYXffxAFgR23g",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731d8c6fd5e52b3c14f25c55e6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021d8c6fd5e52b3c14f25c55e6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511d8c6fd5e52b3c14f25c55e6",
+        "width": 64
+      }
+    ],
+    "name": "Warhammer 40,000: Dawn of War II (The Complete Soundtrack)",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:3N5aB8UffAYXffxAFgR23g"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5jv5Bn43OqH8fxEBTk8lJx"
+      },
+      "href": "https://api.spotify.com/v1/artists/5jv5Bn43OqH8fxEBTk8lJx",
+      "id": "5jv5Bn43OqH8fxEBTk8lJx",
+      "name": "Doyle W. Donehoo",
+      "type": "artist",
+      "uri": "spotify:artist:5jv5Bn43OqH8fxEBTk8lJx"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 179760,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSR21100509"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4BV0RLQXtdvHeHO03SmB3S"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4BV0RLQXtdvHeHO03SmB3S",
+  "id": "4BV0RLQXtdvHeHO03SmB3S",
+  "is_local": false,
+  "name": "Angels Of Death",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/f46c42c41d7a9916786579563d4eb658a284f739?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4BV0RLQXtdvHeHO03SmB3S"
+}

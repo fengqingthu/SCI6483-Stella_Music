@@ -1,0 +1,131 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2"
+        },
+        "href": "https://api.spotify.com/v1/artists/6kaueP97pX7WZoOwF8XsI2",
+        "id": "6kaueP97pX7WZoOwF8XsI2",
+        "name": "Susumu Hirasawa",
+        "type": "artist",
+        "uri": "spotify:artist:6kaueP97pX7WZoOwF8XsI2"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7k3fMpXbIK67crBpashZ9f"
+    },
+    "href": "https://api.spotify.com/v1/albums/7k3fMpXbIK67crBpashZ9f",
+    "id": "7k3fMpXbIK67crBpashZ9f",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d791ee95105cfb84a08cf67",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d791ee95105cfb84a08cf67",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d791ee95105cfb84a08cf67",
+        "width": 64
+      }
+    ],
+    "name": "Paprika",
+    "release_date": "2007-02-27",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:7k3fMpXbIK67crBpashZ9f"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2"
+      },
+      "href": "https://api.spotify.com/v1/artists/6kaueP97pX7WZoOwF8XsI2",
+      "id": "6kaueP97pX7WZoOwF8XsI2",
+      "name": "Susumu Hirasawa",
+      "type": "artist",
+      "uri": "spotify:artist:6kaueP97pX7WZoOwF8XsI2"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IT",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "SE",
+    "SI",
+    "SK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 342040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ810701136"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1XIDGVEaVUHJmfmA6y7Oy4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1XIDGVEaVUHJmfmA6y7Oy4",
+  "id": "1XIDGVEaVUHJmfmA6y7Oy4",
+  "is_local": false,
+  "name": "Parade",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/84a9a01e7a8051a2fafdeca3c11355be84aa3523?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1XIDGVEaVUHJmfmA6y7Oy4"
+}

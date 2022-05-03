@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/41YXiNkz1XDXfd6BS4f5sI"
+    },
+    "href": "https://api.spotify.com/v1/albums/41YXiNkz1XDXfd6BS4f5sI",
+    "id": "41YXiNkz1XDXfd6BS4f5sI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d9692b84ad03748e70544d52",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d9692b84ad03748e70544d52",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d9692b84ad03748e70544d52",
+        "width": 64
+      }
+    ],
+    "name": "H-Track Edit Series 1",
+    "release_date": "2008-03-26",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:41YXiNkz1XDXfd6BS4f5sI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
+      },
+      "href": "https://api.spotify.com/v1/artists/7oc9zyI7Oi70GGiz7B6LVK",
+      "id": "7oc9zyI7Oi70GGiz7B6LVK",
+      "name": "Punkin Machine",
+      "type": "artist",
+      "uri": "spotify:artist:7oc9zyI7Oi70GGiz7B6LVK"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 429897,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USDHM1400789"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/51hnWW9V7Ji0uZjoeBUfxo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/51hnWW9V7Ji0uZjoeBUfxo",
+  "id": "51hnWW9V7Ji0uZjoeBUfxo",
+  "is_local": false,
+  "name": "I Need You Tonight",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:51hnWW9V7Ji0uZjoeBUfxo"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        },
+        "href": "https://api.spotify.com/v1/artists/1C60viSZv6BoYtrnkZ44g5",
+        "id": "1C60viSZv6BoYtrnkZ44g5",
+        "name": "Nadia Ali",
+        "type": "artist",
+        "uri": "spotify:artist:1C60viSZv6BoYtrnkZ44g5"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1oVtF88cUJWIjl2IzvSSsz"
+    },
+    "href": "https://api.spotify.com/v1/albums/1oVtF88cUJWIjl2IzvSSsz",
+    "id": "1oVtF88cUJWIjl2IzvSSsz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e044d02d8c089cbf361fb7f6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e044d02d8c089cbf361fb7f6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e044d02d8c089cbf361fb7f6",
+        "width": 64
+      }
+    ],
+    "name": "Rapture",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:1oVtF88cUJWIjl2IzvSSsz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+      },
+      "href": "https://api.spotify.com/v1/artists/1C60viSZv6BoYtrnkZ44g5",
+      "id": "1C60viSZv6BoYtrnkZ44g5",
+      "name": "Nadia Ali",
+      "type": "artist",
+      "uri": "spotify:artist:1C60viSZv6BoYtrnkZ44g5"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221543,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH3131000316"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2SoE9NCEyVsJcvwcLlJalb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2SoE9NCEyVsJcvwcLlJalb",
+  "id": "2SoE9NCEyVsJcvwcLlJalb",
+  "is_local": false,
+  "name": "Rapture - Avicii New Generation Radio Edit",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/7066f8a94c9a8bfa4cdee2a9b3d7d68f6b956779?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2SoE9NCEyVsJcvwcLlJalb"
+}

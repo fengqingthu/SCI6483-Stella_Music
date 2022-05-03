@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY"
+        },
+        "href": "https://api.spotify.com/v1/artists/30YHp6jELIUSYUGssR9JRY",
+        "id": "30YHp6jELIUSYUGssR9JRY",
+        "name": "Vladimir Cosma",
+        "type": "artist",
+        "uri": "spotify:artist:30YHp6jELIUSYUGssR9JRY"
+      }
+    ],
+    "available_markets": [
+      "IT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5d9V71gyzhqwJRA1fDqgRs"
+    },
+    "href": "https://api.spotify.com/v1/albums/5d9V71gyzhqwJRA1fDqgRs",
+    "id": "5d9V71gyzhqwJRA1fDqgRs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273216e2808595f1990c1b2d99f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02216e2808595f1990c1b2d99f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851216e2808595f1990c1b2d99f",
+        "width": 64
+      }
+    ],
+    "name": "Il tempo delle mele 2 (Claude Pinoteau's Original Motion Picture Soundtrack)",
+    "release_date": "1982",
+    "release_date_precision": "year",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5d9V71gyzhqwJRA1fDqgRs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY"
+      },
+      "href": "https://api.spotify.com/v1/artists/30YHp6jELIUSYUGssR9JRY",
+      "id": "30YHp6jELIUSYUGssR9JRY",
+      "name": "Vladimir Cosma",
+      "type": "artist",
+      "uri": "spotify:artist:30YHp6jELIUSYUGssR9JRY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59VqwKtnkmMOdYKYRxO5Td"
+      },
+      "href": "https://api.spotify.com/v1/artists/59VqwKtnkmMOdYKYRxO5Td",
+      "id": "59VqwKtnkmMOdYKYRxO5Td",
+      "name": "Cook da Books",
+      "type": "artist",
+      "uri": "spotify:artist:59VqwKtnkmMOdYKYRxO5Td"
+    }
+  ],
+  "available_markets": [
+    "IT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 282866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLF360801820"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0xD9E1ZRC09O4aCvQa6Wfp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0xD9E1ZRC09O4aCvQa6Wfp",
+  "id": "0xD9E1ZRC09O4aCvQa6Wfp",
+  "is_local": false,
+  "name": "Your Eyes",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/0bf9aaa175b28083ac3d6ad4744fa1d7bcbaa96e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0xD9E1ZRC09O4aCvQa6Wfp"
+}

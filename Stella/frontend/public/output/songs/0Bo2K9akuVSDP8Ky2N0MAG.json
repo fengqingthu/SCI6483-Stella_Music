@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
+        },
+        "href": "https://api.spotify.com/v1/artists/4N9nNkpjGuBlGWnYubQI8t",
+        "id": "4N9nNkpjGuBlGWnYubQI8t",
+        "name": "Belleruche",
+        "type": "artist",
+        "uri": "spotify:artist:4N9nNkpjGuBlGWnYubQI8t"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/46EAAjDcgmzqYwwc5I0xs8"
+    },
+    "href": "https://api.spotify.com/v1/albums/46EAAjDcgmzqYwwc5I0xs8",
+    "id": "46EAAjDcgmzqYwwc5I0xs8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737cec5b22eced13833c66a4aa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027cec5b22eced13833c66a4aa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517cec5b22eced13833c66a4aa",
+        "width": 64
+      }
+    ],
+    "name": "Best Of",
+    "release_date": "2007",
+    "release_date_precision": "year",
+    "total_tracks": 28,
+    "type": "album",
+    "uri": "spotify:album:46EAAjDcgmzqYwwc5I0xs8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
+      },
+      "href": "https://api.spotify.com/v1/artists/4N9nNkpjGuBlGWnYubQI8t",
+      "id": "4N9nNkpjGuBlGWnYubQI8t",
+      "name": "Belleruche",
+      "type": "artist",
+      "uri": "spotify:artist:4N9nNkpjGuBlGWnYubQI8t"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223320,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBEUE0700657"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Bo2K9akuVSDP8Ky2N0MAG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Bo2K9akuVSDP8Ky2N0MAG",
+  "id": "0Bo2K9akuVSDP8Ky2N0MAG",
+  "is_local": false,
+  "name": "Northern Girls",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/2f4f5b270665929f24d4e3e92688df58a6867c8f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0Bo2K9akuVSDP8Ky2N0MAG"
+}

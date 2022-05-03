@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+        "id": "1O8CSXsPwEqxcoBE360PPO",
+        "name": "Stratovarius",
+        "type": "artist",
+        "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+      }
+    ],
+    "available_markets": [
+      "MX"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7zELUzUgaMKv40PNs0gERT"
+    },
+    "href": "https://api.spotify.com/v1/albums/7zELUzUgaMKv40PNs0gERT",
+    "id": "7zELUzUgaMKv40PNs0gERT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734aa3ec86c6941e2304c7f350",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024aa3ec86c6941e2304c7f350",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514aa3ec86c6941e2304c7f350",
+        "width": 64
+      }
+    ],
+    "name": "Infinite:Special Edition",
+    "release_date": "1999",
+    "release_date_precision": "year",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:7zELUzUgaMKv40PNs0gERT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+      },
+      "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+      "id": "1O8CSXsPwEqxcoBE360PPO",
+      "name": "Stratovarius",
+      "type": "artist",
+      "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+    }
+  ],
+  "available_markets": [
+    "MX"
+  ],
+  "disc_number": 1,
+  "duration_ms": 248866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEH841000203"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6kuirSMdFYaIGQaFuBkBmn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6kuirSMdFYaIGQaFuBkBmn",
+  "id": "6kuirSMdFYaIGQaFuBkBmn",
+  "is_local": false,
+  "name": "Hunting High And Low",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6kuirSMdFYaIGQaFuBkBmn"
+}

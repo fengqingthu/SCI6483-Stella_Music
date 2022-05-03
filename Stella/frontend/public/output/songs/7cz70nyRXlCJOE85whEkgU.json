@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k"
+        },
+        "href": "https://api.spotify.com/v1/artists/7fu6ebyL3JGXJgo5zsOo4k",
+        "id": "7fu6ebyL3JGXJgo5zsOo4k",
+        "name": "Harvey Danger",
+        "type": "artist",
+        "uri": "spotify:artist:7fu6ebyL3JGXJgo5zsOo4k"
+      }
+    ],
+    "available_markets": [
+      "IE",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/554gpRastI7dbOcir9eAkL"
+    },
+    "href": "https://api.spotify.com/v1/albums/554gpRastI7dbOcir9eAkL",
+    "id": "554gpRastI7dbOcir9eAkL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273868d99be4de6929eeac899ba",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02868d99be4de6929eeac899ba",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851868d99be4de6929eeac899ba",
+        "width": 64
+      }
+    ],
+    "name": "Where Have All The Merrymakers Gone?",
+    "release_date": "1997-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:554gpRastI7dbOcir9eAkL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k"
+      },
+      "href": "https://api.spotify.com/v1/artists/7fu6ebyL3JGXJgo5zsOo4k",
+      "id": "7fu6ebyL3JGXJgo5zsOo4k",
+      "name": "Harvey Danger",
+      "type": "artist",
+      "uri": "spotify:artist:7fu6ebyL3JGXJgo5zsOo4k"
+    }
+  ],
+  "available_markets": [
+    "IE",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 217266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USLR29810165"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7cz70nyRXlCJOE85whEkgU",
+  "id": "7cz70nyRXlCJOE85whEkgU",
+  "is_local": false,
+  "name": "Flagpole Sitta",
+  "popularity": 64,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7cz70nyRXlCJOE85whEkgU"
+}

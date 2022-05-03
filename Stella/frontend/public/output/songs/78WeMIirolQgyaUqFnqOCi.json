@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Pe3z1UqRzKsQtHsl25dm6",
+        "id": "1Pe3z1UqRzKsQtHsl25dm6",
+        "name": "Juno Reactor",
+        "type": "artist",
+        "uri": "spotify:artist:1Pe3z1UqRzKsQtHsl25dm6"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4cgvNUnZM2QHxhhY12lWk7"
+    },
+    "href": "https://api.spotify.com/v1/albums/4cgvNUnZM2QHxhhY12lWk7",
+    "id": "4cgvNUnZM2QHxhhY12lWk7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273098bd6c662a72bed550b92c6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02098bd6c662a72bed550b92c6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851098bd6c662a72bed550b92c6",
+        "width": 64
+      }
+    ],
+    "name": "The Golden Sun of the Great East",
+    "release_date": "2013-04-23",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:4cgvNUnZM2QHxhhY12lWk7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Pe3z1UqRzKsQtHsl25dm6",
+      "id": "1Pe3z1UqRzKsQtHsl25dm6",
+      "name": "Juno Reactor",
+      "type": "artist",
+      "uri": "spotify:artist:1Pe3z1UqRzKsQtHsl25dm6"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 602813,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US57M1284801"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/78WeMIirolQgyaUqFnqOCi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/78WeMIirolQgyaUqFnqOCi",
+  "id": "78WeMIirolQgyaUqFnqOCi",
+  "is_local": false,
+  "name": "Final Frontier",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/7c9ced52f40e9688ded342ba561bc5799de6b078?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:78WeMIirolQgyaUqFnqOCi"
+}

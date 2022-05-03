@@ -1,0 +1,20 @@
+{
+  "danceability": 0.118,
+  "energy": 0.0459,
+  "key": 4,
+  "loudness": -22.868,
+  "mode": 1,
+  "speechiness": 0.0451,
+  "acousticness": 0.969,
+  "instrumentalness": 0.84,
+  "liveness": 0.0964,
+  "valence": 0.0348,
+  "tempo": 76.709,
+  "type": "audio_features",
+  "id": "1ECIeUwsAK8ea1KowoPANA",
+  "uri": "spotify:track:1ECIeUwsAK8ea1KowoPANA",
+  "track_href": "https://api.spotify.com/v1/tracks/1ECIeUwsAK8ea1KowoPANA",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ECIeUwsAK8ea1KowoPANA",
+  "duration_ms": 254720,
+  "time_signature": 5
+}

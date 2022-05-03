@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ShgdWtm52xvEr8uYmT0V6",
+        "id": "4ShgdWtm52xvEr8uYmT0V6",
+        "name": "SEGA SOUND TEAM",
+        "type": "artist",
+        "uri": "spotify:artist:4ShgdWtm52xvEr8uYmT0V6"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6X6DxlTL1BB50VLvEzRD7h"
+    },
+    "href": "https://api.spotify.com/v1/albums/6X6DxlTL1BB50VLvEzRD7h",
+    "id": "6X6DxlTL1BB50VLvEzRD7h",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734b01c686df60f3a3c2622f70",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024b01c686df60f3a3c2622f70",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514b01c686df60f3a3c2622f70",
+        "width": 64
+      }
+    ],
+    "name": "Jet Set Radio SEGA Original Tracks",
+    "release_date": "2012-10-02",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:6X6DxlTL1BB50VLvEzRD7h"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ULvi5IjU8vjBJW3e8EPLz"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ULvi5IjU8vjBJW3e8EPLz",
+      "id": "3ULvi5IjU8vjBJW3e8EPLz",
+      "name": "Hideki Naganuma",
+      "type": "artist",
+      "uri": "spotify:artist:3ULvi5IjU8vjBJW3e8EPLz"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 231129,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPR501205518"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4oaHrd2aDWD17blG8dMTyB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4oaHrd2aDWD17blG8dMTyB",
+  "id": "4oaHrd2aDWD17blG8dMTyB",
+  "is_local": false,
+  "name": "Sneakman",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/cf6e3a5b7cceeeceb1e1a0661a2ae022caf73578?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:4oaHrd2aDWD17blG8dMTyB"
+}

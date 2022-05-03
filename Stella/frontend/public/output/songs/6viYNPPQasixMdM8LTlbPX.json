@@ -1,0 +1,107 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/37J1PlAkhRK7yrZUtqaUpQ",
+        "id": "37J1PlAkhRK7yrZUtqaUpQ",
+        "name": "Caravan Palace",
+        "type": "artist",
+        "uri": "spotify:artist:37J1PlAkhRK7yrZUtqaUpQ"
+      }
+    ],
+    "available_markets": [
+      "CZ",
+      "DK",
+      "ES",
+      "FI",
+      "GB",
+      "GR",
+      "IE",
+      "IS",
+      "IT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4CDrYqvxUUZZZPEPuwYuvK"
+    },
+    "href": "https://api.spotify.com/v1/albums/4CDrYqvxUUZZZPEPuwYuvK",
+    "id": "4CDrYqvxUUZZZPEPuwYuvK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273442af4da7625d23c25123c21",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02442af4da7625d23c25123c21",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851442af4da7625d23c25123c21",
+        "width": 64
+      }
+    ],
+    "name": "Black Betty",
+    "release_date": "2017-05-26",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4CDrYqvxUUZZZPEPuwYuvK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/37J1PlAkhRK7yrZUtqaUpQ",
+      "id": "37J1PlAkhRK7yrZUtqaUpQ",
+      "name": "Caravan Palace",
+      "type": "artist",
+      "uri": "spotify:artist:37J1PlAkhRK7yrZUtqaUpQ"
+    }
+  ],
+  "available_markets": [
+    "CZ",
+    "DK",
+    "ES",
+    "FI",
+    "GB",
+    "GR",
+    "IE",
+    "IS",
+    "IT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 189956,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11625359"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6viYNPPQasixMdM8LTlbPX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6viYNPPQasixMdM8LTlbPX",
+  "id": "6viYNPPQasixMdM8LTlbPX",
+  "is_local": false,
+  "name": "Black Betty",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/77684022f7e4cad36692d04c72e47a0fa31341c7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6viYNPPQasixMdM8LTlbPX"
+}

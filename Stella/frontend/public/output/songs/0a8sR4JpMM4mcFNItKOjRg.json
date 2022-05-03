@@ -1,0 +1,108 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "DZ",
+      "FR",
+      "MA",
+      "MC",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs"
+    },
+    "href": "https://api.spotify.com/v1/albums/07jQJEWYAPlISmakXFSmzs",
+    "id": "07jQJEWYAPlISmakXFSmzs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737b8f2208ee05538ec7451af0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027b8f2208ee05538ec7451af0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517b8f2208ee05538ec7451af0",
+        "width": 64
+      }
+    ],
+    "name": "Notre Dame de Paris - Studio",
+    "release_date": "1997-09-26",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:07jQJEWYAPlISmakXFSmzs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM"
+      },
+      "href": "https://api.spotify.com/v1/artists/6S4WAihWktrOYeJdslsjcM",
+      "id": "6S4WAihWktrOYeJdslsjcM",
+      "name": "Daniel Lavoie",
+      "type": "artist",
+      "uri": "spotify:artist:6S4WAihWktrOYeJdslsjcM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq"
+      },
+      "href": "https://api.spotify.com/v1/artists/18PkzXDURSTyGZTg9w66qq",
+      "id": "18PkzXDURSTyGZTg9w66qq",
+      "name": "Patrick Fiori",
+      "type": "artist",
+      "uri": "spotify:artist:18PkzXDURSTyGZTg9w66qq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+      },
+      "href": "https://api.spotify.com/v1/artists/1oXtLNYfNMQLxWsatCTCCn",
+      "id": "1oXtLNYfNMQLxWsatCTCCn",
+      "name": "Garou",
+      "type": "artist",
+      "uri": "spotify:artist:1oXtLNYfNMQLxWsatCTCCn"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 277786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRE089700280"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0a8sR4JpMM4mcFNItKOjRg",
+  "id": "0a8sR4JpMM4mcFNItKOjRg",
+  "is_local": false,
+  "name": "Belle (with Patrick Fiori & Garou)",
+  "popularity": 48,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0a8sR4JpMM4mcFNItKOjRg"
+}

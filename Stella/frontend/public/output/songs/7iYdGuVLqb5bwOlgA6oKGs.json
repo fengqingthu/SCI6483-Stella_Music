@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p"
+        },
+        "href": "https://api.spotify.com/v1/artists/6HX4Jrnb0WhEv9goeGoh6p",
+        "id": "6HX4Jrnb0WhEv9goeGoh6p",
+        "name": "majiko",
+        "type": "artist",
+        "uri": "spotify:artist:6HX4Jrnb0WhEv9goeGoh6p"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1B0FQuDxHXJSVmWkBJT6ye"
+    },
+    "href": "https://api.spotify.com/v1/albums/1B0FQuDxHXJSVmWkBJT6ye",
+    "id": "1B0FQuDxHXJSVmWkBJT6ye",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27360f5aef8714e6f44935f32a2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0260f5aef8714e6f44935f32a2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485160f5aef8714e6f44935f32a2",
+        "width": 64
+      }
+    ],
+    "name": "Contrast",
+    "release_date": "2015-04-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:1B0FQuDxHXJSVmWkBJT6ye"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p"
+      },
+      "href": "https://api.spotify.com/v1/artists/6HX4Jrnb0WhEv9goeGoh6p",
+      "id": "6HX4Jrnb0WhEv9goeGoh6p",
+      "name": "majiko",
+      "type": "artist",
+      "uri": "spotify:artist:6HX4Jrnb0WhEv9goeGoh6p"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 273583,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPC231500557"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7iYdGuVLqb5bwOlgA6oKGs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7iYdGuVLqb5bwOlgA6oKGs",
+  "id": "7iYdGuVLqb5bwOlgA6oKGs",
+  "is_local": false,
+  "name": "心做し",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/ce81b959620365aaa8de9d0740a4b0915c627b59?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:7iYdGuVLqb5bwOlgA6oKGs"
+}

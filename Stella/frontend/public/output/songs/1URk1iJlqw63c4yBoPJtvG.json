@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jFkB3Lzjku9SFKUTP33WV",
+        "id": "4jFkB3Lzjku9SFKUTP33WV",
+        "name": "De Dijk",
+        "type": "artist",
+        "uri": "spotify:artist:4jFkB3Lzjku9SFKUTP33WV"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6cKTKCp2rmXPjWch5byG2U"
+    },
+    "href": "https://api.spotify.com/v1/albums/6cKTKCp2rmXPjWch5byG2U",
+    "id": "6cKTKCp2rmXPjWch5byG2U",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f43c6163994a5c2bd91090ed",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f43c6163994a5c2bd91090ed",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f43c6163994a5c2bd91090ed",
+        "width": 64
+      }
+    ],
+    "name": "Brussel",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6cKTKCp2rmXPjWch5byG2U"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+      },
+      "href": "https://api.spotify.com/v1/artists/4jFkB3Lzjku9SFKUTP33WV",
+      "id": "4jFkB3Lzjku9SFKUTP33WV",
+      "name": "De Dijk",
+      "type": "artist",
+      "uri": "spotify:artist:4jFkB3Lzjku9SFKUTP33WV"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 207480,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLUM70800239"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1URk1iJlqw63c4yBoPJtvG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1URk1iJlqw63c4yBoPJtvG",
+  "id": "1URk1iJlqw63c4yBoPJtvG",
+  "is_local": false,
+  "name": "Mijn Van Straat Geredde Roos",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1URk1iJlqw63c4yBoPJtvG"
+}

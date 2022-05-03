@@ -1,0 +1,20 @@
+{
+  "danceability": 0.199,
+  "energy": 0.0521,
+  "key": 2,
+  "loudness": -18.995,
+  "mode": 0,
+  "speechiness": 0.042,
+  "acousticness": 0.975,
+  "instrumentalness": 0.937,
+  "liveness": 0.0893,
+  "valence": 0.0347,
+  "tempo": 115.263,
+  "type": "audio_features",
+  "id": "2TqqSIiMATAnzmCenloaAV",
+  "uri": "spotify:track:2TqqSIiMATAnzmCenloaAV",
+  "track_href": "https://api.spotify.com/v1/tracks/2TqqSIiMATAnzmCenloaAV",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2TqqSIiMATAnzmCenloaAV",
+  "duration_ms": 121347,
+  "time_signature": 3
+}

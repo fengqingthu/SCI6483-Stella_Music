@@ -1,0 +1,20 @@
+{
+  "danceability": 0.545,
+  "energy": 0.833,
+  "key": 1,
+  "loudness": -7.761,
+  "mode": 0,
+  "speechiness": 0.0547,
+  "acousticness": 0.322,
+  "instrumentalness": 0.0172,
+  "liveness": 0.129,
+  "valence": 0.52,
+  "tempo": 90.425,
+  "type": "audio_features",
+  "id": "2GCMj0QRBkGys51mCetiav",
+  "uri": "spotify:track:2GCMj0QRBkGys51mCetiav",
+  "track_href": "https://api.spotify.com/v1/tracks/2GCMj0QRBkGys51mCetiav",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2GCMj0QRBkGys51mCetiav",
+  "duration_ms": 229640,
+  "time_signature": 4
+}

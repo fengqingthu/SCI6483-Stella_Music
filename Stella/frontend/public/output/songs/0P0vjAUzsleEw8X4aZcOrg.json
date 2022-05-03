@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+        "id": "6xrCU6zdcSTsG2hLrojpmI",
+        "name": "José González",
+        "type": "artist",
+        "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6hgys4kGvjDz1LS1XwGN1Y"
+    },
+    "href": "https://api.spotify.com/v1/albums/6hgys4kGvjDz1LS1XwGN1Y",
+    "id": "6hgys4kGvjDz1LS1XwGN1Y",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731a2be41922a9ca497cbfdf8c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021a2be41922a9ca497cbfdf8c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511a2be41922a9ca497cbfdf8c",
+        "width": 64
+      }
+    ],
+    "name": "Step Out (From The Secret Life Of Walter Mitty)",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6hgys4kGvjDz1LS1XwGN1Y"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+      "id": "6xrCU6zdcSTsG2hLrojpmI",
+      "name": "José González",
+      "type": "artist",
+      "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USFM91300128"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0P0vjAUzsleEw8X4aZcOrg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0P0vjAUzsleEw8X4aZcOrg",
+  "id": "0P0vjAUzsleEw8X4aZcOrg",
+  "is_local": false,
+  "name": "Step Out",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0P0vjAUzsleEw8X4aZcOrg"
+}

@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        },
+        "href": "https://api.spotify.com/v1/artists/3g9yyIlJ0sIunQWJLmIYhn",
+        "id": "3g9yyIlJ0sIunQWJLmIYhn",
+        "name": "Sound Of Legend",
+        "type": "artist",
+        "uri": "spotify:artist:3g9yyIlJ0sIunQWJLmIYhn"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2EcXBo6GrqkyHO6eKUk3jW"
+    },
+    "href": "https://api.spotify.com/v1/albums/2EcXBo6GrqkyHO6eKUk3jW",
+    "id": "2EcXBo6GrqkyHO6eKUk3jW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cc9e2fb64bc7bbe3e946452c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cc9e2fb64bc7bbe3e946452c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cc9e2fb64bc7bbe3e946452c",
+        "width": 64
+      }
+    ],
+    "name": "Blue (Da Ba Dee) [Sound of Legend Version Edit]",
+    "release_date": "2016-10-28",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2EcXBo6GrqkyHO6eKUk3jW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+      },
+      "href": "https://api.spotify.com/v1/artists/3g9yyIlJ0sIunQWJLmIYhn",
+      "id": "3g9yyIlJ0sIunQWJLmIYhn",
+      "name": "Sound Of Legend",
+      "type": "artist",
+      "uri": "spotify:artist:3g9yyIlJ0sIunQWJLmIYhn"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 179893,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRPBS1600070"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3JUxU3KohteqkLk9BOpQ1c"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3JUxU3KohteqkLk9BOpQ1c",
+  "id": "3JUxU3KohteqkLk9BOpQ1c",
+  "is_local": false,
+  "name": "Blue (Da Ba Dee) - Sound of Legend Version Edit",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/53bb184fb56eeb83eecf4f5aa18a97798e35ecc8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3JUxU3KohteqkLk9BOpQ1c"
+}

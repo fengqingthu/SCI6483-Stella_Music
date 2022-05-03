@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        },
+        "href": "https://api.spotify.com/v1/artists/1hRLlo7ZGxEmc0ztMOKurs",
+        "id": "1hRLlo7ZGxEmc0ztMOKurs",
+        "name": "Maria João Pires",
+        "type": "artist",
+        "uri": "spotify:artist:1hRLlo7ZGxEmc0ztMOKurs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SSP8GEspuEnzFcvJGABPR"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SSP8GEspuEnzFcvJGABPR",
+        "id": "5SSP8GEspuEnzFcvJGABPR",
+        "name": "Carlos Do Carmo",
+        "type": "artist",
+        "uri": "spotify:artist:5SSP8GEspuEnzFcvJGABPR"
+      }
+    ],
+    "available_markets": [
+      "ES",
+      "PT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4iY27nbuTRrS2wVyi1b3Xl"
+    },
+    "href": "https://api.spotify.com/v1/albums/4iY27nbuTRrS2wVyi1b3Xl",
+    "id": "4iY27nbuTRrS2wVyi1b3Xl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27387a695e142d95990b4b7ab2f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0287a695e142d95990b4b7ab2f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485187a695e142d95990b4b7ab2f",
+        "width": 64
+      }
+    ],
+    "name": "Maria João Pires / Carlos Do Carmo",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:4iY27nbuTRrS2wVyi1b3Xl"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hRLlo7ZGxEmc0ztMOKurs",
+      "id": "1hRLlo7ZGxEmc0ztMOKurs",
+      "name": "Maria João Pires",
+      "type": "artist",
+      "uri": "spotify:artist:1hRLlo7ZGxEmc0ztMOKurs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SSP8GEspuEnzFcvJGABPR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5SSP8GEspuEnzFcvJGABPR",
+      "id": "5SSP8GEspuEnzFcvJGABPR",
+      "name": "Carlos Do Carmo",
+      "type": "artist",
+      "uri": "spotify:artist:5SSP8GEspuEnzFcvJGABPR"
+    }
+  ],
+  "available_markets": [
+    "ES",
+    "PT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 143746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "PTUM71200313"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0k16h6M8Vy4TvFR14P75pS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0k16h6M8Vy4TvFR14P75pS",
+  "id": "0k16h6M8Vy4TvFR14P75pS",
+  "is_local": false,
+  "name": "Morrer De Ingratidão",
+  "popularity": 16,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0k16h6M8Vy4TvFR14P75pS"
+}

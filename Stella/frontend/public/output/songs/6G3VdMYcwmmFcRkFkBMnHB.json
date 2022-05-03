@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj"
+        },
+        "href": "https://api.spotify.com/v1/artists/6PzO2zYVuLxLwhZJfnP1Wj",
+        "id": "6PzO2zYVuLxLwhZJfnP1Wj",
+        "name": "Telex",
+        "type": "artist",
+        "uri": "spotify:artist:6PzO2zYVuLxLwhZJfnP1Wj"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2RHIcjBEuSYT2sZSKSt9LV"
+    },
+    "href": "https://api.spotify.com/v1/albums/2RHIcjBEuSYT2sZSKSt9LV",
+    "id": "2RHIcjBEuSYT2sZSKSt9LV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f15b019ac087cf239f01ab6a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f15b019ac087cf239f01ab6a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f15b019ac087cf239f01ab6a",
+        "width": 64
+      }
+    ],
+    "name": "This Is Telex",
+    "release_date": "2021-04-30",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:2RHIcjBEuSYT2sZSKSt9LV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PzO2zYVuLxLwhZJfnP1Wj",
+      "id": "6PzO2zYVuLxLwhZJfnP1Wj",
+      "name": "Telex",
+      "type": "artist",
+      "uri": "spotify:artist:6PzO2zYVuLxLwhZJfnP1Wj"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 198815,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BES762001002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6G3VdMYcwmmFcRkFkBMnHB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6G3VdMYcwmmFcRkFkBMnHB",
+  "id": "6G3VdMYcwmmFcRkFkBMnHB",
+  "is_local": false,
+  "name": "Moskow Diskow - Remastered",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/c6981cbc4030d7c1debf0114adcbb31d53f9615b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6G3VdMYcwmmFcRkFkBMnHB"
+}

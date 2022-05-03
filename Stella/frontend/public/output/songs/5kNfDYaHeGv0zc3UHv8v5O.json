@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+        "id": "5YFS41yoX0YuFY39fq21oN",
+        "name": "Bob Sinclar",
+        "type": "artist",
+        "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4XBUNDoGmnYdvcBUa4f1Iy"
+        },
+        "href": "https://api.spotify.com/v1/artists/4XBUNDoGmnYdvcBUa4f1Iy",
+        "id": "4XBUNDoGmnYdvcBUa4f1Iy",
+        "name": "Kee",
+        "type": "artist",
+        "uri": "spotify:artist:4XBUNDoGmnYdvcBUa4f1Iy"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5H21Avh0x5BH5DOu5YZdCZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5H21Avh0x5BH5DOu5YZdCZ",
+    "id": "5H21Avh0x5BH5DOu5YZdCZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739bbefa6952a557d51abec7c9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029bbefa6952a557d51abec7c9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519bbefa6952a557d51abec7c9",
+        "width": 64
+      }
+    ],
+    "name": "D.N.A",
+    "release_date": "2021-10-08",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5H21Avh0x5BH5DOu5YZdCZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+      },
+      "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+      "id": "5YFS41yoX0YuFY39fq21oN",
+      "name": "Bob Sinclar",
+      "type": "artist",
+      "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4XBUNDoGmnYdvcBUa4f1Iy"
+      },
+      "href": "https://api.spotify.com/v1/artists/4XBUNDoGmnYdvcBUa4f1Iy",
+      "id": "4XBUNDoGmnYdvcBUa4f1Iy",
+      "name": "Kee",
+      "type": "artist",
+      "uri": "spotify:artist:4XBUNDoGmnYdvcBUa4f1Iy"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 162560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR4E42112330"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5kNfDYaHeGv0zc3UHv8v5O"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5kNfDYaHeGv0zc3UHv8v5O",
+  "id": "5kNfDYaHeGv0zc3UHv8v5O",
+  "is_local": false,
+  "name": "D.N.A",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/bb0fdc4a0a58c2d2c3a350a549a9fde88b97a1cc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5kNfDYaHeGv0zc3UHv8v5O"
+}

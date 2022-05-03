@@ -1,0 +1,115 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+        "id": "5nPOO9iTcrs9k6yFffPxjH",
+        "name": "Röyksopp",
+        "type": "artist",
+        "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+        "id": "3AVfmawzu83sp94QW7CEGm",
+        "name": "Astrid S",
+        "type": "artist",
+        "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0I6VuIvd99qFcRRd6tEI4a"
+    },
+    "href": "https://api.spotify.com/v1/albums/0I6VuIvd99qFcRRd6tEI4a",
+    "id": "0I6VuIvd99qFcRRd6tEI4a",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273178e8064d338b959711a07f5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02178e8064d338b959711a07f5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851178e8064d338b959711a07f5",
+        "width": 64
+      }
+    ],
+    "name": "Breathe",
+    "release_date": "2022-03-23",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0I6VuIvd99qFcRRd6tEI4a"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+      "id": "5nPOO9iTcrs9k6yFffPxjH",
+      "name": "Röyksopp",
+      "type": "artist",
+      "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+      },
+      "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+      "id": "3AVfmawzu83sp94QW7CEGm",
+      "name": "Astrid S",
+      "type": "artist",
+      "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 276693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBW232100107"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6t67AAAEnSbWvEXJpEaJpj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6t67AAAEnSbWvEXJpEaJpj",
+  "id": "6t67AAAEnSbWvEXJpEaJpj",
+  "is_local": false,
+  "name": "Breathe",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/cd4df67e4dece3e953bd413ae88b25c4145690a4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6t67AAAEnSbWvEXJpEaJpj"
+}

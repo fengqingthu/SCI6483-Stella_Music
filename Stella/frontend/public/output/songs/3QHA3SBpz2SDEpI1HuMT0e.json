@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+        "id": "7mnBLXK823vNxN3UWB7Gfz",
+        "name": "The Black Keys",
+        "type": "artist",
+        "uri": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+    },
+    "href": "https://api.spotify.com/v1/albums/7qE6RXYyz5kj5Tll7mJU0v",
+    "id": "7qE6RXYyz5kj5Tll7mJU0v",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734cf61635ecdee5d4c4ef2bac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024cf61635ecdee5d4c4ef2bac",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514cf61635ecdee5d4c4ef2bac",
+        "width": 64
+      }
+    ],
+    "name": "Brothers",
+    "release_date": "2010-05-18",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:7qE6RXYyz5kj5Tll7mJU0v"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+      },
+      "href": "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+      "id": "7mnBLXK823vNxN3UWB7Gfz",
+      "name": "The Black Keys",
+      "type": "artist",
+      "uri": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 300346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNO11000082"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3QHA3SBpz2SDEpI1HuMT0e"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3QHA3SBpz2SDEpI1HuMT0e",
+  "id": "3QHA3SBpz2SDEpI1HuMT0e",
+  "is_local": false,
+  "name": "The Only One",
+  "popularity": 46,
+  "preview_url": "https://p.scdn.co/mp3-preview/87f3ecd839df667bf0c7759539834432c848e554?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:3QHA3SBpz2SDEpI1HuMT0e"
+}

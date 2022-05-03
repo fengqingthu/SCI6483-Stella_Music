@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        },
+        "href": "https://api.spotify.com/v1/artists/6NB0vY1HQgkUpCBsm5eAvo",
+        "id": "6NB0vY1HQgkUpCBsm5eAvo",
+        "name": "Léo Ferré",
+        "type": "artist",
+        "uri": "spotify:artist:6NB0vY1HQgkUpCBsm5eAvo"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "FR",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6BrUhFcj4Hw44eWzs9q0uZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/6BrUhFcj4Hw44eWzs9q0uZ",
+    "id": "6BrUhFcj4Hw44eWzs9q0uZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b7cbfca9d7e842a79e76359e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b7cbfca9d7e842a79e76359e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b7cbfca9d7e842a79e76359e",
+        "width": 64
+      }
+    ],
+    "name": "La Solitude",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:6BrUhFcj4Hw44eWzs9q0uZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+      },
+      "href": "https://api.spotify.com/v1/artists/6NB0vY1HQgkUpCBsm5eAvo",
+      "id": "6NB0vY1HQgkUpCBsm5eAvo",
+      "name": "Léo Ferré",
+      "type": "artist",
+      "uri": "spotify:artist:6NB0vY1HQgkUpCBsm5eAvo"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "FR",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 212960,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ017100250"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5NpvIwhPanr4ukCQwWKApH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5NpvIwhPanr4ukCQwWKApH",
+  "id": "5NpvIwhPanr4ukCQwWKApH",
+  "is_local": false,
+  "name": "Ton style",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5NpvIwhPanr4ukCQwWKApH"
+}

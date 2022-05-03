@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Dot4uMsJMx8n1Xi7gAdV6",
+        "id": "1Dot4uMsJMx8n1Xi7gAdV6",
+        "name": "Jean-Yves Thibaudet",
+        "type": "artist",
+        "uri": "spotify:artist:1Dot4uMsJMx8n1Xi7gAdV6"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/31qEnY1MFmGwOdgjLLClPd"
+    },
+    "href": "https://api.spotify.com/v1/albums/31qEnY1MFmGwOdgjLLClPd",
+    "id": "31qEnY1MFmGwOdgjLLClPd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e362b8b63c780aad6fe2809f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e362b8b63c780aad6fe2809f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e362b8b63c780aad6fe2809f",
+        "width": 64
+      }
+    ],
+    "name": "Pride and Prejudice OST",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:31qEnY1MFmGwOdgjLLClPd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Dot4uMsJMx8n1Xi7gAdV6",
+      "id": "1Dot4uMsJMx8n1Xi7gAdV6",
+      "name": "Jean-Yves Thibaudet",
+      "type": "artist",
+      "uri": "spotify:artist:1Dot4uMsJMx8n1Xi7gAdV6"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 82773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBEKZ0500064"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6QuCKdMsTW8ppnUiFmxJLF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6QuCKdMsTW8ppnUiFmxJLF",
+  "id": "6QuCKdMsTW8ppnUiFmxJLF",
+  "is_local": false,
+  "name": "Liz On Top Of The World - From \"Pride & Prejudice\" Soundtrack",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:6QuCKdMsTW8ppnUiFmxJLF"
+}

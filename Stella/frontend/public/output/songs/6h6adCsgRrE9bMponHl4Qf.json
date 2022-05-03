@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+        "id": "3ti6KzYwDK7GTraIlnLUdu",
+        "name": "Roomie",
+        "type": "artist",
+        "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2I9FZiRIiuu2KS4dPAxTUC"
+    },
+    "href": "https://api.spotify.com/v1/albums/2I9FZiRIiuu2KS4dPAxTUC",
+    "id": "2I9FZiRIiuu2KS4dPAxTUC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f147bef4cca9c340ddb186c5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f147bef4cca9c340ddb186c5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f147bef4cca9c340ddb186c5",
+        "width": 64
+      }
+    ],
+    "name": "Roomiefied: Covers 2012-2013",
+    "release_date": "2012-05-29",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:2I9FZiRIiuu2KS4dPAxTUC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+      "id": "3ti6KzYwDK7GTraIlnLUdu",
+      "name": "Roomie",
+      "type": "artist",
+      "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2iLhKZ9r9UQeWPA7uP5vFd"
+      },
+      "href": "https://api.spotify.com/v1/artists/2iLhKZ9r9UQeWPA7uP5vFd",
+      "id": "2iLhKZ9r9UQeWPA7uP5vFd",
+      "name": "Jonas Frisk",
+      "type": "artist",
+      "uri": "spotify:artist:2iLhKZ9r9UQeWPA7uP5vFd"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 219227,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "uscgh1428485"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6h6adCsgRrE9bMponHl4Qf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6h6adCsgRrE9bMponHl4Qf",
+  "id": "6h6adCsgRrE9bMponHl4Qf",
+  "is_local": false,
+  "name": "Skyfall",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6h6adCsgRrE9bMponHl4Qf"
+}

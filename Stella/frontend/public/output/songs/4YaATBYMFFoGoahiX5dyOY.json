@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        "href": "https://api.spotify.com/v1/artists/57IX1XTNL4DPilyY5pQsaK",
+        "id": "57IX1XTNL4DPilyY5pQsaK",
+        "name": "Moreno Veloso",
+        "type": "artist",
+        "uri": "spotify:artist:57IX1XTNL4DPilyY5pQsaK"
+      }
+    ],
+    "available_markets": [
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "GY",
+      "PE",
+      "PY",
+      "SR",
+      "UY",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5dorAZyjNp4EorNtjRnKud"
+    },
+    "href": "https://api.spotify.com/v1/albums/5dorAZyjNp4EorNtjRnKud",
+    "id": "5dorAZyjNp4EorNtjRnKud",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273200c06cce9a132102ced8a80",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02200c06cce9a132102ced8a80",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851200c06cce9a132102ced8a80",
+        "width": 64
+      }
+    ],
+    "name": "Coisa Boa",
+    "release_date": "2014-05-20",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5dorAZyjNp4EorNtjRnKud"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+      },
+      "href": "https://api.spotify.com/v1/artists/57IX1XTNL4DPilyY5pQsaK",
+      "id": "57IX1XTNL4DPilyY5pQsaK",
+      "name": "Moreno Veloso",
+      "type": "artist",
+      "uri": "spotify:artist:57IX1XTNL4DPilyY5pQsaK"
+    }
+  ],
+  "available_markets": [
+    "BO",
+    "BR",
+    "CL",
+    "CO",
+    "EC",
+    "GY",
+    "PE",
+    "PY",
+    "SR",
+    "UY",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 250786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BR68F1300031"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4YaATBYMFFoGoahiX5dyOY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4YaATBYMFFoGoahiX5dyOY",
+  "id": "4YaATBYMFFoGoahiX5dyOY",
+  "is_local": false,
+  "name": "Não Acorde O Neném",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/2773605bcdff7984b281dfb541a912ac9d3c107c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:4YaATBYMFFoGoahiX5dyOY"
+}

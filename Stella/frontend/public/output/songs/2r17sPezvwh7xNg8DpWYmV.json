@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        },
+        "href": "https://api.spotify.com/v1/artists/3FuzPmx49qjFhzbG99d9Kr",
+        "id": "3FuzPmx49qjFhzbG99d9Kr",
+        "name": "Russkaja",
+        "type": "artist",
+        "uri": "spotify:artist:3FuzPmx49qjFhzbG99d9Kr"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4rw67Rlt35Ecw78LjnzBrh"
+    },
+    "href": "https://api.spotify.com/v1/albums/4rw67Rlt35Ecw78LjnzBrh",
+    "id": "4rw67Rlt35Ecw78LjnzBrh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27321097e58292a465129366c4e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0221097e58292a465129366c4e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485121097e58292a465129366c4e",
+        "width": 64
+      }
+    ],
+    "name": "Barada",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:4rw67Rlt35Ecw78LjnzBrh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FuzPmx49qjFhzbG99d9Kr",
+      "id": "3FuzPmx49qjFhzbG99d9Kr",
+      "name": "Russkaja",
+      "type": "artist",
+      "uri": "spotify:artist:3FuzPmx49qjFhzbG99d9Kr"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 202320,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261352903"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2r17sPezvwh7xNg8DpWYmV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2r17sPezvwh7xNg8DpWYmV",
+  "id": "2r17sPezvwh7xNg8DpWYmV",
+  "is_local": false,
+  "name": "Roar",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/613ea7863949984d9c7bb9f1741343cb34396e0b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2r17sPezvwh7xNg8DpWYmV"
+}

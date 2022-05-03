@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        },
+        "href": "https://api.spotify.com/v1/artists/32aFdXARUiqP81SXqIPD4w",
+        "id": "32aFdXARUiqP81SXqIPD4w",
+        "name": "Yael Naim",
+        "type": "artist",
+        "uri": "spotify:artist:32aFdXARUiqP81SXqIPD4w"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
+    },
+    "href": "https://api.spotify.com/v1/albums/6YuE6wbqwzvSHungRfuvk7",
+    "id": "6YuE6wbqwzvSHungRfuvk7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27370192b59de6ee306dcbf1fda",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0270192b59de6ee306dcbf1fda",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485170192b59de6ee306dcbf1fda",
+        "width": 64
+      }
+    ],
+    "name": "Yael Naïm",
+    "release_date": "2007-10-22",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6YuE6wbqwzvSHungRfuvk7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+      },
+      "href": "https://api.spotify.com/v1/artists/32aFdXARUiqP81SXqIPD4w",
+      "id": "32aFdXARUiqP81SXqIPD4w",
+      "name": "Yael Naim",
+      "type": "artist",
+      "uri": "spotify:artist:32aFdXARUiqP81SXqIPD4w"
+    }
+  ],
+  "available_markets": [
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 187533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR79W0700970"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3PxtyltEOPjenovANU3Npk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3PxtyltEOPjenovANU3Npk",
+  "id": "3PxtyltEOPjenovANU3Npk",
+  "is_local": false,
+  "name": "Paris",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/4958c302d6b2e7c4da889584da0dc8a4bf95c50c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3PxtyltEOPjenovANU3Npk"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2vH7B6YvHO3AHVb9R8bYi8"
+        },
+        "href": "https://api.spotify.com/v1/artists/2vH7B6YvHO3AHVb9R8bYi8",
+        "id": "2vH7B6YvHO3AHVb9R8bYi8",
+        "name": "Corroded",
+        "type": "artist",
+        "uri": "spotify:artist:2vH7B6YvHO3AHVb9R8bYi8"
+      }
+    ],
+    "available_markets": [
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4g5oiaKJjpXDTSPEBpQX7r"
+    },
+    "href": "https://api.spotify.com/v1/albums/4g5oiaKJjpXDTSPEBpQX7r",
+    "id": "4g5oiaKJjpXDTSPEBpQX7r",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e8ea4d192d281c5ecc66192a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e8ea4d192d281c5ecc66192a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e8ea4d192d281c5ecc66192a",
+        "width": 64
+      }
+    ],
+    "name": "Age of Rage",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4g5oiaKJjpXDTSPEBpQX7r"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vH7B6YvHO3AHVb9R8bYi8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2vH7B6YvHO3AHVb9R8bYi8",
+      "id": "2vH7B6YvHO3AHVb9R8bYi8",
+      "name": "Corroded",
+      "type": "artist",
+      "uri": "spotify:artist:2vH7B6YvHO3AHVb9R8bYi8"
+    }
+  ],
+  "available_markets": [
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 206908,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWLR1100501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7FtgATNzWQwTPt5Fhls75C"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7FtgATNzWQwTPt5Fhls75C",
+  "id": "7FtgATNzWQwTPt5Fhls75C",
+  "is_local": false,
+  "name": "Age of Rage",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7FtgATNzWQwTPt5Fhls75C"
+}

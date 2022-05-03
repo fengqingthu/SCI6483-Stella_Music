@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0QJKELJZZuLAjqLOOixJm5",
+        "id": "0QJKELJZZuLAjqLOOixJm5",
+        "name": "The Bloody Beetroots",
+        "type": "artist",
+        "uri": "spotify:artist:0QJKELJZZuLAjqLOOixJm5"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1e7P2CLQULv2KXn9FOqyt8"
+    },
+    "href": "https://api.spotify.com/v1/albums/1e7P2CLQULv2KXn9FOqyt8",
+    "id": "1e7P2CLQULv2KXn9FOqyt8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734fa5802cf7648e1336999830",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024fa5802cf7648e1336999830",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514fa5802cf7648e1336999830",
+        "width": 64
+      }
+    ],
+    "name": "Rocksteady",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1e7P2CLQULv2KXn9FOqyt8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0QJKELJZZuLAjqLOOixJm5",
+      "id": "0QJKELJZZuLAjqLOOixJm5",
+      "name": "The Bloody Beetroots",
+      "type": "artist",
+      "uri": "spotify:artist:0QJKELJZZuLAjqLOOixJm5"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 222244,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUS11200569"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/22ItUJ8C7kkloLXwZ5jwI7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/22ItUJ8C7kkloLXwZ5jwI7",
+  "id": "22ItUJ8C7kkloLXwZ5jwI7",
+  "is_local": false,
+  "name": "Rocksteady - Original",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/6ca8e204c7d83a1a41c86d95b691d615bdb0ea07?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:22ItUJ8C7kkloLXwZ5jwI7"
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        },
+        "href": "https://api.spotify.com/v1/artists/0dLWSYE7my9AbpQYNJ0ABV",
+        "id": "0dLWSYE7my9AbpQYNJ0ABV",
+        "name": "Oscar and the Wolf",
+        "type": "artist",
+        "uri": "spotify:artist:0dLWSYE7my9AbpQYNJ0ABV"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4wBIcQpyhKqPiBBPWpQhfe"
+    },
+    "href": "https://api.spotify.com/v1/albums/4wBIcQpyhKqPiBBPWpQhfe",
+    "id": "4wBIcQpyhKqPiBBPWpQhfe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735079adf280fba57b5c72530e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025079adf280fba57b5c72530e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515079adf280fba57b5c72530e",
+        "width": 64
+      }
+    ],
+    "name": "Entity",
+    "release_date": "2014-04-25",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4wBIcQpyhKqPiBBPWpQhfe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+      },
+      "href": "https://api.spotify.com/v1/artists/0dLWSYE7my9AbpQYNJ0ABV",
+      "id": "0dLWSYE7my9AbpQYNJ0ABV",
+      "name": "Oscar and the Wolf",
+      "type": "artist",
+      "uri": "spotify:artist:0dLWSYE7my9AbpQYNJ0ABV"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228264,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEP011400245"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/58xWAlc12MwEJqSmUfdZoV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/58xWAlc12MwEJqSmUfdZoV",
+  "id": "58xWAlc12MwEJqSmUfdZoV",
+  "is_local": false,
+  "name": "Joaquim",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:58xWAlc12MwEJqSmUfdZoV"
+}

@@ -1,0 +1,107 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/37J1PlAkhRK7yrZUtqaUpQ",
+        "id": "37J1PlAkhRK7yrZUtqaUpQ",
+        "name": "Caravan Palace",
+        "type": "artist",
+        "uri": "spotify:artist:37J1PlAkhRK7yrZUtqaUpQ"
+      }
+    ],
+    "available_markets": [
+      "CZ",
+      "DK",
+      "ES",
+      "FI",
+      "GB",
+      "GR",
+      "IE",
+      "IS",
+      "IT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/36AWYqwFvbAbxxCFgbRfJo"
+    },
+    "href": "https://api.spotify.com/v1/albums/36AWYqwFvbAbxxCFgbRfJo",
+    "id": "36AWYqwFvbAbxxCFgbRfJo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735b8f9f1967371f19dd1f80f3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025b8f9f1967371f19dd1f80f3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515b8f9f1967371f19dd1f80f3",
+        "width": 64
+      }
+    ],
+    "name": "Chronologic",
+    "release_date": "2019-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:36AWYqwFvbAbxxCFgbRfJo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/37J1PlAkhRK7yrZUtqaUpQ",
+      "id": "37J1PlAkhRK7yrZUtqaUpQ",
+      "name": "Caravan Palace",
+      "type": "artist",
+      "uri": "spotify:artist:37J1PlAkhRK7yrZUtqaUpQ"
+    }
+  ],
+  "available_markets": [
+    "CZ",
+    "DK",
+    "ES",
+    "FI",
+    "GB",
+    "GR",
+    "IE",
+    "IS",
+    "IT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 185703,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11912314"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2h4XzgxmFvYR4XsCEcnY7J"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2h4XzgxmFvYR4XsCEcnY7J",
+  "id": "2h4XzgxmFvYR4XsCEcnY7J",
+  "is_local": false,
+  "name": "Plume",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/98f5076cd62e227ed4e314a40ce7fdf0af8b1d6e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2h4XzgxmFvYR4XsCEcnY7J"
+}

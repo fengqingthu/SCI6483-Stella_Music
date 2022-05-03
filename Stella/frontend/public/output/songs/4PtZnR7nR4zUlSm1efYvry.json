@@ -1,0 +1,179 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Dwkme6QjRdS4dF4eNNJ5Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Dwkme6QjRdS4dF4eNNJ5Y",
+        "id": "7Dwkme6QjRdS4dF4eNNJ5Y",
+        "name": "Hazel O'Connor",
+        "type": "artist",
+        "uri": "spotify:artist:7Dwkme6QjRdS4dF4eNNJ5Y"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AR",
+      "AT",
+      "AU",
+      "BD",
+      "BG",
+      "BH",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "IL",
+      "IN",
+      "IQ",
+      "IS",
+      "IT",
+      "JO",
+      "JP",
+      "KW",
+      "LB",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "NL",
+      "NO",
+      "OM",
+      "PL",
+      "PT",
+      "QA",
+      "RO",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TH",
+      "TN",
+      "TR",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/02m7p5Qxr1RZld36bUBjVK"
+    },
+    "href": "https://api.spotify.com/v1/albums/02m7p5Qxr1RZld36bUBjVK",
+    "id": "02m7p5Qxr1RZld36bUBjVK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734545eec9958700a360185426",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024545eec9958700a360185426",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514545eec9958700a360185426",
+        "width": 64
+      }
+    ],
+    "name": "Breaking Glass",
+    "release_date": "1980-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:02m7p5Qxr1RZld36bUBjVK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Dwkme6QjRdS4dF4eNNJ5Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Dwkme6QjRdS4dF4eNNJ5Y",
+      "id": "7Dwkme6QjRdS4dF4eNNJ5Y",
+      "name": "Hazel O'Connor",
+      "type": "artist",
+      "uri": "spotify:artist:7Dwkme6QjRdS4dF4eNNJ5Y"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AR",
+    "AT",
+    "AU",
+    "BD",
+    "BG",
+    "BH",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "DZ",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IL",
+    "IN",
+    "IQ",
+    "IS",
+    "IT",
+    "JO",
+    "JP",
+    "KW",
+    "LB",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "NL",
+    "NO",
+    "OM",
+    "PL",
+    "PT",
+    "QA",
+    "RO",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TH",
+    "TN",
+    "TR",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 289266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAAM8000001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4PtZnR7nR4zUlSm1efYvry"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4PtZnR7nR4zUlSm1efYvry",
+  "id": "4PtZnR7nR4zUlSm1efYvry",
+  "is_local": false,
+  "name": "Will You?",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/526c6110788ac22a81c406ebf5904bedd0f9045a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:4PtZnR7nR4zUlSm1efYvry"
+}

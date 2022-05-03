@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj"
+        },
+        "href": "https://api.spotify.com/v1/artists/6PBv8t9YTLggA9ZMwpeoqj",
+        "id": "6PBv8t9YTLggA9ZMwpeoqj",
+        "name": "Joan As Police Woman",
+        "type": "artist",
+        "uri": "spotify:artist:6PBv8t9YTLggA9ZMwpeoqj"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7ajCexEerwy0PU1f3SBf1B"
+    },
+    "href": "https://api.spotify.com/v1/albums/7ajCexEerwy0PU1f3SBf1B",
+    "id": "7ajCexEerwy0PU1f3SBf1B",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27301bdf1fa72a0d8757e43d11d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0201bdf1fa72a0d8757e43d11d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485101bdf1fa72a0d8757e43d11d",
+        "width": 64
+      }
+    ],
+    "name": "Real Life",
+    "release_date": "2007-06-25",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:7ajCexEerwy0PU1f3SBf1B"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PBv8t9YTLggA9ZMwpeoqj",
+      "id": "6PBv8t9YTLggA9ZMwpeoqj",
+      "name": "Joan As Police Woman",
+      "type": "artist",
+      "uri": "spotify:artist:6PBv8t9YTLggA9ZMwpeoqj"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 278746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USF690601001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/326QCqSlMwpMjGJaxIFQok"
+  },
+  "href": "https://api.spotify.com/v1/tracks/326QCqSlMwpMjGJaxIFQok",
+  "id": "326QCqSlMwpMjGJaxIFQok",
+  "is_local": false,
+  "name": "Real Life",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/7f740105417341df8143f6e10e35635a89e44460?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:326QCqSlMwpMjGJaxIFQok"
+}

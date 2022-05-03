@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SUSe6NpDjc6BNKX8Dx0hj",
+        "id": "5SUSe6NpDjc6BNKX8Dx0hj",
+        "name": "Aura Dione",
+        "type": "artist",
+        "uri": "spotify:artist:5SUSe6NpDjc6BNKX8Dx0hj"
+      }
+    ],
+    "available_markets": [
+      "PL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5dzaZJ1R3mGdUeIjIMfUyE"
+    },
+    "href": "https://api.spotify.com/v1/albums/5dzaZJ1R3mGdUeIjIMfUyE",
+    "id": "5dzaZJ1R3mGdUeIjIMfUyE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b89fec3021e43c05e4743e2e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b89fec3021e43c05e4743e2e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b89fec3021e43c05e4743e2e",
+        "width": 64
+      }
+    ],
+    "name": "Before The Dinosaurs",
+    "release_date": "2011",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5dzaZJ1R3mGdUeIjIMfUyE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
+      },
+      "href": "https://api.spotify.com/v1/artists/5SUSe6NpDjc6BNKX8Dx0hj",
+      "id": "5SUSe6NpDjc6BNKX8Dx0hj",
+      "name": "Aura Dione",
+      "type": "artist",
+      "uri": "spotify:artist:5SUSe6NpDjc6BNKX8Dx0hj"
+    }
+  ],
+  "available_markets": [
+    "PL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 207226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEUM71102910"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4qjHzT24Oye6oEHeAxSw5u"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4qjHzT24Oye6oEHeAxSw5u",
+  "id": "4qjHzT24Oye6oEHeAxSw5u",
+  "is_local": false,
+  "name": "In Love With The World",
+  "popularity": 5,
+  "preview_url": "https://p.scdn.co/mp3-preview/7ec7f51c34d45df1132e64008c16b8c63956b8d3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4qjHzT24Oye6oEHeAxSw5u"
+}

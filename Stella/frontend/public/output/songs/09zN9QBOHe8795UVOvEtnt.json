@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        },
+        "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+        "id": "63MQldklfxkjYDoUE4Tppz",
+        "name": "M83",
+        "type": "artist",
+        "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0iSRofVrTOCOs841JkSgwk"
+    },
+    "href": "https://api.spotify.com/v1/albums/0iSRofVrTOCOs841JkSgwk",
+    "id": "0iSRofVrTOCOs841JkSgwk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731515b53a3376db5f4dde2bbb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021515b53a3376db5f4dde2bbb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511515b53a3376db5f4dde2bbb",
+        "width": 64
+      }
+    ],
+    "name": "Junk",
+    "release_date": "2016-04-08",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0iSRofVrTOCOs841JkSgwk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+      },
+      "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+      "id": "63MQldklfxkjYDoUE4Tppz",
+      "name": "M83",
+      "type": "artist",
+      "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4qCKUiCnxl18wGx7Bvk5fD"
+      },
+      "href": "https://api.spotify.com/v1/artists/4qCKUiCnxl18wGx7Bvk5fD",
+      "id": "4qCKUiCnxl18wGx7Bvk5fD",
+      "name": "MAI LAN",
+      "type": "artist",
+      "uri": "spotify:artist:4qCKUiCnxl18wGx7Bvk5fD"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 235733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB55H1600002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/09zN9QBOHe8795UVOvEtnt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/09zN9QBOHe8795UVOvEtnt",
+  "id": "09zN9QBOHe8795UVOvEtnt",
+  "is_local": false,
+  "name": "Go! (feat. Mai Lan)",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/ca66562e4dd7806e3b133894325d58977aec66e8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:09zN9QBOHe8795UVOvEtnt"
+}

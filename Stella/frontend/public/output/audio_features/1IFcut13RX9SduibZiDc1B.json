@@ -1,0 +1,20 @@
+{
+  "danceability": 0.581,
+  "energy": 0.466,
+  "key": 5,
+  "loudness": -9.116,
+  "mode": 0,
+  "speechiness": 0.0357,
+  "acousticness": 0.0394,
+  "instrumentalness": 0.567,
+  "liveness": 0.0794,
+  "valence": 0.275,
+  "tempo": 122.036,
+  "type": "audio_features",
+  "id": "1IFcut13RX9SduibZiDc1B",
+  "uri": "spotify:track:1IFcut13RX9SduibZiDc1B",
+  "track_href": "https://api.spotify.com/v1/tracks/1IFcut13RX9SduibZiDc1B",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/1IFcut13RX9SduibZiDc1B",
+  "duration_ms": 250040,
+  "time_signature": 4
+}

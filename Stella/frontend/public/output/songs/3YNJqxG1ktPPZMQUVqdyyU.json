@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        },
+        "href": "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+        "id": "7lOJ7WXyopaxri0dbOiZkd",
+        "name": "Broken Social Scene",
+        "type": "artist",
+        "uri": "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7BL3IrC2KXQ3bWm0iM2pMR"
+    },
+    "href": "https://api.spotify.com/v1/albums/7BL3IrC2KXQ3bWm0iM2pMR",
+    "id": "7BL3IrC2KXQ3bWm0iM2pMR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731e110c6c178ede7096792181",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021e110c6c178ede7096792181",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511e110c6c178ede7096792181",
+        "width": 64
+      }
+    ],
+    "name": "Forgiveness Rock Record",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:7BL3IrC2KXQ3bWm0iM2pMR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+      },
+      "href": "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+      "id": "7lOJ7WXyopaxri0dbOiZkd",
+      "name": "Broken Social Scene",
+      "type": "artist",
+      "uri": "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 309306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAAA11005406"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3YNJqxG1ktPPZMQUVqdyyU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3YNJqxG1ktPPZMQUVqdyyU",
+  "id": "3YNJqxG1ktPPZMQUVqdyyU",
+  "is_local": false,
+  "name": "Sweetest Kill",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:3YNJqxG1ktPPZMQUVqdyyU"
+}

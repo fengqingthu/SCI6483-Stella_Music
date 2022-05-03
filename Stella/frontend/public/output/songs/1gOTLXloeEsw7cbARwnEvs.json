@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        },
+        "href": "https://api.spotify.com/v1/artists/5EM6xJN2QNk0cL7EEm9HR9",
+        "id": "5EM6xJN2QNk0cL7EEm9HR9",
+        "name": "Radical Face",
+        "type": "artist",
+        "uri": "spotify:artist:5EM6xJN2QNk0cL7EEm9HR9"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2TeF5pfiRiitOo3nhljb71"
+    },
+    "href": "https://api.spotify.com/v1/albums/2TeF5pfiRiitOo3nhljb71",
+    "id": "2TeF5pfiRiitOo3nhljb71",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27316986b07ca835295ef656956",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0216986b07ca835295ef656956",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485116986b07ca835295ef656956",
+        "width": 64
+      }
+    ],
+    "name": "The Family Tree: The Roots",
+    "release_date": "2011-10-04",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2TeF5pfiRiitOo3nhljb71"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+      },
+      "href": "https://api.spotify.com/v1/artists/5EM6xJN2QNk0cL7EEm9HR9",
+      "id": "5EM6xJN2QNk0cL7EEm9HR9",
+      "name": "Radical Face",
+      "type": "artist",
+      "uri": "spotify:artist:5EM6xJN2QNk0cL7EEm9HR9"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 355666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMW3D1100010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1gOTLXloeEsw7cbARwnEvs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1gOTLXloeEsw7cbARwnEvs",
+  "id": "1gOTLXloeEsw7cbARwnEvs",
+  "is_local": false,
+  "name": "Always Gold",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/1fab334c072a80582c8e993e3e23676666d9ee39?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:1gOTLXloeEsw7cbARwnEvs"
+}

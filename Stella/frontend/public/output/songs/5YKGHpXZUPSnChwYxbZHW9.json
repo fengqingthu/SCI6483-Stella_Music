@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0PMGIDR5OQokTICRFbNdeB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0PMGIDR5OQokTICRFbNdeB",
+        "id": "0PMGIDR5OQokTICRFbNdeB",
+        "name": "Anime Kei",
+        "type": "artist",
+        "uri": "spotify:artist:0PMGIDR5OQokTICRFbNdeB"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2HdigYeZ58DHp8mrd3WeWK"
+    },
+    "href": "https://api.spotify.com/v1/albums/2HdigYeZ58DHp8mrd3WeWK",
+    "id": "2HdigYeZ58DHp8mrd3WeWK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273074018a41cdc87c520f20ba3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02074018a41cdc87c520f20ba3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851074018a41cdc87c520f20ba3",
+        "width": 64
+      }
+    ],
+    "name": "L's Themes (The Greatest Instrumental Themes from Death Note)",
+    "release_date": "2014-12-08",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2HdigYeZ58DHp8mrd3WeWK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0PMGIDR5OQokTICRFbNdeB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0PMGIDR5OQokTICRFbNdeB",
+      "id": "0PMGIDR5OQokTICRFbNdeB",
+      "name": "Anime Kei",
+      "type": "artist",
+      "uri": "spotify:artist:0PMGIDR5OQokTICRFbNdeB"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 180671,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBW2K1115151"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5YKGHpXZUPSnChwYxbZHW9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5YKGHpXZUPSnChwYxbZHW9",
+  "id": "5YKGHpXZUPSnChwYxbZHW9",
+  "is_local": false,
+  "name": "L's Theme (From \"Death Note\") - Instrumental",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5YKGHpXZUPSnChwYxbZHW9"
+}

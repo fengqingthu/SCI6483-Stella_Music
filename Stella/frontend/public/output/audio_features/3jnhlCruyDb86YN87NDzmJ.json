@@ -1,0 +1,20 @@
+{
+  "danceability": 0.293,
+  "energy": 0.144,
+  "key": 8,
+  "loudness": -18.288,
+  "mode": 1,
+  "speechiness": 0.0422,
+  "acousticness": 0.988,
+  "instrumentalness": 0.872,
+  "liveness": 0.164,
+  "valence": 0.219,
+  "tempo": 76.996,
+  "type": "audio_features",
+  "id": "3jnhlCruyDb86YN87NDzmJ",
+  "uri": "spotify:track:3jnhlCruyDb86YN87NDzmJ",
+  "track_href": "https://api.spotify.com/v1/tracks/3jnhlCruyDb86YN87NDzmJ",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3jnhlCruyDb86YN87NDzmJ",
+  "duration_ms": 235333,
+  "time_signature": 3
+}

@@ -1,0 +1,185 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS"
+        },
+        "href": "https://api.spotify.com/v1/artists/2rJkmlVHePMo2gk0InTZRS",
+        "id": "2rJkmlVHePMo2gk0InTZRS",
+        "name": "Vera Lynn",
+        "type": "artist",
+        "uri": "spotify:artist:2rJkmlVHePMo2gk0InTZRS"
+      }
+    ],
+    "available_markets": [
+      "AO",
+      "BF",
+      "BI",
+      "BJ",
+      "BW",
+      "CD",
+      "CG",
+      "CI",
+      "CM",
+      "DJ",
+      "GA",
+      "GB",
+      "GH",
+      "GM",
+      "GN",
+      "GQ",
+      "GW",
+      "IE",
+      "KE",
+      "KM",
+      "LR",
+      "LS",
+      "MG",
+      "ML",
+      "MU",
+      "MW",
+      "MZ",
+      "NA",
+      "NE",
+      "NG",
+      "RW",
+      "SC",
+      "SL",
+      "SN",
+      "ST",
+      "SZ",
+      "TD",
+      "TG",
+      "TZ",
+      "UG",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3WBszh8p6G2xXEqN2j5HQq"
+    },
+    "href": "https://api.spotify.com/v1/albums/3WBszh8p6G2xXEqN2j5HQq",
+    "id": "3WBszh8p6G2xXEqN2j5HQq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273503594274737131e98b03b58",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02503594274737131e98b03b58",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851503594274737131e98b03b58",
+        "width": 64
+      }
+    ],
+    "name": "Gold: 100 Songs From A Life In Music",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 100,
+    "type": "album",
+    "uri": "spotify:album:3WBszh8p6G2xXEqN2j5HQq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS"
+      },
+      "href": "https://api.spotify.com/v1/artists/2rJkmlVHePMo2gk0InTZRS",
+      "id": "2rJkmlVHePMo2gk0InTZRS",
+      "name": "Vera Lynn",
+      "type": "artist",
+      "uri": "spotify:artist:2rJkmlVHePMo2gk0InTZRS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1OOpgf6NT46tOGAgjgZtzl"
+      },
+      "href": "https://api.spotify.com/v1/artists/1OOpgf6NT46tOGAgjgZtzl",
+      "id": "1OOpgf6NT46tOGAgjgZtzl",
+      "name": "Sailors, Soldiers & Airmen of Her Majesty's Forces",
+      "type": "artist",
+      "uri": "spotify:artist:1OOpgf6NT46tOGAgjgZtzl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2"
+      },
+      "href": "https://api.spotify.com/v1/artists/62iRboFRt3fBndcWdXMyL2",
+      "id": "62iRboFRt3fBndcWdXMyL2",
+      "name": "Roland Shaw And His Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:62iRboFRt3fBndcWdXMyL2"
+    }
+  ],
+  "available_markets": [
+    "AO",
+    "BF",
+    "BI",
+    "BJ",
+    "BW",
+    "CD",
+    "CG",
+    "CI",
+    "CM",
+    "DJ",
+    "GA",
+    "GB",
+    "GH",
+    "GM",
+    "GN",
+    "GQ",
+    "GW",
+    "IE",
+    "KE",
+    "KM",
+    "LR",
+    "LS",
+    "MG",
+    "ML",
+    "MU",
+    "MW",
+    "MZ",
+    "NA",
+    "NE",
+    "NG",
+    "RW",
+    "SC",
+    "SL",
+    "SN",
+    "ST",
+    "SZ",
+    "TD",
+    "TG",
+    "TZ",
+    "UG",
+    "ZA",
+    "ZM",
+    "ZW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 178666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF075320110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3qXpbtghezZZJJu77upfkv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3qXpbtghezZZJJu77upfkv",
+  "id": "3qXpbtghezZZJJu77upfkv",
+  "is_local": false,
+  "name": "We'll Meet Again",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3qXpbtghezZZJJu77upfkv"
+}

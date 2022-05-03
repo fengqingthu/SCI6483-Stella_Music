@@ -1,0 +1,20 @@
+{
+  "danceability": 0.644,
+  "energy": 0.895,
+  "key": 2,
+  "loudness": -5.666,
+  "mode": 0,
+  "speechiness": 0.0365,
+  "acousticness": 0.0486,
+  "instrumentalness": 0.00732,
+  "liveness": 0.212,
+  "valence": 0.839,
+  "tempo": 122.1,
+  "type": "audio_features",
+  "id": "5SMv636dHIy8h1TXjoboue",
+  "uri": "spotify:track:5SMv636dHIy8h1TXjoboue",
+  "track_href": "https://api.spotify.com/v1/tracks/5SMv636dHIy8h1TXjoboue",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SMv636dHIy8h1TXjoboue",
+  "duration_ms": 219933,
+  "time_signature": 4
+}

@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        },
+        "href": "https://api.spotify.com/v1/artists/5z1VAFwT35EVvCp1XlZZuL",
+        "id": "5z1VAFwT35EVvCp1XlZZuL",
+        "name": "Diana Krall",
+        "type": "artist",
+        "uri": "spotify:artist:5z1VAFwT35EVvCp1XlZZuL"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "IE",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0y23DgLgmNM6o3SLlXV0Xd"
+    },
+    "href": "https://api.spotify.com/v1/albums/0y23DgLgmNM6o3SLlXV0Xd",
+    "id": "0y23DgLgmNM6o3SLlXV0Xd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273aabcb4380c33bad89e2b9829",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02aabcb4380c33bad89e2b9829",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851aabcb4380c33bad89e2b9829",
+        "width": 64
+      }
+    ],
+    "name": "Wallflower (Deluxe Edition)",
+    "release_date": "2014-10-21",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:0y23DgLgmNM6o3SLlXV0Xd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+      },
+      "href": "https://api.spotify.com/v1/artists/5z1VAFwT35EVvCp1XlZZuL",
+      "id": "5z1VAFwT35EVvCp1XlZZuL",
+      "name": "Diana Krall",
+      "type": "artist",
+      "uri": "spotify:artist:5z1VAFwT35EVvCp1XlZZuL"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 231080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71411941"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/28pCUugff10DEjOtU2kKSS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/28pCUugff10DEjOtU2kKSS",
+  "id": "28pCUugff10DEjOtU2kKSS",
+  "is_local": false,
+  "name": "In My Life",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:28pCUugff10DEjOtU2kKSS"
+}

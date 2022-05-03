@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3fZN1IFpMZNcCGCNrOaaZO"
+    },
+    "href": "https://api.spotify.com/v1/albums/3fZN1IFpMZNcCGCNrOaaZO",
+    "id": "3fZN1IFpMZNcCGCNrOaaZO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cc6c243b2b134444d0182ed9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cc6c243b2b134444d0182ed9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cc6c243b2b134444d0182ed9",
+        "width": 64
+      }
+    ],
+    "name": "Piano Essentials",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:3fZN1IFpMZNcCGCNrOaaZO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Dot4uMsJMx8n1Xi7gAdV6",
+      "id": "1Dot4uMsJMx8n1Xi7gAdV6",
+      "name": "Jean-Yves Thibaudet",
+      "type": "artist",
+      "uri": "spotify:artist:1Dot4uMsJMx8n1Xi7gAdV6"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 246520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSJ10700545"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/05LgxpgKQtdeTMEqNYqmt7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/05LgxpgKQtdeTMEqNYqmt7",
+  "id": "05LgxpgKQtdeTMEqNYqmt7",
+  "is_local": false,
+  "name": "Liebestraume No. 3 In A-flat Major (Nottorno No. 3)",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:05LgxpgKQtdeTMEqNYqmt7"
+}

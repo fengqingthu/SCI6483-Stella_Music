@@ -1,0 +1,161 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        },
+        "href": "https://api.spotify.com/v1/artists/5vBKu1igxFo6g1sHADkIdg",
+        "id": "5vBKu1igxFo6g1sHADkIdg",
+        "name": "Kate Nash",
+        "type": "artist",
+        "uri": "spotify:artist:5vBKu1igxFo6g1sHADkIdg"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "BA",
+      "BD",
+      "BG",
+      "BR",
+      "BY",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "HK",
+      "HR",
+      "ID",
+      "IL",
+      "IN",
+      "JP",
+      "KR",
+      "KZ",
+      "LK",
+      "ME",
+      "MK",
+      "MU",
+      "MX",
+      "MY",
+      "NG",
+      "NZ",
+      "PH",
+      "RO",
+      "RS",
+      "SG",
+      "SN",
+      "TH",
+      "TJ",
+      "TR",
+      "TW",
+      "TZ",
+      "UA",
+      "US",
+      "VE",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
+    },
+    "href": "https://api.spotify.com/v1/albums/4KNq0XtAJOTRKIA6W5zRsY",
+    "id": "4KNq0XtAJOTRKIA6W5zRsY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a02bff50b1877f1099a70670",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a02bff50b1877f1099a70670",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a02bff50b1877f1099a70670",
+        "width": 64
+      }
+    ],
+    "name": "Made of Bricks",
+    "release_date": "2007-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4KNq0XtAJOTRKIA6W5zRsY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+      },
+      "href": "https://api.spotify.com/v1/artists/5vBKu1igxFo6g1sHADkIdg",
+      "id": "5vBKu1igxFo6g1sHADkIdg",
+      "name": "Kate Nash",
+      "type": "artist",
+      "uri": "spotify:artist:5vBKu1igxFo6g1sHADkIdg"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BA",
+    "BD",
+    "BG",
+    "BR",
+    "BY",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "HK",
+    "HR",
+    "ID",
+    "IL",
+    "IN",
+    "JP",
+    "KR",
+    "KZ",
+    "LK",
+    "ME",
+    "MK",
+    "MU",
+    "MX",
+    "MY",
+    "NG",
+    "NZ",
+    "PH",
+    "RO",
+    "RS",
+    "SG",
+    "SN",
+    "TH",
+    "TJ",
+    "TR",
+    "TW",
+    "TZ",
+    "UA",
+    "US",
+    "VE",
+    "XK",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70706080"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/43YJuMTeTEV5FyjVfBqwyf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/43YJuMTeTEV5FyjVfBqwyf",
+  "id": "43YJuMTeTEV5FyjVfBqwyf",
+  "is_local": false,
+  "name": "Nicest Thing",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:43YJuMTeTEV5FyjVfBqwyf"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1LhK7wn59Hq6GNN4sUS3ih"
+        },
+        "href": "https://api.spotify.com/v1/artists/1LhK7wn59Hq6GNN4sUS3ih",
+        "id": "1LhK7wn59Hq6GNN4sUS3ih",
+        "name": "Daughters",
+        "type": "artist",
+        "uri": "spotify:artist:1LhK7wn59Hq6GNN4sUS3ih"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7w7ZTlk8YLc0OxviTp97qA"
+    },
+    "href": "https://api.spotify.com/v1/albums/7w7ZTlk8YLc0OxviTp97qA",
+    "id": "7w7ZTlk8YLc0OxviTp97qA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733a0ea65328068dcef898688e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023a0ea65328068dcef898688e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513a0ea65328068dcef898688e",
+        "width": 64
+      }
+    ],
+    "name": "You Won't Get What You Want",
+    "release_date": "2018-10-26",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:7w7ZTlk8YLc0OxviTp97qA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1LhK7wn59Hq6GNN4sUS3ih"
+      },
+      "href": "https://api.spotify.com/v1/artists/1LhK7wn59Hq6GNN4sUS3ih",
+      "id": "1LhK7wn59Hq6GNN4sUS3ih",
+      "name": "Daughters",
+      "type": "artist",
+      "uri": "spotify:artist:1LhK7wn59Hq6GNN4sUS3ih"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 235907,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM5WW1500574"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6Rhii7kYzUBa3l32JmF708"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6Rhii7kYzUBa3l32JmF708",
+  "id": "6Rhii7kYzUBa3l32JmF708",
+  "is_local": false,
+  "name": "The Reason They Hate Me",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/aaae19d18a6195bd8a7ea85c9e7f1a52d7bcfbc0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:6Rhii7kYzUBa3l32JmF708"
+}

@@ -1,0 +1,111 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/37J1PlAkhRK7yrZUtqaUpQ",
+        "id": "37J1PlAkhRK7yrZUtqaUpQ",
+        "name": "Caravan Palace",
+        "type": "artist",
+        "uri": "spotify:artist:37J1PlAkhRK7yrZUtqaUpQ"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "GB",
+      "GR",
+      "IE",
+      "IS",
+      "IT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1BMsvIq5sueuo1b0ySLQZO"
+    },
+    "href": "https://api.spotify.com/v1/albums/1BMsvIq5sueuo1b0ySLQZO",
+    "id": "1BMsvIq5sueuo1b0ySLQZO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731412e13b6b2209099cc78693",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021412e13b6b2209099cc78693",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511412e13b6b2209099cc78693",
+        "width": 64
+      }
+    ],
+    "name": "<I°_°I>",
+    "release_date": "2015-10-16",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1BMsvIq5sueuo1b0ySLQZO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/37J1PlAkhRK7yrZUtqaUpQ",
+      "id": "37J1PlAkhRK7yrZUtqaUpQ",
+      "name": "Caravan Palace",
+      "type": "artist",
+      "uri": "spotify:artist:37J1PlAkhRK7yrZUtqaUpQ"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CZ",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "GB",
+    "GR",
+    "IE",
+    "IS",
+    "IT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241366,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR89R1500008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5O8MtMBL6XFGyqy41XgfLE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5O8MtMBL6XFGyqy41XgfLE",
+  "id": "5O8MtMBL6XFGyqy41XgfLE",
+  "is_local": false,
+  "name": "Russian",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/17370b307956310efcb14c314e48ec29fd8faa3f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5O8MtMBL6XFGyqy41XgfLE"
+}

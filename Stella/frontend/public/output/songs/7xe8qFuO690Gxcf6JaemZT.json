@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+        "id": "0ucLPotcQNI7AViFytdhBz",
+        "name": "Ladytron",
+        "type": "artist",
+        "uri": "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2vbAeAhBqZxuF3aJmlPWBQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/2vbAeAhBqZxuF3aJmlPWBQ",
+    "id": "2vbAeAhBqZxuF3aJmlPWBQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273eb2045a151fbff564447746d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02eb2045a151fbff564447746d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851eb2045a151fbff564447746d",
+        "width": 64
+      }
+    ],
+    "name": "Best of 00-10",
+    "release_date": "2011-03-28",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:2vbAeAhBqZxuF3aJmlPWBQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+      "id": "0ucLPotcQNI7AViFytdhBz",
+      "name": "Ladytron",
+      "type": "artist",
+      "uri": "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 229440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAN111000313"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7xe8qFuO690Gxcf6JaemZT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7xe8qFuO690Gxcf6JaemZT",
+  "id": "7xe8qFuO690Gxcf6JaemZT",
+  "is_local": false,
+  "name": "Playgirl",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:7xe8qFuO690Gxcf6JaemZT"
+}

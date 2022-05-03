@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5QcGYbIhQiKu472ypOrhJu"
+        },
+        "href": "https://api.spotify.com/v1/artists/5QcGYbIhQiKu472ypOrhJu",
+        "id": "5QcGYbIhQiKu472ypOrhJu",
+        "name": "Jimmy Gnecco",
+        "type": "artist",
+        "uri": "spotify:artist:5QcGYbIhQiKu472ypOrhJu"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3XavN5vUPnb6Vm7Opo0ybH"
+    },
+    "href": "https://api.spotify.com/v1/albums/3XavN5vUPnb6Vm7Opo0ybH",
+    "id": "3XavN5vUPnb6Vm7Opo0ybH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ab80db5cae791931f06b0354",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ab80db5cae791931f06b0354",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ab80db5cae791931f06b0354",
+        "width": 64
+      }
+    ],
+    "name": "The Heart X Edition",
+    "release_date": "2011-10-31",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3XavN5vUPnb6Vm7Opo0ybH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5QcGYbIhQiKu472ypOrhJu"
+      },
+      "href": "https://api.spotify.com/v1/artists/5QcGYbIhQiKu472ypOrhJu",
+      "id": "5QcGYbIhQiKu472ypOrhJu",
+      "name": "Jimmy Gnecco",
+      "type": "artist",
+      "uri": "spotify:artist:5QcGYbIhQiKu472ypOrhJu"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 371078,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USN2F0810089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7AEb7jltpkX4oQGr7poBBd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7AEb7jltpkX4oQGr7poBBd",
+  "id": "7AEb7jltpkX4oQGr7poBBd",
+  "is_local": false,
+  "name": "The Heart (x)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7AEb7jltpkX4oQGr7poBBd"
+}

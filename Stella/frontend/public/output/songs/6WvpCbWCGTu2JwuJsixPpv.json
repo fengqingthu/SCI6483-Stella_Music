@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "BR",
+      "IN",
+      "JP",
+      "MX",
+      "PT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2edW9MUCdtzxFN77MVCCxO"
+    },
+    "href": "https://api.spotify.com/v1/albums/2edW9MUCdtzxFN77MVCCxO",
+    "id": "2edW9MUCdtzxFN77MVCCxO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dcd40d815d7c745045cba9fe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dcd40d815d7c745045cba9fe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dcd40d815d7c745045cba9fe",
+        "width": 64
+      }
+    ],
+    "name": "The Chillout Session",
+    "release_date": "2020-04-07",
+    "release_date_precision": "day",
+    "total_tracks": 29,
+    "type": "album",
+    "uri": "spotify:album:2edW9MUCdtzxFN77MVCCxO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kQ4ttxqjuXRDMmsYXHlZD"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kQ4ttxqjuXRDMmsYXHlZD",
+      "id": "2kQ4ttxqjuXRDMmsYXHlZD",
+      "name": "Jakatta",
+      "type": "artist",
+      "uri": "spotify:artist:2kQ4ttxqjuXRDMmsYXHlZD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
+      },
+      "href": "https://api.spotify.com/v1/artists/7LeHdLOuiySZgt7ewdckbX",
+      "id": "7LeHdLOuiySZgt7ewdckbX",
+      "name": "Afterlife",
+      "type": "artist",
+      "uri": "spotify:artist:7LeHdLOuiySZgt7ewdckbX"
+    }
+  ],
+  "available_markets": [
+    "BR",
+    "IN",
+    "JP",
+    "MX",
+    "PT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 260519,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM6MZ2020911"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6WvpCbWCGTu2JwuJsixPpv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6WvpCbWCGTu2JwuJsixPpv",
+  "id": "6WvpCbWCGTu2JwuJsixPpv",
+  "is_local": false,
+  "name": "American Dream - Afterlife Mix",
+  "popularity": 10,
+  "preview_url": null,
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:6WvpCbWCGTu2JwuJsixPpv"
+}

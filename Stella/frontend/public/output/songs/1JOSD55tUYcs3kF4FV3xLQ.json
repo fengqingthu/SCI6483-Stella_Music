@@ -1,0 +1,135 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5svDnd8joFhbpbA3Ar0CfN",
+        "id": "5svDnd8joFhbpbA3Ar0CfN",
+        "name": "Junkie XL",
+        "type": "artist",
+        "uri": "spotify:artist:5svDnd8joFhbpbA3Ar0CfN"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BN",
+      "CH",
+      "DE",
+      "ES",
+      "GB",
+      "HK",
+      "ID",
+      "IE",
+      "IT",
+      "JP",
+      "KH",
+      "KR",
+      "LA",
+      "LI",
+      "LK",
+      "MO",
+      "MY",
+      "NL",
+      "PH",
+      "PL",
+      "SG",
+      "SI",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/10oO7uIh7x10Ma7az3JZBs"
+    },
+    "href": "https://api.spotify.com/v1/albums/10oO7uIh7x10Ma7az3JZBs",
+    "id": "10oO7uIh7x10Ma7az3JZBs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735f20d86af96726749303b3b8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025f20d86af96726749303b3b8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515f20d86af96726749303b3b8",
+        "width": 64
+      }
+    ],
+    "name": "Deadpool (Original Motion Picture Soundtrack)",
+    "release_date": "2016-02-05",
+    "release_date_precision": "day",
+    "total_tracks": 23,
+    "type": "album",
+    "uri": "spotify:album:10oO7uIh7x10Ma7az3JZBs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3CBAfv5IxPSyPNilBTX4tP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3CBAfv5IxPSyPNilBTX4tP",
+      "id": "3CBAfv5IxPSyPNilBTX4tP",
+      "name": "Teamheadkick",
+      "type": "artist",
+      "uri": "spotify:artist:3CBAfv5IxPSyPNilBTX4tP"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BN",
+    "CH",
+    "DE",
+    "ES",
+    "GB",
+    "HK",
+    "ID",
+    "IE",
+    "IT",
+    "JP",
+    "KH",
+    "KR",
+    "LA",
+    "LI",
+    "LK",
+    "MO",
+    "MY",
+    "NL",
+    "PH",
+    "PL",
+    "SG",
+    "SI",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205577,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "US5941406028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1JOSD55tUYcs3kF4FV3xLQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1JOSD55tUYcs3kF4FV3xLQ",
+  "id": "1JOSD55tUYcs3kF4FV3xLQ",
+  "is_local": false,
+  "name": "Deadpool Rap - Film Mix",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/9043a878c7f7699eefdba9c45646ea65567f8108?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:1JOSD55tUYcs3kF4FV3xLQ"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "name": "The Spaceman: Chaos",
+        "type": "artist",
+        "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6enGQyvJh4gAezjIP4UeGT"
+    },
+    "href": "https://api.spotify.com/v1/albums/6enGQyvJh4gAezjIP4UeGT",
+    "id": "6enGQyvJh4gAezjIP4UeGT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d583bfe1666c2b7be565da03",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d583bfe1666c2b7be565da03",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d583bfe1666c2b7be565da03",
+        "width": 64
+      }
+    ],
+    "name": "Walks Good: The Gold Ticket MixTape",
+    "release_date": "2017-09-20",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6enGQyvJh4gAezjIP4UeGT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "name": "The Spaceman: Chaos",
+      "type": "artist",
+      "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 229302,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZ9JZ1759785"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6AajXwdE8XS7DgFyaAoSpi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6AajXwdE8XS7DgFyaAoSpi",
+  "id": "6AajXwdE8XS7DgFyaAoSpi",
+  "is_local": false,
+  "name": "Laughing Face (Sweetheart)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:6AajXwdE8XS7DgFyaAoSpi"
+}

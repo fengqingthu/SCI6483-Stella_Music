@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Ct54gNxKnYLnXk9HhviMI",
+        "id": "2Ct54gNxKnYLnXk9HhviMI",
+        "name": "Feuerschwanz",
+        "type": "artist",
+        "uri": "spotify:artist:2Ct54gNxKnYLnXk9HhviMI"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1qqJGBKga1WW9rvr1n7tEy"
+    },
+    "href": "https://api.spotify.com/v1/albums/1qqJGBKga1WW9rvr1n7tEy",
+    "id": "1qqJGBKga1WW9rvr1n7tEy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27319afe679f4c48704e44fff60",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0219afe679f4c48704e44fff60",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485119afe679f4c48704e44fff60",
+        "width": 64
+      }
+    ],
+    "name": "Das Elfte Gebot (Deluxe Version)",
+    "release_date": "2020-06-26",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:1qqJGBKga1WW9rvr1n7tEy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Ct54gNxKnYLnXk9HhviMI",
+      "id": "2Ct54gNxKnYLnXk9HhviMI",
+      "name": "Feuerschwanz",
+      "type": "artist",
+      "uri": "spotify:artist:2Ct54gNxKnYLnXk9HhviMI"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 216120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262092303"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6J0erjprvk14YFebgYC8cs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6J0erjprvk14YFebgYC8cs",
+  "id": "6J0erjprvk14YFebgYC8cs",
+  "is_local": false,
+  "name": "Das Elfte Gebot",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/591c225742c9eb0f756be5608fc2d1bebec4839e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6J0erjprvk14YFebgYC8cs"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR"
+        },
+        "href": "https://api.spotify.com/v1/artists/0l1nmcjqNlk9dQHb6H4sLR",
+        "id": "0l1nmcjqNlk9dQHb6H4sLR",
+        "name": "Collabro",
+        "type": "artist",
+        "uri": "spotify:artist:0l1nmcjqNlk9dQHb6H4sLR"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0yArJ8C4wYLGf1YZW2rn4k"
+    },
+    "href": "https://api.spotify.com/v1/albums/0yArJ8C4wYLGf1YZW2rn4k",
+    "id": "0yArJ8C4wYLGf1YZW2rn4k",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366de14f3583d9e1a99dc18c4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266de14f3583d9e1a99dc18c4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166de14f3583d9e1a99dc18c4",
+        "width": 64
+      }
+    ],
+    "name": "Home",
+    "release_date": "2017-03-24",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:0yArJ8C4wYLGf1YZW2rn4k"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR"
+      },
+      "href": "https://api.spotify.com/v1/artists/0l1nmcjqNlk9dQHb6H4sLR",
+      "id": "0l1nmcjqNlk9dQHb6H4sLR",
+      "name": "Collabro",
+      "type": "artist",
+      "uri": "spotify:artist:0l1nmcjqNlk9dQHb6H4sLR"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "UKJ541600013"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2OkeL6yXo1f38qcYLKe1Ii"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2OkeL6yXo1f38qcYLKe1Ii",
+  "id": "2OkeL6yXo1f38qcYLKe1Ii",
+  "is_local": false,
+  "name": "Lighthouse",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/b70580ba71a46076f576fd21495c51c57fcb9d7b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:2OkeL6yXo1f38qcYLKe1Ii"
+}

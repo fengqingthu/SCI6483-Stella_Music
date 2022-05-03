@@ -1,0 +1,20 @@
+{
+  "danceability": 0.616,
+  "energy": 0.845,
+  "key": 9,
+  "loudness": -6.072,
+  "mode": 0,
+  "speechiness": 0.185,
+  "acousticness": 0.341,
+  "instrumentalness": 0.00000839,
+  "liveness": 0.121,
+  "valence": 0.714,
+  "tempo": 162.061,
+  "type": "audio_features",
+  "id": "12MinAwnBD9uFK2amDeXty",
+  "uri": "spotify:track:12MinAwnBD9uFK2amDeXty",
+  "track_href": "https://api.spotify.com/v1/tracks/12MinAwnBD9uFK2amDeXty",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/12MinAwnBD9uFK2amDeXty",
+  "duration_ms": 116771,
+  "time_signature": 4
+}

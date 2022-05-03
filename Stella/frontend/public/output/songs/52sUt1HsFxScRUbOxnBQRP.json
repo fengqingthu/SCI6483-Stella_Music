@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+        "id": "2exkZbmNqMKnT8LRWuxWgy",
+        "name": "Moderat",
+        "type": "artist",
+        "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3WFNF1Hp0UBPswcawDHpUS"
+    },
+    "href": "https://api.spotify.com/v1/albums/3WFNF1Hp0UBPswcawDHpUS",
+    "id": "3WFNF1Hp0UBPswcawDHpUS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731e59786a357e89cac748f317",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021e59786a357e89cac748f317",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511e59786a357e89cac748f317",
+        "width": 64
+      }
+    ],
+    "name": "II",
+    "release_date": "2013-08-05",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3WFNF1Hp0UBPswcawDHpUS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+      "id": "2exkZbmNqMKnT8LRWuxWgy",
+      "name": "Moderat",
+      "type": "artist",
+      "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 262840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEOE81310018"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/52sUt1HsFxScRUbOxnBQRP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/52sUt1HsFxScRUbOxnBQRP",
+  "id": "52sUt1HsFxScRUbOxnBQRP",
+  "is_local": false,
+  "name": "Bad Kingdom",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/094ed9fdc3399f572144e18e022fce3a85966f39?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:52sUt1HsFxScRUbOxnBQRP"
+}

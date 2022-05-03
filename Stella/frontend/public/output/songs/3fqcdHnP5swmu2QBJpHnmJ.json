@@ -1,0 +1,199 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/4OOlG5eBXSkSAAEeKjJb5Y",
+        "id": "4OOlG5eBXSkSAAEeKjJb5Y",
+        "name": "Courtney Barnett",
+        "type": "artist",
+        "uri": "spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+        "id": "5gspAQIAH8nJUrMYgXjCJ2",
+        "name": "Kurt Vile",
+        "type": "artist",
+        "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CW",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/19tlLMhy5985btqv3jE8eG"
+    },
+    "href": "https://api.spotify.com/v1/albums/19tlLMhy5985btqv3jE8eG",
+    "id": "19tlLMhy5985btqv3jE8eG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730e3cb85c9f1139eaea1960c4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020e3cb85c9f1139eaea1960c4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510e3cb85c9f1139eaea1960c4",
+        "width": 64
+      }
+    ],
+    "name": "Lotta Sea Lice",
+    "release_date": "2017-10-13",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:19tlLMhy5985btqv3jE8eG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/4OOlG5eBXSkSAAEeKjJb5Y",
+      "id": "4OOlG5eBXSkSAAEeKjJb5Y",
+      "name": "Courtney Barnett",
+      "type": "artist",
+      "uri": "spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+      },
+      "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+      "id": "5gspAQIAH8nJUrMYgXjCJ2",
+      "name": "Kurt Vile",
+      "type": "artist",
+      "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CW",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 379786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMTD1709998"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3fqcdHnP5swmu2QBJpHnmJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3fqcdHnP5swmu2QBJpHnmJ",
+  "id": "3fqcdHnP5swmu2QBJpHnmJ",
+  "is_local": false,
+  "name": "Over Everything",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/48caf0ac509bed46ae10bb6c69ac7a9dbb7c07ab?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3fqcdHnP5swmu2QBJpHnmJ"
+}

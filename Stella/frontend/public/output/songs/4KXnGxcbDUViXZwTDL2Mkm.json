@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hxa4ytcni5FUIK8IR27tX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hxa4ytcni5FUIK8IR27tX",
+        "id": "2hxa4ytcni5FUIK8IR27tX",
+        "name": "Allen Lande",
+        "type": "artist",
+        "uri": "spotify:artist:2hxa4ytcni5FUIK8IR27tX"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3RBQnUdj0l4NjeA4iWZHtT"
+    },
+    "href": "https://api.spotify.com/v1/albums/3RBQnUdj0l4NjeA4iWZHtT",
+    "id": "3RBQnUdj0l4NjeA4iWZHtT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cab0e93036b5cd3adf453a92",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cab0e93036b5cd3adf453a92",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cab0e93036b5cd3adf453a92",
+        "width": 64
+      }
+    ],
+    "name": "THE GREAT DIVIDE",
+    "release_date": "2014-10-15",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3RBQnUdj0l4NjeA4iWZHtT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hxa4ytcni5FUIK8IR27tX"
+      },
+      "href": "https://api.spotify.com/v1/artists/2hxa4ytcni5FUIK8IR27tX",
+      "id": "2hxa4ytcni5FUIK8IR27tX",
+      "name": "Allen Lande",
+      "type": "artist",
+      "uri": "spotify:artist:2hxa4ytcni5FUIK8IR27tX"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 247706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITG271400092"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4KXnGxcbDUViXZwTDL2Mkm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4KXnGxcbDUViXZwTDL2Mkm",
+  "id": "4KXnGxcbDUViXZwTDL2Mkm",
+  "is_local": false,
+  "name": "Down From The Mountain",
+  "popularity": 3,
+  "preview_url": "https://p.scdn.co/mp3-preview/bc23983d428e9a9d2a612aa2170d6f9514f75a61?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4KXnGxcbDUViXZwTDL2Mkm"
+}

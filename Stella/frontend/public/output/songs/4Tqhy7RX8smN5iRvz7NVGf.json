@@ -1,0 +1,155 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy"
+        },
+        "href": "https://api.spotify.com/v1/artists/5tqMW5dSAlvh0GvgD3XfDy",
+        "id": "5tqMW5dSAlvh0GvgD3XfDy",
+        "name": "Outlandish",
+        "type": "artist",
+        "uri": "spotify:artist:5tqMW5dSAlvh0GvgD3XfDy"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DK",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "IS",
+      "JM",
+      "KN",
+      "LC",
+      "LI",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5grZE2o6Kf1nl4cWyngUT0"
+    },
+    "href": "https://api.spotify.com/v1/albums/5grZE2o6Kf1nl4cWyngUT0",
+    "id": "5grZE2o6Kf1nl4cWyngUT0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d02111cf055f86d29ae5fc1d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d02111cf055f86d29ae5fc1d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d02111cf055f86d29ae5fc1d",
+        "width": 64
+      }
+    ],
+    "name": "Closer Than Veins",
+    "release_date": "2005-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:5grZE2o6Kf1nl4cWyngUT0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5tqMW5dSAlvh0GvgD3XfDy",
+      "id": "5tqMW5dSAlvh0GvgD3XfDy",
+      "name": "Outlandish",
+      "type": "artist",
+      "uri": "spotify:artist:5tqMW5dSAlvh0GvgD3XfDy"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DK",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "IS",
+    "JM",
+    "KN",
+    "LC",
+    "LI",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 243346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKADG0501801"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Tqhy7RX8smN5iRvz7NVGf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Tqhy7RX8smN5iRvz7NVGf",
+  "id": "4Tqhy7RX8smN5iRvz7NVGf",
+  "is_local": false,
+  "name": "Look Into My Eyes",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/81ce6b9971ed5fcd9cf551f0a252901999648aac?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4Tqhy7RX8smN5iRvz7NVGf"
+}

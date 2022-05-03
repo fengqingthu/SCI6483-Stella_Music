@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        },
+        "href": "https://api.spotify.com/v1/artists/2KlDlqEMf0YyYW8rBKUx6W",
+        "id": "2KlDlqEMf0YyYW8rBKUx6W",
+        "name": "Lescop",
+        "type": "artist",
+        "uri": "spotify:artist:2KlDlqEMf0YyYW8rBKUx6W"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "CH",
+      "FR",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0AZIpjuxWMjxlJZuGDRO4g"
+    },
+    "href": "https://api.spotify.com/v1/albums/0AZIpjuxWMjxlJZuGDRO4g",
+    "id": "0AZIpjuxWMjxlJZuGDRO4g",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739fb3b418c4b27cd3f75fe112",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029fb3b418c4b27cd3f75fe112",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519fb3b418c4b27cd3f75fe112",
+        "width": 64
+      }
+    ],
+    "name": "Lescop",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0AZIpjuxWMjxlJZuGDRO4g"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KlDlqEMf0YyYW8rBKUx6W",
+      "id": "2KlDlqEMf0YyYW8rBKUx6W",
+      "name": "Lescop",
+      "type": "artist",
+      "uri": "spotify:artist:2KlDlqEMf0YyYW8rBKUx6W"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "CH",
+    "FR",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 283773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11109681"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2JvYSUbSUqawKyfLSF25GJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2JvYSUbSUqawKyfLSF25GJ",
+  "id": "2JvYSUbSUqawKyfLSF25GJ",
+  "is_local": false,
+  "name": "La Forêt",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/9b7fce203eff6e1e6e7e90482f30206a999180d8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2JvYSUbSUqawKyfLSF25GJ"
+}

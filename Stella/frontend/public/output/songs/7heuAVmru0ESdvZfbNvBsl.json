@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0vIOxevscQIJBC52bQd31I"
+        },
+        "href": "https://api.spotify.com/v1/artists/0vIOxevscQIJBC52bQd31I",
+        "id": "0vIOxevscQIJBC52bQd31I",
+        "name": "DEATHCHANNEL",
+        "type": "artist",
+        "uri": "spotify:artist:0vIOxevscQIJBC52bQd31I"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2RPYCAmYoun9OlVqt35qpx"
+    },
+    "href": "https://api.spotify.com/v1/albums/2RPYCAmYoun9OlVqt35qpx",
+    "id": "2RPYCAmYoun9OlVqt35qpx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b5465c0751333bb1d6b986cd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b5465c0751333bb1d6b986cd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b5465c0751333bb1d6b986cd",
+        "width": 64
+      }
+    ],
+    "name": "Джаггернаут",
+    "release_date": "2020-04-02",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2RPYCAmYoun9OlVqt35qpx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0vIOxevscQIJBC52bQd31I"
+      },
+      "href": "https://api.spotify.com/v1/artists/0vIOxevscQIJBC52bQd31I",
+      "id": "0vIOxevscQIJBC52bQd31I",
+      "name": "DEATHCHANNEL",
+      "type": "artist",
+      "uri": "spotify:artist:0vIOxevscQIJBC52bQd31I"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 181534,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QZGLS2000816"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7heuAVmru0ESdvZfbNvBsl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7heuAVmru0ESdvZfbNvBsl",
+  "id": "7heuAVmru0ESdvZfbNvBsl",
+  "is_local": false,
+  "name": "Джаггернаут",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7heuAVmru0ESdvZfbNvBsl"
+}

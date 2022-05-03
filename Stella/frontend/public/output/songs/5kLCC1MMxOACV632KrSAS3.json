@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href": "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id": "22HVxZPA6UhBp8wahxDA6I",
+        "name": "France Gall",
+        "type": "artist",
+        "uri": "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "IL",
+      "JP",
+      "RO",
+      "TR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1eSKl9jItjx8hcHFnmjOcm"
+    },
+    "href": "https://api.spotify.com/v1/albums/1eSKl9jItjx8hcHFnmjOcm",
+    "id": "1eSKl9jItjx8hcHFnmjOcm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27325abe2110bc713d51390c138",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0225abe2110bc713d51390c138",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485125abe2110bc713d51390c138",
+        "width": 64
+      }
+    ],
+    "name": "Lounge Legends: France Gall",
+    "release_date": "2002-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:1eSKl9jItjx8hcHFnmjOcm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href": "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id": "22HVxZPA6UhBp8wahxDA6I",
+      "name": "France Gall",
+      "type": "artist",
+      "uri": "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "IL",
+    "JP",
+    "RO",
+    "TR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 149266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ026500100"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5kLCC1MMxOACV632KrSAS3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5kLCC1MMxOACV632KrSAS3",
+  "id": "5kLCC1MMxOACV632KrSAS3",
+  "is_local": false,
+  "name": "Poupée de cire, poupée de son",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5kLCC1MMxOACV632KrSAS3"
+}

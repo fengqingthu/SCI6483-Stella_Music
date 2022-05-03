@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        },
+        "href": "https://api.spotify.com/v1/artists/4wXchxfTTggLtzkoUhO86Q",
+        "id": "4wXchxfTTggLtzkoUhO86Q",
+        "name": "Soccer Mommy",
+        "type": "artist",
+        "uri": "spotify:artist:4wXchxfTTggLtzkoUhO86Q"
+      }
+    ],
+    "available_markets": [
+      "IN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5MiU6fYSlSGIZFP6jLcZHN"
+    },
+    "href": "https://api.spotify.com/v1/albums/5MiU6fYSlSGIZFP6jLcZHN",
+    "id": "5MiU6fYSlSGIZFP6jLcZHN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e66cb1beaa6a5c2293b80e3a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e66cb1beaa6a5c2293b80e3a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e66cb1beaa6a5c2293b80e3a",
+        "width": 64
+      }
+    ],
+    "name": "Clean",
+    "release_date": "2014-03-02",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5MiU6fYSlSGIZFP6jLcZHN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/4wXchxfTTggLtzkoUhO86Q",
+      "id": "4wXchxfTTggLtzkoUhO86Q",
+      "name": "Soccer Mommy",
+      "type": "artist",
+      "uri": "spotify:artist:4wXchxfTTggLtzkoUhO86Q"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 282866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USFP71765208"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3IsbR1kjDQJ9NatgJAPrKi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3IsbR1kjDQJ9NatgJAPrKi",
+  "id": "3IsbR1kjDQJ9NatgJAPrKi",
+  "is_local": false,
+  "name": "Scorpio Rising",
+  "popularity": 9,
+  "preview_url": "https://p.scdn.co/mp3-preview/d77a44b2fd7d6ac2d1993442ee2ba6a8cd82fd80?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:3IsbR1kjDQJ9NatgJAPrKi"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.271,
+  "energy": 0.295,
+  "key": 9,
+  "loudness": -17.134,
+  "mode": 1,
+  "speechiness": 0.0508,
+  "acousticness": 0.468,
+  "instrumentalness": 0.833,
+  "liveness": 0.17,
+  "valence": 0.0431,
+  "tempo": 129.083,
+  "type": "audio_features",
+  "id": "1SRQypk1i1ldvmLEYZvFIX",
+  "uri": "spotify:track:1SRQypk1i1ldvmLEYZvFIX",
+  "track_href": "https://api.spotify.com/v1/tracks/1SRQypk1i1ldvmLEYZvFIX",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SRQypk1i1ldvmLEYZvFIX",
+  "duration_ms": 185707,
+  "time_signature": 4
+}

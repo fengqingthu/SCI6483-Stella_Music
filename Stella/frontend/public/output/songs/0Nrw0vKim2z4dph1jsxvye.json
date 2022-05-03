@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+        },
+        "href": "https://api.spotify.com/v1/artists/7d58WZ8qQHy2Sm5p52V2NP",
+        "id": "7d58WZ8qQHy2Sm5p52V2NP",
+        "name": "Aperture Science Psychoacoustic Laboratories",
+        "type": "artist",
+        "uri": "spotify:artist:7d58WZ8qQHy2Sm5p52V2NP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr"
+    },
+    "href": "https://api.spotify.com/v1/albums/5l1BFWphq5XiWlpbYUjrhr",
+    "id": "5l1BFWphq5XiWlpbYUjrhr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27394008f6625cab88b318e3c49",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0294008f6625cab88b318e3c49",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49",
+        "width": 64
+      }
+    ],
+    "name": "Portal 2: Songs to Test By (Collectors Edition)",
+    "release_date": "2011",
+    "release_date_precision": "year",
+    "total_tracks": 77,
+    "type": "album",
+    "uri": "spotify:album:5l1BFWphq5XiWlpbYUjrhr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+      },
+      "href": "https://api.spotify.com/v1/artists/7d58WZ8qQHy2Sm5p52V2NP",
+      "id": "7d58WZ8qQHy2Sm5p52V2NP",
+      "name": "Aperture Science Psychoacoustic Laboratories",
+      "type": "artist",
+      "uri": "spotify:artist:7d58WZ8qQHy2Sm5p52V2NP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 4,
+  "duration_ms": 177212,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA561361618"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Nrw0vKim2z4dph1jsxvye"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Nrw0vKim2z4dph1jsxvye",
+  "id": "0Nrw0vKim2z4dph1jsxvye",
+  "is_local": false,
+  "name": "Still Alive",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/7e10fdb55cd06472c0f3d7e3333da3e853932268?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:0Nrw0vKim2z4dph1jsxvye"
+}

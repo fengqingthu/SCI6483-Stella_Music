@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2NdeV5rLm47xAvogXrYhJX",
+        "id": "2NdeV5rLm47xAvogXrYhJX",
+        "name": "Ciara",
+        "type": "artist",
+        "uri": "spotify:artist:2NdeV5rLm47xAvogXrYhJX"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "DZ",
+      "FR",
+      "MA",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7"
+    },
+    "href": "https://api.spotify.com/v1/albums/4iGuSUpSeXQKckIuQGwPg7",
+    "id": "4iGuSUpSeXQKckIuQGwPg7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ee6af1d7cd77a0710dcb2ca9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ee6af1d7cd77a0710dcb2ca9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ee6af1d7cd77a0710dcb2ca9",
+        "width": 64
+      }
+    ],
+    "name": "Ciara",
+    "release_date": "2013-07-03",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4iGuSUpSeXQKckIuQGwPg7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+      },
+      "href": "https://api.spotify.com/v1/artists/2NdeV5rLm47xAvogXrYhJX",
+      "id": "2NdeV5rLm47xAvogXrYhJX",
+      "name": "Ciara",
+      "type": "artist",
+      "uri": "spotify:artist:2NdeV5rLm47xAvogXrYhJX"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "DZ",
+    "FR",
+    "MA",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 234040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM11301017"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/30lAGXMytmKjGVZk9BBC3m"
+  },
+  "href": "https://api.spotify.com/v1/tracks/30lAGXMytmKjGVZk9BBC3m",
+  "id": "30lAGXMytmKjGVZk9BBC3m",
+  "is_local": false,
+  "name": "Body Party",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/e6fa51684a3ae866365066764ccbc049ea49047b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:30lAGXMytmKjGVZk9BBC3m"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N"
+        },
+        "href": "https://api.spotify.com/v1/artists/2GAuYKmCqyuXZ7jcNc686N",
+        "id": "2GAuYKmCqyuXZ7jcNc686N",
+        "name": "Greenflow",
+        "type": "artist",
+        "uri": "spotify:artist:2GAuYKmCqyuXZ7jcNc686N"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/54rRe6bLzc2Poy3VdppOgS"
+    },
+    "href": "https://api.spotify.com/v1/albums/54rRe6bLzc2Poy3VdppOgS",
+    "id": "54rRe6bLzc2Poy3VdppOgS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738943a1e9772870b96b25bfc9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028943a1e9772870b96b25bfc9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518943a1e9772870b96b25bfc9",
+        "width": 64
+      }
+    ],
+    "name": "Solutions",
+    "release_date": "2015-06-24",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:54rRe6bLzc2Poy3VdppOgS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N"
+      },
+      "href": "https://api.spotify.com/v1/artists/2GAuYKmCqyuXZ7jcNc686N",
+      "id": "2GAuYKmCqyuXZ7jcNc686N",
+      "name": "Greenflow",
+      "type": "artist",
+      "uri": "spotify:artist:2GAuYKmCqyuXZ7jcNc686N"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 151266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPB621501199"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0TSbOOhgjd5BgL6cRFj1dM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0TSbOOhgjd5BgL6cRFj1dM",
+  "id": "0TSbOOhgjd5BgL6cRFj1dM",
+  "is_local": false,
+  "name": "One Lightbulb Honky Tonk",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0TSbOOhgjd5BgL6cRFj1dM"
+}

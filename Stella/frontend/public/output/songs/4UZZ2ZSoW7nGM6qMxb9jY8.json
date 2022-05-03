@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        },
+        "href": "https://api.spotify.com/v1/artists/4b0WsB47XCa9F83BmwQ7WX",
+        "id": "4b0WsB47XCa9F83BmwQ7WX",
+        "name": "The Righteous Brothers",
+        "type": "artist",
+        "uri": "spotify:artist:4b0WsB47XCa9F83BmwQ7WX"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom"
+    },
+    "href": "https://api.spotify.com/v1/albums/24CbH0PK4BnVUWP59klvom",
+    "id": "24CbH0PK4BnVUWP59klvom",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738776952405b131aa822b28e8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028776952405b131aa822b28e8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518776952405b131aa822b28e8",
+        "width": 64
+      }
+    ],
+    "name": "All Time Greats",
+    "release_date": "2019-11-15",
+    "release_date_precision": "day",
+    "total_tracks": 40,
+    "type": "album",
+    "uri": "spotify:album:24CbH0PK4BnVUWP59klvom"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+      },
+      "href": "https://api.spotify.com/v1/artists/4b0WsB47XCa9F83BmwQ7WX",
+      "id": "4b0WsB47XCa9F83BmwQ7WX",
+      "name": "The Righteous Brothers",
+      "type": "artist",
+      "uri": "spotify:artist:4b0WsB47XCa9F83BmwQ7WX"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 2,
+  "duration_ms": 195720,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USPG19090024"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4UZZ2ZSoW7nGM6qMxb9jY8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4UZZ2ZSoW7nGM6qMxb9jY8",
+  "id": "4UZZ2ZSoW7nGM6qMxb9jY8",
+  "is_local": false,
+  "name": "(You're My) Soul And Inspiration",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4UZZ2ZSoW7nGM6qMxb9jY8"
+}

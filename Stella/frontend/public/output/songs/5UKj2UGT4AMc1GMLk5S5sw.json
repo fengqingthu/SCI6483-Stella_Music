@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        },
+        "href": "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+        "id": "1l9d7B8W0IHy3LqWsxP2SH",
+        "name": "Phantogram",
+        "type": "artist",
+        "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
+    },
+    "href": "https://api.spotify.com/v1/albums/4jsK9bhq2NQBabB1tttQYR",
+    "id": "4jsK9bhq2NQBabB1tttQYR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732b9ba6e48a59fedf157ce0f0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022b9ba6e48a59fedf157ce0f0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512b9ba6e48a59fedf157ce0f0",
+        "width": 64
+      }
+    ],
+    "name": "Voices",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4jsK9bhq2NQBabB1tttQYR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+      },
+      "href": "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+      "id": "1l9d7B8W0IHy3LqWsxP2SH",
+      "name": "Phantogram",
+      "type": "artist",
+      "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+    }
+  ],
+  "available_markets": [
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71318566"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5UKj2UGT4AMc1GMLk5S5sw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5UKj2UGT4AMc1GMLk5S5sw",
+  "id": "5UKj2UGT4AMc1GMLk5S5sw",
+  "is_local": false,
+  "name": "Fall In Love",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5UKj2UGT4AMc1GMLk5S5sw"
+}

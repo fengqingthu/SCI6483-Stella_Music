@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Y7tXHSEejGu1vQ9bwDdXW",
+        "id": "4Y7tXHSEejGu1vQ9bwDdXW",
+        "name": "Fatboy Slim",
+        "type": "artist",
+        "uri": "spotify:artist:4Y7tXHSEejGu1vQ9bwDdXW"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu"
+    },
+    "href": "https://api.spotify.com/v1/albums/7G7cCHgQKbDD6zvwDQZyJu",
+    "id": "7G7cCHgQKbDD6zvwDQZyJu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27332922d86fcf090a1a6d4deb0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0232922d86fcf090a1a6d4deb0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485132922d86fcf090a1a6d4deb0",
+        "width": 64
+      }
+    ],
+    "name": "You've Come A Long Way Baby",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7G7cCHgQKbDD6zvwDQZyJu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Y7tXHSEejGu1vQ9bwDdXW",
+      "id": "4Y7tXHSEejGu1vQ9bwDdXW",
+      "name": "Fatboy Slim",
+      "type": "artist",
+      "uri": "spotify:artist:4Y7tXHSEejGu1vQ9bwDdXW"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 387706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBMQ9800077"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Pb9QabepyR9e9D8NqorPH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Pb9QabepyR9e9D8NqorPH",
+  "id": "3Pb9QabepyR9e9D8NqorPH",
+  "is_local": false,
+  "name": "Right Here, Right Now",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3Pb9QabepyR9e9D8NqorPH"
+}

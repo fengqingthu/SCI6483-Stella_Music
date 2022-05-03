@@ -1,0 +1,163 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ce2Vgy5OXlTNvrqbBV2Gk"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ce2Vgy5OXlTNvrqbBV2Gk",
+        "id": "5ce2Vgy5OXlTNvrqbBV2Gk",
+        "name": "Serge Reggiani",
+        "type": "artist",
+        "uri": "spotify:artist:5ce2Vgy5OXlTNvrqbBV2Gk"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AU",
+      "BE",
+      "BG",
+      "BH",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "IS",
+      "JO",
+      "JP",
+      "KW",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MX",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PK",
+      "PL",
+      "PT",
+      "QA",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/22QCFkT3IIgoxbzgwVUPYV"
+    },
+    "href": "https://api.spotify.com/v1/albums/22QCFkT3IIgoxbzgwVUPYV",
+    "id": "22QCFkT3IIgoxbzgwVUPYV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fc0e669223cc2e3c53db14ae",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fc0e669223cc2e3c53db14ae",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fc0e669223cc2e3c53db14ae",
+        "width": 64
+      }
+    ],
+    "name": "Universal Master",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:22QCFkT3IIgoxbzgwVUPYV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ce2Vgy5OXlTNvrqbBV2Gk"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ce2Vgy5OXlTNvrqbBV2Gk",
+      "id": "5ce2Vgy5OXlTNvrqbBV2Gk",
+      "name": "Serge Reggiani",
+      "type": "artist",
+      "uri": "spotify:artist:5ce2Vgy5OXlTNvrqbBV2Gk"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AU",
+    "BE",
+    "BG",
+    "BH",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "DZ",
+    "EE",
+    "EG",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "JO",
+    "JP",
+    "KW",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "MX",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PK",
+    "PL",
+    "PT",
+    "QA",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 252853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ027700690"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1Q7LBKar0Szb0SH8pS1jVj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1Q7LBKar0Szb0SH8pS1jVj",
+  "id": "1Q7LBKar0Szb0SH8pS1jVj",
+  "is_local": false,
+  "name": "Ma dernière volonté",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:1Q7LBKar0Szb0SH8pS1jVj"
+}

@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+        "id": "2eRNMtoi82UZUuaL6naDjA",
+        "name": "Cœur De Pirate",
+        "type": "artist",
+        "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jStlKLflTMUN6BajxrNlj",
+        "id": "6jStlKLflTMUN6BajxrNlj",
+        "name": "Julien Doré",
+        "type": "artist",
+        "uri": "spotify:artist:6jStlKLflTMUN6BajxrNlj"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/17fC0uQN2V68ALx4xglJtz"
+    },
+    "href": "https://api.spotify.com/v1/albums/17fC0uQN2V68ALx4xglJtz",
+    "id": "17fC0uQN2V68ALx4xglJtz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c016ff903df905db7c0a7066",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c016ff903df905db7c0a7066",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c016ff903df905db7c0a7066",
+        "width": 64
+      }
+    ],
+    "name": "Pour Un Infidèle",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:17fC0uQN2V68ALx4xglJtz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+      "id": "2eRNMtoi82UZUuaL6naDjA",
+      "name": "Cœur De Pirate",
+      "type": "artist",
+      "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jStlKLflTMUN6BajxrNlj",
+      "id": "6jStlKLflTMUN6BajxrNlj",
+      "name": "Julien Doré",
+      "type": "artist",
+      "uri": "spotify:artist:6jStlKLflTMUN6BajxrNlj"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAD430890770"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2h8MhtUAJq5nsKa08bMVyI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2h8MhtUAJq5nsKa08bMVyI",
+  "id": "2h8MhtUAJq5nsKa08bMVyI",
+  "is_local": false,
+  "name": "Pour Un Infidèle - Version Radio",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2h8MhtUAJq5nsKa08bMVyI"
+}

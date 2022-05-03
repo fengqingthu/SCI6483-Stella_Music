@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mcNCn1qbZUQ3J9KHapUxj",
+        "id": "2mcNCn1qbZUQ3J9KHapUxj",
+        "name": "The Dø",
+        "type": "artist",
+        "uri": "spotify:artist:2mcNCn1qbZUQ3J9KHapUxj"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6AvhoDJOvrqtTaRD9XKBMx"
+    },
+    "href": "https://api.spotify.com/v1/albums/6AvhoDJOvrqtTaRD9XKBMx",
+    "id": "6AvhoDJOvrqtTaRD9XKBMx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273947d80875940ef7fd787458c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02947d80875940ef7fd787458c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851947d80875940ef7fd787458c",
+        "width": 64
+      }
+    ],
+    "name": "Shake Shook Shaken",
+    "release_date": "2014-11-24",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6AvhoDJOvrqtTaRD9XKBMx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+      },
+      "href": "https://api.spotify.com/v1/artists/2mcNCn1qbZUQ3J9KHapUxj",
+      "id": "2mcNCn1qbZUQ3J9KHapUxj",
+      "name": "The Dø",
+      "type": "artist",
+      "uri": "spotify:artist:2mcNCn1qbZUQ3J9KHapUxj"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 171866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR2MH1400015"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1uHFQJjbEIGk5s2WtGt23O"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1uHFQJjbEIGk5s2WtGt23O",
+  "id": "1uHFQJjbEIGk5s2WtGt23O",
+  "is_local": false,
+  "name": "Despair, Hangover & Ecstasy",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/fae1bdaa21280c9de11e68210c912596a8070b5c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:1uHFQJjbEIGk5s2WtGt23O"
+}

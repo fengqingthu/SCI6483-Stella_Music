@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        },
+        "href": "https://api.spotify.com/v1/artists/67ps5pbKVO7V9Fcb4lTIXz",
+        "id": "67ps5pbKVO7V9Fcb4lTIXz",
+        "name": "Wind Rose",
+        "type": "artist",
+        "uri": "spotify:artist:67ps5pbKVO7V9Fcb4lTIXz"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0d7rBkguf5Y6NsGOOp1DVe"
+    },
+    "href": "https://api.spotify.com/v1/albums/0d7rBkguf5Y6NsGOOp1DVe",
+    "id": "0d7rBkguf5Y6NsGOOp1DVe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27395dc14907b5680c67977d165",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0295dc14907b5680c67977d165",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485195dc14907b5680c67977d165",
+        "width": 64
+      }
+    ],
+    "name": "Diggy Diggy Hole",
+    "release_date": "2019-06-06",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:0d7rBkguf5Y6NsGOOp1DVe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+      },
+      "href": "https://api.spotify.com/v1/artists/67ps5pbKVO7V9Fcb4lTIXz",
+      "id": "67ps5pbKVO7V9Fcb4lTIXz",
+      "name": "Wind Rose",
+      "type": "artist",
+      "uri": "spotify:artist:67ps5pbKVO7V9Fcb4lTIXz"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 316800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261985921"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5qumHyOGz0nLaddok1sAg1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5qumHyOGz0nLaddok1sAg1",
+  "id": "5qumHyOGz0nLaddok1sAg1",
+  "is_local": false,
+  "name": "Diggy Diggy Hole - Orchestral Version",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/842c2a15bb7184337b5a4fdc494e946d00529cc9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5qumHyOGz0nLaddok1sAg1"
+}

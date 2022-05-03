@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG"
+        },
+        "href": "https://api.spotify.com/v1/artists/0P4PF0pSB8hBeL1keuPwdG",
+        "id": "0P4PF0pSB8hBeL1keuPwdG",
+        "name": "Georges Moustaki",
+        "type": "artist",
+        "uri": "spotify:artist:0P4PF0pSB8hBeL1keuPwdG"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "CZ",
+      "EE",
+      "FI",
+      "FR",
+      "HK",
+      "IE",
+      "KR",
+      "LT",
+      "LV",
+      "MY",
+      "NL",
+      "NO",
+      "PK",
+      "PT",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TH",
+      "TW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5vWxDblQISL2kyApPDMqLJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5vWxDblQISL2kyApPDMqLJ",
+    "id": "5vWxDblQISL2kyApPDMqLJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b277428390afea7f10d1699d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b277428390afea7f10d1699d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b277428390afea7f10d1699d",
+        "width": 64
+      }
+    ],
+    "name": "Le Meteque",
+    "release_date": "2004-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:5vWxDblQISL2kyApPDMqLJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG"
+      },
+      "href": "https://api.spotify.com/v1/artists/0P4PF0pSB8hBeL1keuPwdG",
+      "id": "0P4PF0pSB8hBeL1keuPwdG",
+      "name": "Georges Moustaki",
+      "type": "artist",
+      "uri": "spotify:artist:0P4PF0pSB8hBeL1keuPwdG"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "CZ",
+    "EE",
+    "FI",
+    "FR",
+    "HK",
+    "IE",
+    "KR",
+    "LT",
+    "LV",
+    "MY",
+    "NL",
+    "NO",
+    "PK",
+    "PT",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TH",
+    "TW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 150440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ026900100"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7onHzMTqpys70lmzWd4Nw4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7onHzMTqpys70lmzWd4Nw4",
+  "id": "7onHzMTqpys70lmzWd4Nw4",
+  "is_local": false,
+  "name": "Le métèque",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7onHzMTqpys70lmzWd4Nw4"
+}

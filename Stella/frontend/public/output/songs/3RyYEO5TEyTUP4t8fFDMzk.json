@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        "href": "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+        "id": "09kXLeOXRyfNQMXRaDO4qA",
+        "name": "Nilüfer Yanya",
+        "type": "artist",
+        "uri": "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/236UmP2YMSjpGVRSJNl9Ce"
+    },
+    "href": "https://api.spotify.com/v1/albums/236UmP2YMSjpGVRSJNl9Ce",
+    "id": "236UmP2YMSjpGVRSJNl9Ce",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738173a266b3e5401c13768530",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028173a266b3e5401c13768530",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518173a266b3e5401c13768530",
+        "width": 64
+      }
+    ],
+    "name": "H34T RISES",
+    "release_date": "2019-10-08",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:236UmP2YMSjpGVRSJNl9Ce"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+      },
+      "href": "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+      "id": "09kXLeOXRyfNQMXRaDO4qA",
+      "name": "Nilüfer Yanya",
+      "type": "artist",
+      "uri": "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 170539,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USATO1900379"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3RyYEO5TEyTUP4t8fFDMzk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3RyYEO5TEyTUP4t8fFDMzk",
+  "id": "3RyYEO5TEyTUP4t8fFDMzk",
+  "is_local": false,
+  "name": "H34T RISES",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3RyYEO5TEyTUP4t8fFDMzk"
+}

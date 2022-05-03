@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2wUYahgemhGsBv9a51NfTn"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wUYahgemhGsBv9a51NfTn",
+        "id": "2wUYahgemhGsBv9a51NfTn",
+        "name": "Iron Fire",
+        "type": "artist",
+        "uri": "spotify:artist:2wUYahgemhGsBv9a51NfTn"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5reJirkRQfxy4z8KiCjgmx"
+    },
+    "href": "https://api.spotify.com/v1/albums/5reJirkRQfxy4z8KiCjgmx",
+    "id": "5reJirkRQfxy4z8KiCjgmx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273316e30729da95afc8ce0fd61",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02316e30729da95afc8ce0fd61",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851316e30729da95afc8ce0fd61",
+        "width": 64
+      }
+    ],
+    "name": "To The Grave",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5reJirkRQfxy4z8KiCjgmx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wUYahgemhGsBv9a51NfTn"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wUYahgemhGsBv9a51NfTn",
+      "id": "2wUYahgemhGsBv9a51NfTn",
+      "name": "Iron Fire",
+      "type": "artist",
+      "uri": "spotify:artist:2wUYahgemhGsBv9a51NfTn"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 250506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN260927202"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Mc7b5g2myDPph1wdbofTx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Mc7b5g2myDPph1wdbofTx",
+  "id": "3Mc7b5g2myDPph1wdbofTx",
+  "is_local": false,
+  "name": "Kill for Metal",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/c69c0276d35fa54d3759269101fa66b35c2e10d6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3Mc7b5g2myDPph1wdbofTx"
+}

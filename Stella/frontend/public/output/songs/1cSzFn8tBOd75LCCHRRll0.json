@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        },
+        "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+        "id": "3kzwYV3OCB010YfXMF0Avt",
+        "name": "Alvvays",
+        "type": "artist",
+        "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7hZHazzF2CYhmxIzvgDtyC"
+    },
+    "href": "https://api.spotify.com/v1/albums/7hZHazzF2CYhmxIzvgDtyC",
+    "id": "7hZHazzF2CYhmxIzvgDtyC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27314a2349a77ade285c5afffed",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0214a2349a77ade285c5afffed",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485114a2349a77ade285c5afffed",
+        "width": 64
+      }
+    ],
+    "name": "Alvvays",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:7hZHazzF2CYhmxIzvgDtyC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+      "id": "3kzwYV3OCB010YfXMF0Avt",
+      "name": "Alvvays",
+      "type": "artist",
+      "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 196560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CA8WH1200032"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1cSzFn8tBOd75LCCHRRll0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1cSzFn8tBOd75LCCHRRll0",
+  "id": "1cSzFn8tBOd75LCCHRRll0",
+  "is_local": false,
+  "name": "Archie, Marry Me",
+  "popularity": 46,
+  "preview_url": "https://p.scdn.co/mp3-preview/df696c9e4efbcf317f7c9aaa9040f537bca15ec1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1cSzFn8tBOd75LCCHRRll0"
+}

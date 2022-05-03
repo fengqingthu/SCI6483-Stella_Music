@@ -1,0 +1,143 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+        },
+        "href": "https://api.spotify.com/v1/artists/2msPoIYdnKVeuOOM960FC2",
+        "id": "2msPoIYdnKVeuOOM960FC2",
+        "name": "Sofia Karlberg",
+        "type": "artist",
+        "uri": "spotify:artist:2msPoIYdnKVeuOOM960FC2"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AM",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "FI",
+      "HR",
+      "HU",
+      "IS",
+      "LT",
+      "LU",
+      "LV",
+      "MD",
+      "ME",
+      "MK",
+      "NL",
+      "NO",
+      "PL",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6VMDaiRgybvRe5Kyyc3OPf"
+    },
+    "href": "https://api.spotify.com/v1/albums/6VMDaiRgybvRe5Kyyc3OPf",
+    "id": "6VMDaiRgybvRe5Kyyc3OPf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732f59ef5b76c7d85174786d3f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022f59ef5b76c7d85174786d3f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512f59ef5b76c7d85174786d3f",
+        "width": 64
+      }
+    ],
+    "name": "A Bible Of Mermaid Pictures (Acoustic)",
+    "release_date": "2017-03-17",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6VMDaiRgybvRe5Kyyc3OPf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+      },
+      "href": "https://api.spotify.com/v1/artists/2msPoIYdnKVeuOOM960FC2",
+      "id": "2msPoIYdnKVeuOOM960FC2",
+      "name": "Sofia Karlberg",
+      "type": "artist",
+      "uri": "spotify:artist:2msPoIYdnKVeuOOM960FC2"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AM",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "FI",
+    "HR",
+    "HU",
+    "IS",
+    "LT",
+    "LU",
+    "LV",
+    "MD",
+    "ME",
+    "MK",
+    "NL",
+    "NO",
+    "PL",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 168030,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SE5IB1700901"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5N4soQfmFiKja5VuQDvxSU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5N4soQfmFiKja5VuQDvxSU",
+  "id": "5N4soQfmFiKja5VuQDvxSU",
+  "is_local": false,
+  "name": "A Bible Of Mermaid Pictures - Acoustic",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/d48160e9c4c7bcab1efbb6d6b5e23ff607211cc5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5N4soQfmFiKja5VuQDvxSU"
+}

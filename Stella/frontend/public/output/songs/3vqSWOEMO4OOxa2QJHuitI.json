@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+        },
+        "href": "https://api.spotify.com/v1/artists/5TfnQ0Ai1cEbKY5katFK14",
+        "id": "5TfnQ0Ai1cEbKY5katFK14",
+        "name": "Ladyhawke",
+        "type": "artist",
+        "uri": "spotify:artist:5TfnQ0Ai1cEbKY5katFK14"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "JP",
+      "MX",
+      "NZ",
+      "PK",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0AvEEMu6w6U9neLNaHu4G8"
+    },
+    "href": "https://api.spotify.com/v1/albums/0AvEEMu6w6U9neLNaHu4G8",
+    "id": "0AvEEMu6w6U9neLNaHu4G8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27319ffe963dd1fe46e235ee7f7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0219ffe963dd1fe46e235ee7f7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485119ffe963dd1fe46e235ee7f7",
+        "width": 64
+      }
+    ],
+    "name": "Ladyhawke",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0AvEEMu6w6U9neLNaHu4G8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+      },
+      "href": "https://api.spotify.com/v1/artists/5TfnQ0Ai1cEbKY5katFK14",
+      "id": "5TfnQ0Ai1cEbKY5katFK14",
+      "name": "Ladyhawke",
+      "type": "artist",
+      "uri": "spotify:artist:5TfnQ0Ai1cEbKY5katFK14"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "JP",
+    "MX",
+    "NZ",
+    "PK",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 255746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70808705"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3vqSWOEMO4OOxa2QJHuitI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3vqSWOEMO4OOxa2QJHuitI",
+  "id": "3vqSWOEMO4OOxa2QJHuitI",
+  "is_local": false,
+  "name": "My Delirium",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3vqSWOEMO4OOxa2QJHuitI"
+}

@@ -1,0 +1,119 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LGXGjnPkLPQRrsMW1y6h3"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LGXGjnPkLPQRrsMW1y6h3",
+        "id": "0LGXGjnPkLPQRrsMW1y6h3",
+        "name": "Trailerhead",
+        "type": "artist",
+        "uri": "spotify:artist:0LGXGjnPkLPQRrsMW1y6h3"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3gKkbmEIsWJKJr3ItPSB4Y"
+    },
+    "href": "https://api.spotify.com/v1/albums/3gKkbmEIsWJKJr3ItPSB4Y",
+    "id": "3gKkbmEIsWJKJr3ItPSB4Y",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27382ec1383088f00e0bf80459f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0282ec1383088f00e0bf80459f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485182ec1383088f00e0bf80459f",
+        "width": 64
+      }
+    ],
+    "name": "Trailerhead",
+    "release_date": "2008-07-15",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:3gKkbmEIsWJKJr3ItPSB4Y"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LGXGjnPkLPQRrsMW1y6h3"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LGXGjnPkLPQRrsMW1y6h3",
+      "id": "0LGXGjnPkLPQRrsMW1y6h3",
+      "name": "Trailerhead",
+      "type": "artist",
+      "uri": "spotify:artist:0LGXGjnPkLPQRrsMW1y6h3"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 181506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMSTJ1102933"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0gj6lR4wIG0zmJ2HPKRLnv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0gj6lR4wIG0zmJ2HPKRLnv",
+  "id": "0gj6lR4wIG0zmJ2HPKRLnv",
+  "is_local": false,
+  "name": "Imperitum",
+  "popularity": 15,
+  "preview_url": "https://p.scdn.co/mp3-preview/8db7deee0167b69895a1e764967d030b9f2458df?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:0gj6lR4wIG0zmJ2HPKRLnv"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+        "id": "3ti6KzYwDK7GTraIlnLUdu",
+        "name": "Roomie",
+        "type": "artist",
+        "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7eUI6oh3oGwKYK6L0blSX4"
+    },
+    "href": "https://api.spotify.com/v1/albums/7eUI6oh3oGwKYK6L0blSX4",
+    "id": "7eUI6oh3oGwKYK6L0blSX4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a1766865de0fd9c3e3801b43",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a1766865de0fd9c3e3801b43",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a1766865de0fd9c3e3801b43",
+        "width": 64
+      }
+    ],
+    "name": "42",
+    "release_date": "2010-12-30",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7eUI6oh3oGwKYK6L0blSX4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+      "id": "3ti6KzYwDK7GTraIlnLUdu",
+      "name": "Roomie",
+      "type": "artist",
+      "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 207785,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "usx9p1075428"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/25mkLX015ncvJSn0MjpCFD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/25mkLX015ncvJSn0MjpCFD",
+  "id": "25mkLX015ncvJSn0MjpCFD",
+  "is_local": false,
+  "name": "42",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:25mkLX015ncvJSn0MjpCFD"
+}

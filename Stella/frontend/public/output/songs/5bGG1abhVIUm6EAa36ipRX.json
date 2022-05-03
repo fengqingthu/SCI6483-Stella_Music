@@ -1,0 +1,116 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        },
+        "href": "https://api.spotify.com/v1/artists/7t51dSX8ZkKC7VoKRd0lME",
+        "id": "7t51dSX8ZkKC7VoKRd0lME",
+        "name": "Asaf Avidan",
+        "type": "artist",
+        "uri": "spotify:artist:7t51dSX8ZkKC7VoKRd0lME"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5abaNg0SJPEF7EST0RjY9F"
+        },
+        "href": "https://api.spotify.com/v1/artists/5abaNg0SJPEF7EST0RjY9F",
+        "id": "5abaNg0SJPEF7EST0RjY9F",
+        "name": "The Mojos",
+        "type": "artist",
+        "uri": "spotify:artist:5abaNg0SJPEF7EST0RjY9F"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5pGeylsvJXaKNInhxxdZAC"
+    },
+    "href": "https://api.spotify.com/v1/albums/5pGeylsvJXaKNInhxxdZAC",
+    "id": "5pGeylsvJXaKNInhxxdZAC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273895d176afa9c0a1d350f7520",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02895d176afa9c0a1d350f7520",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851895d176afa9c0a1d350f7520",
+        "width": 64
+      }
+    ],
+    "name": "One Day / Reckoning Song (Wankelmut Remix)",
+    "release_date": "2012-10-08",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:5pGeylsvJXaKNInhxxdZAC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+      },
+      "href": "https://api.spotify.com/v1/artists/7t51dSX8ZkKC7VoKRd0lME",
+      "id": "7t51dSX8ZkKC7VoKRd0lME",
+      "name": "Asaf Avidan",
+      "type": "artist",
+      "uri": "spotify:artist:7t51dSX8ZkKC7VoKRd0lME"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5abaNg0SJPEF7EST0RjY9F"
+      },
+      "href": "https://api.spotify.com/v1/artists/5abaNg0SJPEF7EST0RjY9F",
+      "id": "5abaNg0SJPEF7EST0RjY9F",
+      "name": "The Mojos",
+      "type": "artist",
+      "uri": "spotify:artist:5abaNg0SJPEF7EST0RjY9F"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+      },
+      "href": "https://api.spotify.com/v1/artists/01e2lCvLZ4fLUIRy68nptH",
+      "id": "01e2lCvLZ4fLUIRy68nptH",
+      "name": "Wankelmut",
+      "type": "artist",
+      "uri": "spotify:artist:01e2lCvLZ4fLUIRy68nptH"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215186,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEQ321200132"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5bGG1abhVIUm6EAa36ipRX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5bGG1abhVIUm6EAa36ipRX",
+  "id": "5bGG1abhVIUm6EAa36ipRX",
+  "is_local": false,
+  "name": "One Day / Reckoning Song (Wankelmut Remix) [Radio Edit]",
+  "popularity": 58,
+  "preview_url": "https://p.scdn.co/mp3-preview/5f459b220e2f2dd8b2a365770d0c04ca782ccd6e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5bGG1abhVIUm6EAa36ipRX"
+}

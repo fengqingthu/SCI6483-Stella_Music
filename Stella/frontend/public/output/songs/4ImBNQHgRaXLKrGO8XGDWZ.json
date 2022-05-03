@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        },
+        "href": "https://api.spotify.com/v1/artists/574ERIqzZ5yZU9JhIf3Ysf",
+        "id": "574ERIqzZ5yZU9JhIf3Ysf",
+        "name": "Angie McMahon",
+        "type": "artist",
+        "uri": "spotify:artist:574ERIqzZ5yZU9JhIf3Ysf"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7sUZiGol5Ihy11am0fSCip"
+    },
+    "href": "https://api.spotify.com/v1/albums/7sUZiGol5Ihy11am0fSCip",
+    "id": "7sUZiGol5Ihy11am0fSCip",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273707726a60307fd755e822960",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02707726a60307fd755e822960",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851707726a60307fd755e822960",
+        "width": 64
+      }
+    ],
+    "name": "Piano Salt",
+    "release_date": "2020-10-02",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:7sUZiGol5Ihy11am0fSCip"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+      },
+      "href": "https://api.spotify.com/v1/artists/574ERIqzZ5yZU9JhIf3Ysf",
+      "id": "574ERIqzZ5yZU9JhIf3Ysf",
+      "name": "Angie McMahon",
+      "type": "artist",
+      "uri": "spotify:artist:574ERIqzZ5yZU9JhIf3Ysf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+      },
+      "href": "https://api.spotify.com/v1/artists/3jzXlBF2157k4exx7idecs",
+      "id": "3jzXlBF2157k4exx7idecs",
+      "name": "Leif Vollebekk",
+      "type": "artist",
+      "uri": "spotify:artist:3jzXlBF2157k4exx7idecs"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 349386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USDMG2011701"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4ImBNQHgRaXLKrGO8XGDWZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4ImBNQHgRaXLKrGO8XGDWZ",
+  "id": "4ImBNQHgRaXLKrGO8XGDWZ",
+  "is_local": false,
+  "name": "If You Call",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/2ce379e8442641c932ab10d98488bc572797cbbc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:4ImBNQHgRaXLKrGO8XGDWZ"
+}

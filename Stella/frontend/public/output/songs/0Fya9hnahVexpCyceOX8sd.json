@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jF9GaNGCGBeu2nKqFZ1K0"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jF9GaNGCGBeu2nKqFZ1K0",
+        "id": "4jF9GaNGCGBeu2nKqFZ1K0",
+        "name": "Basil Poledouris",
+        "type": "artist",
+        "uri": "spotify:artist:4jF9GaNGCGBeu2nKqFZ1K0"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/66fCY4Bqgf8dZIFUBWGJuv"
+    },
+    "href": "https://api.spotify.com/v1/albums/66fCY4Bqgf8dZIFUBWGJuv",
+    "id": "66fCY4Bqgf8dZIFUBWGJuv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27323631cc3d006ea0a3a394159",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0223631cc3d006ea0a3a394159",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485123631cc3d006ea0a3a394159",
+        "width": 64
+      }
+    ],
+    "name": "Conan The Barbarian Collector",
+    "release_date": "2003-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:66fCY4Bqgf8dZIFUBWGJuv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4jF9GaNGCGBeu2nKqFZ1K0"
+      },
+      "href": "https://api.spotify.com/v1/artists/4jF9GaNGCGBeu2nKqFZ1K0",
+      "id": "4jF9GaNGCGBeu2nKqFZ1K0",
+      "name": "Basil Poledouris",
+      "type": "artist",
+      "uri": "spotify:artist:4jF9GaNGCGBeu2nKqFZ1K0"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ810603019"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Fya9hnahVexpCyceOX8sd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Fya9hnahVexpCyceOX8sd",
+  "id": "0Fya9hnahVexpCyceOX8sd",
+  "is_local": false,
+  "name": "Prologue / Anvil of Crom",
+  "popularity": 17,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0Fya9hnahVexpCyceOX8sd"
+}

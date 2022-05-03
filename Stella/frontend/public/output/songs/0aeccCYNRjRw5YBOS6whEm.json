@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CQzavWFkbATmO04zokgbc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CQzavWFkbATmO04zokgbc",
+        "id": "2CQzavWFkbATmO04zokgbc",
+        "name": "Charlie's Angels",
+        "type": "artist",
+        "uri": "spotify:artist:2CQzavWFkbATmO04zokgbc"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Ar5R9X59wMkpixcRDZVgd"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Ar5R9X59wMkpixcRDZVgd",
+    "id": "5Ar5R9X59wMkpixcRDZVgd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d2522297c7aee63c7826fd68",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d2522297c7aee63c7826fd68",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d2522297c7aee63c7826fd68",
+        "width": 64
+      }
+    ],
+    "name": "The Young Ones",
+    "release_date": "2014-11-13",
+    "release_date_precision": "day",
+    "total_tracks": 100,
+    "type": "album",
+    "uri": "spotify:album:5Ar5R9X59wMkpixcRDZVgd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CQzavWFkbATmO04zokgbc"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CQzavWFkbATmO04zokgbc",
+      "id": "2CQzavWFkbATmO04zokgbc",
+      "name": "Charlie's Angels",
+      "type": "artist",
+      "uri": "spotify:artist:2CQzavWFkbATmO04zokgbc"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 66746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBSWE1451565"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0aeccCYNRjRw5YBOS6whEm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0aeccCYNRjRw5YBOS6whEm",
+  "id": "0aeccCYNRjRw5YBOS6whEm",
+  "is_local": false,
+  "name": "The Benny Hill Show",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 28,
+  "type": "track",
+  "uri": "spotify:track:0aeccCYNRjRw5YBOS6whEm"
+}

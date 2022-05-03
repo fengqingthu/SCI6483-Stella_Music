@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+        "id": "1Dt1UKLtrJIW1xxRBejjos",
+        "name": "The Blaze",
+        "type": "artist",
+        "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "IE",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
+    },
+    "href": "https://api.spotify.com/v1/albums/4Ekdf8v7lFV5c3zIdtpyjY",
+    "id": "4Ekdf8v7lFV5c3zIdtpyjY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27305181d6288f118719b8458cd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0205181d6288f118719b8458cd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485105181d6288f118719b8458cd",
+        "width": 64
+      }
+    ],
+    "name": "DANCEHALL",
+    "release_date": "2018-09-07",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4Ekdf8v7lFV5c3zIdtpyjY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+      "id": "1Dt1UKLtrJIW1xxRBejjos",
+      "name": "The Blaze",
+      "type": "artist",
+      "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR2X41884767"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2u8GDlTkOd3bLSXJM8ZmXg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2u8GDlTkOd3bLSXJM8ZmXg",
+  "id": "2u8GDlTkOd3bLSXJM8ZmXg",
+  "is_local": false,
+  "name": "SHE",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/9c8c04ff43c3bda6cd9a8cf80700599790519a98?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2u8GDlTkOd3bLSXJM8ZmXg"
+}

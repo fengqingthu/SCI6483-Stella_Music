@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
+    },
+    "href": "https://api.spotify.com/v1/albums/3xTwLJZLgcVVmUPszU8NeB",
+    "id": "3xTwLJZLgcVVmUPszU8NeB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e3427ddcd876668cb0e09c78",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e3427ddcd876668cb0e09c78",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e3427ddcd876668cb0e09c78",
+        "width": 64
+      }
+    ],
+    "name": "You've Got Mail",
+    "release_date": "1998-12-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:3xTwLJZLgcVVmUPszU8NeB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NdNx5JwLDvas2LsMVTSyQ",
+      "id": "0NdNx5JwLDvas2LsMVTSyQ",
+      "name": "George Fenton",
+      "type": "artist",
+      "uri": "spotify:artist:0NdNx5JwLDvas2LsMVTSyQ"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 335933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRHD0900461"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2HA2PaxFLTB1rtgpANHPDE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2HA2PaxFLTB1rtgpANHPDE",
+  "id": "2HA2PaxFLTB1rtgpANHPDE",
+  "is_local": false,
+  "name": "The You've Got Mail Suite",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/d20ab3d43c7a6f2165f80ed703f339593a900aa8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:2HA2PaxFLTB1rtgpANHPDE"
+}

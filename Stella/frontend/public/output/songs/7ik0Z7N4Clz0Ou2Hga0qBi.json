@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+        "id": "5hE6NCoobhyEu6TRSbjOJY",
+        "name": "Fever Ray",
+        "type": "artist",
+        "uri": "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0vh8aVGJVqPzKYY39XdgMK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0vh8aVGJVqPzKYY39XdgMK",
+    "id": "0vh8aVGJVqPzKYY39XdgMK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273671c8bc3b2f6190f116bbcdc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02671c8bc3b2f6190f116bbcdc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851671c8bc3b2f6190f116bbcdc",
+        "width": 64
+      }
+    ],
+    "name": "When I Grow Up",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:0vh8aVGJVqPzKYY39XdgMK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+      },
+      "href": "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+      "id": "5hE6NCoobhyEu6TRSbjOJY",
+      "name": "Fever Ray",
+      "type": "artist",
+      "uri": "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01h9jm5CrO5E0Z841iuKA6"
+      },
+      "href": "https://api.spotify.com/v1/artists/01h9jm5CrO5E0Z841iuKA6",
+      "id": "01h9jm5CrO5E0Z841iuKA6",
+      "name": "Dan Lissvik",
+      "type": "artist",
+      "uri": "spotify:artist:01h9jm5CrO5E0Z841iuKA6"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 268121,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWCE0900403"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7ik0Z7N4Clz0Ou2Hga0qBi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7ik0Z7N4Clz0Ou2Hga0qBi",
+  "id": "7ik0Z7N4Clz0Ou2Hga0qBi",
+  "is_local": false,
+  "name": "When I Grow Up - D.Lissvik",
+  "popularity": 9,
+  "preview_url": "https://p.scdn.co/mp3-preview/69d6c08a627a2ae35a47cd01a48543970b71c5ec?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7ik0Z7N4Clz0Ou2Hga0qBi"
+}

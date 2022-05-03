@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8"
+        },
+        "href": "https://api.spotify.com/v1/artists/2XhhAWeUOlrZnGOB7aKEI8",
+        "id": "2XhhAWeUOlrZnGOB7aKEI8",
+        "name": "Aphrodite's Child",
+        "type": "artist",
+        "uri": "spotify:artist:2XhhAWeUOlrZnGOB7aKEI8"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3ScYYTWeR9dvrokOP85Ias"
+    },
+    "href": "https://api.spotify.com/v1/albums/3ScYYTWeR9dvrokOP85Ias",
+    "id": "3ScYYTWeR9dvrokOP85Ias",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27302fd1204feb1ad2b2bb5224f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0202fd1204feb1ad2b2bb5224f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485102fd1204feb1ad2b2bb5224f",
+        "width": 64
+      }
+    ],
+    "name": "It's Five O'Clock",
+    "release_date": "1970-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:3ScYYTWeR9dvrokOP85Ias"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XhhAWeUOlrZnGOB7aKEI8",
+      "id": "2XhhAWeUOlrZnGOB7aKEI8",
+      "name": "Aphrodite's Child",
+      "type": "artist",
+      "uri": "spotify:artist:2XhhAWeUOlrZnGOB7aKEI8"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLF056990012"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0niDTQHfY93XtAwRIyk0UU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0niDTQHfY93XtAwRIyk0UU",
+  "id": "0niDTQHfY93XtAwRIyk0UU",
+  "is_local": false,
+  "name": "It's Five O'Clock",
+  "popularity": 12,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0niDTQHfY93XtAwRIyk0UU"
+}

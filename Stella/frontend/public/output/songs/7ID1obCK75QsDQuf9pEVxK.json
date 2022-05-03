@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        },
+        "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+        "id": "1km0R7wy712AzLkA1WjKET",
+        "name": "Biffy Clyro",
+        "type": "artist",
+        "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BR",
+      "CA",
+      "DE",
+      "NZ",
+      "SE",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Ch5ZsoMxpy5Ef2i4mGILh",
+    "id": "6Ch5ZsoMxpy5Ef2i4mGILh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d387edace199b4e1a49f2344",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d387edace199b4e1a49f2344",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d387edace199b4e1a49f2344",
+        "width": 64
+      }
+    ],
+    "name": "Only Revolutions",
+    "release_date": "2009-11-06",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6Ch5ZsoMxpy5Ef2i4mGILh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+      },
+      "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+      "id": "1km0R7wy712AzLkA1WjKET",
+      "name": "Biffy Clyro",
+      "type": "artist",
+      "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BR",
+    "CA",
+    "DE",
+    "NZ",
+    "SE",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 201146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBFTG0900060"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7ID1obCK75QsDQuf9pEVxK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7ID1obCK75QsDQuf9pEVxK",
+  "id": "7ID1obCK75QsDQuf9pEVxK",
+  "is_local": false,
+  "name": "Mountains",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/234e035b7a45db8664acebac9503abdd38e462a0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:7ID1obCK75QsDQuf9pEVxK"
+}

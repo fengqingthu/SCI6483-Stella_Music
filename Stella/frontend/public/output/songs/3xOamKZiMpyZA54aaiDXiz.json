@@ -1,0 +1,147 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        },
+        "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+        "id": "7BqRcZsHYYQeqMAOp7e532",
+        "name": "Sunset Rollercoaster",
+        "type": "artist",
+        "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "BH",
+      "BN",
+      "BT",
+      "HK",
+      "ID",
+      "IL",
+      "IN",
+      "IQ",
+      "JO",
+      "JP",
+      "KG",
+      "KH",
+      "KR",
+      "KW",
+      "LA",
+      "LB",
+      "LK",
+      "MN",
+      "MO",
+      "MV",
+      "MY",
+      "NP",
+      "OM",
+      "PH",
+      "PK",
+      "QA",
+      "SA",
+      "SG",
+      "TH",
+      "TJ",
+      "TW",
+      "UZ",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6umnLc21Qu1sxkAjBJSqkd"
+    },
+    "href": "https://api.spotify.com/v1/albums/6umnLc21Qu1sxkAjBJSqkd",
+    "id": "6umnLc21Qu1sxkAjBJSqkd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b8ef374b39405a0001a23bd6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b8ef374b39405a0001a23bd6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b8ef374b39405a0001a23bd6",
+        "width": 64
+      }
+    ],
+    "name": "VANILLA VILLA",
+    "release_date": "2019-05-01",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:6umnLc21Qu1sxkAjBJSqkd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+      },
+      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+      "id": "7BqRcZsHYYQeqMAOp7e532",
+      "name": "Sunset Rollercoaster",
+      "type": "artist",
+      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "BH",
+    "BN",
+    "BT",
+    "HK",
+    "ID",
+    "IL",
+    "IN",
+    "IQ",
+    "JO",
+    "JP",
+    "KG",
+    "KH",
+    "KR",
+    "KW",
+    "LA",
+    "LB",
+    "LK",
+    "MN",
+    "MO",
+    "MV",
+    "MY",
+    "NP",
+    "OM",
+    "PH",
+    "PK",
+    "QA",
+    "SA",
+    "SG",
+    "TH",
+    "TJ",
+    "TW",
+    "UZ",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 151282,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TWCR71900002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3xOamKZiMpyZA54aaiDXiz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3xOamKZiMpyZA54aaiDXiz",
+  "id": "3xOamKZiMpyZA54aaiDXiz",
+  "is_local": false,
+  "name": "Vanilla",
+  "popularity": 51,
+  "preview_url": "https://p.scdn.co/mp3-preview/bf04316deb748fe42ef45a734f47cb612d3f311d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3xOamKZiMpyZA54aaiDXiz"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        },
+        "href": "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+        "id": "166Dz1GX3xonSQ3Z6CQW26",
+        "name": "The Rapture",
+        "type": "artist",
+        "uri": "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1CQjCgTp4igAYZTFzc4EtO"
+    },
+    "href": "https://api.spotify.com/v1/albums/1CQjCgTp4igAYZTFzc4EtO",
+    "id": "1CQjCgTp4igAYZTFzc4EtO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273342d9e83eddea66f6f95f136",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02342d9e83eddea66f6f95f136",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851342d9e83eddea66f6f95f136",
+        "width": 64
+      }
+    ],
+    "name": "How Deep Is Your Love?",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1CQjCgTp4igAYZTFzc4EtO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+      },
+      "href": "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+      "id": "166Dz1GX3xonSQ3Z6CQW26",
+      "name": "The Rapture",
+      "type": "artist",
+      "uri": "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 385713,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US4GE1100104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/53DP0p88Srq5XDJWb16QtR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/53DP0p88Srq5XDJWb16QtR",
+  "id": "53DP0p88Srq5XDJWb16QtR",
+  "is_local": false,
+  "name": "How Deep Is Your Love?",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/413627865d04a361718b13a84af6c532f8f45d5d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:53DP0p88Srq5XDJWb16QtR"
+}

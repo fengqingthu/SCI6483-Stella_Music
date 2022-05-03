@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3EMSpwRtkvUTxfB4aS5xnA",
+        "id": "3EMSpwRtkvUTxfB4aS5xnA",
+        "name": "Battles",
+        "type": "artist",
+        "uri": "spotify:artist:3EMSpwRtkvUTxfB4aS5xnA"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0CaL8X9lGPZqLwYIrAfA9c"
+    },
+    "href": "https://api.spotify.com/v1/albums/0CaL8X9lGPZqLwYIrAfA9c",
+    "id": "0CaL8X9lGPZqLwYIrAfA9c",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27327fbd5a67909ae2d47c6200e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0227fbd5a67909ae2d47c6200e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485127fbd5a67909ae2d47c6200e",
+        "width": 64
+      }
+    ],
+    "name": "Gloss Drop",
+    "release_date": "2011-06-06",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0CaL8X9lGPZqLwYIrAfA9c"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3EMSpwRtkvUTxfB4aS5xnA",
+      "id": "3EMSpwRtkvUTxfB4aS5xnA",
+      "name": "Battles",
+      "type": "artist",
+      "uri": "spotify:artist:3EMSpwRtkvUTxfB4aS5xnA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe"
+      },
+      "href": "https://api.spotify.com/v1/artists/7daexEpVdKDbvlUHZ2rWbe",
+      "id": "7daexEpVdKDbvlUHZ2rWbe",
+      "name": "Matias Aguayo",
+      "type": "artist",
+      "uri": "spotify:artist:7daexEpVdKDbvlUHZ2rWbe"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 276960,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBPW1100046"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1K6eoCSxJ9GWiaYmSV8fQQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1K6eoCSxJ9GWiaYmSV8fQQ",
+  "id": "1K6eoCSxJ9GWiaYmSV8fQQ",
+  "is_local": false,
+  "name": "Ice Cream",
+  "popularity": 9,
+  "preview_url": "https://p.scdn.co/mp3-preview/eeaf6521bd265c756a059a53f050ecef1c18d144?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1K6eoCSxJ9GWiaYmSV8fQQ"
+}

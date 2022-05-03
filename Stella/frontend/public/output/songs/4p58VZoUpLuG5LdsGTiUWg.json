@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w9jdhcgHNdiPeNPUoFSlx",
+        "id": "7w9jdhcgHNdiPeNPUoFSlx",
+        "name": "Dropkick Murphys",
+        "type": "artist",
+        "uri": "spotify:artist:7w9jdhcgHNdiPeNPUoFSlx"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ss0QLalzKUbUSKP1LXls9"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ss0QLalzKUbUSKP1LXls9",
+    "id": "0ss0QLalzKUbUSKP1LXls9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733ceb68a1b7969e7a65131672",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023ceb68a1b7969e7a65131672",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513ceb68a1b7969e7a65131672",
+        "width": 64
+      }
+    ],
+    "name": "The Meanest Of Times",
+    "release_date": "2007-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:0ss0QLalzKUbUSKP1LXls9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+      },
+      "href": "https://api.spotify.com/v1/artists/7w9jdhcgHNdiPeNPUoFSlx",
+      "id": "7w9jdhcgHNdiPeNPUoFSlx",
+      "name": "Dropkick Murphys",
+      "type": "artist",
+      "uri": "spotify:artist:7w9jdhcgHNdiPeNPUoFSlx"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USK250700003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4p58VZoUpLuG5LdsGTiUWg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4p58VZoUpLuG5LdsGTiUWg",
+  "id": "4p58VZoUpLuG5LdsGTiUWg",
+  "is_local": false,
+  "name": "The State Of Massachusetts",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/7513ae78331c2f65473930f0368b1850e22673d5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4p58VZoUpLuG5LdsGTiUWg"
+}

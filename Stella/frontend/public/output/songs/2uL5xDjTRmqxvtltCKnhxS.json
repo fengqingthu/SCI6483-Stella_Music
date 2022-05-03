@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        "href": "https://api.spotify.com/v1/artists/3NUtpWpGDoffm3RCGhSHtl",
+        "id": "3NUtpWpGDoffm3RCGhSHtl",
+        "name": "Mount Kimbie",
+        "type": "artist",
+        "uri": "spotify:artist:3NUtpWpGDoffm3RCGhSHtl"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3KEmngvtwbyxC3DDOuADoO"
+    },
+    "href": "https://api.spotify.com/v1/albums/3KEmngvtwbyxC3DDOuADoO",
+    "id": "3KEmngvtwbyxC3DDOuADoO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739a703c3182b565e8f2912d16",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029a703c3182b565e8f2912d16",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519a703c3182b565e8f2912d16",
+        "width": 64
+      }
+    ],
+    "name": "Love What Survives",
+    "release_date": "2017-09-08",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3KEmngvtwbyxC3DDOuADoO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+      },
+      "href": "https://api.spotify.com/v1/artists/3NUtpWpGDoffm3RCGhSHtl",
+      "id": "3NUtpWpGDoffm3RCGhSHtl",
+      "name": "Mount Kimbie",
+      "type": "artist",
+      "uri": "spotify:artist:3NUtpWpGDoffm3RCGhSHtl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+      },
+      "href": "https://api.spotify.com/v1/artists/4wyNyxs74Ux8UIDopNjIai",
+      "id": "4wyNyxs74Ux8UIDopNjIai",
+      "name": "King Krule",
+      "type": "artist",
+      "uri": "spotify:artist:4wyNyxs74Ux8UIDopNjIai"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 250150,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBPW1700104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2uL5xDjTRmqxvtltCKnhxS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2uL5xDjTRmqxvtltCKnhxS",
+  "id": "2uL5xDjTRmqxvtltCKnhxS",
+  "is_local": false,
+  "name": "Blue Train Lines",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/84b792642dc36788f83d7d650b28d2644aab79a7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2uL5xDjTRmqxvtltCKnhxS"
+}

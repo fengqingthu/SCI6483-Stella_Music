@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/34vLhockmYhf3LgznwyNaQ",
+        "id": "34vLhockmYhf3LgznwyNaQ",
+        "name": "POLIÇA",
+        "type": "artist",
+        "uri": "spotify:artist:34vLhockmYhf3LgznwyNaQ"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4gBdmXKSB1zXzyXcAcAWmw"
+    },
+    "href": "https://api.spotify.com/v1/albums/4gBdmXKSB1zXzyXcAcAWmw",
+    "id": "4gBdmXKSB1zXzyXcAcAWmw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273534ecdd6b89bbc62384338bf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02534ecdd6b89bbc62384338bf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851534ecdd6b89bbc62384338bf",
+        "width": 64
+      }
+    ],
+    "name": "Give You The Ghost",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4gBdmXKSB1zXzyXcAcAWmw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/34vLhockmYhf3LgznwyNaQ",
+      "id": "34vLhockmYhf3LgznwyNaQ",
+      "name": "POLIÇA",
+      "type": "artist",
+      "uri": "spotify:artist:34vLhockmYhf3LgznwyNaQ"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 304426,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNY91112310"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4xidCbH5SfruBDZBtZ3lLk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4xidCbH5SfruBDZBtZ3lLk",
+  "id": "4xidCbH5SfruBDZBtZ3lLk",
+  "is_local": false,
+  "name": "Wandering Star",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/c738b6ba161872cf4c0ce97e086d534712d92268?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:4xidCbH5SfruBDZBtZ3lLk"
+}

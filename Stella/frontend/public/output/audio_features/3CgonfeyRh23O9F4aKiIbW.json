@@ -1,0 +1,20 @@
+{
+  "danceability": 0.641,
+  "energy": 0.648,
+  "key": 7,
+  "loudness": -13.379,
+  "mode": 0,
+  "speechiness": 0.0298,
+  "acousticness": 0.00152,
+  "instrumentalness": 0.87,
+  "liveness": 0.0645,
+  "valence": 0.965,
+  "tempo": 125.368,
+  "type": "audio_features",
+  "id": "3CgonfeyRh23O9F4aKiIbW",
+  "uri": "spotify:track:3CgonfeyRh23O9F4aKiIbW",
+  "track_href": "https://api.spotify.com/v1/tracks/3CgonfeyRh23O9F4aKiIbW",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CgonfeyRh23O9F4aKiIbW",
+  "duration_ms": 506160,
+  "time_signature": 4
+}

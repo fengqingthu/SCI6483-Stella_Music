@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        },
+        "href": "https://api.spotify.com/v1/artists/0z7Yuv7DuDQ5SaVn4VSlLt",
+        "id": "0z7Yuv7DuDQ5SaVn4VSlLt",
+        "name": "Lisa Hannigan",
+        "type": "artist",
+        "uri": "spotify:artist:0z7Yuv7DuDQ5SaVn4VSlLt"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/20jR7kLQWi0y6T0rkRvX1p"
+    },
+    "href": "https://api.spotify.com/v1/albums/20jR7kLQWi0y6T0rkRvX1p",
+    "id": "20jR7kLQWi0y6T0rkRvX1p",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273859e3016d6a6c548737d6267",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02859e3016d6a6c548737d6267",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851859e3016d6a6c548737d6267",
+        "width": 64
+      }
+    ],
+    "name": "Sea Sew",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:20jR7kLQWi0y6T0rkRvX1p"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+      },
+      "href": "https://api.spotify.com/v1/artists/0z7Yuv7DuDQ5SaVn4VSlLt",
+      "id": "0z7Yuv7DuDQ5SaVn4VSlLt",
+      "name": "Lisa Hannigan",
+      "type": "artist",
+      "uri": "spotify:artist:0z7Yuv7DuDQ5SaVn4VSlLt"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 296653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "IEBWM0800005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Vz2rEPEUL0bzKC8V7shOR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Vz2rEPEUL0bzKC8V7shOR",
+  "id": "2Vz2rEPEUL0bzKC8V7shOR",
+  "is_local": false,
+  "name": "I Don't Know",
+  "popularity": 15,
+  "preview_url": "https://p.scdn.co/mp3-preview/ffe640ed692846f959f1b84898fa5315d07b61f4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2Vz2rEPEUL0bzKC8V7shOR"
+}

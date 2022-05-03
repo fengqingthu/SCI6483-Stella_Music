@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        },
+        "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+        "id": "7CIW23FQUXPc1zebnO1TDG",
+        "name": "Matt Corby",
+        "type": "artist",
+        "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
+    },
+    "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
+    "id": "5jNjG588J6t474RR1Ch8NC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
+        "width": 64
+      }
+    ],
+    "name": "Telluric",
+    "release_date": "2016-03-11",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
+      "name": "Matt Corby",
+      "type": "artist",
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 248693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUUM71501114"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0OcfxEcuVKzc9CpaPklhS7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0OcfxEcuVKzc9CpaPklhS7",
+  "id": "0OcfxEcuVKzc9CpaPklhS7",
+  "is_local": false,
+  "name": "Monday",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/55e018e5237faea2493206094ad8dc61b97e3f9c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0OcfxEcuVKzc9CpaPklhS7"
+}

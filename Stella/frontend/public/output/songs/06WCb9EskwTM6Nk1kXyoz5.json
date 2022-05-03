@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7zW6wPmVLv4JDJM271gbFc"
+        },
+        "href": "https://api.spotify.com/v1/artists/7zW6wPmVLv4JDJM271gbFc",
+        "id": "7zW6wPmVLv4JDJM271gbFc",
+        "name": "Wim Mertens",
+        "type": "artist",
+        "uri": "spotify:artist:7zW6wPmVLv4JDJM271gbFc"
+      }
+    ],
+    "available_markets": [
+      "ES",
+      "PT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6jP8TVy0rVDHDS9AhUzter"
+    },
+    "href": "https://api.spotify.com/v1/albums/6jP8TVy0rVDHDS9AhUzter",
+    "id": "6jP8TVy0rVDHDS9AhUzter",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738c5ac8fe18efb8d23331dae8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028c5ac8fe18efb8d23331dae8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518c5ac8fe18efb8d23331dae8",
+        "width": 64
+      }
+    ],
+    "name": "After Virtue",
+    "release_date": "1983-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:6jP8TVy0rVDHDS9AhUzter"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7zW6wPmVLv4JDJM271gbFc"
+      },
+      "href": "https://api.spotify.com/v1/artists/7zW6wPmVLv4JDJM271gbFc",
+      "id": "7zW6wPmVLv4JDJM271gbFc",
+      "name": "Wim Mertens",
+      "type": "artist",
+      "uri": "spotify:artist:7zW6wPmVLv4JDJM271gbFc"
+    }
+  ],
+  "available_markets": [
+    "ES",
+    "PT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 175053,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEZ769982505"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/06WCb9EskwTM6Nk1kXyoz5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/06WCb9EskwTM6Nk1kXyoz5",
+  "id": "06WCb9EskwTM6Nk1kXyoz5",
+  "is_local": false,
+  "name": "Humility - version 2007",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/5d6bd6717815434b8aef68b38da1af0bbbaa89ed?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:06WCb9EskwTM6Nk1kXyoz5"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        },
+        "href": "https://api.spotify.com/v1/artists/0HJyVBZnjRKDT4STU3rGzU",
+        "id": "0HJyVBZnjRKDT4STU3rGzU",
+        "name": "Franck Pourcel",
+        "type": "artist",
+        "uri": "spotify:artist:0HJyVBZnjRKDT4STU3rGzU"
+      }
+    ],
+    "available_markets": [
+      "MX"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY"
+    },
+    "href": "https://api.spotify.com/v1/albums/2XNeUwQOcioKg3asaQm3WY",
+    "id": "2XNeUwQOcioKg3asaQm3WY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d0f4ac2c1d9a1229c5eb6920",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d0f4ac2c1d9a1229c5eb6920",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d0f4ac2c1d9a1229c5eb6920",
+        "width": 64
+      }
+    ],
+    "name": "100 Años Volumen 1",
+    "release_date": "2013-02-19",
+    "release_date_precision": "day",
+    "total_tracks": 35,
+    "type": "album",
+    "uri": "spotify:album:2XNeUwQOcioKg3asaQm3WY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+      },
+      "href": "https://api.spotify.com/v1/artists/0HJyVBZnjRKDT4STU3rGzU",
+      "id": "0HJyVBZnjRKDT4STU3rGzU",
+      "name": "Franck Pourcel",
+      "type": "artist",
+      "uri": "spotify:artist:0HJyVBZnjRKDT4STU3rGzU"
+    }
+  ],
+  "available_markets": [
+    "MX"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ117501690"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/35ZmidQqt1KBPgsz8ZFwHm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/35ZmidQqt1KBPgsz8ZFwHm",
+  "id": "35ZmidQqt1KBPgsz8ZFwHm",
+  "is_local": false,
+  "name": "Concorde",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/27df363e537732b46cc1bbc7acc74cc7190cf7b1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:35ZmidQqt1KBPgsz8ZFwHm"
+}

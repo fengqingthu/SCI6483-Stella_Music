@@ -1,0 +1,117 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5JGhqXGzv9PQznmDxauQ9w"
+        },
+        "href": "https://api.spotify.com/v1/artists/5JGhqXGzv9PQznmDxauQ9w",
+        "id": "5JGhqXGzv9PQznmDxauQ9w",
+        "name": "Narciso Yepes",
+        "type": "artist",
+        "uri": "spotify:artist:5JGhqXGzv9PQznmDxauQ9w"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        },
+        "href": "https://api.spotify.com/v1/artists/35pZsti1RSA5Zv98jAm8kX",
+        "id": "35pZsti1RSA5Zv98jAm8kX",
+        "name": "Orpheus Chamber Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:35pZsti1RSA5Zv98jAm8kX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL"
+        },
+        "href": "https://api.spotify.com/v1/artists/5jF2METFutHd3av3ITYTrL",
+        "id": "5jF2METFutHd3av3ITYTrL",
+        "name": "Göran Söllscher",
+        "type": "artist",
+        "uri": "spotify:artist:5jF2METFutHd3av3ITYTrL"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5cPO0M3fOyknkE4XuZZ9SN"
+    },
+    "href": "https://api.spotify.com/v1/albums/5cPO0M3fOyknkE4XuZZ9SN",
+    "id": "5cPO0M3fOyknkE4XuZZ9SN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c157505404eab61b865dac16",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c157505404eab61b865dac16",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c157505404eab61b865dac16",
+        "width": 64
+      }
+    ],
+    "name": "Mad About Guitar",
+    "release_date": "1993-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:5cPO0M3fOyknkE4XuZZ9SN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt"
+      },
+      "href": "https://api.spotify.com/v1/artists/6l6NgkV6IWYKlRN7jHCQmt",
+      "id": "6l6NgkV6IWYKlRN7jHCQmt",
+      "name": "Stanley Myers",
+      "type": "artist",
+      "uri": "spotify:artist:6l6NgkV6IWYKlRN7jHCQmt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL"
+      },
+      "href": "https://api.spotify.com/v1/artists/5jF2METFutHd3av3ITYTrL",
+      "id": "5jF2METFutHd3av3ITYTrL",
+      "name": "Göran Söllscher",
+      "type": "artist",
+      "uri": "spotify:artist:5jF2METFutHd3av3ITYTrL"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 214000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEF058104600"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0A8WsrzE8ymV7m8E4MDkmH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0A8WsrzE8ymV7m8E4MDkmH",
+  "id": "0A8WsrzE8ymV7m8E4MDkmH",
+  "is_local": false,
+  "name": "Cavatina",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0A8WsrzE8ymV7m8E4MDkmH"
+}

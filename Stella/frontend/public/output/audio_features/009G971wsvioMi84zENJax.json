@@ -1,0 +1,20 @@
+{
+  "danceability": 0.57,
+  "energy": 0.433,
+  "key": 0,
+  "loudness": -11.764,
+  "mode": 1,
+  "speechiness": 0.0252,
+  "acousticness": 0.00422,
+  "instrumentalness": 0.762,
+  "liveness": 0.153,
+  "valence": 0.128,
+  "tempo": 165.937,
+  "type": "audio_features",
+  "id": "009G971wsvioMi84zENJax",
+  "uri": "spotify:track:009G971wsvioMi84zENJax",
+  "track_href": "https://api.spotify.com/v1/tracks/009G971wsvioMi84zENJax",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/009G971wsvioMi84zENJax",
+  "duration_ms": 243973,
+  "time_signature": 4
+}

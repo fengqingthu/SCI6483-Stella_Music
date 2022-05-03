@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        "href": "https://api.spotify.com/v1/artists/0wnYgCeP013HkKoOyC5V32",
+        "id": "0wnYgCeP013HkKoOyC5V32",
+        "name": "Allie X",
+        "type": "artist",
+        "uri": "spotify:artist:0wnYgCeP013HkKoOyC5V32"
+      }
+    ],
+    "available_markets": [
+      "IT",
+      "SM"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S"
+    },
+    "href": "https://api.spotify.com/v1/albums/12ty08Y0h6TtP469jEtJ9S",
+    "id": "12ty08Y0h6TtP469jEtJ9S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b7c5a35b8d2c64f77218a765",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b7c5a35b8d2c64f77218a765",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b7c5a35b8d2c64f77218a765",
+        "width": 64
+      }
+    ],
+    "name": "CollXtion II",
+    "release_date": "2017-06-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:12ty08Y0h6TtP469jEtJ9S"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wnYgCeP013HkKoOyC5V32",
+      "id": "0wnYgCeP013HkKoOyC5V32",
+      "name": "Allie X",
+      "type": "artist",
+      "uri": "spotify:artist:0wnYgCeP013HkKoOyC5V32"
+    }
+  ],
+  "available_markets": [
+    "IT",
+    "SM"
+  ],
+  "disc_number": 1,
+  "duration_ms": 235879,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBLFP1708892"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0M2eMO26HAl7OS8Ifp6JOz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0M2eMO26HAl7OS8Ifp6JOz",
+  "id": "0M2eMO26HAl7OS8Ifp6JOz",
+  "is_local": false,
+  "name": "Downtown",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/db9b7e068aaf554b31d8e47957169a2f9f2e0649?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:0M2eMO26HAl7OS8Ifp6JOz"
+}

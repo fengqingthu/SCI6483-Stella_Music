@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+        "id": "0VeT7hHTJFJZcENGekjCsB",
+        "name": "London Music Works",
+        "type": "artist",
+        "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3DTS5abiQzA0U9tfEsF65t"
+    },
+    "href": "https://api.spotify.com/v1/albums/3DTS5abiQzA0U9tfEsF65t",
+    "id": "3DTS5abiQzA0U9tfEsF65t",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cb0d6a292a3d87374a517071",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cb0d6a292a3d87374a517071",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cb0d6a292a3d87374a517071",
+        "width": 64
+      }
+    ],
+    "name": "Inspector Gadget Theme",
+    "release_date": "2011-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:3DTS5abiQzA0U9tfEsF65t"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+      "id": "0VeT7hHTJFJZcENGekjCsB",
+      "name": "London Music Works",
+      "type": "artist",
+      "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "AU",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 107780,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC1100210"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6q5Fln0ku9JtbSOlMPHqsf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6q5Fln0ku9JtbSOlMPHqsf",
+  "id": "6q5Fln0ku9JtbSOlMPHqsf",
+  "is_local": false,
+  "name": "Inspector Gadget Theme",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/d32f39735a91e92ccafce17a4e68d96055f026a6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6q5Fln0ku9JtbSOlMPHqsf"
+}

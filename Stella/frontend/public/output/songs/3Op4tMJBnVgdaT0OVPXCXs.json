@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Z1hgFJynxmVRMuxLjVx69"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Z1hgFJynxmVRMuxLjVx69",
+        "id": "1Z1hgFJynxmVRMuxLjVx69",
+        "name": "Lydmor & Bon Homme",
+        "type": "artist",
+        "uri": "spotify:artist:1Z1hgFJynxmVRMuxLjVx69"
+      }
+    ],
+    "available_markets": [
+      "DK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4vywuPwNHLYYy7GE2h0vTX"
+    },
+    "href": "https://api.spotify.com/v1/albums/4vywuPwNHLYYy7GE2h0vTX",
+    "id": "4vywuPwNHLYYy7GE2h0vTX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273db517d853d3a2051f96c4e2a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02db517d853d3a2051f96c4e2a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851db517d853d3a2051f96c4e2a",
+        "width": 64
+      }
+    ],
+    "name": "Seven Dreams of Fire",
+    "release_date": "2015-11-06",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4vywuPwNHLYYy7GE2h0vTX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Z1hgFJynxmVRMuxLjVx69"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Z1hgFJynxmVRMuxLjVx69",
+      "id": "1Z1hgFJynxmVRMuxLjVx69",
+      "name": "Lydmor & Bon Homme",
+      "type": "artist",
+      "uri": "spotify:artist:1Z1hgFJynxmVRMuxLjVx69"
+    }
+  ],
+  "available_markets": [
+    "DK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 264623,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEL021570081"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Op4tMJBnVgdaT0OVPXCXs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Op4tMJBnVgdaT0OVPXCXs",
+  "id": "3Op4tMJBnVgdaT0OVPXCXs",
+  "is_local": false,
+  "name": "Trampoline",
+  "popularity": 2,
+  "preview_url": "https://p.scdn.co/mp3-preview/ce4c2e5761c071541d9676523762a2830f546bc4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:3Op4tMJBnVgdaT0OVPXCXs"
+}

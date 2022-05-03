@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Z5pcmXDCKTrFWLnDChC37",
+        "id": "0Z5pcmXDCKTrFWLnDChC37",
+        "name": "Miami Horror",
+        "type": "artist",
+        "uri": "spotify:artist:0Z5pcmXDCKTrFWLnDChC37"
+      }
+    ],
+    "available_markets": [
+      "MX"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1OVZU7svPG5TIz2I6c0tx5"
+    },
+    "href": "https://api.spotify.com/v1/albums/1OVZU7svPG5TIz2I6c0tx5",
+    "id": "1OVZU7svPG5TIz2I6c0tx5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730e23b8faa945e53f8e2d1423",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020e23b8faa945e53f8e2d1423",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510e23b8faa945e53f8e2d1423",
+        "width": 64
+      }
+    ],
+    "name": "All Possible Futures",
+    "release_date": "2015-04-15",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:1OVZU7svPG5TIz2I6c0tx5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Z5pcmXDCKTrFWLnDChC37",
+      "id": "0Z5pcmXDCKTrFWLnDChC37",
+      "name": "Miami Horror",
+      "type": "artist",
+      "uri": "spotify:artist:0Z5pcmXDCKTrFWLnDChC37"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63uxQhWEuj7Zuau9j5XKIB"
+      },
+      "href": "https://api.spotify.com/v1/artists/63uxQhWEuj7Zuau9j5XKIB",
+      "id": "63uxQhWEuj7Zuau9j5XKIB",
+      "name": "Sarah Chernoff",
+      "type": "artist",
+      "uri": "spotify:artist:63uxQhWEuj7Zuau9j5XKIB"
+    }
+  ],
+  "available_markets": [
+    "MX"
+  ],
+  "disc_number": 1,
+  "duration_ms": 286741,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKPL1362960"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4rTtZwUd8nCJo9YlmSdoe3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4rTtZwUd8nCJo9YlmSdoe3",
+  "id": "4rTtZwUd8nCJo9YlmSdoe3",
+  "is_local": false,
+  "name": "Real Slow",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/077886936601fd665a74db5cc01d1c258be30757?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4rTtZwUd8nCJo9YlmSdoe3"
+}

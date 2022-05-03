@@ -1,0 +1,171 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        },
+        "href": "https://api.spotify.com/v1/artists/56UIK6wmbbxuQ6VA20vrWD",
+        "id": "56UIK6wmbbxuQ6VA20vrWD",
+        "name": "Lola Marsh",
+        "type": "artist",
+        "uri": "spotify:artist:56UIK6wmbbxuQ6VA20vrWD"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AG",
+      "AR",
+      "AT",
+      "BB",
+      "BE",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DE",
+      "DM",
+      "DO",
+      "EC",
+      "FR",
+      "GD",
+      "GR",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "LU",
+      "MC",
+      "MX",
+      "NI",
+      "NL",
+      "PA",
+      "PE",
+      "PT",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
+    },
+    "href": "https://api.spotify.com/v1/albums/2Dpk21DBj28JDsfpkrPj5Z",
+    "id": "2Dpk21DBj28JDsfpkrPj5Z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c6cd17d547c314d5961377df",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c6cd17d547c314d5961377df",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c6cd17d547c314d5961377df",
+        "width": 64
+      }
+    ],
+    "name": "Remember Roses",
+    "release_date": "2017-06-09",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:2Dpk21DBj28JDsfpkrPj5Z"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+      },
+      "href": "https://api.spotify.com/v1/artists/56UIK6wmbbxuQ6VA20vrWD",
+      "id": "56UIK6wmbbxuQ6VA20vrWD",
+      "name": "Lola Marsh",
+      "type": "artist",
+      "uri": "spotify:artist:56UIK6wmbbxuQ6VA20vrWD"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AG",
+    "AR",
+    "AT",
+    "BB",
+    "BE",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DE",
+    "DM",
+    "DO",
+    "EC",
+    "FR",
+    "GD",
+    "GR",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "LU",
+    "MC",
+    "MX",
+    "NI",
+    "NL",
+    "PA",
+    "PE",
+    "PT",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 165786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "IL4040101878"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6XxFCVjC1QnQppKOViHNTz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6XxFCVjC1QnQppKOViHNTz",
+  "id": "6XxFCVjC1QnQppKOViHNTz",
+  "is_local": false,
+  "name": "The Wind",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:6XxFCVjC1QnQppKOViHNTz"
+}

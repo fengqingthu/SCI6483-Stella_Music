@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        },
+        "href": "https://api.spotify.com/v1/artists/4G0XDEk7RbA4BBCTs917U9",
+        "id": "4G0XDEk7RbA4BBCTs917U9",
+        "name": "Sun Kil Moon",
+        "type": "artist",
+        "uri": "spotify:artist:4G0XDEk7RbA4BBCTs917U9"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0SUnw24DP3YwhbIqYv0XAf"
+    },
+    "href": "https://api.spotify.com/v1/albums/0SUnw24DP3YwhbIqYv0XAf",
+    "id": "0SUnw24DP3YwhbIqYv0XAf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735cd79904c190a4c25fe6aae1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025cd79904c190a4c25fe6aae1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515cd79904c190a4c25fe6aae1",
+        "width": 64
+      }
+    ],
+    "name": "Benji",
+    "release_date": "2014-03-14",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0SUnw24DP3YwhbIqYv0XAf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+      },
+      "href": "https://api.spotify.com/v1/artists/4G0XDEk7RbA4BBCTs917U9",
+      "id": "4G0XDEk7RbA4BBCTs917U9",
+      "name": "Sun Kil Moon",
+      "type": "artist",
+      "uri": "spotify:artist:4G0XDEk7RbA4BBCTs917U9"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 316626,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA2B1400045"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6kXzroTvu7rGdvrPnQRh9X"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6kXzroTvu7rGdvrPnQRh9X",
+  "id": "6kXzroTvu7rGdvrPnQRh9X",
+  "is_local": false,
+  "name": "Ben's My Friend",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/342da5b4a248fa6a3dbdbe5635d32ab41960e621?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:6kXzroTvu7rGdvrPnQRh9X"
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        },
+        "href": "https://api.spotify.com/v1/artists/2o18h28enlHxj887tATc58",
+        "id": "2o18h28enlHxj887tATc58",
+        "name": "HammerFall",
+        "type": "artist",
+        "uri": "spotify:artist:2o18h28enlHxj887tATc58"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5ye0oAOhUhP5C6AePpIXyW"
+    },
+    "href": "https://api.spotify.com/v1/albums/5ye0oAOhUhP5C6AePpIXyW",
+    "id": "5ye0oAOhUhP5C6AePpIXyW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273be5882ddaa9e70455a7bb4e3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02be5882ddaa9e70455a7bb4e3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851be5882ddaa9e70455a7bb4e3",
+        "width": 64
+      }
+    ],
+    "name": "Built To Last",
+    "release_date": "2016-11-04",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5ye0oAOhUhP5C6AePpIXyW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+      },
+      "href": "https://api.spotify.com/v1/artists/2o18h28enlHxj887tATc58",
+      "id": "2o18h28enlHxj887tATc58",
+      "name": "HammerFall",
+      "type": "artist",
+      "uri": "spotify:artist:2o18h28enlHxj887tATc58"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 277922,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261668402"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0KFQRMhNn8Vmh2khlKwxhn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0KFQRMhNn8Vmh2khlKwxhn",
+  "id": "0KFQRMhNn8Vmh2khlKwxhn",
+  "is_local": false,
+  "name": "Hammer High",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/1c50d4f2c9f0ad88e20c59634a7ddbd727f936ec?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0KFQRMhNn8Vmh2khlKwxhn"
+}

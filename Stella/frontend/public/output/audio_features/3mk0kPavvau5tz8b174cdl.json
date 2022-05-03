@@ -1,0 +1,20 @@
+{
+  "danceability": 0.152,
+  "energy": 0.0274,
+  "key": 6,
+  "loudness": -29.234,
+  "mode": 1,
+  "speechiness": 0.0478,
+  "acousticness": 0.979,
+  "instrumentalness": 0.895,
+  "liveness": 0.107,
+  "valence": 0.0398,
+  "tempo": 88.171,
+  "type": "audio_features",
+  "id": "3mk0kPavvau5tz8b174cdl",
+  "uri": "spotify:track:3mk0kPavvau5tz8b174cdl",
+  "track_href": "https://api.spotify.com/v1/tracks/3mk0kPavvau5tz8b174cdl",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3mk0kPavvau5tz8b174cdl",
+  "duration_ms": 300232,
+  "time_signature": 4
+}

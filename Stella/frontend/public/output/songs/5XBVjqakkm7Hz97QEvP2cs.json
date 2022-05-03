@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        },
+        "href": "https://api.spotify.com/v1/artists/7FDlvgcodNfC0IBdWevl4u",
+        "id": "7FDlvgcodNfC0IBdWevl4u",
+        "name": "James Vincent McMorrow",
+        "type": "artist",
+        "uri": "spotify:artist:7FDlvgcodNfC0IBdWevl4u"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ogfX6dIoYgTRhgnwrkaEn"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ogfX6dIoYgTRhgnwrkaEn",
+    "id": "0ogfX6dIoYgTRhgnwrkaEn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27305d14ca9fd05f1a518060eda",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0205d14ca9fd05f1a518060eda",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485105d14ca9fd05f1a518060eda",
+        "width": 64
+      }
+    ],
+    "name": "We Move",
+    "release_date": "2016-08-05",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0ogfX6dIoYgTRhgnwrkaEn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+      },
+      "href": "https://api.spotify.com/v1/artists/7FDlvgcodNfC0IBdWevl4u",
+      "id": "7FDlvgcodNfC0IBdWevl4u",
+      "name": "James Vincent McMorrow",
+      "type": "artist",
+      "uri": "spotify:artist:7FDlvgcodNfC0IBdWevl4u"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 296413,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "IEDNV1600001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5XBVjqakkm7Hz97QEvP2cs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5XBVjqakkm7Hz97QEvP2cs",
+  "id": "5XBVjqakkm7Hz97QEvP2cs",
+  "is_local": false,
+  "name": "Rising Water",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5XBVjqakkm7Hz97QEvP2cs"
+}

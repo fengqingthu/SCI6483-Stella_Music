@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4NI9CJ8mj82jBvMLSen16L"
+        },
+        "href": "https://api.spotify.com/v1/artists/4NI9CJ8mj82jBvMLSen16L",
+        "id": "4NI9CJ8mj82jBvMLSen16L",
+        "name": "Innerpartysystem",
+        "type": "artist",
+        "uri": "spotify:artist:4NI9CJ8mj82jBvMLSen16L"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/09u23XpOSsbT5wBjxuKUF3"
+    },
+    "href": "https://api.spotify.com/v1/albums/09u23XpOSsbT5wBjxuKUF3",
+    "id": "09u23XpOSsbT5wBjxuKUF3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a98df4bcbaa3efe053870217",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a98df4bcbaa3efe053870217",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a98df4bcbaa3efe053870217",
+        "width": 64
+      }
+    ],
+    "name": "Don't Stop",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:09u23XpOSsbT5wBjxuKUF3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4NI9CJ8mj82jBvMLSen16L"
+      },
+      "href": "https://api.spotify.com/v1/artists/4NI9CJ8mj82jBvMLSen16L",
+      "id": "4NI9CJ8mj82jBvMLSen16L",
+      "name": "Innerpartysystem",
+      "type": "artist",
+      "uri": "spotify:artist:4NI9CJ8mj82jBvMLSen16L"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 282013,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM70748101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6WfdsIQnTM9O5qPMToXK1J"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6WfdsIQnTM9O5qPMToXK1J",
+  "id": "6WfdsIQnTM9O5qPMToXK1J",
+  "is_local": false,
+  "name": "Don't Stop",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/5886726358e4aef434bdeebd80408ff4a8a03efb?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6WfdsIQnTM9O5qPMToXK1J"
+}

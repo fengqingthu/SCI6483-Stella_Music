@@ -1,0 +1,189 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0b45g7oDSlWJ6AeYKjJS0v"
+        },
+        "href": "https://api.spotify.com/v1/artists/0b45g7oDSlWJ6AeYKjJS0v",
+        "id": "0b45g7oDSlWJ6AeYKjJS0v",
+        "name": "Stanislav Gallin",
+        "type": "artist",
+        "uri": "spotify:artist:0b45g7oDSlWJ6AeYKjJS0v"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+        "id": "0VeT7hHTJFJZcENGekjCsB",
+        "name": "London Music Works",
+        "type": "artist",
+        "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5cJITyUYWWPdH3qzlo7bZh"
+    },
+    "href": "https://api.spotify.com/v1/albums/5cJITyUYWWPdH3qzlo7bZh",
+    "id": "5cJITyUYWWPdH3qzlo7bZh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731fee23f76798809b5dd740bc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021fee23f76798809b5dd740bc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511fee23f76798809b5dd740bc",
+        "width": 64
+      }
+    ],
+    "name": "Film Music 2009",
+    "release_date": "2010-03-08",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5cJITyUYWWPdH3qzlo7bZh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+      "id": "0VeT7hHTJFJZcENGekjCsB",
+      "name": "London Music Works",
+      "type": "artist",
+      "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "AU",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 188146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0900162"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1BOgRUjNnAkpdI343zlZxH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1BOgRUjNnAkpdI343zlZxH",
+  "id": "1BOgRUjNnAkpdI343zlZxH",
+  "is_local": false,
+  "name": "Latika's Theme (From \"Slumdog Millionaire\")",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/db7a1570981c79a1d55dcf5f1657485d0d077b2b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:1BOgRUjNnAkpdI343zlZxH"
+}

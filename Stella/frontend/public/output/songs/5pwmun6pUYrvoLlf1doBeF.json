@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0aYVGmEupopeFTcX7aFMIc"
+        },
+        "href": "https://api.spotify.com/v1/artists/0aYVGmEupopeFTcX7aFMIc",
+        "id": "0aYVGmEupopeFTcX7aFMIc",
+        "name": "Ok Goodnight",
+        "type": "artist",
+        "uri": "spotify:artist:0aYVGmEupopeFTcX7aFMIc"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1d2rdnntQwaTofTXMRfn7p"
+    },
+    "href": "https://api.spotify.com/v1/albums/1d2rdnntQwaTofTXMRfn7p",
+    "id": "1d2rdnntQwaTofTXMRfn7p",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e5bb40598079bcce16189dcf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e5bb40598079bcce16189dcf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e5bb40598079bcce16189dcf",
+        "width": 64
+      }
+    ],
+    "name": "Limbo",
+    "release_date": "2021-05-12",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:1d2rdnntQwaTofTXMRfn7p"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0aYVGmEupopeFTcX7aFMIc"
+      },
+      "href": "https://api.spotify.com/v1/artists/0aYVGmEupopeFTcX7aFMIc",
+      "id": "0aYVGmEupopeFTcX7aFMIc",
+      "name": "Ok Goodnight",
+      "type": "artist",
+      "uri": "spotify:artist:0aYVGmEupopeFTcX7aFMIc"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 340268,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZMEP2001238"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5pwmun6pUYrvoLlf1doBeF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5pwmun6pUYrvoLlf1doBeF",
+  "id": "5pwmun6pUYrvoLlf1doBeF",
+  "is_local": false,
+  "name": "Awake",
+  "popularity": 2,
+  "preview_url": "https://p.scdn.co/mp3-preview/0dd99a2fb89f3c410cf92e42d875b93b5df5b12a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:5pwmun6pUYrvoLlf1doBeF"
+}

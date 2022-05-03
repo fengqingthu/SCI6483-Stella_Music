@@ -1,0 +1,20 @@
+{
+  "danceability": 0.614,
+  "energy": 0.914,
+  "key": 7,
+  "loudness": -5.59,
+  "mode": 0,
+  "speechiness": 0.0324,
+  "acousticness": 0.000554,
+  "instrumentalness": 0.0000116,
+  "liveness": 0.0371,
+  "valence": 0.439,
+  "tempo": 90,
+  "type": "audio_features",
+  "id": "2NImo2MajNai4CLk35wMut",
+  "uri": "spotify:track:2NImo2MajNai4CLk35wMut",
+  "track_href": "https://api.spotify.com/v1/tracks/2NImo2MajNai4CLk35wMut",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NImo2MajNai4CLk35wMut",
+  "duration_ms": 369293,
+  "time_signature": 4
+}

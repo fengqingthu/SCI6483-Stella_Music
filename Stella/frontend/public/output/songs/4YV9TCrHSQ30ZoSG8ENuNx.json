@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Q2ya2vGeOhQ9CaF9wWNP6",
+        "id": "3Q2ya2vGeOhQ9CaF9wWNP6",
+        "name": "Shane Filan",
+        "type": "artist",
+        "uri": "spotify:artist:3Q2ya2vGeOhQ9CaF9wWNP6"
+      }
+    ],
+    "available_markets": [
+      "BN",
+      "HK",
+      "ID",
+      "IN",
+      "KH",
+      "KR",
+      "LA",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Qj1C7N6Hr3iMmYkGwHd11"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Qj1C7N6Hr3iMmYkGwHd11",
+    "id": "3Qj1C7N6Hr3iMmYkGwHd11",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a99659e2d0345eabe8c4fbb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a99659e2d0345eabe8c4fbb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a99659e2d0345eabe8c4fbb",
+        "width": 64
+      }
+    ],
+    "name": "Love Always",
+    "release_date": "2017-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3Qj1C7N6Hr3iMmYkGwHd11"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Q2ya2vGeOhQ9CaF9wWNP6",
+      "id": "3Q2ya2vGeOhQ9CaF9wWNP6",
+      "name": "Shane Filan",
+      "type": "artist",
+      "uri": "spotify:artist:3Q2ya2vGeOhQ9CaF9wWNP6"
+    }
+  ],
+  "available_markets": [
+    "BN",
+    "HK",
+    "ID",
+    "IN",
+    "KH",
+    "KR",
+    "LA",
+    "MY",
+    "PH",
+    "SG",
+    "TH",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 212279,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "UKHAU1700026"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4YV9TCrHSQ30ZoSG8ENuNx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4YV9TCrHSQ30ZoSG8ENuNx",
+  "id": "4YV9TCrHSQ30ZoSG8ENuNx",
+  "is_local": false,
+  "name": "Make You Feel My Love",
+  "popularity": 56,
+  "preview_url": "https://p.scdn.co/mp3-preview/fe7df61224e1fa56cf91b478e97332b322582b5b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4YV9TCrHSQ30ZoSG8ENuNx"
+}

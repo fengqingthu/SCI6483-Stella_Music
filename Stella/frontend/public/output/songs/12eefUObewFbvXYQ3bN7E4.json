@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        },
+        "href": "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+        "id": "4I2BJf80C0skQpp1sQmA0h",
+        "name": "Belle and Sebastian",
+        "type": "artist",
+        "uri": "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+    },
+    "href": "https://api.spotify.com/v1/albums/7HNrDkHNFopKBXGWf0UZML",
+    "id": "7HNrDkHNFopKBXGWf0UZML",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fb934389026e29c7b88dd12d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fb934389026e29c7b88dd12d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fb934389026e29c7b88dd12d",
+        "width": 64
+      }
+    ],
+    "name": "Dear Catastrophe Waitress",
+    "release_date": "2003",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7HNrDkHNFopKBXGWf0UZML"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+      },
+      "href": "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+      "id": "4I2BJf80C0skQpp1sQmA0h",
+      "name": "Belle and Sebastian",
+      "type": "artist",
+      "uri": "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 183493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCVZ0300692"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/12eefUObewFbvXYQ3bN7E4",
+  "id": "12eefUObewFbvXYQ3bN7E4",
+  "is_local": false,
+  "name": "Piazza, New York Catcher",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/8836a6fd5161a174adc8205e6019ef1d6e5bdeb5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:12eefUObewFbvXYQ3bN7E4"
+}

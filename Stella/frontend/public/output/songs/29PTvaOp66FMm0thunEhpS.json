@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        },
+        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+        "name": "Ghostly Kisses",
+        "type": "artist",
+        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3g3qEtaEKcIRv8GmDlKfPH"
+    },
+    "href": "https://api.spotify.com/v1/albums/3g3qEtaEKcIRv8GmDlKfPH",
+    "id": "3g3qEtaEKcIRv8GmDlKfPH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732fb8ec5b8ed91e2a1fc2f45e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022fb8ec5b8ed91e2a1fc2f45e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512fb8ec5b8ed91e2a1fc2f45e",
+        "width": 64
+      }
+    ],
+    "name": "Heaven, Wait",
+    "release_date": "2022-01-28",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3g3qEtaEKcIRv8GmDlKfPH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+      },
+      "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+      "id": "7EkzQPP0cgt2qCnXUg6PHj",
+      "name": "Ghostly Kisses",
+      "type": "artist",
+      "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 314539,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMFME2104655"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/29PTvaOp66FMm0thunEhpS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/29PTvaOp66FMm0thunEhpS",
+  "id": "29PTvaOp66FMm0thunEhpS",
+  "is_local": false,
+  "name": "Blackbirds",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/30eea116e6196397527c61e5038581837dae2b0e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:29PTvaOp66FMm0thunEhpS"
+}

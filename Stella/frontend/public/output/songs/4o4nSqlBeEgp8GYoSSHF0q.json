@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+        },
+        "href": "https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM",
+        "id": "1jwOuEBcOKq0BeudSarbEM",
+        "name": "Amen Dunes",
+        "type": "artist",
+        "uri": "spotify:artist:1jwOuEBcOKq0BeudSarbEM"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2zivVNqYUYVi9o3HbSPOjK"
+    },
+    "href": "https://api.spotify.com/v1/albums/2zivVNqYUYVi9o3HbSPOjK",
+    "id": "2zivVNqYUYVi9o3HbSPOjK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27319334c7712c7ad8c25d254dc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0219334c7712c7ad8c25d254dc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485119334c7712c7ad8c25d254dc",
+        "width": 64
+      }
+    ],
+    "name": "Freedom",
+    "release_date": "2018-04-09",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2zivVNqYUYVi9o3HbSPOjK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+      },
+      "href": "https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM",
+      "id": "1jwOuEBcOKq0BeudSarbEM",
+      "name": "Amen Dunes",
+      "type": "artist",
+      "uri": "spotify:artist:1jwOuEBcOKq0BeudSarbEM"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 246306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US5NR1819502"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4o4nSqlBeEgp8GYoSSHF0q"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4o4nSqlBeEgp8GYoSSHF0q",
+  "id": "4o4nSqlBeEgp8GYoSSHF0q",
+  "is_local": false,
+  "name": "Blue Rose",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/f6e42fac9b7aae39c6b714c5bb7af7b6cf111dab?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4o4nSqlBeEgp8GYoSSHF0q"
+}

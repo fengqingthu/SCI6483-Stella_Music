@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wNkISK49lKeXuRaZcQVFe",
+        "id": "7wNkISK49lKeXuRaZcQVFe",
+        "name": "Ralph Vaughan Williams",
+        "type": "artist",
+        "uri": "spotify:artist:7wNkISK49lKeXuRaZcQVFe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        "href": "https://api.spotify.com/v1/artists/02B3Os1lCLuWR6klPJiQpW",
+        "id": "02B3Os1lCLuWR6klPJiQpW",
+        "name": "Nicola Benedetti",
+        "type": "artist",
+        "uri": "spotify:artist:02B3Os1lCLuWR6klPJiQpW"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4QheW4RW8XJWadC4TtRR9Z"
+    },
+    "href": "https://api.spotify.com/v1/albums/4QheW4RW8XJWadC4TtRR9Z",
+    "id": "4QheW4RW8XJWadC4TtRR9Z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f730e177d570ba26e6461c86",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f730e177d570ba26e6461c86",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f730e177d570ba26e6461c86",
+        "width": 64
+      }
+    ],
+    "name": "Vaughan Williams: The Lark Ascending (Classic FM: The Full Works)",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:4QheW4RW8XJWadC4TtRR9Z"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+      },
+      "href": "https://api.spotify.com/v1/artists/7wNkISK49lKeXuRaZcQVFe",
+      "id": "7wNkISK49lKeXuRaZcQVFe",
+      "name": "Ralph Vaughan Williams",
+      "type": "artist",
+      "uri": "spotify:artist:7wNkISK49lKeXuRaZcQVFe"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+      },
+      "href": "https://api.spotify.com/v1/artists/02B3Os1lCLuWR6klPJiQpW",
+      "id": "02B3Os1lCLuWR6klPJiQpW",
+      "name": "Nicola Benedetti",
+      "type": "artist",
+      "uri": "spotify:artist:02B3Os1lCLuWR6klPJiQpW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3PfJE6ebCbCHeuqO4BfNeA",
+      "id": "3PfJE6ebCbCHeuqO4BfNeA",
+      "name": "London Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3PfJE6ebCbCHeuqO4BfNeA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
+      },
+      "href": "https://api.spotify.com/v1/artists/6YVQX2N8puDVWKE1StJVqn",
+      "id": "6YVQX2N8puDVWKE1StJVqn",
+      "name": "Andrew Litton",
+      "type": "artist",
+      "uri": "spotify:artist:6YVQX2N8puDVWKE1StJVqn"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 957080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70706464"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4qwyDI0dW7hhQbQXUfHOUv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4qwyDI0dW7hhQbQXUfHOUv",
+  "id": "4qwyDI0dW7hhQbQXUfHOUv",
+  "is_local": false,
+  "name": "The Lark Ascending",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4qwyDI0dW7hhQbQXUfHOUv"
+}

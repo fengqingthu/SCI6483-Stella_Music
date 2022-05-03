@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        },
+        "href": "https://api.spotify.com/v1/artists/3VAxb3UskTNiHAKh4UeOEv",
+        "id": "3VAxb3UskTNiHAKh4UeOEv",
+        "name": "JR JR",
+        "type": "artist",
+        "uri": "spotify:artist:3VAxb3UskTNiHAKh4UeOEv"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
+    },
+    "href": "https://api.spotify.com/v1/albums/3shFtH3EfvyztGl2sdsmHS",
+    "id": "3shFtH3EfvyztGl2sdsmHS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731621a56b7acf0f0c01335519",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021621a56b7acf0f0c01335519",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511621a56b7acf0f0c01335519",
+        "width": 64
+      }
+    ],
+    "name": "JR JR",
+    "release_date": "2015-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3shFtH3EfvyztGl2sdsmHS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+      },
+      "href": "https://api.spotify.com/v1/artists/3VAxb3UskTNiHAKh4UeOEv",
+      "id": "3VAxb3UskTNiHAKh4UeOEv",
+      "name": "JR JR",
+      "type": "artist",
+      "uri": "spotify:artist:3VAxb3UskTNiHAKh4UeOEv"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 176255,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWB11402612"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/17fdaIe3s3EXjb5wkl3Dai"
+  },
+  "href": "https://api.spotify.com/v1/tracks/17fdaIe3s3EXjb5wkl3Dai",
+  "id": "17fdaIe3s3EXjb5wkl3Dai",
+  "is_local": false,
+  "name": "James Dean",
+  "popularity": 17,
+  "preview_url": "https://p.scdn.co/mp3-preview/3b4a0759b6a3adffb846592d1ddd438d185eb714?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:17fdaIe3s3EXjb5wkl3Dai"
+}

@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
+        "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+        "name": "STRFKR",
+        "type": "artist",
+        "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf"
+    },
+    "href": "https://api.spotify.com/v1/albums/5GOHOQxjLxkcW9oXPJChBf",
+    "id": "5GOHOQxjLxkcW9oXPJChBf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27312ea5d5b641c2f78305b9a25",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0212ea5d5b641c2f78305b9a25",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485112ea5d5b641c2f78305b9a25",
+        "width": 64
+      }
+    ],
+    "name": "Being No One, Going Nowhere",
+    "release_date": "2016-11-04",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5GOHOQxjLxkcW9oXPJChBf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "name": "STRFKR",
+      "type": "artist",
+      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232946,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3R41632105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0xxm1WskKZSCvbkGjkSMr2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0xxm1WskKZSCvbkGjkSMr2",
+  "id": "0xxm1WskKZSCvbkGjkSMr2",
+  "is_local": false,
+  "name": "Open Your Eyes",
+  "popularity": 56,
+  "preview_url": "https://p.scdn.co/mp3-preview/2dd0c2476e48e208ccdade71b551be8cdb165797?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:0xxm1WskKZSCvbkGjkSMr2"
+}

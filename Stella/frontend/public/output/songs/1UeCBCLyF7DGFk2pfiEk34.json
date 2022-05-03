@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        },
+        "href": "https://api.spotify.com/v1/artists/0aeLcja6hKzb7Uz2ou7ulP",
+        "id": "0aeLcja6hKzb7Uz2ou7ulP",
+        "name": "Noah And The Whale",
+        "type": "artist",
+        "uri": "spotify:artist:0aeLcja6hKzb7Uz2ou7ulP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "IE",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
+    },
+    "href": "https://api.spotify.com/v1/albums/7wSY8MNBuFKLIRhEXBwl9s",
+    "id": "7wSY8MNBuFKLIRhEXBwl9s",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b3a3de9eee2a48896dcf0d34",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b3a3de9eee2a48896dcf0d34",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b3a3de9eee2a48896dcf0d34",
+        "width": 64
+      }
+    ],
+    "name": "The First Days Of Spring",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7wSY8MNBuFKLIRhEXBwl9s"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0aeLcja6hKzb7Uz2ou7ulP",
+      "id": "0aeLcja6hKzb7Uz2ou7ulP",
+      "name": "Noah And The Whale",
+      "type": "artist",
+      "uri": "spotify:artist:0aeLcja6hKzb7Uz2ou7ulP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 399160,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70907130"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1UeCBCLyF7DGFk2pfiEk34"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1UeCBCLyF7DGFk2pfiEk34",
+  "id": "1UeCBCLyF7DGFk2pfiEk34",
+  "is_local": false,
+  "name": "The First Days Of Spring",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1UeCBCLyF7DGFk2pfiEk34"
+}

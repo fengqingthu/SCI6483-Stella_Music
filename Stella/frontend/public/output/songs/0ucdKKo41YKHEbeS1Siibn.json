@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        },
+        "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+        "id": "22ojy4H4ZVpowC4lRRC8In",
+        "name": "Destroyer",
+        "type": "artist",
+        "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4xMH74vcE3TKSIThpHomGS"
+    },
+    "href": "https://api.spotify.com/v1/albums/4xMH74vcE3TKSIThpHomGS",
+    "id": "4xMH74vcE3TKSIThpHomGS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b9b7d0fa5ad3581da6ce0e28",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b9b7d0fa5ad3581da6ce0e28",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b9b7d0fa5ad3581da6ce0e28",
+        "width": 64
+      }
+    ],
+    "name": "ken",
+    "release_date": "2017-10-20",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4xMH74vcE3TKSIThpHomGS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+      },
+      "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+      "id": "22ojy4H4ZVpowC4lRRC8In",
+      "name": "Destroyer",
+      "type": "artist",
+      "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 286027,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMRG1759903"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ucdKKo41YKHEbeS1Siibn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ucdKKo41YKHEbeS1Siibn",
+  "id": "0ucdKKo41YKHEbeS1Siibn",
+  "is_local": false,
+  "name": "Tinseltown Swimming in Blood",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/9c0f059c9d4adad248f2afc058929c08f86b58c8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0ucdKKo41YKHEbeS1Siibn"
+}

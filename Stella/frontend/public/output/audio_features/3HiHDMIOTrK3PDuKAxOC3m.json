@@ -1,0 +1,20 @@
+{
+  "danceability": 0.686,
+  "energy": 0.743,
+  "key": 11,
+  "loudness": -11.233,
+  "mode": 0,
+  "speechiness": 0.105,
+  "acousticness": 0.397,
+  "instrumentalness": 0.94,
+  "liveness": 0.276,
+  "valence": 0.543,
+  "tempo": 100,
+  "type": "audio_features",
+  "id": "3HiHDMIOTrK3PDuKAxOC3m",
+  "uri": "spotify:track:3HiHDMIOTrK3PDuKAxOC3m",
+  "track_href": "https://api.spotify.com/v1/tracks/3HiHDMIOTrK3PDuKAxOC3m",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HiHDMIOTrK3PDuKAxOC3m",
+  "duration_ms": 291000,
+  "time_signature": 4
+}

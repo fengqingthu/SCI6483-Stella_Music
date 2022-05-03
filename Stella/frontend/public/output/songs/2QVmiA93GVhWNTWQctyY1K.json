@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        },
+        "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+        "id": "63MQldklfxkjYDoUE4Tppz",
+        "name": "M83",
+        "type": "artist",
+        "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+    },
+    "href": "https://api.spotify.com/v1/albums/6R0ynY7RF20ofs9GJR5TXR",
+    "id": "6R0ynY7RF20ofs9GJR5TXR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fff2cb485c36a6d8f639bdba",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fff2cb485c36a6d8f639bdba",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fff2cb485c36a6d8f639bdba",
+        "width": 64
+      }
+    ],
+    "name": "Hurry Up, We're Dreaming",
+    "release_date": "2011",
+    "release_date_precision": "year",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:6R0ynY7RF20ofs9GJR5TXR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+      },
+      "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+      "id": "63MQldklfxkjYDoUE4Tppz",
+      "name": "M83",
+      "type": "artist",
+      "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 2,
+  "duration_ms": 247026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB55H1100022"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2QVmiA93GVhWNTWQctyY1K",
+  "id": "2QVmiA93GVhWNTWQctyY1K",
+  "is_local": false,
+  "name": "Outro",
+  "popularity": 56,
+  "preview_url": "https://p.scdn.co/mp3-preview/a8b9ef464a939bc24f495949e3fd9feb581134e7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:2QVmiA93GVhWNTWQctyY1K"
+}

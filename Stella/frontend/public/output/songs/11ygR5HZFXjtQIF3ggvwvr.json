@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2bPOtAmEBWgpj3qBhLiOm5"
+        },
+        "href": "https://api.spotify.com/v1/artists/2bPOtAmEBWgpj3qBhLiOm5",
+        "id": "2bPOtAmEBWgpj3qBhLiOm5",
+        "name": "Brainbox",
+        "type": "artist",
+        "uri": "spotify:artist:2bPOtAmEBWgpj3qBhLiOm5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4rwbgm5e9nHsIhLNIjbWI1"
+        },
+        "href": "https://api.spotify.com/v1/artists/4rwbgm5e9nHsIhLNIjbWI1",
+        "id": "4rwbgm5e9nHsIhLNIjbWI1",
+        "name": "Kaz Lux",
+        "type": "artist",
+        "uri": "spotify:artist:4rwbgm5e9nHsIhLNIjbWI1"
+      }
+    ],
+    "available_markets": [
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3k1adw3i30pKxxzm7XFYj5"
+    },
+    "href": "https://api.spotify.com/v1/albums/3k1adw3i30pKxxzm7XFYj5",
+    "id": "3k1adw3i30pKxxzm7XFYj5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397b3f65e869dfb742d650276",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297b3f65e869dfb742d650276",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197b3f65e869dfb742d650276",
+        "width": 64
+      }
+    ],
+    "name": "Golden Years Of Dutch Pop Music",
+    "release_date": "2015-10-23",
+    "release_date_precision": "day",
+    "total_tracks": 43,
+    "type": "album",
+    "uri": "spotify:album:3k1adw3i30pKxxzm7XFYj5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2bPOtAmEBWgpj3qBhLiOm5"
+      },
+      "href": "https://api.spotify.com/v1/artists/2bPOtAmEBWgpj3qBhLiOm5",
+      "id": "2bPOtAmEBWgpj3qBhLiOm5",
+      "name": "Brainbox",
+      "type": "artist",
+      "uri": "spotify:artist:2bPOtAmEBWgpj3qBhLiOm5"
+    }
+  ],
+  "available_markets": [
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 155040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLA270510540"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/11ygR5HZFXjtQIF3ggvwvr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/11ygR5HZFXjtQIF3ggvwvr",
+  "id": "11ygR5HZFXjtQIF3ggvwvr",
+  "is_local": false,
+  "name": "Down Man",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:11ygR5HZFXjtQIF3ggvwvr"
+}

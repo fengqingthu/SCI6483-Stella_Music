@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        },
+        "href": "https://api.spotify.com/v1/artists/1q24xIsAD7JZuVkTLR9TJy",
+        "id": "1q24xIsAD7JZuVkTLR9TJy",
+        "name": "Brigitte Bardot",
+        "type": "artist",
+        "uri": "spotify:artist:1q24xIsAD7JZuVkTLR9TJy"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "FR",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6fQPcaGguOWOnB3pdf7oqI"
+    },
+    "href": "https://api.spotify.com/v1/albums/6fQPcaGguOWOnB3pdf7oqI",
+    "id": "6fQPcaGguOWOnB3pdf7oqI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27325853038063bc5642c541bc8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0225853038063bc5642c541bc8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485125853038063bc5642c541bc8",
+        "width": 64
+      }
+    ],
+    "name": "Master Serie 2CD",
+    "release_date": "1999-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 34,
+    "type": "album",
+    "uri": "spotify:album:6fQPcaGguOWOnB3pdf7oqI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+      },
+      "href": "https://api.spotify.com/v1/artists/1q24xIsAD7JZuVkTLR9TJy",
+      "id": "1q24xIsAD7JZuVkTLR9TJy",
+      "name": "Brigitte Bardot",
+      "type": "artist",
+      "uri": "spotify:artist:1q24xIsAD7JZuVkTLR9TJy"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "FR",
+    "NL"
+  ],
+  "disc_number": 2,
+  "duration_ms": 140706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ286701020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3WTnxQFvbY5DhulNz7Z6pn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3WTnxQFvbY5DhulNz7Z6pn",
+  "id": "3WTnxQFvbY5DhulNz7Z6pn",
+  "is_local": false,
+  "name": "Contact",
+  "popularity": 20,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3WTnxQFvbY5DhulNz7Z6pn"
+}

@@ -1,0 +1,193 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        "href": "https://api.spotify.com/v1/artists/3K8EYZ4Ltg6ythgGZzrFXf",
+        "id": "3K8EYZ4Ltg6ythgGZzrFXf",
+        "name": "Marc Lavoine",
+        "type": "artist",
+        "uri": "spotify:artist:3K8EYZ4Ltg6ythgGZzrFXf"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "BE",
+      "BG",
+      "BH",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GN",
+      "GR",
+      "HK",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "JO",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PT",
+      "QA",
+      "RO",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "TR",
+      "TW",
+      "US",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
+    },
+    "href": "https://api.spotify.com/v1/albums/3rAiEREUQbY2YQUPpUJWcI",
+    "id": "3rAiEREUQbY2YQUPpUJWcI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733e322c6c78ae7d5e2c5918d6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023e322c6c78ae7d5e2c5918d6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513e322c6c78ae7d5e2c5918d6",
+        "width": 64
+      }
+    ],
+    "name": "Marc Lavoine",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3rAiEREUQbY2YQUPpUJWcI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+      },
+      "href": "https://api.spotify.com/v1/artists/3K8EYZ4Ltg6ythgGZzrFXf",
+      "id": "3K8EYZ4Ltg6ythgGZzrFXf",
+      "name": "Marc Lavoine",
+      "type": "artist",
+      "uri": "spotify:artist:3K8EYZ4Ltg6ythgGZzrFXf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4XCrUZddri9OpmSQqkBiw2"
+      },
+      "href": "https://api.spotify.com/v1/artists/4XCrUZddri9OpmSQqkBiw2",
+      "id": "4XCrUZddri9OpmSQqkBiw2",
+      "name": "Cristina Marocco",
+      "type": "artist",
+      "uri": "spotify:artist:4XCrUZddri9OpmSQqkBiw2"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "BE",
+    "BG",
+    "BH",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GN",
+    "GR",
+    "HK",
+    "HU",
+    "ID",
+    "IE",
+    "IL",
+    "JO",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PT",
+    "QA",
+    "RO",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "TR",
+    "TW",
+    "US",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 244973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ030100760"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1UWygCYbDfxAGdNrHuEnKE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1UWygCYbDfxAGdNrHuEnKE",
+  "id": "1UWygCYbDfxAGdNrHuEnKE",
+  "is_local": false,
+  "name": "J'ai tout oublié",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:1UWygCYbDfxAGdNrHuEnKE"
+}

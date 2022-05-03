@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Z2JzIUIe7HymMSV0tgP8c"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Z2JzIUIe7HymMSV0tgP8c",
+        "id": "4Z2JzIUIe7HymMSV0tgP8c",
+        "name": "Avi Buffalo",
+        "type": "artist",
+        "uri": "spotify:artist:4Z2JzIUIe7HymMSV0tgP8c"
+      }
+    ],
+    "available_markets": [
+      "HK",
+      "MY",
+      "SG",
+      "TW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7M0aFfTcPItMdOMz6z5ZFX"
+    },
+    "href": "https://api.spotify.com/v1/albums/7M0aFfTcPItMdOMz6z5ZFX",
+    "id": "7M0aFfTcPItMdOMz6z5ZFX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a72a631285c2671d3927efbe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a72a631285c2671d3927efbe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a72a631285c2671d3927efbe",
+        "width": 64
+      }
+    ],
+    "name": "At Best Cuckold",
+    "release_date": "2014-09-08",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:7M0aFfTcPItMdOMz6z5ZFX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Z2JzIUIe7HymMSV0tgP8c"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Z2JzIUIe7HymMSV0tgP8c",
+      "id": "4Z2JzIUIe7HymMSV0tgP8c",
+      "name": "Avi Buffalo",
+      "type": "artist",
+      "uri": "spotify:artist:4Z2JzIUIe7HymMSV0tgP8c"
+    }
+  ],
+  "available_markets": [
+    "HK",
+    "MY",
+    "SG",
+    "TW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 243293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSUB1404705"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1C7XT1mEObWfRWqWf2wMrT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1C7XT1mEObWfRWqWf2wMrT",
+  "id": "1C7XT1mEObWfRWqWf2wMrT",
+  "is_local": false,
+  "name": "Overwhelmed With Pride",
+  "popularity": 1,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1C7XT1mEObWfRWqWf2wMrT"
+}

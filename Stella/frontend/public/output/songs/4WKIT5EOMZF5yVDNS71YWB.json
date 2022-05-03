@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4XbmqBlioUtrlKNaZuxxbw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4XbmqBlioUtrlKNaZuxxbw",
+        "id": "4XbmqBlioUtrlKNaZuxxbw",
+        "name": "The Caretaker",
+        "type": "artist",
+        "uri": "spotify:artist:4XbmqBlioUtrlKNaZuxxbw"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/44YowKrYCgiT0qZGdLARWi"
+    },
+    "href": "https://api.spotify.com/v1/albums/44YowKrYCgiT0qZGdLARWi",
+    "id": "44YowKrYCgiT0qZGdLARWi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734cf26c52d3e19227ca86f8aa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024cf26c52d3e19227ca86f8aa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514cf26c52d3e19227ca86f8aa",
+        "width": 64
+      }
+    ],
+    "name": "Everywhere at the end of time",
+    "release_date": "2019-03-14",
+    "release_date_precision": "day",
+    "total_tracks": 50,
+    "type": "album",
+    "uri": "spotify:album:44YowKrYCgiT0qZGdLARWi"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4XbmqBlioUtrlKNaZuxxbw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4XbmqBlioUtrlKNaZuxxbw",
+      "id": "4XbmqBlioUtrlKNaZuxxbw",
+      "name": "The Caretaker",
+      "type": "artist",
+      "uri": "spotify:artist:4XbmqBlioUtrlKNaZuxxbw"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 212213,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZS632192425"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4WKIT5EOMZF5yVDNS71YWB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4WKIT5EOMZF5yVDNS71YWB",
+  "id": "4WKIT5EOMZF5yVDNS71YWB",
+  "is_local": false,
+  "name": "It's just a burning memory",
+  "popularity": 6,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4WKIT5EOMZF5yVDNS71YWB"
+}

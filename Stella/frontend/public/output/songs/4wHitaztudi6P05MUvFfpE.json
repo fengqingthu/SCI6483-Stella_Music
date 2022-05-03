@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        },
+        "href": "https://api.spotify.com/v1/artists/52R2tXlJMDDDYcpBSnn3k4",
+        "id": "52R2tXlJMDDDYcpBSnn3k4",
+        "name": "haruka nakamura",
+        "type": "artist",
+        "uri": "spotify:artist:52R2tXlJMDDDYcpBSnn3k4"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP"
+    },
+    "href": "https://api.spotify.com/v1/albums/33jrZWD12HJIHMpmnqmipP",
+    "id": "33jrZWD12HJIHMpmnqmipP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27333a050e76829feb9a8132da4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0233a050e76829feb9a8132da4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485133a050e76829feb9a8132da4",
+        "width": 64
+      }
+    ],
+    "name": "アイル",
+    "release_date": "2018-03-21",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:33jrZWD12HJIHMpmnqmipP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+      },
+      "href": "https://api.spotify.com/v1/artists/52R2tXlJMDDDYcpBSnn3k4",
+      "id": "52R2tXlJMDDDYcpBSnn3k4",
+      "name": "haruka nakamura",
+      "type": "artist",
+      "uri": "spotify:artist:52R2tXlJMDDDYcpBSnn3k4"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245500,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPB671803123"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4wHitaztudi6P05MUvFfpE",
+  "id": "4wHitaztudi6P05MUvFfpE",
+  "is_local": false,
+  "name": "哀しい予感 / リリウム",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/444e60e7b747083fb9800df51cbc2b017ca79632?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4wHitaztudi6P05MUvFfpE"
+}

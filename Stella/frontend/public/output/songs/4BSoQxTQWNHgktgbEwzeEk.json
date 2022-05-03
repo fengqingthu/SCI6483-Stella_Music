@@ -1,0 +1,82 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh"
+    },
+    "href": "https://api.spotify.com/v1/albums/0OstemuKkqQrvIieOxmQzh",
+    "id": "0OstemuKkqQrvIieOxmQzh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733db4b217501e08775e81c709",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023db4b217501e08775e81c709",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513db4b217501e08775e81c709",
+        "width": 64
+      }
+    ],
+    "name": "Clubbed To Death",
+    "release_date": "2015-10-09",
+    "release_date_precision": "day",
+    "total_tracks": 52,
+    "type": "album",
+    "uri": "spotify:album:0OstemuKkqQrvIieOxmQzh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22xRIphSN7IkPVbErICu7s"
+      },
+      "href": "https://api.spotify.com/v1/artists/22xRIphSN7IkPVbErICu7s",
+      "id": "22xRIphSN7IkPVbErICu7s",
+      "name": "Rob Dougan",
+      "type": "artist",
+      "uri": "spotify:artist:22xRIphSN7IkPVbErICu7s"
+    }
+  ],
+  "available_markets": [
+    "GB"
+  ],
+  "disc_number": 1,
+  "duration_ms": 244986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70912612"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4BSoQxTQWNHgktgbEwzeEk",
+  "id": "4BSoQxTQWNHgktgbEwzeEk",
+  "is_local": false,
+  "name": "Clubbed To Death - Kurayamino Variation",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4BSoQxTQWNHgktgbEwzeEk"
+}

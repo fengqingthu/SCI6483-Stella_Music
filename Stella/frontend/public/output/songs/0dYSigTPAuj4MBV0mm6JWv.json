@@ -1,0 +1,205 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "AU",
+      "BA",
+      "BD",
+      "BE",
+      "BH",
+      "BN",
+      "DE",
+      "DK",
+      "DZ",
+      "EG",
+      "GB",
+      "HK",
+      "HR",
+      "ID",
+      "IE",
+      "IN",
+      "IQ",
+      "IT",
+      "JO",
+      "KH",
+      "KR",
+      "KW",
+      "LA",
+      "LB",
+      "LK",
+      "LU",
+      "LY",
+      "MA",
+      "ME",
+      "MK",
+      "MO",
+      "MY",
+      "NZ",
+      "OM",
+      "PH",
+      "PL",
+      "QA",
+      "RS",
+      "SA",
+      "SG",
+      "SI",
+      "TH",
+      "TN",
+      "TW",
+      "VN",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7B6FVFj3Ivh32nIIdNKzgN"
+    },
+    "href": "https://api.spotify.com/v1/albums/7B6FVFj3Ivh32nIIdNKzgN",
+    "id": "7B6FVFj3Ivh32nIIdNKzgN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f3491b693bc63ffd69303342",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f3491b693bc63ffd69303342",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f3491b693bc63ffd69303342",
+        "width": 64
+      }
+    ],
+    "name": "Mary Poppins 50th Anniversary Edition Soundtrack",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 54,
+    "type": "album",
+    "uri": "spotify:album:7B6FVFj3Ivh32nIIdNKzgN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6"
+      },
+      "href": "https://api.spotify.com/v1/artists/6XIT5sGHOtxVgqtSnMCYZ6",
+      "id": "6XIT5sGHOtxVgqtSnMCYZ6",
+      "name": "Dick Van Dyke",
+      "type": "artist",
+      "uri": "spotify:artist:6XIT5sGHOtxVgqtSnMCYZ6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5RdqZVi36tpDPYNPw8jJbO",
+      "id": "5RdqZVi36tpDPYNPw8jJbO",
+      "name": "Julie Andrews",
+      "type": "artist",
+      "uri": "spotify:artist:5RdqZVi36tpDPYNPw8jJbO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2vHx2wi7daCLxHL0jKOZiz",
+      "id": "2vHx2wi7daCLxHL0jKOZiz",
+      "name": "Karen Dotrice",
+      "type": "artist",
+      "uri": "spotify:artist:2vHx2wi7daCLxHL0jKOZiz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YDM76Dml4Pyo8H7JSfafZ",
+      "id": "3YDM76Dml4Pyo8H7JSfafZ",
+      "name": "Matthew Garber",
+      "type": "artist",
+      "uri": "spotify:artist:3YDM76Dml4Pyo8H7JSfafZ"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "AU",
+    "BA",
+    "BD",
+    "BE",
+    "BH",
+    "BN",
+    "DE",
+    "DK",
+    "DZ",
+    "EG",
+    "GB",
+    "HK",
+    "HR",
+    "ID",
+    "IE",
+    "IN",
+    "IQ",
+    "IT",
+    "JO",
+    "KH",
+    "KR",
+    "KW",
+    "LA",
+    "LB",
+    "LK",
+    "LU",
+    "LY",
+    "MA",
+    "ME",
+    "MK",
+    "MO",
+    "MY",
+    "NZ",
+    "OM",
+    "PH",
+    "PL",
+    "QA",
+    "RS",
+    "SA",
+    "SG",
+    "SI",
+    "TH",
+    "TN",
+    "TW",
+    "VN",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 311066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWD10424005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0dYSigTPAuj4MBV0mm6JWv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0dYSigTPAuj4MBV0mm6JWv",
+  "id": "0dYSigTPAuj4MBV0mm6JWv",
+  "is_local": false,
+  "name": "Chim Chim Cher-ee/March Over The Rooftops - From \"Mary Poppins\"/Soundtrack Version",
+  "popularity": 13,
+  "preview_url": null,
+  "track_number": 24,
+  "type": "track",
+  "uri": "spotify:track:0dYSigTPAuj4MBV0mm6JWv"
+}

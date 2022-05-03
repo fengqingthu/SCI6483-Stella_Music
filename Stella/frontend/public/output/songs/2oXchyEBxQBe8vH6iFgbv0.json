@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16okCG5QlGiQ6fRr30H10t"
+        },
+        "href": "https://api.spotify.com/v1/artists/16okCG5QlGiQ6fRr30H10t",
+        "id": "16okCG5QlGiQ6fRr30H10t",
+        "name": "John Miles",
+        "type": "artist",
+        "uri": "spotify:artist:16okCG5QlGiQ6fRr30H10t"
+      }
+    ],
+    "available_markets": [
+      "CH",
+      "CZ",
+      "DE",
+      "IL",
+      "RO",
+      "SK",
+      "TR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2ozuwNos4Du9IgA3129LoX"
+    },
+    "href": "https://api.spotify.com/v1/albums/2ozuwNos4Du9IgA3129LoX",
+    "id": "2ozuwNos4Du9IgA3129LoX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273903283212ac5263e18efc3f0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02903283212ac5263e18efc3f0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851903283212ac5263e18efc3f0",
+        "width": 64
+      }
+    ],
+    "name": "Millennium Edition",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:2ozuwNos4Du9IgA3129LoX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/16okCG5QlGiQ6fRr30H10t"
+      },
+      "href": "https://api.spotify.com/v1/artists/16okCG5QlGiQ6fRr30H10t",
+      "id": "16okCG5QlGiQ6fRr30H10t",
+      "name": "John Miles",
+      "type": "artist",
+      "uri": "spotify:artist:16okCG5QlGiQ6fRr30H10t"
+    }
+  ],
+  "available_markets": [
+    "CH",
+    "CZ",
+    "DE",
+    "IL",
+    "RO",
+    "SK",
+    "TR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 352773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF077620010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2oXchyEBxQBe8vH6iFgbv0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2oXchyEBxQBe8vH6iFgbv0",
+  "id": "2oXchyEBxQBe8vH6iFgbv0",
+  "is_local": false,
+  "name": "Music",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2oXchyEBxQBe8vH6iFgbv0"
+}

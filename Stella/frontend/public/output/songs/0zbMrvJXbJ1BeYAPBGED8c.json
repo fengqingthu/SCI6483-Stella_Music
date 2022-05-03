@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        "href": "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+        "id": "09kXLeOXRyfNQMXRaDO4qA",
+        "name": "Nilüfer Yanya",
+        "type": "artist",
+        "uri": "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2S00Wdz1R0alS3tbbkCu3d"
+    },
+    "href": "https://api.spotify.com/v1/albums/2S00Wdz1R0alS3tbbkCu3d",
+    "id": "2S00Wdz1R0alS3tbbkCu3d",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366f6ece96c8ad52ce2260e47",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266f6ece96c8ad52ce2260e47",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166f6ece96c8ad52ce2260e47",
+        "width": 64
+      }
+    ],
+    "name": "Crash",
+    "release_date": "2020-10-20",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2S00Wdz1R0alS3tbbkCu3d"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+      },
+      "href": "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+      "id": "09kXLeOXRyfNQMXRaDO4qA",
+      "name": "Nilüfer Yanya",
+      "type": "artist",
+      "uri": "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226229,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USATO2000454"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zbMrvJXbJ1BeYAPBGED8c"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zbMrvJXbJ1BeYAPBGED8c",
+  "id": "0zbMrvJXbJ1BeYAPBGED8c",
+  "is_local": false,
+  "name": "Crash",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0zbMrvJXbJ1BeYAPBGED8c"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DFoVPonoAAt4EZ1FEI8ue",
+        "id": "3DFoVPonoAAt4EZ1FEI8ue",
+        "name": "Sir Sly",
+        "type": "artist",
+        "uri": "spotify:artist:3DFoVPonoAAt4EZ1FEI8ue"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2u9iJU1eeLy4QOx6SkMsLM"
+    },
+    "href": "https://api.spotify.com/v1/albums/2u9iJU1eeLy4QOx6SkMsLM",
+    "id": "2u9iJU1eeLy4QOx6SkMsLM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a9ccb884f0d74acff1989fe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a9ccb884f0d74acff1989fe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a9ccb884f0d74acff1989fe",
+        "width": 64
+      }
+    ],
+    "name": "You Haunt Me",
+    "release_date": "2014-09-16",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:2u9iJU1eeLy4QOx6SkMsLM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+      },
+      "href": "https://api.spotify.com/v1/artists/3DFoVPonoAAt4EZ1FEI8ue",
+      "id": "3DFoVPonoAAt4EZ1FEI8ue",
+      "name": "Sir Sly",
+      "type": "artist",
+      "uri": "spotify:artist:3DFoVPonoAAt4EZ1FEI8ue"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 231760,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71305811"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0qM7QW0hUI8Lez3MAI3P5U"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0qM7QW0hUI8Lez3MAI3P5U",
+  "id": "0qM7QW0hUI8Lez3MAI3P5U",
+  "is_local": false,
+  "name": "Gold",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0qM7QW0hUI8Lez3MAI3P5U"
+}

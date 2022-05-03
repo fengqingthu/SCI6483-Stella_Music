@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hL8IlB7tKuRiqChLyEJGr",
+        "id": "6hL8IlB7tKuRiqChLyEJGr",
+        "name": "HOFFMAESTRO",
+        "type": "artist",
+        "uri": "spotify:artist:6hL8IlB7tKuRiqChLyEJGr"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3kG203MbpftpTNKPP3Jxgf"
+    },
+    "href": "https://api.spotify.com/v1/albums/3kG203MbpftpTNKPP3Jxgf",
+    "id": "3kG203MbpftpTNKPP3Jxgf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fd4de9a55521ecf4d768f8f6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fd4de9a55521ecf4d768f8f6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fd4de9a55521ecf4d768f8f6",
+        "width": 64
+      }
+    ],
+    "name": "The Storm",
+    "release_date": "2006-11-14",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:3kG203MbpftpTNKPP3Jxgf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hL8IlB7tKuRiqChLyEJGr",
+      "id": "6hL8IlB7tKuRiqChLyEJGr",
+      "name": "HOFFMAESTRO",
+      "type": "artist",
+      "uri": "spotify:artist:6hL8IlB7tKuRiqChLyEJGr"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 199466,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "SEPQA0751882"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1EvXBGDqIyAc4BFCJCehhC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1EvXBGDqIyAc4BFCJCehhC",
+  "id": "1EvXBGDqIyAc4BFCJCehhC",
+  "is_local": false,
+  "name": "So You Do (Slimi Jimi Bubby Boy)",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/dcc0228a5e853e469a96d9ce0304bd32c97216de?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:1EvXBGDqIyAc4BFCJCehhC"
+}

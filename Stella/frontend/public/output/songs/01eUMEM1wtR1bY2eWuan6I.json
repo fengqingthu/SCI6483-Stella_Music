@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+        "id": "1tpXaFf2F55E7kVJON4j4G",
+        "name": "Black Rebel Motorcycle Club",
+        "type": "artist",
+        "uri": "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV"
+    },
+    "href": "https://api.spotify.com/v1/albums/4bqvmPwZxKndCe4DrsLbuV",
+    "id": "4bqvmPwZxKndCe4DrsLbuV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734c996e3137805b62a7f71a1c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024c996e3137805b62a7f71a1c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514c996e3137805b62a7f71a1c",
+        "width": 64
+      }
+    ],
+    "name": "Wrong Creatures",
+    "release_date": "2018-01-12",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4bqvmPwZxKndCe4DrsLbuV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+      },
+      "href": "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+      "id": "1tpXaFf2F55E7kVJON4j4G",
+      "name": "Black Rebel Motorcycle Club",
+      "type": "artist",
+      "uri": "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 350758,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBPVV1702020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/01eUMEM1wtR1bY2eWuan6I"
+  },
+  "href": "https://api.spotify.com/v1/tracks/01eUMEM1wtR1bY2eWuan6I",
+  "id": "01eUMEM1wtR1bY2eWuan6I",
+  "is_local": false,
+  "name": "Haunt",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/a178d6b16a2651c70625c099d58d8bf6d1d31bdb?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:01eUMEM1wtR1bY2eWuan6I"
+}

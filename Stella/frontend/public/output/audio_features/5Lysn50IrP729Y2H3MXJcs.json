@@ -1,0 +1,20 @@
+{
+  "danceability": 0.408,
+  "energy": 0.705,
+  "key": 2,
+  "loudness": -4.677,
+  "mode": 0,
+  "speechiness": 0.0408,
+  "acousticness": 0.00185,
+  "instrumentalness": 0.000026,
+  "liveness": 0.285,
+  "valence": 0.062,
+  "tempo": 103.871,
+  "type": "audio_features",
+  "id": "5Lysn50IrP729Y2H3MXJcs",
+  "uri": "spotify:track:5Lysn50IrP729Y2H3MXJcs",
+  "track_href": "https://api.spotify.com/v1/tracks/5Lysn50IrP729Y2H3MXJcs",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Lysn50IrP729Y2H3MXJcs",
+  "duration_ms": 259293,
+  "time_signature": 4
+}

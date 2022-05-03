@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+        "name": "Armin van Buuren",
+        "type": "artist",
+        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ZPZ7Kgx8P2I7fp9VTDKXu"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ZPZ7Kgx8P2I7fp9VTDKXu",
+    "id": "0ZPZ7Kgx8P2I7fp9VTDKXu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737e5c46241a84c0d21e6a5bd7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027e5c46241a84c0d21e6a5bd7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517e5c46241a84c0d21e6a5bd7",
+        "width": 64
+      }
+    ],
+    "name": "Intense",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0ZPZ7Kgx8P2I7fp9VTDKXu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+      "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+      "name": "Armin van Buuren",
+      "type": "artist",
+      "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+      },
+      "href": "https://api.spotify.com/v1/artists/6NXk2pLFocS2OkNdT7ncBt",
+      "id": "6NXk2pLFocS2OkNdT7ncBt",
+      "name": "Trevor Guthrie",
+      "type": "artist",
+      "uri": "spotify:artist:6NXk2pLFocS2OkNdT7ncBt"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 203306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLF711303312"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2J44FXo6c4l2Wy4yBcvCWR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2J44FXo6c4l2Wy4yBcvCWR",
+  "id": "2J44FXo6c4l2Wy4yBcvCWR",
+  "is_local": false,
+  "name": "This Is What It Feels Like",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/2feeb727fcb145575c525edcdbf9dfe787968094?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2J44FXo6c4l2Wy4yBcvCWR"
+}

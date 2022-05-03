@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti",
+        "id": "5YjEVrNMrIRw2xGbjTN6Ti",
+        "name": "Mylo",
+        "type": "artist",
+        "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5"
+        },
+        "href": "https://api.spotify.com/v1/artists/5moj04MGEjXS0834GF3wK5",
+        "id": "5moj04MGEjXS0834GF3wK5",
+        "name": "Freeform Five",
+        "type": "artist",
+        "uri": "spotify:artist:5moj04MGEjXS0834GF3wK5"
+      }
+    ],
+    "available_markets": [
+      "AU"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3dD9zwVCnQQPwLB88wYVGq"
+    },
+    "href": "https://api.spotify.com/v1/albums/3dD9zwVCnQQPwLB88wYVGq",
+    "id": "3dD9zwVCnQQPwLB88wYVGq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27380a107c99da2f277ed9a754f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0280a107c99da2f277ed9a754f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485180a107c99da2f277ed9a754f",
+        "width": 64
+      }
+    ],
+    "name": "Muscle Car",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:3dD9zwVCnQQPwLB88wYVGq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+      },
+      "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti",
+      "id": "5YjEVrNMrIRw2xGbjTN6Ti",
+      "name": "Mylo",
+      "type": "artist",
+      "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5"
+      },
+      "href": "https://api.spotify.com/v1/artists/5moj04MGEjXS0834GF3wK5",
+      "id": "5moj04MGEjXS0834GF3wK5",
+      "name": "Freeform Five",
+      "type": "artist",
+      "uri": "spotify:artist:5moj04MGEjXS0834GF3wK5"
+    }
+  ],
+  "available_markets": [
+    "AU"
+  ],
+  "disc_number": 1,
+  "duration_ms": 201706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUNV00600027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1x7jIocj3I7GyP1IzoDJti"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1x7jIocj3I7GyP1IzoDJti",
+  "id": "1x7jIocj3I7GyP1IzoDJti",
+  "is_local": false,
+  "name": "Muscle Car - Radio Edit",
+  "popularity": 9,
+  "preview_url": "https://p.scdn.co/mp3-preview/f91a8b4ae222d559d86b87e1c50f74954505fa3c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1x7jIocj3I7GyP1IzoDJti"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp"
+        },
+        "href": "https://api.spotify.com/v1/artists/4eJdfmQbRaPDjYJ1JNgXTp",
+        "id": "4eJdfmQbRaPDjYJ1JNgXTp",
+        "name": "Palatine",
+        "type": "artist",
+        "uri": "spotify:artist:4eJdfmQbRaPDjYJ1JNgXTp"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1htBz8dMMwp5ZzSjB94bnX"
+    },
+    "href": "https://api.spotify.com/v1/albums/1htBz8dMMwp5ZzSjB94bnX",
+    "id": "1htBz8dMMwp5ZzSjB94bnX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ba2c987ff8464c07e7568fa5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ba2c987ff8464c07e7568fa5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ba2c987ff8464c07e7568fa5",
+        "width": 64
+      }
+    ],
+    "name": "Baton Rouge",
+    "release_date": "2016-10-07",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1htBz8dMMwp5ZzSjB94bnX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp"
+      },
+      "href": "https://api.spotify.com/v1/artists/4eJdfmQbRaPDjYJ1JNgXTp",
+      "id": "4eJdfmQbRaPDjYJ1JNgXTp",
+      "name": "Palatine",
+      "type": "artist",
+      "uri": "spotify:artist:4eJdfmQbRaPDjYJ1JNgXTp"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 266934,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11614656"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5j1K8Ep2YXogOPoX4XSfSO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5j1K8Ep2YXogOPoX4XSfSO",
+  "id": "5j1K8Ep2YXogOPoX4XSfSO",
+  "is_local": false,
+  "name": "Baton Rouge",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5j1K8Ep2YXogOPoX4XSfSO"
+}

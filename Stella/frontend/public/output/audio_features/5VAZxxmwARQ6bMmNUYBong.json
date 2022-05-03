@@ -1,0 +1,20 @@
+{
+  "danceability": 0.626,
+  "energy": 0.554,
+  "key": 7,
+  "loudness": -7.249,
+  "mode": 1,
+  "speechiness": 0.0273,
+  "acousticness": 0.00134,
+  "instrumentalness": 0.00805,
+  "liveness": 0.189,
+  "valence": 0.423,
+  "tempo": 99.988,
+  "type": "audio_features",
+  "id": "5VAZxxmwARQ6bMmNUYBong",
+  "uri": "spotify:track:5VAZxxmwARQ6bMmNUYBong",
+  "track_href": "https://api.spotify.com/v1/tracks/5VAZxxmwARQ6bMmNUYBong",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5VAZxxmwARQ6bMmNUYBong",
+  "duration_ms": 271080,
+  "time_signature": 4
+}

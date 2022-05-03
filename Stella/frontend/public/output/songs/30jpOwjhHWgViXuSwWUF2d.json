@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+        },
+        "href": "https://api.spotify.com/v1/artists/7GeAzBsalYANXTi1ReOm1R",
+        "id": "7GeAzBsalYANXTi1ReOm1R",
+        "name": "Stanton Warriors",
+        "type": "artist",
+        "uri": "spotify:artist:7GeAzBsalYANXTi1ReOm1R"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0M0eM9RAElTTESZt9Ld1ng"
+    },
+    "href": "https://api.spotify.com/v1/albums/0M0eM9RAElTTESZt9Ld1ng",
+    "id": "0M0eM9RAElTTESZt9Ld1ng",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738e7abbfb31f8aa24124eb89e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028e7abbfb31f8aa24124eb89e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518e7abbfb31f8aa24124eb89e",
+        "width": 64
+      }
+    ],
+    "name": "The Warriors",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0M0eM9RAElTTESZt9Ld1ng"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+      },
+      "href": "https://api.spotify.com/v1/artists/7GeAzBsalYANXTi1ReOm1R",
+      "id": "7GeAzBsalYANXTi1ReOm1R",
+      "name": "Stanton Warriors",
+      "type": "artist",
+      "uri": "spotify:artist:7GeAzBsalYANXTi1ReOm1R"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VvXXDLfETyEkvsYmjXP54"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VvXXDLfETyEkvsYmjXP54",
+      "id": "0VvXXDLfETyEkvsYmjXP54",
+      "name": "Hollywood Holt",
+      "type": "artist",
+      "uri": "spotify:artist:0VvXXDLfETyEkvsYmjXP54"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2gYXdg9llcn74PRHTjWSuF"
+      },
+      "href": "https://api.spotify.com/v1/artists/2gYXdg9llcn74PRHTjWSuF",
+      "id": "2gYXdg9llcn74PRHTjWSuF",
+      "name": "Ruby Goe",
+      "type": "artist",
+      "uri": "spotify:artist:2gYXdg9llcn74PRHTjWSuF"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 262884,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUCN30903294"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/30jpOwjhHWgViXuSwWUF2d"
+  },
+  "href": "https://api.spotify.com/v1/tracks/30jpOwjhHWgViXuSwWUF2d",
+  "id": "30jpOwjhHWgViXuSwWUF2d",
+  "is_local": false,
+  "name": "Get Up",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/3415061953e6dfdf3ff7f838dc1e051b111c60fc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:30jpOwjhHWgViXuSwWUF2d"
+}

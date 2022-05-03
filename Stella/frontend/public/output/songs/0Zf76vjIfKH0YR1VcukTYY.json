@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+        },
+        "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+        "id": "5iksmHDN2qZQcgFfXqIXtT",
+        "name": "Robert Wyatt",
+        "type": "artist",
+        "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5xcw9kWxHnBUZWEHJ2Bo7F"
+    },
+    "href": "https://api.spotify.com/v1/albums/5xcw9kWxHnBUZWEHJ2Bo7F",
+    "id": "5xcw9kWxHnBUZWEHJ2Bo7F",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27379ff67d16dd01676a3203c4c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0279ff67d16dd01676a3203c4c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485179ff67d16dd01676a3203c4c",
+        "width": 64
+      }
+    ],
+    "name": "Rock Bottom",
+    "release_date": "1974-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:5xcw9kWxHnBUZWEHJ2Bo7F"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+      "id": "5iksmHDN2qZQcgFfXqIXtT",
+      "name": "Robert Wyatt",
+      "type": "artist",
+      "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 391440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL0800609"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Zf76vjIfKH0YR1VcukTYY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Zf76vjIfKH0YR1VcukTYY",
+  "id": "0Zf76vjIfKH0YR1VcukTYY",
+  "is_local": false,
+  "name": "Sea Song",
+  "popularity": 7,
+  "preview_url": "https://p.scdn.co/mp3-preview/689b29148c9c05693f93bfe1cfaf7c21aa63343e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0Zf76vjIfKH0YR1VcukTYY"
+}

@@ -1,0 +1,121 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O"
+        },
+        "href": "https://api.spotify.com/v1/artists/6XZxFuZaBnZBngpxbut80O",
+        "id": "6XZxFuZaBnZBngpxbut80O",
+        "name": "Wiener Symphoniker",
+        "type": "artist",
+        "uri": "spotify:artist:6XZxFuZaBnZBngpxbut80O"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7r4XX9Mb5F6Zsv1w2phWEY"
+    },
+    "href": "https://api.spotify.com/v1/albums/7r4XX9Mb5F6Zsv1w2phWEY",
+    "id": "7r4XX9Mb5F6Zsv1w2phWEY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b8f87638d55a6588cb92b4e5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b8f87638d55a6588cb92b4e5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b8f87638d55a6588cb92b4e5",
+        "width": 64
+      }
+    ],
+    "name": "Hoedown",
+    "release_date": "2018-01-19",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7r4XX9Mb5F6Zsv1w2phWEY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O"
+      },
+      "href": "https://api.spotify.com/v1/artists/6XZxFuZaBnZBngpxbut80O",
+      "id": "6XZxFuZaBnZBngpxbut80O",
+      "name": "Wiener Symphoniker",
+      "type": "artist",
+      "uri": "spotify:artist:6XZxFuZaBnZBngpxbut80O"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USBT21610961"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2u1fbArZ2208HeMxt5DayN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2u1fbArZ2208HeMxt5DayN",
+  "id": "2u1fbArZ2208HeMxt5DayN",
+  "is_local": false,
+  "name": "Hoedown",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/46cb1726dd3d92d2392f746611aa8db0f96277f6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2u1fbArZ2208HeMxt5DayN"
+}

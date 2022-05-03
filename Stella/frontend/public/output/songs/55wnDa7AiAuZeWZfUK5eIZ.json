@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        },
+        "href": "https://api.spotify.com/v1/artists/3FuzPmx49qjFhzbG99d9Kr",
+        "id": "3FuzPmx49qjFhzbG99d9Kr",
+        "name": "Russkaja",
+        "type": "artist",
+        "uri": "spotify:artist:3FuzPmx49qjFhzbG99d9Kr"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5GD2wVRu7YNsC87lUp7yDt"
+    },
+    "href": "https://api.spotify.com/v1/albums/5GD2wVRu7YNsC87lUp7yDt",
+    "id": "5GD2wVRu7YNsC87lUp7yDt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733e6596d0d2e7828ee6ef88e6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023e6596d0d2e7828ee6ef88e6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513e6596d0d2e7828ee6ef88e6",
+        "width": 64
+      }
+    ],
+    "name": "Energia!",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5GD2wVRu7YNsC87lUp7yDt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FuzPmx49qjFhzbG99d9Kr",
+      "id": "3FuzPmx49qjFhzbG99d9Kr",
+      "name": "Russkaja",
+      "type": "artist",
+      "uri": "spotify:artist:3FuzPmx49qjFhzbG99d9Kr"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 180146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261347501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/55wnDa7AiAuZeWZfUK5eIZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/55wnDa7AiAuZeWZfUK5eIZ",
+  "id": "55wnDa7AiAuZeWZfUK5eIZ",
+  "is_local": false,
+  "name": "Energia",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/25d23846340c0a717f60f48bdeea0c7c7a33e469?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:55wnDa7AiAuZeWZfUK5eIZ"
+}

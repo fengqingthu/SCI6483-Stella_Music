@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        },
+        "href": "https://api.spotify.com/v1/artists/5oWOx0BBDSMoFB8JDrjQre",
+        "id": "5oWOx0BBDSMoFB8JDrjQre",
+        "name": "Katharine McPhee",
+        "type": "artist",
+        "uri": "spotify:artist:5oWOx0BBDSMoFB8JDrjQre"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2Ei61reXfqZa5K9RLR5mdb"
+    },
+    "href": "https://api.spotify.com/v1/albums/2Ei61reXfqZa5K9RLR5mdb",
+    "id": "2Ei61reXfqZa5K9RLR5mdb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e8189d06279dc46b86c1d35c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e8189d06279dc46b86c1d35c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e8189d06279dc46b86c1d35c",
+        "width": 64
+      }
+    ],
+    "name": "Somewhere Over The Rainbow / My Destiny",
+    "release_date": "2006-06-27",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:2Ei61reXfqZa5K9RLR5mdb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+      },
+      "href": "https://api.spotify.com/v1/artists/5oWOx0BBDSMoFB8JDrjQre",
+      "id": "5oWOx0BBDSMoFB8JDrjQre",
+      "name": "Katharine McPhee",
+      "type": "artist",
+      "uri": "spotify:artist:5oWOx0BBDSMoFB8JDrjQre"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCTA0600113"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2UORsaluUZXiMvkkkedDTJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2UORsaluUZXiMvkkkedDTJ",
+  "id": "2UORsaluUZXiMvkkkedDTJ",
+  "is_local": false,
+  "name": "Somewhere Over The Rainbow",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/29f8b539d598839dbb1eccb1c925f224e5544f56?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2UORsaluUZXiMvkkkedDTJ"
+}

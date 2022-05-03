@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        },
+        "href": "https://api.spotify.com/v1/artists/0wOej91SVqB1zcYkW6xUtA",
+        "id": "0wOej91SVqB1zcYkW6xUtA",
+        "name": "Pale Waves",
+        "type": "artist",
+        "uri": "spotify:artist:0wOej91SVqB1zcYkW6xUtA"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6EuYfecmZrodq8sKWW00tZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/6EuYfecmZrodq8sKWW00tZ",
+    "id": "6EuYfecmZrodq8sKWW00tZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273805e10fe941e820ae2d3ec6a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02805e10fe941e820ae2d3ec6a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851805e10fe941e820ae2d3ec6a",
+        "width": 64
+      }
+    ],
+    "name": "My Mind Makes Noises",
+    "release_date": "2018-09-14",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6EuYfecmZrodq8sKWW00tZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wOej91SVqB1zcYkW6xUtA",
+      "id": "0wOej91SVqB1zcYkW6xUtA",
+      "name": "Pale Waves",
+      "type": "artist",
+      "uri": "spotify:artist:0wOej91SVqB1zcYkW6xUtA"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 204265,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBK3W1700603"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2diAlJqrMMX7Sv9FlzcUMc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2diAlJqrMMX7Sv9FlzcUMc",
+  "id": "2diAlJqrMMX7Sv9FlzcUMc",
+  "is_local": false,
+  "name": "Television Romance",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:2diAlJqrMMX7Sv9FlzcUMc"
+}

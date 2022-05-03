@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/691HlxNGAkhqNVLE4yfloT"
+        },
+        "href": "https://api.spotify.com/v1/artists/691HlxNGAkhqNVLE4yfloT",
+        "id": "691HlxNGAkhqNVLE4yfloT",
+        "name": "Richard Gibbs",
+        "type": "artist",
+        "uri": "spotify:artist:691HlxNGAkhqNVLE4yfloT"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5dCeJgNX6aRYPrBUVVcJ3h"
+    },
+    "href": "https://api.spotify.com/v1/albums/5dCeJgNX6aRYPrBUVVcJ3h",
+    "id": "5dCeJgNX6aRYPrBUVVcJ3h",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273889e8e5c6b81da0641abc390",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02889e8e5c6b81da0641abc390",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851889e8e5c6b81da0641abc390",
+        "width": 64
+      }
+    ],
+    "name": "28 Days",
+    "release_date": "2009-12-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:5dCeJgNX6aRYPrBUVVcJ3h"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/691HlxNGAkhqNVLE4yfloT"
+      },
+      "href": "https://api.spotify.com/v1/artists/691HlxNGAkhqNVLE4yfloT",
+      "id": "691HlxNGAkhqNVLE4yfloT",
+      "name": "Richard Gibbs",
+      "type": "artist",
+      "uri": "spotify:artist:691HlxNGAkhqNVLE4yfloT"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 84426,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3M50015110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3cVE1ATqvnnHs8TySaeMeb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3cVE1ATqvnnHs8TySaeMeb",
+  "id": "3cVE1ATqvnnHs8TySaeMeb",
+  "is_local": false,
+  "name": "A Dingo Stole My Baby",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:3cVE1ATqvnnHs8TySaeMeb"
+}

@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4"
+        },
+        "href": "https://api.spotify.com/v1/artists/0xW1QQBD5O09HptO2fEaI4",
+        "id": "0xW1QQBD5O09HptO2fEaI4",
+        "name": "Naive New Beaters",
+        "type": "artist",
+        "uri": "spotify:artist:0xW1QQBD5O09HptO2fEaI4"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "FR",
+      "LU",
+      "MC",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7AVzKmjCw4zRmMjAvpPldG"
+    },
+    "href": "https://api.spotify.com/v1/albums/7AVzKmjCw4zRmMjAvpPldG",
+    "id": "7AVzKmjCw4zRmMjAvpPldG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27387487397ea9be9294b94fea1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0287487397ea9be9294b94fea1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485187487397ea9be9294b94fea1",
+        "width": 64
+      }
+    ],
+    "name": "Wallace (new edition)",
+    "release_date": "2010-05-03",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:7AVzKmjCw4zRmMjAvpPldG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4"
+      },
+      "href": "https://api.spotify.com/v1/artists/0xW1QQBD5O09HptO2fEaI4",
+      "id": "0xW1QQBD5O09HptO2fEaI4",
+      "name": "Naive New Beaters",
+      "type": "artist",
+      "uri": "spotify:artist:0xW1QQBD5O09HptO2fEaI4"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "FR",
+    "LU",
+    "MC",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219652,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR6F30900420"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3AdAw6EbFEIBFTvXkKXsTZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3AdAw6EbFEIBFTvXkKXsTZ",
+  "id": "3AdAw6EbFEIBFTvXkKXsTZ",
+  "is_local": false,
+  "name": "Live Good",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/431925ee7be6577d4c0874d73dfa4990b31685e3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3AdAw6EbFEIBFTvXkKXsTZ"
+}

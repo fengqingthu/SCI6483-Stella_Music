@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ga4lWS7NtKo4r9jNSWumc",
+        "id": "1ga4lWS7NtKo4r9jNSWumc",
+        "name": "Alice Russell",
+        "type": "artist",
+        "uri": "spotify:artist:1ga4lWS7NtKo4r9jNSWumc"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6iPvdYNXop47PXapwAlviz"
+    },
+    "href": "https://api.spotify.com/v1/albums/6iPvdYNXop47PXapwAlviz",
+    "id": "6iPvdYNXop47PXapwAlviz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273266fbb2be0ebce3cd359d56e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02266fbb2be0ebce3cd359d56e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851266fbb2be0ebce3cd359d56e",
+        "width": 64
+      }
+    ],
+    "name": "To Dust - Track by Track Commentary",
+    "release_date": "2013-02-22",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:6iPvdYNXop47PXapwAlviz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ga4lWS7NtKo4r9jNSWumc",
+      "id": "1ga4lWS7NtKo4r9jNSWumc",
+      "name": "Alice Russell",
+      "type": "artist",
+      "uri": "spotify:artist:1ga4lWS7NtKo4r9jNSWumc"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11211871"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1x9ifkTOVRhXEQymBVEJNS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1x9ifkTOVRhXEQymBVEJNS",
+  "id": "1x9ifkTOVRhXEQymBVEJNS",
+  "is_local": false,
+  "name": "Let Go - Breakdown",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/d031b7983d2d37ee8a5a8f35ed66a5a8f721568d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 21,
+  "type": "track",
+  "uri": "spotify:track:1x9ifkTOVRhXEQymBVEJNS"
+}

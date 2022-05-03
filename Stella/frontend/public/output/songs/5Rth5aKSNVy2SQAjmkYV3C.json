@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI"
+        },
+        "href": "https://api.spotify.com/v1/artists/4rpsPzapLwm5LJPZmmWhFI",
+        "id": "4rpsPzapLwm5LJPZmmWhFI",
+        "name": "Tuomas Holopainen",
+        "type": "artist",
+        "uri": "spotify:artist:4rpsPzapLwm5LJPZmmWhFI"
+      }
+    ],
+    "available_markets": [
+      "FI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1KbQzKGkz0r0wcNUpaaksS"
+    },
+    "href": "https://api.spotify.com/v1/albums/1KbQzKGkz0r0wcNUpaaksS",
+    "id": "1KbQzKGkz0r0wcNUpaaksS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739120259b94d0ac7f6ef96060",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029120259b94d0ac7f6ef96060",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519120259b94d0ac7f6ef96060",
+        "width": 64
+      }
+    ],
+    "name": "The Life and Times of Scrooge",
+    "release_date": "2014-04-11",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1KbQzKGkz0r0wcNUpaaksS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI"
+      },
+      "href": "https://api.spotify.com/v1/artists/4rpsPzapLwm5LJPZmmWhFI",
+      "id": "4rpsPzapLwm5LJPZmmWhFI",
+      "name": "Tuomas Holopainen",
+      "type": "artist",
+      "uri": "spotify:artist:4rpsPzapLwm5LJPZmmWhFI"
+    }
+  ],
+  "available_markets": [
+    "FI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 375907,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DED831300773"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Rth5aKSNVy2SQAjmkYV3C"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Rth5aKSNVy2SQAjmkYV3C",
+  "id": "5Rth5aKSNVy2SQAjmkYV3C",
+  "is_local": false,
+  "name": "A Lifetime of Adventure",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/c174f408cb8f50d4e26b442f047cef37b064e2f6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:5Rth5aKSNVy2SQAjmkYV3C"
+}

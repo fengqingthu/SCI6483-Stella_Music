@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RBwMAGd1Ep3EITgXeqRxk"
+        },
+        "href": "https://api.spotify.com/v1/artists/6RBwMAGd1Ep3EITgXeqRxk",
+        "id": "6RBwMAGd1Ep3EITgXeqRxk",
+        "name": "Alexey Omelchuk",
+        "type": "artist",
+        "uri": "spotify:artist:6RBwMAGd1Ep3EITgXeqRxk"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/137iE8T2WWdMzXKuTlnjGm"
+    },
+    "href": "https://api.spotify.com/v1/albums/137iE8T2WWdMzXKuTlnjGm",
+    "id": "137iE8T2WWdMzXKuTlnjGm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273502957c845b106278505e24f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02502957c845b106278505e24f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851502957c845b106278505e24f",
+        "width": 64
+      }
+    ],
+    "name": "Metro: Last Light: Original Soundtrack (Component 2)",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:137iE8T2WWdMzXKuTlnjGm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6RBwMAGd1Ep3EITgXeqRxk"
+      },
+      "href": "https://api.spotify.com/v1/artists/6RBwMAGd1Ep3EITgXeqRxk",
+      "id": "6RBwMAGd1Ep3EITgXeqRxk",
+      "name": "Alexey Omelchuk",
+      "type": "artist",
+      "uri": "spotify:artist:6RBwMAGd1Ep3EITgXeqRxk"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 149386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSR21300890"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0i5etjka5kOEYQho4GN8Ap"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0i5etjka5kOEYQho4GN8Ap",
+  "id": "0i5etjka5kOEYQho4GN8Ap",
+  "is_local": false,
+  "name": "The Farewell",
+  "popularity": 10,
+  "preview_url": "https://p.scdn.co/mp3-preview/9a085d0f2732e66c85045c0152df049706a5e425?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 26,
+  "type": "track",
+  "uri": "spotify:track:0i5etjka5kOEYQho4GN8Ap"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3mlNO7nX9wkXiB3kw7oExM",
+        "id": "3mlNO7nX9wkXiB3kw7oExM",
+        "name": "Ulrik Munther",
+        "type": "artist",
+        "uri": "spotify:artist:3mlNO7nX9wkXiB3kw7oExM"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/15UXzbdbmWlT3qat6wXK5h"
+    },
+    "href": "https://api.spotify.com/v1/albums/15UXzbdbmWlT3qat6wXK5h",
+    "id": "15UXzbdbmWlT3qat6wXK5h",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27385d6005e8ffa927947c7f583",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0285d6005e8ffa927947c7f583",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485185d6005e8ffa927947c7f583",
+        "width": 64
+      }
+    ],
+    "name": "Ulrik Munther (2012 Bonus Version)",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:15UXzbdbmWlT3qat6wXK5h"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM"
+      },
+      "href": "https://api.spotify.com/v1/artists/3mlNO7nX9wkXiB3kw7oExM",
+      "id": "3mlNO7nX9wkXiB3kw7oExM",
+      "name": "Ulrik Munther",
+      "type": "artist",
+      "uri": "spotify:artist:3mlNO7nX9wkXiB3kw7oExM"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEUM71002509"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1IbIl9LZZOEN4tPib4EUyh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1IbIl9LZZOEN4tPib4EUyh",
+  "id": "1IbIl9LZZOEN4tPib4EUyh",
+  "is_local": false,
+  "name": "Boys Don't Cry",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1IbIl9LZZOEN4tPib4EUyh"
+}

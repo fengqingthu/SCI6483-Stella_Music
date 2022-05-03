@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        "href": "https://api.spotify.com/v1/artists/13ccXrK7AmXb4TddMkE7jy",
+        "id": "13ccXrK7AmXb4TddMkE7jy",
+        "name": "Everything But The Girl",
+        "type": "artist",
+        "uri": "spotify:artist:13ccXrK7AmXb4TddMkE7jy"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1XMpIlWCvJtIZgVWL2lglq"
+    },
+    "href": "https://api.spotify.com/v1/albums/1XMpIlWCvJtIZgVWL2lglq",
+    "id": "1XMpIlWCvJtIZgVWL2lglq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c1fdecc5cc904000e2bfe40a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c1fdecc5cc904000e2bfe40a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c1fdecc5cc904000e2bfe40a",
+        "width": 64
+      }
+    ],
+    "name": "Like the Deserts Miss the Rain",
+    "release_date": "2002-10-21",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:1XMpIlWCvJtIZgVWL2lglq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+      },
+      "href": "https://api.spotify.com/v1/artists/13ccXrK7AmXb4TddMkE7jy",
+      "id": "13ccXrK7AmXb4TddMkE7jy",
+      "name": "Everything But The Girl",
+      "type": "artist",
+      "uri": "spotify:artist:13ccXrK7AmXb4TddMkE7jy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dE92yGWcrboP1kC5SWyqu",
+      "id": "3dE92yGWcrboP1kC5SWyqu",
+      "name": "Todd Terry",
+      "type": "artist",
+      "uri": "spotify:artist:3dE92yGWcrboP1kC5SWyqu"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 296560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAHT0109010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3k083DRMgRqSkIpTvvPZ2e"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3k083DRMgRqSkIpTvvPZ2e",
+  "id": "3k083DRMgRqSkIpTvvPZ2e",
+  "is_local": false,
+  "name": "Missing - Todd Terry Club Mix",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/757001ff689088b90e02a21a16a50314fe23c419?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:3k083DRMgRqSkIpTvvPZ2e"
+}

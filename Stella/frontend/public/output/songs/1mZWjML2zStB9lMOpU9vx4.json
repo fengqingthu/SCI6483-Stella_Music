@@ -1,0 +1,136 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HwzlRPa9Ad0I8rK0FPzzK",
+        "id": "7HwzlRPa9Ad0I8rK0FPzzK",
+        "name": "SEKAI NO OWARI",
+        "type": "artist",
+        "uri": "spotify:artist:7HwzlRPa9Ad0I8rK0FPzzK"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AU",
+      "BH",
+      "BN",
+      "BT",
+      "EG",
+      "HK",
+      "ID",
+      "IN",
+      "IQ",
+      "JO",
+      "KH",
+      "KR",
+      "KW",
+      "LA",
+      "LB",
+      "LK",
+      "MO",
+      "MY",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "QA",
+      "SA",
+      "SG",
+      "TH",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/06ApKVladXvRR3CgavUsaQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/06ApKVladXvRR3CgavUsaQ",
+    "id": "06ApKVladXvRR3CgavUsaQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c05c0678fc84ec2b61fc71de",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c05c0678fc84ec2b61fc71de",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c05c0678fc84ec2b61fc71de",
+        "width": 64
+      }
+    ],
+    "name": "Lip",
+    "release_date": "2019-02-27",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:06ApKVladXvRR3CgavUsaQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+      },
+      "href": "https://api.spotify.com/v1/artists/7HwzlRPa9Ad0I8rK0FPzzK",
+      "id": "7HwzlRPa9Ad0I8rK0FPzzK",
+      "name": "SEKAI NO OWARI",
+      "type": "artist",
+      "uri": "spotify:artist:7HwzlRPa9Ad0I8rK0FPzzK"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AU",
+    "BH",
+    "BN",
+    "BT",
+    "EG",
+    "HK",
+    "ID",
+    "IN",
+    "IQ",
+    "JO",
+    "KH",
+    "KR",
+    "KW",
+    "LA",
+    "LK",
+    "MO",
+    "MY",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "QA",
+    "SA",
+    "SG",
+    "TH",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 310293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPTF01706801"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1mZWjML2zStB9lMOpU9vx4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1mZWjML2zStB9lMOpU9vx4",
+  "id": "1mZWjML2zStB9lMOpU9vx4",
+  "is_local": false,
+  "name": "RAIN",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/e7b77d0896b22cf28d8cee8ddb00ba3730025d3d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1mZWjML2zStB9lMOpU9vx4"
+}

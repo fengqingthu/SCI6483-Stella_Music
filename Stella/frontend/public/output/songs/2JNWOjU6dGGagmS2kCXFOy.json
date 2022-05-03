@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55APUUV6bCtJVEF1O2jKNT"
+        },
+        "href": "https://api.spotify.com/v1/artists/55APUUV6bCtJVEF1O2jKNT",
+        "id": "55APUUV6bCtJVEF1O2jKNT",
+        "name": "Shelby Flint",
+        "type": "artist",
+        "uri": "spotify:artist:55APUUV6bCtJVEF1O2jKNT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2l8NfsHSrQV6cwfJrGqqDm"
+        },
+        "href": "https://api.spotify.com/v1/artists/2l8NfsHSrQV6cwfJrGqqDm",
+        "id": "2l8NfsHSrQV6cwfJrGqqDm",
+        "name": "Bruce Broughton",
+        "type": "artist",
+        "uri": "spotify:artist:2l8NfsHSrQV6cwfJrGqqDm"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6JY3q2niUe0cXgszfI3uJs"
+    },
+    "href": "https://api.spotify.com/v1/albums/6JY3q2niUe0cXgszfI3uJs",
+    "id": "6JY3q2niUe0cXgszfI3uJs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bf83a95aa70593b3c583a657",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bf83a95aa70593b3c583a657",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bf83a95aa70593b3c583a657",
+        "width": 64
+      }
+    ],
+    "name": "The Rescuers - Songs from The Rescuers and The Rescuers Down Under (Original Motion Picture Soundtrack/Japan Release Version)",
+    "release_date": "2000",
+    "release_date_precision": "year",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:6JY3q2niUe0cXgszfI3uJs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/55APUUV6bCtJVEF1O2jKNT"
+      },
+      "href": "https://api.spotify.com/v1/artists/55APUUV6bCtJVEF1O2jKNT",
+      "id": "55APUUV6bCtJVEF1O2jKNT",
+      "name": "Shelby Flint",
+      "type": "artist",
+      "uri": "spotify:artist:55APUUV6bCtJVEF1O2jKNT"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 145573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWD10210190"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2JNWOjU6dGGagmS2kCXFOy"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2JNWOjU6dGGagmS2kCXFOy",
+  "id": "2JNWOjU6dGGagmS2kCXFOy",
+  "is_local": false,
+  "name": "Someone's Waiting for You - From \"The Rescuers\"",
+  "popularity": 10,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2JNWOjU6dGGagmS2kCXFOy"
+}

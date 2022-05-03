@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        },
+        "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm",
+        "id": "2qc41rNTtdLK0tV3mJn2Pm",
+        "name": "Ryan Adams",
+        "type": "artist",
+        "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+    },
+    "href": "https://api.spotify.com/v1/albums/6embeY4aFzhjb25UbR8RU6",
+    "id": "6embeY4aFzhjb25UbR8RU6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273619dab27d3abe9c8592969f4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02619dab27d3abe9c8592969f4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851619dab27d3abe9c8592969f4",
+        "width": 64
+      }
+    ],
+    "name": "Ashes & Fire",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6embeY4aFzhjb25UbR8RU6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm",
+      "id": "2qc41rNTtdLK0tV3mJn2Pm",
+      "name": "Ryan Adams",
+      "type": "artist",
+      "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 172186,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USCA21101758"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1xLiOXTkAetjRqmPQwELn4",
+  "id": "1xLiOXTkAetjRqmPQwELn4",
+  "is_local": false,
+  "name": "Lucky Now",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:1xLiOXTkAetjRqmPQwELn4"
+}

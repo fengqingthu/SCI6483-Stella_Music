@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ssXMmc5EOUrauZxirM910",
+        "id": "6ssXMmc5EOUrauZxirM910",
+        "name": "White Lies",
+        "type": "artist",
+        "uri": "spotify:artist:6ssXMmc5EOUrauZxirM910"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Ws6rLiO8SghbTGHyHg7UJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Ws6rLiO8SghbTGHyHg7UJ",
+    "id": "6Ws6rLiO8SghbTGHyHg7UJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730b1757b77b8decc5116078c8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020b1757b77b8decc5116078c8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510b1757b77b8decc5116078c8",
+        "width": 64
+      }
+    ],
+    "name": "Friends",
+    "release_date": "2016-10-07",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6Ws6rLiO8SghbTGHyHg7UJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ssXMmc5EOUrauZxirM910",
+      "id": "6ssXMmc5EOUrauZxirM910",
+      "name": "White Lies",
+      "type": "artist",
+      "uri": "spotify:artist:6ssXMmc5EOUrauZxirM910"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 298573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB5KW1600963"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2f2NroKTKRzanmFhjFbGLV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2f2NroKTKRzanmFhjFbGLV",
+  "id": "2f2NroKTKRzanmFhjFbGLV",
+  "is_local": false,
+  "name": "Hold Back Your Love",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/bebcf3ad0cea5ded7bf97e849b004103aaffb87d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2f2NroKTKRzanmFhjFbGLV"
+}

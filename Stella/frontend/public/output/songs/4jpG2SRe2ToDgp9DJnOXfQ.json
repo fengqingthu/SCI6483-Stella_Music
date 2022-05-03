@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        },
+        "href": "https://api.spotify.com/v1/artists/0V7uVrIYr4FwFvUN9S4kYr",
+        "id": "0V7uVrIYr4FwFvUN9S4kYr",
+        "name": "Nick Waterhouse",
+        "type": "artist",
+        "uri": "spotify:artist:0V7uVrIYr4FwFvUN9S4kYr"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0OYroA2CLlSAZabhCn1QMh"
+    },
+    "href": "https://api.spotify.com/v1/albums/0OYroA2CLlSAZabhCn1QMh",
+    "id": "0OYroA2CLlSAZabhCn1QMh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c5708589cb003391d217c48a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c5708589cb003391d217c48a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c5708589cb003391d217c48a",
+        "width": 64
+      }
+    ],
+    "name": "Holly",
+    "release_date": "2014-03-03",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0OYroA2CLlSAZabhCn1QMh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+      },
+      "href": "https://api.spotify.com/v1/artists/0V7uVrIYr4FwFvUN9S4kYr",
+      "id": "0V7uVrIYr4FwFvUN9S4kYr",
+      "name": "Nick Waterhouse",
+      "type": "artist",
+      "uri": "spotify:artist:0V7uVrIYr4FwFvUN9S4kYr"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 172506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USD8D1417021"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4jpG2SRe2ToDgp9DJnOXfQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4jpG2SRe2ToDgp9DJnOXfQ",
+  "id": "4jpG2SRe2ToDgp9DJnOXfQ",
+  "is_local": false,
+  "name": "This Is A Game",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/4f31920bc3ebfa599b0cc804b53d733ea751d28a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4jpG2SRe2ToDgp9DJnOXfQ"
+}

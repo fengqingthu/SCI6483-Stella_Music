@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Y10boYzeuFCJ4Qgp53w6o",
+        "id": "3Y10boYzeuFCJ4Qgp53w6o",
+        "name": "Scissor Sisters",
+        "type": "artist",
+        "uri": "spotify:artist:3Y10boYzeuFCJ4Qgp53w6o"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "AU",
+      "BA",
+      "BD",
+      "BN",
+      "BO",
+      "BR",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "DO",
+      "EC",
+      "GT",
+      "HK",
+      "HN",
+      "HR",
+      "ID",
+      "IN",
+      "KH",
+      "KR",
+      "LA",
+      "LK",
+      "ME",
+      "MK",
+      "MO",
+      "MX",
+      "MY",
+      "NI",
+      "PA",
+      "PE",
+      "PH",
+      "PY",
+      "RS",
+      "SA",
+      "SG",
+      "SV",
+      "TH",
+      "TR",
+      "TW",
+      "US",
+      "VE",
+      "VN",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC"
+    },
+    "href": "https://api.spotify.com/v1/albums/3YIdZQ7UbWoTxPgznAYVOC",
+    "id": "3YIdZQ7UbWoTxPgznAYVOC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ab41b12bbc0f61ebdfb2dfaf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ab41b12bbc0f61ebdfb2dfaf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ab41b12bbc0f61ebdfb2dfaf",
+        "width": 64
+      }
+    ],
+    "name": "Ta Dah",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3YIdZQ7UbWoTxPgznAYVOC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Y10boYzeuFCJ4Qgp53w6o",
+      "id": "3Y10boYzeuFCJ4Qgp53w6o",
+      "name": "Scissor Sisters",
+      "type": "artist",
+      "uri": "spotify:artist:3Y10boYzeuFCJ4Qgp53w6o"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "AU",
+    "BA",
+    "BD",
+    "BN",
+    "BO",
+    "BR",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "DO",
+    "EC",
+    "GT",
+    "HK",
+    "HN",
+    "HR",
+    "ID",
+    "IN",
+    "KH",
+    "KR",
+    "LA",
+    "LK",
+    "ME",
+    "MK",
+    "MO",
+    "MX",
+    "MY",
+    "NI",
+    "PA",
+    "PE",
+    "PH",
+    "PY",
+    "RS",
+    "SA",
+    "SG",
+    "SV",
+    "TH",
+    "TR",
+    "TW",
+    "US",
+    "VE",
+    "VN",
+    "XK",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 166573,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBUM70602614"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1zyGFId8xHOcRmCmehrwlc",
+  "id": "1zyGFId8xHOcRmCmehrwlc",
+  "is_local": false,
+  "name": "I Can't Decide",
+  "popularity": 64,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1zyGFId8xHOcRmCmehrwlc"
+}

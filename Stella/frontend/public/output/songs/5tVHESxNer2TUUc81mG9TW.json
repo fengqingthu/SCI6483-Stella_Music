@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2amyu5pkgYMYdNQZmB3GgY",
+        "id": "2amyu5pkgYMYdNQZmB3GgY",
+        "name": "Dog Blood",
+        "type": "artist",
+        "uri": "spotify:artist:2amyu5pkgYMYdNQZmB3GgY"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "NZ",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1JCt2kwQOQVBJ4coDu2YyS"
+    },
+    "href": "https://api.spotify.com/v1/albums/1JCt2kwQOQVBJ4coDu2YyS",
+    "id": "1JCt2kwQOQVBJ4coDu2YyS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273555018893b60ac56a131cd59",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02555018893b60ac56a131cd59",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851555018893b60ac56a131cd59",
+        "width": 64
+      }
+    ],
+    "name": "Middle Finger Pt. 2",
+    "release_date": "2013-09-17",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:1JCt2kwQOQVBJ4coDu2YyS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2amyu5pkgYMYdNQZmB3GgY",
+      "id": "2amyu5pkgYMYdNQZmB3GgY",
+      "name": "Dog Blood",
+      "type": "artist",
+      "uri": "spotify:artist:2amyu5pkgYMYdNQZmB3GgY"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "NZ",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 216001,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USAT21302467"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5tVHESxNer2TUUc81mG9TW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5tVHESxNer2TUUc81mG9TW",
+  "id": "5tVHESxNer2TUUc81mG9TW",
+  "is_local": false,
+  "name": "Shred or Die - EP Version",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/e5d0df69a9caebd9e7866776c2f8d3f3716f8d32?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5tVHESxNer2TUUc81mG9TW"
+}

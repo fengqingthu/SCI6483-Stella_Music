@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5NOmkBzyu6yy4fkga0ERpZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5NOmkBzyu6yy4fkga0ERpZ",
+    "id": "5NOmkBzyu6yy4fkga0ERpZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739c992e823177fd6d14f8fc72",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029c992e823177fd6d14f8fc72",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519c992e823177fd6d14f8fc72",
+        "width": 64
+      }
+    ],
+    "name": "Gainsbourg Versions Femmes",
+    "release_date": "2000-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:5NOmkBzyu6yy4fkga0ERpZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6B6XTWbbmPnDafMD7UI5qn"
+      },
+      "href": "https://api.spotify.com/v1/artists/6B6XTWbbmPnDafMD7UI5qn",
+      "id": "6B6XTWbbmPnDafMD7UI5qn",
+      "name": "Jo Lemaire",
+      "type": "artist",
+      "uri": "spotify:artist:6B6XTWbbmPnDafMD7UI5qn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2s1U5fvPCfRWZLrkLAzpg8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2s1U5fvPCfRWZLrkLAzpg8",
+      "id": "2s1U5fvPCfRWZLrkLAzpg8",
+      "name": "Flouze",
+      "type": "artist",
+      "uri": "spotify:artist:2s1U5fvPCfRWZLrkLAzpg8"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEQ010100061"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/52H3vBOWVpoMG2dBOhvMa4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/52H3vBOWVpoMG2dBOhvMa4",
+  "id": "52H3vBOWVpoMG2dBOhvMa4",
+  "is_local": false,
+  "name": "Je suis venue te dire que je m'en vais",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:52H3vBOWVpoMG2dBOhvMa4"
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        },
+        "href": "https://api.spotify.com/v1/artists/7c7ZeiPKWHf2E1rsf1P4VF",
+        "id": "7c7ZeiPKWHf2E1rsf1P4VF",
+        "name": "Medina",
+        "type": "artist",
+        "uri": "spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/32yjOH6wxae005MqSnoYAp"
+    },
+    "href": "https://api.spotify.com/v1/albums/32yjOH6wxae005MqSnoYAp",
+    "id": "32yjOH6wxae005MqSnoYAp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739b47d7a053e83869cc1d662d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029b47d7a053e83869cc1d662d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519b47d7a053e83869cc1d662d",
+        "width": 64
+      }
+    ],
+    "name": "Welcome To Medina",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 26,
+    "type": "album",
+    "uri": "spotify:album:32yjOH6wxae005MqSnoYAp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+      },
+      "href": "https://api.spotify.com/v1/artists/7c7ZeiPKWHf2E1rsf1P4VF",
+      "id": "7c7ZeiPKWHf2E1rsf1P4VF",
+      "name": "Medina",
+      "type": "artist",
+      "uri": "spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 174346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKGL51000201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0TXHRApxodph7UCn5Ngunn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0TXHRApxodph7UCn5Ngunn",
+  "id": "0TXHRApxodph7UCn5Ngunn",
+  "is_local": false,
+  "name": "You & I",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/a3ea56043d88fba52e50a59bc49884ed4cfa0502?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0TXHRApxodph7UCn5Ngunn"
+}

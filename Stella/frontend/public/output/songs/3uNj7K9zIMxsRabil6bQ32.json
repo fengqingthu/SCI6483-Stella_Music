@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4hiLNlqr4vQdiuo1aQKSXS",
+        "id": "4hiLNlqr4vQdiuo1aQKSXS",
+        "name": "Niki & The Dove",
+        "type": "artist",
+        "uri": "spotify:artist:4hiLNlqr4vQdiuo1aQKSXS"
+      }
+    ],
+    "available_markets": [
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4DVKvuew8wIiyqdED56Cqs"
+    },
+    "href": "https://api.spotify.com/v1/albums/4DVKvuew8wIiyqdED56Cqs",
+    "id": "4DVKvuew8wIiyqdED56Cqs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27301096bb46cc9f71499bec1d7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0201096bb46cc9f71499bec1d7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485101096bb46cc9f71499bec1d7",
+        "width": 64
+      }
+    ],
+    "name": "DJ Ease My Mind",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:4DVKvuew8wIiyqdED56Cqs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+      },
+      "href": "https://api.spotify.com/v1/artists/4hiLNlqr4vQdiuo1aQKSXS",
+      "id": "4hiLNlqr4vQdiuo1aQKSXS",
+      "name": "Niki & The Dove",
+      "type": "artist",
+      "uri": "spotify:artist:4hiLNlqr4vQdiuo1aQKSXS"
+    }
+  ],
+  "available_markets": [
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 257333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBGEY1000113"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3uNj7K9zIMxsRabil6bQ32"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3uNj7K9zIMxsRabil6bQ32",
+  "id": "3uNj7K9zIMxsRabil6bQ32",
+  "is_local": false,
+  "name": "DJ Ease My Mind",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/1eb55f7e2f80b72f62eab0c0964bc5fd42a21e31?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3uNj7K9zIMxsRabil6bQ32"
+}

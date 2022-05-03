@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+        "id": "6xrCU6zdcSTsG2hLrojpmI",
+        "name": "José González",
+        "type": "artist",
+        "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w"
+    },
+    "href": "https://api.spotify.com/v1/albums/3HjkmLd8nsxhBhQfgTKD1w",
+    "id": "3HjkmLd8nsxhBhQfgTKD1w",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736972a1f0807fffab31ccc63c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026972a1f0807fffab31ccc63c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516972a1f0807fffab31ccc63c",
+        "width": 64
+      }
+    ],
+    "name": "El Invento EP",
+    "release_date": "2022-03-09",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:3HjkmLd8nsxhBhQfgTKD1w"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+      "id": "6xrCU6zdcSTsG2hLrojpmI",
+      "name": "José González",
+      "type": "artist",
+      "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+      },
+      "href": "https://api.spotify.com/v1/artists/7wXTWO45lqpUejDkike0Gf",
+      "id": "7wXTWO45lqpUejDkike0Gf",
+      "name": "Sofia Kourtesis",
+      "type": "artist",
+      "uri": "spotify:artist:7wXTWO45lqpUejDkike0Gf"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 264186,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVVX2200102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7HxxjXqKiVnwJescANPzHu",
+  "id": "7HxxjXqKiVnwJescANPzHu",
+  "is_local": false,
+  "name": "El Invento - Sofia Kourtesis Remix",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/bd06b3199df7d404f6987d929961a4f2b8b4e159?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7HxxjXqKiVnwJescANPzHu"
+}

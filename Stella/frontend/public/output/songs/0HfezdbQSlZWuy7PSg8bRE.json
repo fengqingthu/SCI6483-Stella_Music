@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49YwfTISmXUBv8m66WUuPa"
+        },
+        "href": "https://api.spotify.com/v1/artists/49YwfTISmXUBv8m66WUuPa",
+        "id": "49YwfTISmXUBv8m66WUuPa",
+        "name": "Neurosonic",
+        "type": "artist",
+        "uri": "spotify:artist:49YwfTISmXUBv8m66WUuPa"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3LBAfOTpAYERdIEMc7tHWx"
+    },
+    "href": "https://api.spotify.com/v1/albums/3LBAfOTpAYERdIEMc7tHWx",
+    "id": "3LBAfOTpAYERdIEMc7tHWx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e15e74b7b7a62a199d8db7b0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e15e74b7b7a62a199d8db7b0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e15e74b7b7a62a199d8db7b0",
+        "width": 64
+      }
+    ],
+    "name": "Drama Queen",
+    "release_date": "2007-01-30",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3LBAfOTpAYERdIEMc7tHWx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/49YwfTISmXUBv8m66WUuPa"
+      },
+      "href": "https://api.spotify.com/v1/artists/49YwfTISmXUBv8m66WUuPa",
+      "id": "49YwfTISmXUBv8m66WUuPa",
+      "name": "Neurosonic",
+      "type": "artist",
+      "uri": "spotify:artist:49YwfTISmXUBv8m66WUuPa"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 162320,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USBHH0700401"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0HfezdbQSlZWuy7PSg8bRE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0HfezdbQSlZWuy7PSg8bRE",
+  "id": "0HfezdbQSlZWuy7PSg8bRE",
+  "is_local": false,
+  "name": "So Many People",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/d93ad4d9a7c110d3bb8a755220d836cd4ccd6cd2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0HfezdbQSlZWuy7PSg8bRE"
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/4OOlG5eBXSkSAAEeKjJb5Y",
+        "id": "4OOlG5eBXSkSAAEeKjJb5Y",
+        "name": "Courtney Barnett",
+        "type": "artist",
+        "uri": "spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3l7JWewI3ZByxaT5BCgRx2"
+    },
+    "href": "https://api.spotify.com/v1/albums/3l7JWewI3ZByxaT5BCgRx2",
+    "id": "3l7JWewI3ZByxaT5BCgRx2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dbb413d3be0911dd96870e8d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dbb413d3be0911dd96870e8d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dbb413d3be0911dd96870e8d",
+        "width": 64
+      }
+    ],
+    "name": "Tell Me How You Really Feel",
+    "release_date": "2018-05-18",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3l7JWewI3ZByxaT5BCgRx2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/4OOlG5eBXSkSAAEeKjJb5Y",
+      "id": "4OOlG5eBXSkSAAEeKjJb5Y",
+      "name": "Courtney Barnett",
+      "type": "artist",
+      "uri": "spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 194866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBX721700213"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0d29ZVNUaxWOtUFzElL3B9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0d29ZVNUaxWOtUFzElL3B9",
+  "id": "0d29ZVNUaxWOtUFzElL3B9",
+  "is_local": false,
+  "name": "Nameless, Faceless",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/f397004ef0f5971f936e7cd2698a3195f3ac7684?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:0d29ZVNUaxWOtUFzElL3B9"
+}

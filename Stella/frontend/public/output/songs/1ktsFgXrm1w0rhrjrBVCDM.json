@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YkBrE0wF8cAlq3GCOw5Eu",
+        "id": "5YkBrE0wF8cAlq3GCOw5Eu",
+        "name": "Best Coast",
+        "type": "artist",
+        "uri": "spotify:artist:5YkBrE0wF8cAlq3GCOw5Eu"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/50dtnEj8ui8Zz5xsrOl5DS"
+    },
+    "href": "https://api.spotify.com/v1/albums/50dtnEj8ui8Zz5xsrOl5DS",
+    "id": "50dtnEj8ui8Zz5xsrOl5DS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732fc30fff5728752c05b3e602",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022fc30fff5728752c05b3e602",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512fc30fff5728752c05b3e602",
+        "width": 64
+      }
+    ],
+    "name": "Crazy for You",
+    "release_date": "2010-07-27",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:50dtnEj8ui8Zz5xsrOl5DS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+      },
+      "href": "https://api.spotify.com/v1/artists/5YkBrE0wF8cAlq3GCOw5Eu",
+      "id": "5YkBrE0wF8cAlq3GCOw5Eu",
+      "name": "Best Coast",
+      "type": "artist",
+      "uri": "spotify:artist:5YkBrE0wF8cAlq3GCOw5Eu"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 178080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMEX1000113"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1ktsFgXrm1w0rhrjrBVCDM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1ktsFgXrm1w0rhrjrBVCDM",
+  "id": "1ktsFgXrm1w0rhrjrBVCDM",
+  "is_local": false,
+  "name": "When I'm With You",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/d4f18cd60ec7ffcec59c328beabaf9264d39a8c9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:1ktsFgXrm1w0rhrjrBVCDM"
+}

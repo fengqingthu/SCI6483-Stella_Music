@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        },
+        "href": "https://api.spotify.com/v1/artists/74Dnr5flGLfLeyV85l0NUr",
+        "id": "74Dnr5flGLfLeyV85l0NUr",
+        "name": "Willie Bobo",
+        "type": "artist",
+        "uri": "spotify:artist:74Dnr5flGLfLeyV85l0NUr"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+    },
+    "href": "https://api.spotify.com/v1/albums/5tUnjO8Xd6oEhQ0E8Kp6WU",
+    "id": "5tUnjO8Xd6oEhQ0E8Kp6WU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cdbecf55f4d0b1555ad98a66",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cdbecf55f4d0b1555ad98a66",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cdbecf55f4d0b1555ad98a66",
+        "width": 64
+      }
+    ],
+    "name": "Talkin' Verve",
+    "release_date": "1997-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:5tUnjO8Xd6oEhQ0E8Kp6WU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+      },
+      "href": "https://api.spotify.com/v1/artists/74Dnr5flGLfLeyV85l0NUr",
+      "id": "74Dnr5flGLfLeyV85l0NUr",
+      "name": "Willie Bobo",
+      "type": "artist",
+      "uri": "spotify:artist:74Dnr5flGLfLeyV85l0NUr"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 160826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USPR36770136"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6LoiJXXZuZejbG6VjmjzA4",
+  "id": "6LoiJXXZuZejbG6VjmjzA4",
+  "is_local": false,
+  "name": "Evil Ways",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:6LoiJXXZuZejbG6VjmjzA4"
+}

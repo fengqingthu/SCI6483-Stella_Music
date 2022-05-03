@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Zz8OfzUOaNr7B2pQch3do"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Zz8OfzUOaNr7B2pQch3do",
+        "id": "4Zz8OfzUOaNr7B2pQch3do",
+        "name": "City Wolf",
+        "type": "artist",
+        "uri": "spotify:artist:4Zz8OfzUOaNr7B2pQch3do"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ylrceaslgJkKuyVSl4Eon"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ylrceaslgJkKuyVSl4Eon",
+    "id": "1ylrceaslgJkKuyVSl4Eon",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b9e5448b36245bc4447d199f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b9e5448b36245bc4447d199f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b9e5448b36245bc4447d199f",
+        "width": 64
+      }
+    ],
+    "name": "Protector",
+    "release_date": "2019-10-23",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1ylrceaslgJkKuyVSl4Eon"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Zz8OfzUOaNr7B2pQch3do"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Zz8OfzUOaNr7B2pQch3do",
+      "id": "4Zz8OfzUOaNr7B2pQch3do",
+      "name": "City Wolf",
+      "type": "artist",
+      "uri": "spotify:artist:4Zz8OfzUOaNr7B2pQch3do"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 201428,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLW6T1900035"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/302HUzzIFH7dpxjHRCBCym"
+  },
+  "href": "https://api.spotify.com/v1/tracks/302HUzzIFH7dpxjHRCBCym",
+  "id": "302HUzzIFH7dpxjHRCBCym",
+  "is_local": false,
+  "name": "Protector",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/062b31e33cde0215ac7c7520a0b27352f573c6bd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:302HUzzIFH7dpxjHRCBCym"
+}

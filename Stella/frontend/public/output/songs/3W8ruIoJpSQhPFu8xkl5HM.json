@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6dvhuK9ayUQu4yHO12OGSw"
+        },
+        "href": "https://api.spotify.com/v1/artists/6dvhuK9ayUQu4yHO12OGSw",
+        "id": "6dvhuK9ayUQu4yHO12OGSw",
+        "name": "Kevin Krust",
+        "type": "artist",
+        "uri": "spotify:artist:6dvhuK9ayUQu4yHO12OGSw"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1IF1H0IU7ZEbX5XvIKlwBl"
+    },
+    "href": "https://api.spotify.com/v1/albums/1IF1H0IU7ZEbX5XvIKlwBl",
+    "id": "1IF1H0IU7ZEbX5XvIKlwBl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27306c4006d78034fcb2913822a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0206c4006d78034fcb2913822a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485106c4006d78034fcb2913822a",
+        "width": 64
+      }
+    ],
+    "name": "Miserable at Best",
+    "release_date": "2017-08-18",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1IF1H0IU7ZEbX5XvIKlwBl"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6dvhuK9ayUQu4yHO12OGSw"
+      },
+      "href": "https://api.spotify.com/v1/artists/6dvhuK9ayUQu4yHO12OGSw",
+      "id": "6dvhuK9ayUQu4yHO12OGSw",
+      "name": "Kevin Krust",
+      "type": "artist",
+      "uri": "spotify:artist:6dvhuK9ayUQu4yHO12OGSw"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 316666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZ8LD1752014"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3W8ruIoJpSQhPFu8xkl5HM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3W8ruIoJpSQhPFu8xkl5HM",
+  "id": "3W8ruIoJpSQhPFu8xkl5HM",
+  "is_local": false,
+  "name": "Miserable at Best",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3W8ruIoJpSQhPFu8xkl5HM"
+}

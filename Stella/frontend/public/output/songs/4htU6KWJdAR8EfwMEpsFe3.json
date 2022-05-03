@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        "href": "https://api.spotify.com/v1/artists/2HHmvvSQ44ePDH7IKVzgK0",
+        "id": "2HHmvvSQ44ePDH7IKVzgK0",
+        "name": "Jain",
+        "type": "artist",
+        "uri": "spotify:artist:2HHmvvSQ44ePDH7IKVzgK0"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "GB",
+      "IE",
+      "IT",
+      "LI",
+      "MT",
+      "SM",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+    },
+    "href": "https://api.spotify.com/v1/albums/2rb6C1wUwk7hFOVmfgt19k",
+    "id": "2rb6C1wUwk7hFOVmfgt19k",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ec39ea5b21178e7a223a0b3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027ec39ea5b21178e7a223a0b3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517ec39ea5b21178e7a223a0b3",
+        "width": 64
+      }
+    ],
+    "name": "Zanaka (Deluxe)",
+    "release_date": "2016-11-25",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:2rb6C1wUwk7hFOVmfgt19k"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+      },
+      "href": "https://api.spotify.com/v1/artists/2HHmvvSQ44ePDH7IKVzgK0",
+      "id": "2HHmvvSQ44ePDH7IKVzgK0",
+      "name": "Jain",
+      "type": "artist",
+      "uri": "spotify:artist:2HHmvvSQ44ePDH7IKVzgK0"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "GB",
+    "IE",
+    "IT",
+    "LI",
+    "MT",
+    "SM",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 287120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11603229"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4htU6KWJdAR8EfwMEpsFe3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4htU6KWJdAR8EfwMEpsFe3",
+  "id": "4htU6KWJdAR8EfwMEpsFe3",
+  "is_local": false,
+  "name": "Come - Extended Version",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/2c218d94b5184df9e3467ccf0e0329050ac14e4a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:4htU6KWJdAR8EfwMEpsFe3"
+}

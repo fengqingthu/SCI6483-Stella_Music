@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2fJzcOo1URtFQr5rkF5kC8"
+        },
+        "href": "https://api.spotify.com/v1/artists/2fJzcOo1URtFQr5rkF5kC8",
+        "id": "2fJzcOo1URtFQr5rkF5kC8",
+        "name": "William Sheller",
+        "type": "artist",
+        "uri": "spotify:artist:2fJzcOo1URtFQr5rkF5kC8"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "CH",
+      "DE",
+      "FR",
+      "GB",
+      "LU",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6VCmqvnEPZdnhA9waD6mvN"
+    },
+    "href": "https://api.spotify.com/v1/albums/6VCmqvnEPZdnhA9waD6mvN",
+    "id": "6VCmqvnEPZdnhA9waD6mvN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739e9a0d25f175f000eadcfbd8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029e9a0d25f175f000eadcfbd8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519e9a0d25f175f000eadcfbd8",
+        "width": 64
+      }
+    ],
+    "name": "En Solitaire",
+    "release_date": "1991-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:6VCmqvnEPZdnhA9waD6mvN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2fJzcOo1URtFQr5rkF5kC8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2fJzcOo1URtFQr5rkF5kC8",
+      "id": "2fJzcOo1URtFQr5rkF5kC8",
+      "name": "William Sheller",
+      "type": "artist",
+      "uri": "spotify:artist:2fJzcOo1URtFQr5rkF5kC8"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "CH",
+    "DE",
+    "FR",
+    "GB",
+    "LU",
+    "MX",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ039100240"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4DIJNLGuHCO41RQtw0RVH5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4DIJNLGuHCO41RQtw0RVH5",
+  "id": "4DIJNLGuHCO41RQtw0RVH5",
+  "is_local": false,
+  "name": "Un endroit pour vivre",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:4DIJNLGuHCO41RQtw0RVH5"
+}

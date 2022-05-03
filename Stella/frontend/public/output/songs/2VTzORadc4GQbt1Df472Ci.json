@@ -1,0 +1,157 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        },
+        "href": "https://api.spotify.com/v1/artists/0AkmSuTOzM2pNCIOSP8ziv",
+        "id": "0AkmSuTOzM2pNCIOSP8ziv",
+        "name": "Amigo the Devil",
+        "type": "artist",
+        "uri": "spotify:artist:0AkmSuTOzM2pNCIOSP8ziv"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SK",
+      "SM",
+      "TR",
+      "UA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0izzGA9sbbqYB0LmYw3k9C"
+    },
+    "href": "https://api.spotify.com/v1/albums/0izzGA9sbbqYB0LmYw3k9C",
+    "id": "0izzGA9sbbqYB0LmYw3k9C",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736496ff4ddacd5c80f6719ec1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026496ff4ddacd5c80f6719ec1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516496ff4ddacd5c80f6719ec1",
+        "width": 64
+      }
+    ],
+    "name": "Everything is Fine",
+    "release_date": "2018-10-19",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0izzGA9sbbqYB0LmYw3k9C"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+      },
+      "href": "https://api.spotify.com/v1/artists/0AkmSuTOzM2pNCIOSP8ziv",
+      "id": "0AkmSuTOzM2pNCIOSP8ziv",
+      "name": "Amigo the Devil",
+      "type": "artist",
+      "uri": "spotify:artist:0AkmSuTOzM2pNCIOSP8ziv"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "SM",
+    "TR",
+    "UA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 235960,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMF891802501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2VTzORadc4GQbt1Df472Ci"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2VTzORadc4GQbt1Df472Ci",
+  "id": "2VTzORadc4GQbt1Df472Ci",
+  "is_local": false,
+  "name": "Cocaine and Abel",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/55d85de4854ce2c6d22307c25fa8756a9c255f27?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2VTzORadc4GQbt1Df472Ci"
+}

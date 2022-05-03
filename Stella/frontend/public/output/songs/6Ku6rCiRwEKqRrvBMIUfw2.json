@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        },
+        "href": "https://api.spotify.com/v1/artists/0dLWSYE7my9AbpQYNJ0ABV",
+        "id": "0dLWSYE7my9AbpQYNJ0ABV",
+        "name": "Oscar and the Wolf",
+        "type": "artist",
+        "uri": "spotify:artist:0dLWSYE7my9AbpQYNJ0ABV"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2MrUDBqIm4DvnBZwl5gLYL"
+    },
+    "href": "https://api.spotify.com/v1/albums/2MrUDBqIm4DvnBZwl5gLYL",
+    "id": "2MrUDBqIm4DvnBZwl5gLYL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27335d8487999084a057f46dae9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0235d8487999084a057f46dae9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485135d8487999084a057f46dae9",
+        "width": 64
+      }
+    ],
+    "name": "Entity (Deluxe Version)",
+    "release_date": "2015-12-11",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:2MrUDBqIm4DvnBZwl5gLYL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+      },
+      "href": "https://api.spotify.com/v1/artists/0dLWSYE7my9AbpQYNJ0ABV",
+      "id": "0dLWSYE7my9AbpQYNJ0ABV",
+      "name": "Oscar and the Wolf",
+      "type": "artist",
+      "uri": "spotify:artist:0dLWSYE7my9AbpQYNJ0ABV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3"
+      },
+      "href": "https://api.spotify.com/v1/artists/4iH079WFvkBukHz8JgiOp3",
+      "id": "4iH079WFvkBukHz8JgiOp3",
+      "name": "Tsar B",
+      "type": "artist",
+      "uri": "spotify:artist:4iH079WFvkBukHz8JgiOp3"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 249986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEP011500448"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6Ku6rCiRwEKqRrvBMIUfw2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6Ku6rCiRwEKqRrvBMIUfw2",
+  "id": "6Ku6rCiRwEKqRrvBMIUfw2",
+  "is_local": false,
+  "name": "Back to Black - Film Black Version",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/1bcf49e578ca04f20fb5c360c20381df804411cc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:6Ku6rCiRwEKqRrvBMIUfw2"
+}

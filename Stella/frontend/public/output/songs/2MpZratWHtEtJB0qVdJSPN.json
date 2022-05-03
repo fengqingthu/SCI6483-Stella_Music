@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+        "id": "053q0ukIDRgzwTr4vNSwab",
+        "name": "Grimes",
+        "type": "artist",
+        "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
+    },
+    "href": "https://api.spotify.com/v1/albums/1t9k2P4C88alWEikeJb4mI",
+    "id": "1t9k2P4C88alWEikeJb4mI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366a5d4f87c16dbf2495bc18f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266a5d4f87c16dbf2495bc18f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166a5d4f87c16dbf2495bc18f",
+        "width": 64
+      }
+    ],
+    "name": "Art Angels",
+    "release_date": "2015-11-06",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:1t9k2P4C88alWEikeJb4mI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id": "053q0ukIDRgzwTr4vNSwab",
+      "name": "Grimes",
+      "type": "artist",
+      "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 246013,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFL1500150"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2MpZratWHtEtJB0qVdJSPN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2MpZratWHtEtJB0qVdJSPN",
+  "id": "2MpZratWHtEtJB0qVdJSPN",
+  "is_local": false,
+  "name": "Kill V. Maim",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/c1a8cea3d68726fdc4fa7f11298f57f1178f836c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2MpZratWHtEtJB0qVdJSPN"
+}

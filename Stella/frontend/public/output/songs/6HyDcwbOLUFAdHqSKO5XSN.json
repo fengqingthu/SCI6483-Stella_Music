@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SbSDzM4X41hnlURed0fcV",
+        "id": "0SbSDzM4X41hnlURed0fcV",
+        "name": "Carter Burwell",
+        "type": "artist",
+        "uri": "spotify:artist:0SbSDzM4X41hnlURed0fcV"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4GNfi7YyjvbU4N91DZCcip"
+    },
+    "href": "https://api.spotify.com/v1/albums/4GNfi7YyjvbU4N91DZCcip",
+    "id": "4GNfi7YyjvbU4N91DZCcip",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273581c7f69c1284b6163149ed8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02581c7f69c1284b6163149ed8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851581c7f69c1284b6163149ed8",
+        "width": 64
+      }
+    ],
+    "name": "Where The Wild Things Are Motion Picture Score: Music By Carter Burwell",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4GNfi7YyjvbU4N91DZCcip"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SbSDzM4X41hnlURed0fcV",
+      "id": "0SbSDzM4X41hnlURed0fcV",
+      "name": "Carter Burwell",
+      "type": "artist",
+      "uri": "spotify:artist:0SbSDzM4X41hnlURed0fcV"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 69373,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM70982300"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6HyDcwbOLUFAdHqSKO5XSN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6HyDcwbOLUFAdHqSKO5XSN",
+  "id": "6HyDcwbOLUFAdHqSKO5XSN",
+  "is_local": false,
+  "name": "Lost Fur",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6HyDcwbOLUFAdHqSKO5XSN"
+}

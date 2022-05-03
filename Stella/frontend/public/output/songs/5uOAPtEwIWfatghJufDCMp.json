@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG"
+        },
+        "href": "https://api.spotify.com/v1/artists/6yhTirX1NZzmEgI3T83vIG",
+        "id": "6yhTirX1NZzmEgI3T83vIG",
+        "name": "沢田完",
+        "type": "artist",
+        "uri": "spotify:artist:6yhTirX1NZzmEgI3T83vIG"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3MzZ7TYBe4uVRaYl1yAnFN"
+    },
+    "href": "https://api.spotify.com/v1/albums/3MzZ7TYBe4uVRaYl1yAnFN",
+    "id": "3MzZ7TYBe4uVRaYl1yAnFN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734500443548c664a64694167d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024500443548c664a64694167d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514500443548c664a64694167d",
+        "width": 64
+      }
+    ],
+    "name": "テレビ朝日系木曜ドラマ「Doctor-X〜外科医・大門未知子」オリジナルサウンドトラック",
+    "release_date": "2014-03-19",
+    "release_date_precision": "day",
+    "total_tracks": 24,
+    "type": "album",
+    "uri": "spotify:album:3MzZ7TYBe4uVRaYl1yAnFN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG"
+      },
+      "href": "https://api.spotify.com/v1/artists/6yhTirX1NZzmEgI3T83vIG",
+      "id": "6yhTirX1NZzmEgI3T83vIG",
+      "name": "沢田完",
+      "type": "artist",
+      "uri": "spotify:artist:6yhTirX1NZzmEgI3T83vIG"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 294533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPCO01404640"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5uOAPtEwIWfatghJufDCMp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5uOAPtEwIWfatghJufDCMp",
+  "id": "5uOAPtEwIWfatghJufDCMp",
+  "is_local": false,
+  "name": "ドクターXのテーマ",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5uOAPtEwIWfatghJufDCMp"
+}

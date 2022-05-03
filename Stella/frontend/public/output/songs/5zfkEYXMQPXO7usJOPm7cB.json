@@ -1,0 +1,175 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+        },
+        "href": "https://api.spotify.com/v1/artists/1bsGJW4NXgXaHzD2Lpk7if",
+        "id": "1bsGJW4NXgXaHzD2Lpk7if",
+        "name": "Maurane",
+        "type": "artist",
+        "uri": "spotify:artist:1bsGJW4NXgXaHzD2Lpk7if"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BH",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CR",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GN",
+      "GR",
+      "HK",
+      "IE",
+      "IL",
+      "JO",
+      "JP",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "MX",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PT",
+      "QA",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
+    },
+    "href": "https://api.spotify.com/v1/albums/6SLKeOEgpg9XmpsKxxXCBU",
+    "id": "6SLKeOEgpg9XmpsKxxXCBU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273587736a8dffc316c7c760696",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02587736a8dffc316c7c760696",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851587736a8dffc316c7c760696",
+        "width": 64
+      }
+    ],
+    "name": "Ami Ou Ennemi",
+    "release_date": "1991-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6SLKeOEgpg9XmpsKxxXCBU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+      },
+      "href": "https://api.spotify.com/v1/artists/1bsGJW4NXgXaHzD2Lpk7if",
+      "id": "1bsGJW4NXgXaHzD2Lpk7if",
+      "name": "Maurane",
+      "type": "artist",
+      "uri": "spotify:artist:1bsGJW4NXgXaHzD2Lpk7if"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "AU",
+    "BE",
+    "BG",
+    "BH",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CR",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GN",
+    "GR",
+    "HK",
+    "IE",
+    "IL",
+    "JO",
+    "JP",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "MX",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PT",
+    "QA",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 290226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ029101260"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5zfkEYXMQPXO7usJOPm7cB",
+  "id": "5zfkEYXMQPXO7usJOPm7cB",
+  "is_local": false,
+  "name": "Sur un prélude de Bach",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:5zfkEYXMQPXO7usJOPm7cB"
+}

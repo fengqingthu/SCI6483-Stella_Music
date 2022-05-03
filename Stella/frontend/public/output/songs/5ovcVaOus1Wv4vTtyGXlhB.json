@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+        "id": "2QoU3awHVdcHS8LrZEKvSM",
+        "name": "Wilco",
+        "type": "artist",
+        "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+    },
+    "href": "https://api.spotify.com/v1/albums/6dbcDWUXEFpNrmCJoqZsk4",
+    "id": "6dbcDWUXEFpNrmCJoqZsk4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27348473ebc10dfa3cf74da92c6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0248473ebc10dfa3cf74da92c6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485148473ebc10dfa3cf74da92c6",
+        "width": 64
+      }
+    ],
+    "name": "Sky Blue Sky",
+    "release_date": "2007-05-11",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6dbcDWUXEFpNrmCJoqZsk4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+      },
+      "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+      "id": "2QoU3awHVdcHS8LrZEKvSM",
+      "name": "Wilco",
+      "type": "artist",
+      "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 186120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNO10750503"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5ovcVaOus1Wv4vTtyGXlhB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5ovcVaOus1Wv4vTtyGXlhB",
+  "id": "5ovcVaOus1Wv4vTtyGXlhB",
+  "is_local": false,
+  "name": "Either Way",
+  "popularity": 46,
+  "preview_url": "https://p.scdn.co/mp3-preview/85daf6b5c9e57042eb6ca50bbb1e37a687c08f11?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5ovcVaOus1Wv4vTtyGXlhB"
+}

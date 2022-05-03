@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Gaqw2nGyE7yM3rcRSzE3U",
+        "id": "3Gaqw2nGyE7yM3rcRSzE3U",
+        "name": "Yppah",
+        "type": "artist",
+        "uri": "spotify:artist:3Gaqw2nGyE7yM3rcRSzE3U"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/43TynQ6goA4xsoIbM7LVKL"
+    },
+    "href": "https://api.spotify.com/v1/albums/43TynQ6goA4xsoIbM7LVKL",
+    "id": "43TynQ6goA4xsoIbM7LVKL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c5759567e4df405f1984fa0e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c5759567e4df405f1984fa0e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c5759567e4df405f1984fa0e",
+        "width": 64
+      }
+    ],
+    "name": "Eighty One",
+    "release_date": "2012-02-11",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:43TynQ6goA4xsoIbM7LVKL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Gaqw2nGyE7yM3rcRSzE3U",
+      "id": "3Gaqw2nGyE7yM3rcRSzE3U",
+      "name": "Yppah",
+      "type": "artist",
+      "uri": "spotify:artist:3Gaqw2nGyE7yM3rcRSzE3U"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 279080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFB1200203"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/04FMabfJU1KRlcmGi0QcfA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/04FMabfJU1KRlcmGi0QcfA",
+  "id": "04FMabfJU1KRlcmGi0QcfA",
+  "is_local": false,
+  "name": "Film Burn (feat. Anomie Belle)",
+  "popularity": 6,
+  "preview_url": "https://p.scdn.co/mp3-preview/ada9ad3ec9435628642bc1e79858c882347e918c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:04FMabfJU1KRlcmGi0QcfA"
+}

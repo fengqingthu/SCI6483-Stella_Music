@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2fJzcOo1URtFQr5rkF5kC8"
+        },
+        "href": "https://api.spotify.com/v1/artists/2fJzcOo1URtFQr5rkF5kC8",
+        "id": "2fJzcOo1URtFQr5rkF5kC8",
+        "name": "William Sheller",
+        "type": "artist",
+        "uri": "spotify:artist:2fJzcOo1URtFQr5rkF5kC8"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "FR",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6M0EZeDtPydAb9AWPwHJFo"
+    },
+    "href": "https://api.spotify.com/v1/albums/6M0EZeDtPydAb9AWPwHJFo",
+    "id": "6M0EZeDtPydAb9AWPwHJFo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e73f9705d166abcb09e10f78",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e73f9705d166abcb09e10f78",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e73f9705d166abcb09e10f78",
+        "width": 64
+      }
+    ],
+    "name": "Cd Story",
+    "release_date": "2003-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:6M0EZeDtPydAb9AWPwHJFo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2fJzcOo1URtFQr5rkF5kC8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2fJzcOo1URtFQr5rkF5kC8",
+      "id": "2fJzcOo1URtFQr5rkF5kC8",
+      "name": "William Sheller",
+      "type": "artist",
+      "uri": "spotify:artist:2fJzcOo1URtFQr5rkF5kC8"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "FR",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ039100310"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4f6sYTaK1dM9hLKsa3AHfg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4f6sYTaK1dM9hLKsa3AHfg",
+  "id": "4f6sYTaK1dM9hLKsa3AHfg",
+  "is_local": false,
+  "name": "Un homme heureux - Live - Studio Davout",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 19,
+  "type": "track",
+  "uri": "spotify:track:4f6sYTaK1dM9hLKsa3AHfg"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.417,
+  "energy": 0.822,
+  "key": 5,
+  "loudness": -7.981,
+  "mode": 1,
+  "speechiness": 0.145,
+  "acousticness": 0.225,
+  "instrumentalness": 0.889,
+  "liveness": 0.0593,
+  "valence": 0.243,
+  "tempo": 149.968,
+  "type": "audio_features",
+  "id": "5ac6fzdjXA8kPXkLSKARtz",
+  "uri": "spotify:track:5ac6fzdjXA8kPXkLSKARtz",
+  "track_href": "https://api.spotify.com/v1/tracks/5ac6fzdjXA8kPXkLSKARtz",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ac6fzdjXA8kPXkLSKARtz",
+  "duration_ms": 182124,
+  "time_signature": 3
+}

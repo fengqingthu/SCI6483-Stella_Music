@@ -1,0 +1,20 @@
+{
+  "danceability": 0.206,
+  "energy": 0.335,
+  "key": 11,
+  "loudness": -8.532,
+  "mode": 0,
+  "speechiness": 0.0316,
+  "acousticness": 0.66,
+  "instrumentalness": 0.688,
+  "liveness": 0.239,
+  "valence": 0.116,
+  "tempo": 84.216,
+  "type": "audio_features",
+  "id": "033KKCjshIXEikTuDarrvm",
+  "uri": "spotify:track:033KKCjshIXEikTuDarrvm",
+  "track_href": "https://api.spotify.com/v1/tracks/033KKCjshIXEikTuDarrvm",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/033KKCjshIXEikTuDarrvm",
+  "duration_ms": 198587,
+  "time_signature": 4
+}

@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DL71JYSG6VREkmLSzfWhU",
+        "id": "3DL71JYSG6VREkmLSzfWhU",
+        "name": "Efterklang",
+        "type": "artist",
+        "uri": "spotify:artist:3DL71JYSG6VREkmLSzfWhU"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6p0W2RTwwvNrsVuhD90v2V"
+    },
+    "href": "https://api.spotify.com/v1/albums/6p0W2RTwwvNrsVuhD90v2V",
+    "id": "6p0W2RTwwvNrsVuhD90v2V",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735deafb46b21e468581dda628",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025deafb46b21e468581dda628",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515deafb46b21e468581dda628",
+        "width": 64
+      }
+    ],
+    "name": "Piramida",
+    "release_date": "2012-09-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6p0W2RTwwvNrsVuhD90v2V"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+      },
+      "href": "https://api.spotify.com/v1/artists/3DL71JYSG6VREkmLSzfWhU",
+      "id": "3DL71JYSG6VREkmLSzfWhU",
+      "name": "Efterklang",
+      "type": "artist",
+      "uri": "spotify:artist:3DL71JYSG6VREkmLSzfWhU"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 249866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKEF51200103"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6MRqqnbd6LWnBxDnp9M8S9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6MRqqnbd6LWnBxDnp9M8S9",
+  "id": "6MRqqnbd6LWnBxDnp9M8S9",
+  "is_local": false,
+  "name": "Sedna",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/240f05412895137af681da117e74d520454725de?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6MRqqnbd6LWnBxDnp9M8S9"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        },
+        "href": "https://api.spotify.com/v1/artists/3LVPGE5jPPwtbGslx07YR0",
+        "id": "3LVPGE5jPPwtbGslx07YR0",
+        "name": "Kishi Bashi",
+        "type": "artist",
+        "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4k0cMUOMFp5NYiBOKsaDgU"
+    },
+    "href": "https://api.spotify.com/v1/albums/4k0cMUOMFp5NYiBOKsaDgU",
+    "id": "4k0cMUOMFp5NYiBOKsaDgU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ef4a644d339ed9aed31347bb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ef4a644d339ed9aed31347bb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ef4a644d339ed9aed31347bb",
+        "width": 64
+      }
+    ],
+    "name": "151a",
+    "release_date": "2012-10-12",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4k0cMUOMFp5NYiBOKsaDgU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+      },
+      "href": "https://api.spotify.com/v1/artists/3LVPGE5jPPwtbGslx07YR0",
+      "id": "3LVPGE5jPPwtbGslx07YR0",
+      "name": "Kishi Bashi",
+      "type": "artist",
+      "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 236246,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USJZA1200013"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4pdyMcsYX1DDt9INcTLns8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4pdyMcsYX1DDt9INcTLns8",
+  "id": "4pdyMcsYX1DDt9INcTLns8",
+  "is_local": false,
+  "name": "I Am The Antichrist To You",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/881a690a1aa00b5c59fde9c889abbcd2aa8352ce?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:4pdyMcsYX1DDt9INcTLns8"
+}

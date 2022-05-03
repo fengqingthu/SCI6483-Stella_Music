@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7jBJcoFeQkHaqrJBIZsd5h"
+        },
+        "href": "https://api.spotify.com/v1/artists/7jBJcoFeQkHaqrJBIZsd5h",
+        "id": "7jBJcoFeQkHaqrJBIZsd5h",
+        "name": "Antonio Pinto",
+        "type": "artist",
+        "uri": "spotify:artist:7jBJcoFeQkHaqrJBIZsd5h"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1Naqdme76tBAZnRfYZWuhV"
+    },
+    "href": "https://api.spotify.com/v1/albums/1Naqdme76tBAZnRfYZWuhV",
+    "id": "1Naqdme76tBAZnRfYZWuhV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a7d1917f74106804464ed5de",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a7d1917f74106804464ed5de",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a7d1917f74106804464ed5de",
+        "width": 64
+      }
+    ],
+    "name": "The Host (Original Motion Picture Soundtrack)",
+    "release_date": "2013-03-25",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:1Naqdme76tBAZnRfYZWuhV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jBJcoFeQkHaqrJBIZsd5h"
+      },
+      "href": "https://api.spotify.com/v1/artists/7jBJcoFeQkHaqrJBIZsd5h",
+      "id": "7jBJcoFeQkHaqrJBIZsd5h",
+      "name": "Antonio Pinto",
+      "type": "artist",
+      "uri": "spotify:artist:7jBJcoFeQkHaqrJBIZsd5h"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 83760,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB2H71200378"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3tsQmVCfCL5zcNJwuFGNy2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3tsQmVCfCL5zcNJwuFGNy2",
+  "id": "3tsQmVCfCL5zcNJwuFGNy2",
+  "is_local": false,
+  "name": "One Strange World",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/8b9d25095aefa9b4418bfef4b5cb091ecaa03d91?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 24,
+  "type": "track",
+  "uri": "spotify:track:3tsQmVCfCL5zcNJwuFGNy2"
+}

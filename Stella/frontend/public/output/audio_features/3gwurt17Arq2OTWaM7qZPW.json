@@ -1,0 +1,20 @@
+{
+  "danceability": 0.356,
+  "energy": 0.425,
+  "key": 11,
+  "loudness": -11.363,
+  "mode": 1,
+  "speechiness": 0.0323,
+  "acousticness": 0.887,
+  "instrumentalness": 0.0762,
+  "liveness": 0.0878,
+  "valence": 0.375,
+  "tempo": 80.923,
+  "type": "audio_features",
+  "id": "3gwurt17Arq2OTWaM7qZPW",
+  "uri": "spotify:track:3gwurt17Arq2OTWaM7qZPW",
+  "track_href": "https://api.spotify.com/v1/tracks/3gwurt17Arq2OTWaM7qZPW",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3gwurt17Arq2OTWaM7qZPW",
+  "duration_ms": 168373,
+  "time_signature": 4
+}

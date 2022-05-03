@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3AO9jmM1JTooPNcu9tTyZx",
+        "id": "3AO9jmM1JTooPNcu9tTyZx",
+        "name": "Meat Beat Manifesto",
+        "type": "artist",
+        "uri": "spotify:artist:3AO9jmM1JTooPNcu9tTyZx"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Yrkrh6qTgCbrDNt2zq0bz"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Yrkrh6qTgCbrDNt2zq0bz",
+    "id": "5Yrkrh6qTgCbrDNt2zq0bz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e5c8d4402a3886e4348b7d05",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e5c8d4402a3886e4348b7d05",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e5c8d4402a3886e4348b7d05",
+        "width": 64
+      }
+    ],
+    "name": "Actual Sounds & Voices",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:5Yrkrh6qTgCbrDNt2zq0bz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+      },
+      "href": "https://api.spotify.com/v1/artists/3AO9jmM1JTooPNcu9tTyZx",
+      "id": "3AO9jmM1JTooPNcu9tTyZx",
+      "name": "Meat Beat Manifesto",
+      "type": "artist",
+      "uri": "spotify:artist:3AO9jmM1JTooPNcu9tTyZx"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 377800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEPO19834502"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3gmN0Id50MR2L3wUt1X8Ke"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3gmN0Id50MR2L3wUt1X8Ke",
+  "id": "3gmN0Id50MR2L3wUt1X8Ke",
+  "is_local": false,
+  "name": "Prime Audio Soup",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3gmN0Id50MR2L3wUt1X8Ke"
+}

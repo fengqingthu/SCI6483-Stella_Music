@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yWabEiTzKShbBiy14Xx7f",
+        "id": "4yWabEiTzKShbBiy14Xx7f",
+        "name": "The Dark Element",
+        "type": "artist",
+        "uri": "spotify:artist:4yWabEiTzKShbBiy14Xx7f"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4clLxqlFICCT9tSNPi9Rcj"
+    },
+    "href": "https://api.spotify.com/v1/albums/4clLxqlFICCT9tSNPi9Rcj",
+    "id": "4clLxqlFICCT9tSNPi9Rcj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273635448c06dff8b74cadc053a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02635448c06dff8b74cadc053a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851635448c06dff8b74cadc053a",
+        "width": 64
+      }
+    ],
+    "name": "ソングス・ザ・ナイト・シングス",
+    "release_date": "2019-11-06",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4clLxqlFICCT9tSNPi9Rcj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f"
+      },
+      "href": "https://api.spotify.com/v1/artists/4yWabEiTzKShbBiy14Xx7f",
+      "id": "4yWabEiTzKShbBiy14Xx7f",
+      "name": "The Dark Element",
+      "type": "artist",
+      "uri": "spotify:artist:4yWabEiTzKShbBiy14Xx7f"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 309826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITG271900926"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Wzm7VZ1tMNFzfjWhsym3y"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Wzm7VZ1tMNFzfjWhsym3y",
+  "id": "0Wzm7VZ1tMNFzfjWhsym3y",
+  "is_local": false,
+  "name": "ソングス・ザ・ナイト・シングス",
+  "popularity": 6,
+  "preview_url": "https://p.scdn.co/mp3-preview/4b4832af60bbb06cf865e8c39d85a21306f1ac5f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0Wzm7VZ1tMNFzfjWhsym3y"
+}

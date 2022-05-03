@@ -1,0 +1,20 @@
+{
+  "danceability": 0.144,
+  "energy": 0.0505,
+  "key": 0,
+  "loudness": -18.826,
+  "mode": 1,
+  "speechiness": 0.0359,
+  "acousticness": 0.868,
+  "instrumentalness": 0.931,
+  "liveness": 0.111,
+  "valence": 0.0792,
+  "tempo": 80.935,
+  "type": "audio_features",
+  "id": "3yT55Np2TMakrCLc30ZxP4",
+  "uri": "spotify:track:3yT55Np2TMakrCLc30ZxP4",
+  "track_href": "https://api.spotify.com/v1/tracks/3yT55Np2TMakrCLc30ZxP4",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3yT55Np2TMakrCLc30ZxP4",
+  "duration_ms": 220893,
+  "time_signature": 4
+}

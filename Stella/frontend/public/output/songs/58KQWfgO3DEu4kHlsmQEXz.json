@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QZdOCb3UacKbQ1ybDFAKM",
+        "id": "4QZdOCb3UacKbQ1ybDFAKM",
+        "name": "Valerie June",
+        "type": "artist",
+        "uri": "spotify:artist:4QZdOCb3UacKbQ1ybDFAKM"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/02ayfOwf2rHWQoQoP4PCwQ",
+    "id": "02ayfOwf2rHWQoQoP4PCwQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732a2b0f09e6259fcfca304b52",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022a2b0f09e6259fcfca304b52",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512a2b0f09e6259fcfca304b52",
+        "width": 64
+      }
+    ],
+    "name": "Pushin' Against A Stone",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:02ayfOwf2rHWQoQoP4PCwQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+      },
+      "href": "https://api.spotify.com/v1/artists/4QZdOCb3UacKbQ1ybDFAKM",
+      "id": "4QZdOCb3UacKbQ1ybDFAKM",
+      "name": "Valerie June",
+      "type": "artist",
+      "uri": "spotify:artist:4QZdOCb3UacKbQ1ybDFAKM"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 185506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBGNS1201004"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/58KQWfgO3DEu4kHlsmQEXz",
+  "id": "58KQWfgO3DEu4kHlsmQEXz",
+  "is_local": false,
+  "name": "Workin' Woman Blues",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:58KQWfgO3DEu4kHlsmQEXz"
+}

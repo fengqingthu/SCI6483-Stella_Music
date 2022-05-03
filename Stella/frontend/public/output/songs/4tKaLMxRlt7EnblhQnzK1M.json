@@ -1,0 +1,183 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Ww5mwS7BWYjoZTUIrMHfC",
+        "id": "4Ww5mwS7BWYjoZTUIrMHfC",
+        "name": "Charlie Parker",
+        "type": "artist",
+        "uri": "spotify:artist:4Ww5mwS7BWYjoZTUIrMHfC"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CA",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4pKaIMD88kxnEqfx9LFiph"
+    },
+    "href": "https://api.spotify.com/v1/albums/4pKaIMD88kxnEqfx9LFiph",
+    "id": "4pKaIMD88kxnEqfx9LFiph",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e3aae18704f3a3c46d105689",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e3aae18704f3a3c46d105689",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e3aae18704f3a3c46d105689",
+        "width": 64
+      }
+    ],
+    "name": "And Friends",
+    "release_date": "1952-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:4pKaIMD88kxnEqfx9LFiph"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Ww5mwS7BWYjoZTUIrMHfC",
+      "id": "4Ww5mwS7BWYjoZTUIrMHfC",
+      "name": "Charlie Parker",
+      "type": "artist",
+      "uri": "spotify:artist:4Ww5mwS7BWYjoZTUIrMHfC"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CA",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "JP",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 173933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR14F4600790"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4tKaLMxRlt7EnblhQnzK1M"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4tKaLMxRlt7EnblhQnzK1M",
+  "id": "4tKaLMxRlt7EnblhQnzK1M",
+  "is_local": false,
+  "name": "Yardbird Suite - 2003 Remastered Version",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4tKaLMxRlt7EnblhQnzK1M"
+}

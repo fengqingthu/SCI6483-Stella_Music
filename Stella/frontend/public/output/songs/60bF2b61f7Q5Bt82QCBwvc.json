@@ -1,0 +1,107 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "CH",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "NL",
+      "NO",
+      "NZ",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0u7sgzvlLmPLvujXxy9EeY"
+    },
+    "href": "https://api.spotify.com/v1/albums/0u7sgzvlLmPLvujXxy9EeY",
+    "id": "0u7sgzvlLmPLvujXxy9EeY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273042dbf8721e37f11843bfeac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02042dbf8721e37f11843bfeac",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851042dbf8721e37f11843bfeac",
+        "width": 64
+      }
+    ],
+    "name": "Brothers In Arms - 20th Anniversary Edition",
+    "release_date": "1985-05-13",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:0u7sgzvlLmPLvujXxy9EeY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+      },
+      "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+      "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "name": "Dire Straits",
+      "type": "artist",
+      "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BE",
+    "CH",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "NL",
+    "NO",
+    "NZ",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 419773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF088500681"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/60bF2b61f7Q5Bt82QCBwvc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/60bF2b61f7Q5Bt82QCBwvc",
+  "id": "60bF2b61f7Q5Bt82QCBwvc",
+  "is_local": false,
+  "name": "Brothers In Arms",
+  "popularity": 66,
+  "preview_url": "https://p.scdn.co/mp3-preview/a095cc3b762c95a15c31615eac251d1be885162c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:60bF2b61f7Q5Bt82QCBwvc"
+}

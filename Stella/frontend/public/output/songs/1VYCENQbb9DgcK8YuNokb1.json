@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        },
+        "href": "https://api.spotify.com/v1/artists/1R4GxRuSVTPSb6oy56SPST",
+        "id": "1R4GxRuSVTPSb6oy56SPST",
+        "name": "Gabriel Garzón-Montano",
+        "type": "artist",
+        "uri": "spotify:artist:1R4GxRuSVTPSb6oy56SPST"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2jdVQmNvCAzFues9bUDWlt"
+    },
+    "href": "https://api.spotify.com/v1/albums/2jdVQmNvCAzFues9bUDWlt",
+    "id": "2jdVQmNvCAzFues9bUDWlt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a502c2ac113397f602987ffe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a502c2ac113397f602987ffe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a502c2ac113397f602987ffe",
+        "width": 64
+      }
+    ],
+    "name": "Bishouné: Alma del Huila (Deluxe Edition)",
+    "release_date": "2015-06-29",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:2jdVQmNvCAzFues9bUDWlt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+      },
+      "href": "https://api.spotify.com/v1/artists/1R4GxRuSVTPSb6oy56SPST",
+      "id": "1R4GxRuSVTPSb6oy56SPST",
+      "name": "Gabriel Garzón-Montano",
+      "type": "artist",
+      "uri": "spotify:artist:1R4GxRuSVTPSb6oy56SPST"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 298780,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMNZG1400001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1VYCENQbb9DgcK8YuNokb1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1VYCENQbb9DgcK8YuNokb1",
+  "id": "1VYCENQbb9DgcK8YuNokb1",
+  "is_local": false,
+  "name": "6 8",
+  "popularity": 15,
+  "preview_url": "https://p.scdn.co/mp3-preview/c0e5c5708851b8a4502e85f33cdfda88a4623e39?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1VYCENQbb9DgcK8YuNokb1"
+}

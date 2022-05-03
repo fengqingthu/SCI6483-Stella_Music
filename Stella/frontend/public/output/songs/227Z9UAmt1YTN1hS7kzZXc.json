@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+        "id": "1Dt1UKLtrJIW1xxRBejjos",
+        "name": "The Blaze",
+        "type": "artist",
+        "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "IE",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
+    },
+    "href": "https://api.spotify.com/v1/albums/4Ekdf8v7lFV5c3zIdtpyjY",
+    "id": "4Ekdf8v7lFV5c3zIdtpyjY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27305181d6288f118719b8458cd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0205181d6288f118719b8458cd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485105181d6288f118719b8458cd",
+        "width": 64
+      }
+    ],
+    "name": "DANCEHALL",
+    "release_date": "2018-09-07",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4Ekdf8v7lFV5c3zIdtpyjY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+      "id": "1Dt1UKLtrJIW1xxRBejjos",
+      "name": "The Blaze",
+      "type": "artist",
+      "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219280,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR10S1840089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/227Z9UAmt1YTN1hS7kzZXc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/227Z9UAmt1YTN1hS7kzZXc",
+  "id": "227Z9UAmt1YTN1hS7kzZXc",
+  "is_local": false,
+  "name": "HEAVEN",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/130ac081913cedc227915ee5108226d41761a911?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:227Z9UAmt1YTN1hS7kzZXc"
+}

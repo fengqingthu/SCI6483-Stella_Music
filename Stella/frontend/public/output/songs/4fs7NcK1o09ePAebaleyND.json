@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+        "id": "1Dt1UKLtrJIW1xxRBejjos",
+        "name": "The Blaze",
+        "type": "artist",
+        "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "IE",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
+    },
+    "href": "https://api.spotify.com/v1/albums/4Ekdf8v7lFV5c3zIdtpyjY",
+    "id": "4Ekdf8v7lFV5c3zIdtpyjY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27305181d6288f118719b8458cd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0205181d6288f118719b8458cd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485105181d6288f118719b8458cd",
+        "width": 64
+      }
+    ],
+    "name": "DANCEHALL",
+    "release_date": "2018-09-07",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4Ekdf8v7lFV5c3zIdtpyjY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+      "id": "1Dt1UKLtrJIW1xxRBejjos",
+      "name": "The Blaze",
+      "type": "artist",
+      "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 255026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR2X41884773"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4fs7NcK1o09ePAebaleyND"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4fs7NcK1o09ePAebaleyND",
+  "id": "4fs7NcK1o09ePAebaleyND",
+  "is_local": false,
+  "name": "RUNAWAY",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/efb734b61f9a354de68bfe62f9e3fca632844072?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:4fs7NcK1o09ePAebaleyND"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3AL6D6YKjwbsT1vwQCkoXr"
+        },
+        "href": "https://api.spotify.com/v1/artists/3AL6D6YKjwbsT1vwQCkoXr",
+        "id": "3AL6D6YKjwbsT1vwQCkoXr",
+        "name": "Amateur Transplants",
+        "type": "artist",
+        "uri": "spotify:artist:3AL6D6YKjwbsT1vwQCkoXr"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1WYPdA5165pH0F6RFiOBE3"
+    },
+    "href": "https://api.spotify.com/v1/albums/1WYPdA5165pH0F6RFiOBE3",
+    "id": "1WYPdA5165pH0F6RFiOBE3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f43a3f5278fa1f4930ea7cd3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f43a3f5278fa1f4930ea7cd3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f43a3f5278fa1f4930ea7cd3",
+        "width": 64
+      }
+    ],
+    "name": "Unfit To Practise",
+    "release_date": "2010-03-29",
+    "release_date_precision": "day",
+    "total_tracks": 32,
+    "type": "album",
+    "uri": "spotify:album:1WYPdA5165pH0F6RFiOBE3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AL6D6YKjwbsT1vwQCkoXr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3AL6D6YKjwbsT1vwQCkoXr",
+      "id": "3AL6D6YKjwbsT1vwQCkoXr",
+      "name": "Amateur Transplants",
+      "type": "artist",
+      "uri": "spotify:artist:3AL6D6YKjwbsT1vwQCkoXr"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 56213,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "USTCD1063855"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Noy5DhWCkxoD4x1LK4N8i"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Noy5DhWCkxoD4x1LK4N8i",
+  "id": "2Noy5DhWCkxoD4x1LK4N8i",
+  "is_local": false,
+  "name": "Libel Case",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:2Noy5DhWCkxoD4x1LK4N8i"
+}

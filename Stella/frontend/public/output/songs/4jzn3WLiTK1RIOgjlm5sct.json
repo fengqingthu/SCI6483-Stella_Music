@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/34vLhockmYhf3LgznwyNaQ",
+        "id": "34vLhockmYhf3LgznwyNaQ",
+        "name": "POLIÇA",
+        "type": "artist",
+        "uri": "spotify:artist:34vLhockmYhf3LgznwyNaQ"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1UC9ld3bQ3zNI21MDUecZY"
+    },
+    "href": "https://api.spotify.com/v1/albums/1UC9ld3bQ3zNI21MDUecZY",
+    "id": "1UC9ld3bQ3zNI21MDUecZY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273242f389f391eeb1d4f0c6c42",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02242f389f391eeb1d4f0c6c42",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851242f389f391eeb1d4f0c6c42",
+        "width": 64
+      }
+    ],
+    "name": "Shulamith",
+    "release_date": "2013-10-18",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1UC9ld3bQ3zNI21MDUecZY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/34vLhockmYhf3LgznwyNaQ",
+      "id": "34vLhockmYhf3LgznwyNaQ",
+      "name": "POLIÇA",
+      "type": "artist",
+      "uri": "spotify:artist:34vLhockmYhf3LgznwyNaQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+      },
+      "href": "https://api.spotify.com/v1/artists/13rHmjtJmlIJ2aDyJc7CLV",
+      "id": "13rHmjtJmlIJ2aDyJc7CLV",
+      "name": "Justin Vernon",
+      "type": "artist",
+      "uri": "spotify:artist:13rHmjtJmlIJ2aDyJc7CLV"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 266240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQE91300014"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4jzn3WLiTK1RIOgjlm5sct"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4jzn3WLiTK1RIOgjlm5sct",
+  "id": "4jzn3WLiTK1RIOgjlm5sct",
+  "is_local": false,
+  "name": "Tiff",
+  "popularity": 8,
+  "preview_url": "https://p.scdn.co/mp3-preview/b3122a2eb01c2dd2c62152a14b79b4bfc5b95f62?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:4jzn3WLiTK1RIOgjlm5sct"
+}

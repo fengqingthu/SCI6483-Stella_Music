@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        "href": "https://api.spotify.com/v1/artists/4NMgXxIMZeiJ5PqxdA0t6q",
+        "id": "4NMgXxIMZeiJ5PqxdA0t6q",
+        "name": "Skalpel",
+        "type": "artist",
+        "uri": "spotify:artist:4NMgXxIMZeiJ5PqxdA0t6q"
+      }
+    ],
+    "available_markets": [
+      "PL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0TDFRNLBlwMkgB2IKzqPyu"
+    },
+    "href": "https://api.spotify.com/v1/albums/0TDFRNLBlwMkgB2IKzqPyu",
+    "id": "0TDFRNLBlwMkgB2IKzqPyu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ac6659e2d5a876583c1bed98",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ac6659e2d5a876583c1bed98",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ac6659e2d5a876583c1bed98",
+        "width": 64
+      }
+    ],
+    "name": "Highlight",
+    "release_date": "2020-03-20",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0TDFRNLBlwMkgB2IKzqPyu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+      },
+      "href": "https://api.spotify.com/v1/artists/4NMgXxIMZeiJ5PqxdA0t6q",
+      "id": "4NMgXxIMZeiJ5PqxdA0t6q",
+      "name": "Skalpel",
+      "type": "artist",
+      "uri": "spotify:artist:4NMgXxIMZeiJ5PqxdA0t6q"
+    }
+  ],
+  "available_markets": [
+    "PL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228633,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "PL42G1900004"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/07w3G6DIRQ28GkbstJHOR8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/07w3G6DIRQ28GkbstJHOR8",
+  "id": "07w3G6DIRQ28GkbstJHOR8",
+  "is_local": false,
+  "name": "Escape",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/6f0b8d0098b54774dc6e00c4639fa15b1723da9f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:07w3G6DIRQ28GkbstJHOR8"
+}

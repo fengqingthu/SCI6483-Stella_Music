@@ -1,0 +1,141 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        },
+        "href": "https://api.spotify.com/v1/artists/0FI0kxP0BWurTz8cB8BBug",
+        "id": "0FI0kxP0BWurTz8cB8BBug",
+        "name": "Mark Knopfler",
+        "type": "artist",
+        "uri": "spotify:artist:0FI0kxP0BWurTz8cB8BBug"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "HK",
+      "HU",
+      "IE",
+      "IN",
+      "IT",
+      "LT",
+      "LV",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "SE",
+      "SG",
+      "SK",
+      "TH",
+      "TW",
+      "UA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
+    },
+    "href": "https://api.spotify.com/v1/albums/7oIBSEe5L89s2UXK0I8tYg",
+    "id": "7oIBSEe5L89s2UXK0I8tYg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273659eb0074558c8b6827df2ec",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02659eb0074558c8b6827df2ec",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851659eb0074558c8b6827df2ec",
+        "width": 64
+      }
+    ],
+    "name": "Sailing To Philadelphia",
+    "release_date": "2000-09-26",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:7oIBSEe5L89s2UXK0I8tYg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+      },
+      "href": "https://api.spotify.com/v1/artists/0FI0kxP0BWurTz8cB8BBug",
+      "id": "0FI0kxP0BWurTz8cB8BBug",
+      "name": "Mark Knopfler",
+      "type": "artist",
+      "uri": "spotify:artist:0FI0kxP0BWurTz8cB8BBug"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BE",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "HK",
+    "HU",
+    "IE",
+    "IN",
+    "IT",
+    "LT",
+    "LV",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "SE",
+    "SG",
+    "SK",
+    "TH",
+    "TW",
+    "UA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 295893,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF080000154"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/65f8Ca4HbZCMLhpZPTHW4O"
+  },
+  "href": "https://api.spotify.com/v1/tracks/65f8Ca4HbZCMLhpZPTHW4O",
+  "id": "65f8Ca4HbZCMLhpZPTHW4O",
+  "is_local": false,
+  "name": "What It Is",
+  "popularity": 58,
+  "preview_url": "https://p.scdn.co/mp3-preview/3a01ad6a07b885d6ed2164ab166590a57112c6e0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:65f8Ca4HbZCMLhpZPTHW4O"
+}

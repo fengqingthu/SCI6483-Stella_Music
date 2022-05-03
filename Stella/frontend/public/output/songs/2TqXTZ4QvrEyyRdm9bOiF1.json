@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OpqU68JpZlzvjAJj3B2Da",
+        "id": "3OpqU68JpZlzvjAJj3B2Da",
+        "name": "Alestorm",
+        "type": "artist",
+        "uri": "spotify:artist:3OpqU68JpZlzvjAJj3B2Da"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6MkjeNBbwVfpgDBjISnea1"
+    },
+    "href": "https://api.spotify.com/v1/albums/6MkjeNBbwVfpgDBjISnea1",
+    "id": "6MkjeNBbwVfpgDBjISnea1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273da2daa833d60f3ebda821202",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02da2daa833d60f3ebda821202",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851da2daa833d60f3ebda821202",
+        "width": 64
+      }
+    ],
+    "name": "No Grave But The Sea (Deluxe Edition)",
+    "release_date": "2017-05-26",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:6MkjeNBbwVfpgDBjISnea1"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+      },
+      "href": "https://api.spotify.com/v1/artists/3OpqU68JpZlzvjAJj3B2Da",
+      "id": "3OpqU68JpZlzvjAJj3B2Da",
+      "name": "Alestorm",
+      "type": "artist",
+      "uri": "spotify:artist:3OpqU68JpZlzvjAJj3B2Da"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 207493,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "ATN261770406"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2TqXTZ4QvrEyyRdm9bOiF1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2TqXTZ4QvrEyyRdm9bOiF1",
+  "id": "2TqXTZ4QvrEyyRdm9bOiF1",
+  "is_local": false,
+  "name": "Fucked With An Anchor",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/747b1905fc4e3b099a3347d2984d1932dbb29a34?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2TqXTZ4QvrEyyRdm9bOiF1"
+}

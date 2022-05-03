@@ -1,0 +1,20 @@
+{
+  "danceability": 0.454,
+  "energy": 0.0206,
+  "key": 0,
+  "loudness": -20.334,
+  "mode": 1,
+  "speechiness": 0.0522,
+  "acousticness": 0.99,
+  "instrumentalness": 0.198,
+  "liveness": 0.0853,
+  "valence": 0.137,
+  "tempo": 101.024,
+  "type": "audio_features",
+  "id": "419HDFjpRTVF5FSLlBuZLE",
+  "uri": "spotify:track:419HDFjpRTVF5FSLlBuZLE",
+  "track_href": "https://api.spotify.com/v1/tracks/419HDFjpRTVF5FSLlBuZLE",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/419HDFjpRTVF5FSLlBuZLE",
+  "duration_ms": 51227,
+  "time_signature": 5
+}

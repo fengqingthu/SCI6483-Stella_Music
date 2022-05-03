@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+        "id": "6qgnBH6iDM91ipVXv28OMu",
+        "name": "KAYTRANADA",
+        "type": "artist",
+        "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5mG6Ful0k8lBjMtrvKsGuF"
+    },
+    "href": "https://api.spotify.com/v1/albums/5mG6Ful0k8lBjMtrvKsGuF",
+    "id": "5mG6Ful0k8lBjMtrvKsGuF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731f179a574bab0e0a77f0db41",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021f179a574bab0e0a77f0db41",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511f179a574bab0e0a77f0db41",
+        "width": 64
+      }
+    ],
+    "name": "Kaytra to Do",
+    "release_date": "2013-02-25",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:5mG6Ful0k8lBjMtrvKsGuF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+      "id": "6qgnBH6iDM91ipVXv28OMu",
+      "name": "KAYTRANADA",
+      "type": "artist",
+      "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210784,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEQ121217678"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3cwOPJzYmfA2tKX43rGxrj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3cwOPJzYmfA2tKX43rGxrj",
+  "id": "3cwOPJzYmfA2tKX43rGxrj",
+  "is_local": false,
+  "name": "Hot Jazzybelle",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3cwOPJzYmfA2tKX43rGxrj"
+}

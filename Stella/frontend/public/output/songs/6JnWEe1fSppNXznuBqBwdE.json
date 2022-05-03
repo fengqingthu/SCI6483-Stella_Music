@@ -1,0 +1,160 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/50IylcM1VOHNXVHMMMWhJA"
+        },
+        "href": "https://api.spotify.com/v1/artists/50IylcM1VOHNXVHMMMWhJA",
+        "id": "50IylcM1VOHNXVHMMMWhJA",
+        "name": "Didier Super",
+        "type": "artist",
+        "uri": "spotify:artist:50IylcM1VOHNXVHMMMWhJA"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BR",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IS",
+      "JP",
+      "KR",
+      "LK",
+      "LT",
+      "LV",
+      "MX",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "PH",
+      "PK",
+      "PT",
+      "RW",
+      "SA",
+      "SE",
+      "SK",
+      "TN",
+      "TR",
+      "TW",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/514i9khlOMpiG1WFYbq8tN"
+    },
+    "href": "https://api.spotify.com/v1/albums/514i9khlOMpiG1WFYbq8tN",
+    "id": "514i9khlOMpiG1WFYbq8tN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739ee68ae1368a5f73222dc27e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029ee68ae1368a5f73222dc27e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519ee68ae1368a5f73222dc27e",
+        "width": 64
+      }
+    ],
+    "name": "Ben Quoi?",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 23,
+    "type": "album",
+    "uri": "spotify:album:514i9khlOMpiG1WFYbq8tN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/50IylcM1VOHNXVHMMMWhJA"
+      },
+      "href": "https://api.spotify.com/v1/artists/50IylcM1VOHNXVHMMMWhJA",
+      "id": "50IylcM1VOHNXVHMMMWhJA",
+      "name": "Didier Super",
+      "type": "artist",
+      "uri": "spotify:artist:50IylcM1VOHNXVHMMMWhJA"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "BR",
+    "CI",
+    "CM",
+    "DE",
+    "DK",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IE",
+    "IL",
+    "JP",
+    "KR",
+    "LK",
+    "LT",
+    "LV",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "PH",
+    "PK",
+    "PT",
+    "RW",
+    "TN",
+    "TR",
+    "TW",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 187880,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRV640810002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6JnWEe1fSppNXznuBqBwdE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6JnWEe1fSppNXznuBqBwdE",
+  "id": "6JnWEe1fSppNXznuBqBwdE",
+  "is_local": false,
+  "name": "A Bas Les Gens Qui Bossent",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6JnWEe1fSppNXznuBqBwdE"
+}

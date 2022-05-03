@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4e2tVpGd0doErQ4dzVyxu6"
+        },
+        "href": "https://api.spotify.com/v1/artists/4e2tVpGd0doErQ4dzVyxu6",
+        "id": "4e2tVpGd0doErQ4dzVyxu6",
+        "name": "Fallulah",
+        "type": "artist",
+        "uri": "spotify:artist:4e2tVpGd0doErQ4dzVyxu6"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5QCXuZR1i1KXsNkBusYPnk"
+    },
+    "href": "https://api.spotify.com/v1/albums/5QCXuZR1i1KXsNkBusYPnk",
+    "id": "5QCXuZR1i1KXsNkBusYPnk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739b584cb3f9e835701d7a2740",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029b584cb3f9e835701d7a2740",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519b584cb3f9e835701d7a2740",
+        "width": 64
+      }
+    ],
+    "name": "Wicked Game",
+    "release_date": "2013-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5QCXuZR1i1KXsNkBusYPnk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4e2tVpGd0doErQ4dzVyxu6"
+      },
+      "href": "https://api.spotify.com/v1/artists/4e2tVpGd0doErQ4dzVyxu6",
+      "id": "4e2tVpGd0doErQ4dzVyxu6",
+      "name": "Fallulah",
+      "type": "artist",
+      "uri": "spotify:artist:4e2tVpGd0doErQ4dzVyxu6"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 242306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKADG1300222"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4AfdNU9lIZpd5yR2CE4sMr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4AfdNU9lIZpd5yR2CE4sMr",
+  "id": "4AfdNU9lIZpd5yR2CE4sMr",
+  "is_local": false,
+  "name": "Wicked Game",
+  "popularity": 16,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4AfdNU9lIZpd5yR2CE4sMr"
+}

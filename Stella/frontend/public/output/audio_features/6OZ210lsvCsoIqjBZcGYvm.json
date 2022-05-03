@@ -1,0 +1,20 @@
+{
+  "danceability": 0.673,
+  "energy": 0.218,
+  "key": 8,
+  "loudness": -15.757,
+  "mode": 1,
+  "speechiness": 0.0683,
+  "acousticness": 0.891,
+  "instrumentalness": 0.819,
+  "liveness": 0.182,
+  "valence": 0.585,
+  "tempo": 121.352,
+  "type": "audio_features",
+  "id": "6OZ210lsvCsoIqjBZcGYvm",
+  "uri": "spotify:track:6OZ210lsvCsoIqjBZcGYvm",
+  "track_href": "https://api.spotify.com/v1/tracks/6OZ210lsvCsoIqjBZcGYvm",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OZ210lsvCsoIqjBZcGYvm",
+  "duration_ms": 200253,
+  "time_signature": 4
+}

@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R"
+        },
+        "href": "https://api.spotify.com/v1/artists/58XdW0XyGukvmGatf7NC2R",
+        "id": "58XdW0XyGukvmGatf7NC2R",
+        "name": "Frida Hyvönen",
+        "type": "artist",
+        "uri": "spotify:artist:58XdW0XyGukvmGatf7NC2R"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4DCIyXXY1ImEQs49MwcFDc"
+    },
+    "href": "https://api.spotify.com/v1/albums/4DCIyXXY1ImEQs49MwcFDc",
+    "id": "4DCIyXXY1ImEQs49MwcFDc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731eb051c38f719cdd1bfd59ef",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021eb051c38f719cdd1bfd59ef",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511eb051c38f719cdd1bfd59ef",
+        "width": 64
+      }
+    ],
+    "name": "Silence Is Wild",
+    "release_date": "2008-10-29",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4DCIyXXY1ImEQs49MwcFDc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R"
+      },
+      "href": "https://api.spotify.com/v1/artists/58XdW0XyGukvmGatf7NC2R",
+      "id": "58XdW0XyGukvmGatf7NC2R",
+      "name": "Frida Hyvönen",
+      "type": "artist",
+      "uri": "spotify:artist:58XdW0XyGukvmGatf7NC2R"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 246626,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SE3CS1200301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5mMkEjyX9FGw7YrwYsfSwU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5mMkEjyX9FGw7YrwYsfSwU",
+  "id": "5mMkEjyX9FGw7YrwYsfSwU",
+  "is_local": false,
+  "name": "Dirty Dancing",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/345305aeecba15d5326f300bcd722a770bc6afd1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5mMkEjyX9FGw7YrwYsfSwU"
+}

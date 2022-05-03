@@ -1,0 +1,109 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        "href": "https://api.spotify.com/v1/artists/65EXuYHVoehCKqp0kOS6px",
+        "id": "65EXuYHVoehCKqp0kOS6px",
+        "name": "Parov Stelar",
+        "type": "artist",
+        "uri": "spotify:artist:65EXuYHVoehCKqp0kOS6px"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/396hjS6oyhLeshNjgAundf"
+    },
+    "href": "https://api.spotify.com/v1/albums/396hjS6oyhLeshNjgAundf",
+    "id": "396hjS6oyhLeshNjgAundf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739719f679d26c0f8cc2b78c66",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029719f679d26c0f8cc2b78c66",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519719f679d26c0f8cc2b78c66",
+        "width": 64
+      }
+    ],
+    "name": "The Demon Diaries (Deluxe)",
+    "release_date": "2015-05-01",
+    "release_date_precision": "day",
+    "total_tracks": 24,
+    "type": "album",
+    "uri": "spotify:album:396hjS6oyhLeshNjgAundf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+      },
+      "href": "https://api.spotify.com/v1/artists/65EXuYHVoehCKqp0kOS6px",
+      "id": "65EXuYHVoehCKqp0kOS6px",
+      "name": "Parov Stelar",
+      "type": "artist",
+      "uri": "spotify:artist:65EXuYHVoehCKqp0kOS6px"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+      },
+      "href": "https://api.spotify.com/v1/artists/71KlQX0q5wz5f9iytwPfou",
+      "id": "71KlQX0q5wz5f9iytwPfou",
+      "name": "Graham Candy",
+      "type": "artist",
+      "uri": "spotify:artist:71KlQX0q5wz5f9iytwPfou"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 2,
+  "duration_ms": 174786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATE611400004"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/16TgdSXa71GegvWppYh6Qp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/16TgdSXa71GegvWppYh6Qp",
+  "id": "16TgdSXa71GegvWppYh6Qp",
+  "is_local": false,
+  "name": "The Sun",
+  "popularity": 46,
+  "preview_url": "https://p.scdn.co/mp3-preview/60f06e712a87ba97e63dec6cca19142168950e7c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:16TgdSXa71GegvWppYh6Qp"
+}

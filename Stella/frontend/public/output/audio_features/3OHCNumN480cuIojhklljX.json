@@ -1,0 +1,20 @@
+{
+  "danceability": 0.46,
+  "energy": 0.0936,
+  "key": 10,
+  "loudness": -16.141,
+  "mode": 0,
+  "speechiness": 0.0757,
+  "acousticness": 0.816,
+  "instrumentalness": 0.799,
+  "liveness": 0.166,
+  "valence": 0.173,
+  "tempo": 137.676,
+  "type": "audio_features",
+  "id": "3OHCNumN480cuIojhklljX",
+  "uri": "spotify:track:3OHCNumN480cuIojhklljX",
+  "track_href": "https://api.spotify.com/v1/tracks/3OHCNumN480cuIojhklljX",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3OHCNumN480cuIojhklljX",
+  "duration_ms": 171747,
+  "time_signature": 3
+}

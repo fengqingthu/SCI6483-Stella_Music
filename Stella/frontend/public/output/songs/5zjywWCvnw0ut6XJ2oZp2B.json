@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Z5pcmXDCKTrFWLnDChC37",
+        "id": "0Z5pcmXDCKTrFWLnDChC37",
+        "name": "Miami Horror",
+        "type": "artist",
+        "uri": "spotify:artist:0Z5pcmXDCKTrFWLnDChC37"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0JRTn2TrE4rbEq736lOcPm"
+    },
+    "href": "https://api.spotify.com/v1/albums/0JRTn2TrE4rbEq736lOcPm",
+    "id": "0JRTn2TrE4rbEq736lOcPm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739dce486730ae7216583cf65e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029dce486730ae7216583cf65e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519dce486730ae7216583cf65e",
+        "width": 64
+      }
+    ],
+    "name": "Wild Motion (Remixes)",
+    "release_date": "2014-09-16",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:0JRTn2TrE4rbEq736lOcPm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Z5pcmXDCKTrFWLnDChC37",
+      "id": "0Z5pcmXDCKTrFWLnDChC37",
+      "name": "Miami Horror",
+      "type": "artist",
+      "uri": "spotify:artist:0Z5pcmXDCKTrFWLnDChC37"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AGwPDdh1y8hochNzHy5HC",
+      "id": "4AGwPDdh1y8hochNzHy5HC",
+      "name": "RAC",
+      "type": "artist",
+      "uri": "spotify:artist:4AGwPDdh1y8hochNzHy5HC"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 300596,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKPL1415330"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5zjywWCvnw0ut6XJ2oZp2B"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5zjywWCvnw0ut6XJ2oZp2B",
+  "id": "5zjywWCvnw0ut6XJ2oZp2B",
+  "is_local": false,
+  "name": "Wild Motion (Set It Free) - RAC Remix",
+  "popularity": 17,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5zjywWCvnw0ut6XJ2oZp2B"
+}

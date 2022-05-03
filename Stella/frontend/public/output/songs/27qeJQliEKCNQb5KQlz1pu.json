@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        },
+        "href": "https://api.spotify.com/v1/artists/19OAtq7pNHnBRKJORFeahx",
+        "id": "19OAtq7pNHnBRKJORFeahx",
+        "name": "Hayden Calnin",
+        "type": "artist",
+        "uri": "spotify:artist:19OAtq7pNHnBRKJORFeahx"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4jLFz0Uj1usG8orxxTQMLj"
+    },
+    "href": "https://api.spotify.com/v1/albums/4jLFz0Uj1usG8orxxTQMLj",
+    "id": "4jLFz0Uj1usG8orxxTQMLj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273280359622660a06e26b6117a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02280359622660a06e26b6117a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851280359622660a06e26b6117a",
+        "width": 64
+      }
+    ],
+    "name": "Oh, Hunter",
+    "release_date": "2014-03-24",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:4jLFz0Uj1usG8orxxTQMLj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+      },
+      "href": "https://api.spotify.com/v1/artists/19OAtq7pNHnBRKJORFeahx",
+      "id": "19OAtq7pNHnBRKJORFeahx",
+      "name": "Hayden Calnin",
+      "type": "artist",
+      "uri": "spotify:artist:19OAtq7pNHnBRKJORFeahx"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 252204,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AU8R41200006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/27qeJQliEKCNQb5KQlz1pu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/27qeJQliEKCNQb5KQlz1pu",
+  "id": "27qeJQliEKCNQb5KQlz1pu",
+  "is_local": false,
+  "name": "Coward",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:27qeJQliEKCNQb5KQlz1pu"
+}

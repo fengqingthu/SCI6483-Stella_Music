@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        },
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
+        "type": "artist",
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7ox0VtOfJBl7Oz3BRGOg1G"
+    },
+    "href": "https://api.spotify.com/v1/albums/7ox0VtOfJBl7Oz3BRGOg1G",
+    "id": "7ox0VtOfJBl7Oz3BRGOg1G",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bfba27dd8dd6c601e4aae666",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bfba27dd8dd6c601e4aae666",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bfba27dd8dd6c601e4aae666",
+        "width": 64
+      }
+    ],
+    "name": "Magnifique",
+    "release_date": "2015-07-17",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:7ox0VtOfJBl7Oz3BRGOg1G"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+      },
+      "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+      "id": "57dN52uHvrHOxijzpIgu3E",
+      "name": "Ratatat",
+      "type": "artist",
+      "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 255983,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBKS1500055"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0YV1vuvUaDye3prszC67BG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0YV1vuvUaDye3prszC67BG",
+  "id": "0YV1vuvUaDye3prszC67BG",
+  "is_local": false,
+  "name": "Cream on Chrome",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/f69cb97b045fd1bb5b77dfdeef047faecb7ebb8f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0YV1vuvUaDye3prszC67BG"
+}

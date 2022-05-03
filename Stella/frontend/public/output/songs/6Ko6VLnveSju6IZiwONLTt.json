@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        },
+        "href": "https://api.spotify.com/v1/artists/4wyNyxs74Ux8UIDopNjIai",
+        "id": "4wyNyxs74Ux8UIDopNjIai",
+        "name": "King Krule",
+        "type": "artist",
+        "uri": "spotify:artist:4wyNyxs74Ux8UIDopNjIai"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
+    },
+    "href": "https://api.spotify.com/v1/albums/6uvdXVgHsioxRIo0cFnkD7",
+    "id": "6uvdXVgHsioxRIo0cFnkD7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27380ff9e4af1ae3b50e3b451dc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0280ff9e4af1ae3b50e3b451dc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485180ff9e4af1ae3b50e3b451dc",
+        "width": 64
+      }
+    ],
+    "name": "6 Feet Beneath The Moon",
+    "release_date": "2013-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6uvdXVgHsioxRIo0cFnkD7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+      },
+      "href": "https://api.spotify.com/v1/artists/4wyNyxs74Ux8UIDopNjIai",
+      "id": "4wyNyxs74Ux8UIDopNjIai",
+      "name": "King Krule",
+      "type": "artist",
+      "uri": "spotify:artist:4wyNyxs74Ux8UIDopNjIai"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBKS1300094"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6Ko6VLnveSju6IZiwONLTt",
+  "id": "6Ko6VLnveSju6IZiwONLTt",
+  "is_local": false,
+  "name": "Baby Blue",
+  "popularity": 52,
+  "preview_url": "https://p.scdn.co/mp3-preview/5b97843aa8ff15a294c2e48d0535b3eaa662eae0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:6Ko6VLnveSju6IZiwONLTt"
+}

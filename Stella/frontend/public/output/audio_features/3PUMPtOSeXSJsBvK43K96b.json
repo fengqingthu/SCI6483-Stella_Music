@@ -1,0 +1,20 @@
+{
+  "danceability": 0.65,
+  "energy": 0.28,
+  "key": 4,
+  "loudness": -7.442,
+  "mode": 1,
+  "speechiness": 0.0305,
+  "acousticness": 0.495,
+  "instrumentalness": 0.00000355,
+  "liveness": 0.106,
+  "valence": 0.103,
+  "tempo": 119.939,
+  "type": "audio_features",
+  "id": "3PUMPtOSeXSJsBvK43K96b",
+  "uri": "spotify:track:3PUMPtOSeXSJsBvK43K96b",
+  "track_href": "https://api.spotify.com/v1/tracks/3PUMPtOSeXSJsBvK43K96b",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PUMPtOSeXSJsBvK43K96b",
+  "duration_ms": 382613,
+  "time_signature": 3
+}

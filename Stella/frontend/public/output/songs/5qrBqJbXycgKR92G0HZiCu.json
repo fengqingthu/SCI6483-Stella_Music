@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb"
+        },
+        "href": "https://api.spotify.com/v1/artists/68bqsIINo5RFICYwbkChbb",
+        "id": "68bqsIINo5RFICYwbkChbb",
+        "name": "Michael Kamen",
+        "type": "artist",
+        "uri": "spotify:artist:68bqsIINo5RFICYwbkChbb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5KeUHRKEYWc5cFO5V032sb",
+        "id": "5KeUHRKEYWc5cFO5V032sb",
+        "name": "Seattle Symphony Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:5KeUHRKEYWc5cFO5V032sb"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1U93zIbJxgqL1cdviR5TmR"
+    },
+    "href": "https://api.spotify.com/v1/albums/1U93zIbJxgqL1cdviR5TmR",
+    "id": "1U93zIbJxgqL1cdviR5TmR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bd4cc1847952ead529b2a0ef",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bd4cc1847952ead529b2a0ef",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bd4cc1847952ead529b2a0ef",
+        "width": 64
+      }
+    ],
+    "name": "Mr. Holland's Opus - Original Motion Picture Soundtrack",
+    "release_date": "1996-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:1U93zIbJxgqL1cdviR5TmR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb"
+      },
+      "href": "https://api.spotify.com/v1/artists/68bqsIINo5RFICYwbkChbb",
+      "id": "68bqsIINo5RFICYwbkChbb",
+      "name": "Michael Kamen",
+      "type": "artist",
+      "uri": "spotify:artist:68bqsIINo5RFICYwbkChbb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
+      },
+      "href": "https://api.spotify.com/v1/artists/32AFNkich94JXfGvIFqpkL",
+      "id": "32AFNkich94JXfGvIFqpkL",
+      "name": "Dominic Miller",
+      "type": "artist",
+      "uri": "spotify:artist:32AFNkich94JXfGvIFqpkL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4rugSlWyk8zqDjGcjSrAvV"
+      },
+      "href": "https://api.spotify.com/v1/artists/4rugSlWyk8zqDjGcjSrAvV",
+      "id": "4rugSlWyk8zqDjGcjSrAvV",
+      "name": "Pino Paladino",
+      "type": "artist",
+      "uri": "spotify:artist:4rugSlWyk8zqDjGcjSrAvV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3aztJCXxqYQyBPRbjPmXq2"
+      },
+      "href": "https://api.spotify.com/v1/artists/3aztJCXxqYQyBPRbjPmXq2",
+      "id": "3aztJCXxqYQyBPRbjPmXq2",
+      "name": "Jim Keltner",
+      "type": "artist",
+      "uri": "spotify:artist:3aztJCXxqYQyBPRbjPmXq2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fYr24qYhJejxewFrckFE4",
+      "id": "3fYr24qYhJejxewFrckFE4",
+      "name": "London Metropolitan Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3fYr24qYhJejxewFrckFE4"
+    }
+  ],
+  "available_markets": [
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 508866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF079541112"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5qrBqJbXycgKR92G0HZiCu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5qrBqJbXycgKR92G0HZiCu",
+  "id": "5qrBqJbXycgKR92G0HZiCu",
+  "is_local": false,
+  "name": "An American Symphony (Mr. Holland's Opus) [Mr Holland's Opus]",
+  "popularity": 18,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:5qrBqJbXycgKR92G0HZiCu"
+}

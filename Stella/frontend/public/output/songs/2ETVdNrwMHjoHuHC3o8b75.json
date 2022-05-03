@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        },
+        "href": "https://api.spotify.com/v1/artists/0yb46jwm7gqbZXVXZQ8Z1e",
+        "id": "0yb46jwm7gqbZXVXZQ8Z1e",
+        "name": "Bishop Briggs",
+        "type": "artist",
+        "uri": "spotify:artist:0yb46jwm7gqbZXVXZQ8Z1e"
+      }
+    ],
+    "available_markets": [
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/10IvHFQHoS4R5xztfiLUly"
+    },
+    "href": "https://api.spotify.com/v1/albums/10IvHFQHoS4R5xztfiLUly",
+    "id": "10IvHFQHoS4R5xztfiLUly",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735630642b65119f22960d0260",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025630642b65119f22960d0260",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515630642b65119f22960d0260",
+        "width": 64
+      }
+    ],
+    "name": "Never Tear Us Apart [From \"Fifty Shades Freed (Original Motion Picture Soundtrack)\"]",
+    "release_date": "2018-02-02",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:10IvHFQHoS4R5xztfiLUly"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+      },
+      "href": "https://api.spotify.com/v1/artists/0yb46jwm7gqbZXVXZQ8Z1e",
+      "id": "0yb46jwm7gqbZXVXZQ8Z1e",
+      "name": "Bishop Briggs",
+      "type": "artist",
+      "uri": "spotify:artist:0yb46jwm7gqbZXVXZQ8Z1e"
+    }
+  ],
+  "available_markets": [
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 194853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQ4E1703345"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2ETVdNrwMHjoHuHC3o8b75"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2ETVdNrwMHjoHuHC3o8b75",
+  "id": "2ETVdNrwMHjoHuHC3o8b75",
+  "is_local": false,
+  "name": "Never Tear Us Apart",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2ETVdNrwMHjoHuHC3o8b75"
+}

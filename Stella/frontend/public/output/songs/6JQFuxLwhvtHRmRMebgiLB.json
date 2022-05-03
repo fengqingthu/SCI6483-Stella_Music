@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        },
+        "href": "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+        "id": "7eQZTqEMozBcuSubfu52i4",
+        "name": "The Knife",
+        "type": "artist",
+        "uri": "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9"
+    },
+    "href": "https://api.spotify.com/v1/albums/6rdNbdV3T4muFFFSjGdOj9",
+    "id": "6rdNbdV3T4muFFFSjGdOj9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735222ee4ec91edccef625de52",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025222ee4ec91edccef625de52",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515222ee4ec91edccef625de52",
+        "width": 64
+      }
+    ],
+    "name": "Silent Shout",
+    "release_date": "2006-02-17",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6rdNbdV3T4muFFFSjGdOj9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+      },
+      "href": "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+      "id": "7eQZTqEMozBcuSubfu52i4",
+      "name": "The Knife",
+      "type": "artist",
+      "uri": "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 293626,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWCE0600201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6JQFuxLwhvtHRmRMebgiLB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6JQFuxLwhvtHRmRMebgiLB",
+  "id": "6JQFuxLwhvtHRmRMebgiLB",
+  "is_local": false,
+  "name": "Silent Shout",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/90203062080ce55bc50877609b3f91b075877d34?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6JQFuxLwhvtHRmRMebgiLB"
+}

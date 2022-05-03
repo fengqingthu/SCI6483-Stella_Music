@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YXRO4slasYnty9nb73LrO"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YXRO4slasYnty9nb73LrO",
+        "id": "4YXRO4slasYnty9nb73LrO",
+        "name": "Monarchy",
+        "type": "artist",
+        "uri": "spotify:artist:4YXRO4slasYnty9nb73LrO"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/09AUbdDjQeh0a3BWTAZEFc"
+    },
+    "href": "https://api.spotify.com/v1/albums/09AUbdDjQeh0a3BWTAZEFc",
+    "id": "09AUbdDjQeh0a3BWTAZEFc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d4f679eb319cf8f3a7509de7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d4f679eb319cf8f3a7509de7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d4f679eb319cf8f3a7509de7",
+        "width": 64
+      }
+    ],
+    "name": "Around the Sun",
+    "release_date": "2011-09-26",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:09AUbdDjQeh0a3BWTAZEFc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YXRO4slasYnty9nb73LrO"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YXRO4slasYnty9nb73LrO",
+      "id": "4YXRO4slasYnty9nb73LrO",
+      "name": "Monarchy",
+      "type": "artist",
+      "uri": "spotify:artist:4YXRO4slasYnty9nb73LrO"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 289680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB2YG1100021"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5cfkV9HEN5TPgIYmwYu6Fo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5cfkV9HEN5TPgIYmwYu6Fo",
+  "id": "5cfkV9HEN5TPgIYmwYu6Fo",
+  "is_local": false,
+  "name": "Maybe I'm Crazy",
+  "popularity": 3,
+  "preview_url": "https://p.scdn.co/mp3-preview/44dce17a6d301a1e85681fe0464992326ac4ff02?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5cfkV9HEN5TPgIYmwYu6Fo"
+}

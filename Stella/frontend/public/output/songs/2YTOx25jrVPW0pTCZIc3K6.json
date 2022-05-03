@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ygIgsjUzKivFgxgjQ9iV9",
+        "id": "0ygIgsjUzKivFgxgjQ9iV9",
+        "name": "Jacques Greene",
+        "type": "artist",
+        "uri": "spotify:artist:0ygIgsjUzKivFgxgjQ9iV9"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7BevYSppYo0lqU2cnakLtx"
+    },
+    "href": "https://api.spotify.com/v1/albums/7BevYSppYo0lqU2cnakLtx",
+    "id": "7BevYSppYo0lqU2cnakLtx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737218186f1eccb405a506c4a4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027218186f1eccb405a506c4a4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517218186f1eccb405a506c4a4",
+        "width": 64
+      }
+    ],
+    "name": "Feel Infinite",
+    "release_date": "2017-03-10",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7BevYSppYo0lqU2cnakLtx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ygIgsjUzKivFgxgjQ9iV9",
+      "id": "0ygIgsjUzKivFgxgjQ9iV9",
+      "name": "Jacques Greene",
+      "type": "artist",
+      "uri": "spotify:artist:0ygIgsjUzKivFgxgjQ9iV9"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 263413,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB5P51700026"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2YTOx25jrVPW0pTCZIc3K6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2YTOx25jrVPW0pTCZIc3K6",
+  "id": "2YTOx25jrVPW0pTCZIc3K6",
+  "is_local": false,
+  "name": "Feel Infinite",
+  "popularity": 9,
+  "preview_url": "https://p.scdn.co/mp3-preview/fba2671b70890d099064bc1073b7d84894415635?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2YTOx25jrVPW0pTCZIc3K6"
+}

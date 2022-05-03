@@ -1,0 +1,149 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bZCak2tcRMY1dzEIuwF42",
+        "id": "0bZCak2tcRMY1dzEIuwF42",
+        "name": "The Heavy",
+        "type": "artist",
+        "uri": "spotify:artist:0bZCak2tcRMY1dzEIuwF42"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0sKcuounq52lm9hmFwEZN5"
+    },
+    "href": "https://api.spotify.com/v1/albums/0sKcuounq52lm9hmFwEZN5",
+    "id": "0sKcuounq52lm9hmFwEZN5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02463986d828c59a03f2ab0a3f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851463986d828c59a03f2ab0a3f",
+        "width": 64
+      }
+    ],
+    "name": "The House That Dirt Built",
+    "release_date": "2009-10-05",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0sKcuounq52lm9hmFwEZN5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+      },
+      "href": "https://api.spotify.com/v1/artists/0bZCak2tcRMY1dzEIuwF42",
+      "id": "0bZCak2tcRMY1dzEIuwF42",
+      "name": "The Heavy",
+      "type": "artist",
+      "uri": "spotify:artist:0bZCak2tcRMY1dzEIuwF42"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 322266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFB0901504"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7JOizhmt3HlBgQyJEa0AgK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7JOizhmt3HlBgQyJEa0AgK",
+  "id": "7JOizhmt3HlBgQyJEa0AgK",
+  "is_local": false,
+  "name": "Short Change Hero",
+  "popularity": 60,
+  "preview_url": "https://p.scdn.co/mp3-preview/bb5e383791589efcdf4c8df7a00d78d6e312d519?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:7JOizhmt3HlBgQyJEa0AgK"
+}

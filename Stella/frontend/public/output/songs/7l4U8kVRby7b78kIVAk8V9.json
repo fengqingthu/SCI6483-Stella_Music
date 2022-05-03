@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+        },
+        "href": "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+        "id": "46CuxapoPjUfIOiXdNq7qM",
+        "name": "Oh Land",
+        "type": "artist",
+        "uri": "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "IS"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4O1ANkm06ZG5l0ROLCondH"
+    },
+    "href": "https://api.spotify.com/v1/albums/4O1ANkm06ZG5l0ROLCondH",
+    "id": "4O1ANkm06ZG5l0ROLCondH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a2c11336256c8ec52de17bbd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a2c11336256c8ec52de17bbd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a2c11336256c8ec52de17bbd",
+        "width": 64
+      }
+    ],
+    "name": "Oh Land",
+    "release_date": "2011-03-24",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:4O1ANkm06ZG5l0ROLCondH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+      },
+      "href": "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+      "id": "46CuxapoPjUfIOiXdNq7qM",
+      "name": "Oh Land",
+      "type": "artist",
+      "uri": "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "IS"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM11106508"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7l4U8kVRby7b78kIVAk8V9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7l4U8kVRby7b78kIVAk8V9",
+  "id": "7l4U8kVRby7b78kIVAk8V9",
+  "is_local": false,
+  "name": "En Linedanser",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:7l4U8kVRby7b78kIVAk8V9"
+}

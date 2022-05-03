@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        },
+        "href": "https://api.spotify.com/v1/artists/7xQTON6uj7akAGzlanUzy3",
+        "id": "7xQTON6uj7akAGzlanUzy3",
+        "name": "Charlie Winston",
+        "type": "artist",
+        "uri": "spotify:artist:7xQTON6uj7akAGzlanUzy3"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/70DnBkoHzQbyzoW6yFZhcd"
+    },
+    "href": "https://api.spotify.com/v1/albums/70DnBkoHzQbyzoW6yFZhcd",
+    "id": "70DnBkoHzQbyzoW6yFZhcd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27355e6259358ff4617e636751d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0255e6259358ff4617e636751d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485155e6259358ff4617e636751d",
+        "width": 64
+      }
+    ],
+    "name": "Hobo",
+    "release_date": "2008-10-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:70DnBkoHzQbyzoW6yFZhcd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+      },
+      "href": "https://api.spotify.com/v1/artists/7xQTON6uj7akAGzlanUzy3",
+      "id": "7xQTON6uj7akAGzlanUzy3",
+      "name": "Charlie Winston",
+      "type": "artist",
+      "uri": "spotify:artist:7xQTON6uj7akAGzlanUzy3"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 159626,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBWXC0800003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/14RK2LOMqHrLEA7wqZItVz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/14RK2LOMqHrLEA7wqZItVz",
+  "id": "14RK2LOMqHrLEA7wqZItVz",
+  "is_local": false,
+  "name": "Kick the Bucket",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/1b863e3426e24c2a030fb417439ef4f219533d86?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:14RK2LOMqHrLEA7wqZItVz"
+}

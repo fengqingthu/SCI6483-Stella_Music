@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+        "id": "3IVrpJxHeUFoYP4H6bxg57",
+        "name": "Kadebostany",
+        "type": "artist",
+        "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6h76LSWlBI0gRnJA8nFwVA"
+    },
+    "href": "https://api.spotify.com/v1/albums/6h76LSWlBI0gRnJA8nFwVA",
+    "id": "6h76LSWlBI0gRnJA8nFwVA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736809845ed656faa3385ea918",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026809845ed656faa3385ea918",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516809845ed656faa3385ea918",
+        "width": 64
+      }
+    ],
+    "name": "Take Me To The Moon (feat. Valeria Stoica)",
+    "release_date": "2021-02-19",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6h76LSWlBI0gRnJA8nFwVA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+      "id": "3IVrpJxHeUFoYP4H6bxg57",
+      "name": "Kadebostany",
+      "type": "artist",
+      "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1U0dn9EFyhTfKS4xvFrUSR",
+      "id": "1U0dn9EFyhTfKS4xvFrUSR",
+      "name": "Valeria Stoica",
+      "type": "artist",
+      "uri": "spotify:artist:1U0dn9EFyhTfKS4xvFrUSR"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192432,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH5482100001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6kNRnhip2yexgoYTKgdyZ3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6kNRnhip2yexgoYTKgdyZ3",
+  "id": "6kNRnhip2yexgoYTKgdyZ3",
+  "is_local": false,
+  "name": "Take Me To The Moon (feat. Valeria Stoica)",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/4ac80932f9619c7748d92dfd581e2c650fef4918?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6kNRnhip2yexgoYTKgdyZ3"
+}

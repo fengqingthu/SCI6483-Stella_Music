@@ -1,0 +1,20 @@
+{
+  "danceability": 0.433,
+  "energy": 0.725,
+  "key": 0,
+  "loudness": -7.296,
+  "mode": 1,
+  "speechiness": 0.0244,
+  "acousticness": 0.12,
+  "instrumentalness": 0.0000434,
+  "liveness": 0.225,
+  "valence": 0.376,
+  "tempo": 89.059,
+  "type": "audio_features",
+  "id": "6OgWHP8rRXiq7VMaryVaVo",
+  "uri": "spotify:track:6OgWHP8rRXiq7VMaryVaVo",
+  "track_href": "https://api.spotify.com/v1/tracks/6OgWHP8rRXiq7VMaryVaVo",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OgWHP8rRXiq7VMaryVaVo",
+  "duration_ms": 261360,
+  "time_signature": 4
+}

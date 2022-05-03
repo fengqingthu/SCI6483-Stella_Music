@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        },
+        "href": "https://api.spotify.com/v1/artists/3zmmBJseZelpVEHj8S6Dek",
+        "id": "3zmmBJseZelpVEHj8S6Dek",
+        "name": "The Pains Of Being Pure At Heart",
+        "type": "artist",
+        "uri": "spotify:artist:3zmmBJseZelpVEHj8S6Dek"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5uWuwlHON5texRWxdgtiS2"
+    },
+    "href": "https://api.spotify.com/v1/albums/5uWuwlHON5texRWxdgtiS2",
+    "id": "5uWuwlHON5texRWxdgtiS2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732798777db8b5f33033e9226c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022798777db8b5f33033e9226c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512798777db8b5f33033e9226c",
+        "width": 64
+      }
+    ],
+    "name": "The Pains Of Being Pure At Heart",
+    "release_date": "2009-02-03",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5uWuwlHON5texRWxdgtiS2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zmmBJseZelpVEHj8S6Dek",
+      "id": "3zmmBJseZelpVEHj8S6Dek",
+      "name": "The Pains Of Being Pure At Heart",
+      "type": "artist",
+      "uri": "spotify:artist:3zmmBJseZelpVEHj8S6Dek"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 247946,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US4TA0900015"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1FsvfszJ09tqBcino2JfCb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1FsvfszJ09tqBcino2JfCb",
+  "id": "1FsvfszJ09tqBcino2JfCb",
+  "is_local": false,
+  "name": "Young Adult Friction",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/19de14a298cf46e910594c797ceb9386bc4176a2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1FsvfszJ09tqBcino2JfCb"
+}

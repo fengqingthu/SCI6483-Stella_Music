@@ -1,0 +1,82 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
+        "id": "4xXCRXOfQKQ2gjWxNhNzYW",
+        "name": "Air Supply",
+        "type": "artist",
+        "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5s5iUa9XoCRVXNJiTawxjB"
+    },
+    "href": "https://api.spotify.com/v1/albums/5s5iUa9XoCRVXNJiTawxjB",
+    "id": "5s5iUa9XoCRVXNJiTawxjB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ce152af8c51f3030bbd6435e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ce152af8c51f3030bbd6435e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ce152af8c51f3030bbd6435e",
+        "width": 64
+      }
+    ],
+    "name": "Lost In Love",
+    "release_date": "1980-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5s5iUa9XoCRVXNJiTawxjB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+      },
+      "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
+      "id": "4xXCRXOfQKQ2gjWxNhNzYW",
+      "name": "Air Supply",
+      "type": "artist",
+      "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
+    }
+  ],
+  "available_markets": [
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 243600,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USAR18000002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3bbqxv8GN3RhaPnrWxFbmP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3bbqxv8GN3RhaPnrWxFbmP",
+  "id": "3bbqxv8GN3RhaPnrWxFbmP",
+  "is_local": false,
+  "name": "All Out Of Love",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/2356a8488bc0283aca64bbb48546ddec61263ec3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3bbqxv8GN3RhaPnrWxFbmP"
+}

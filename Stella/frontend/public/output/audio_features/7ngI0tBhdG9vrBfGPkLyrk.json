@@ -1,0 +1,20 @@
+{
+  "danceability": 0.324,
+  "energy": 0.356,
+  "key": 1,
+  "loudness": -9.007,
+  "mode": 1,
+  "speechiness": 0.0351,
+  "acousticness": 0.743,
+  "instrumentalness": 0.00000628,
+  "liveness": 0.096,
+  "valence": 0.0554,
+  "tempo": 120.356,
+  "type": "audio_features",
+  "id": "7ngI0tBhdG9vrBfGPkLyrk",
+  "uri": "spotify:track:7ngI0tBhdG9vrBfGPkLyrk",
+  "track_href": "https://api.spotify.com/v1/tracks/7ngI0tBhdG9vrBfGPkLyrk",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ngI0tBhdG9vrBfGPkLyrk",
+  "duration_ms": 241896,
+  "time_signature": 4
+}

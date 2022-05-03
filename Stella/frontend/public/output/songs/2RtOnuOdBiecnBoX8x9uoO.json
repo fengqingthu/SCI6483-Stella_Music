@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+        },
+        "href": "https://api.spotify.com/v1/artists/4nlqDmbzFzbNITaqjJv7D7",
+        "id": "4nlqDmbzFzbNITaqjJv7D7",
+        "name": "The Sundays",
+        "type": "artist",
+        "uri": "spotify:artist:4nlqDmbzFzbNITaqjJv7D7"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4"
+    },
+    "href": "https://api.spotify.com/v1/albums/00Z7sMv2YhKb49u10ajvy4",
+    "id": "00Z7sMv2YhKb49u10ajvy4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737455f0529e9a0cc371da902e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027455f0529e9a0cc371da902e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517455f0529e9a0cc371da902e",
+        "width": 64
+      }
+    ],
+    "name": "Static & Silence",
+    "release_date": "1997-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:00Z7sMv2YhKb49u10ajvy4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nlqDmbzFzbNITaqjJv7D7",
+      "id": "4nlqDmbzFzbNITaqjJv7D7",
+      "name": "The Sundays",
+      "type": "artist",
+      "uri": "spotify:artist:4nlqDmbzFzbNITaqjJv7D7"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 257506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USGF19713104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2RtOnuOdBiecnBoX8x9uoO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2RtOnuOdBiecnBoX8x9uoO",
+  "id": "2RtOnuOdBiecnBoX8x9uoO",
+  "is_local": false,
+  "name": "When I'm Thinking About You",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2RtOnuOdBiecnBoX8x9uoO"
+}

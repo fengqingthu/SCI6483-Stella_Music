@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        },
+        "href": "https://api.spotify.com/v1/artists/3sFTupo9UGgrujjN21BjwR",
+        "id": "3sFTupo9UGgrujjN21BjwR",
+        "name": "Gossip",
+        "type": "artist",
+        "uri": "spotify:artist:3sFTupo9UGgrujjN21BjwR"
+      }
+    ],
+    "available_markets": [
+      "EE",
+      "FI",
+      "LT",
+      "LV",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/62BhA5tibo8rwoHMS60vyg"
+    },
+    "href": "https://api.spotify.com/v1/albums/62BhA5tibo8rwoHMS60vyg",
+    "id": "62BhA5tibo8rwoHMS60vyg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f52b3b3a8564eded086a8a94",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f52b3b3a8564eded086a8a94",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f52b3b3a8564eded086a8a94",
+        "width": 64
+      }
+    ],
+    "name": "A Joyful Noise",
+    "release_date": "2012-05-07",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:62BhA5tibo8rwoHMS60vyg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+      },
+      "href": "https://api.spotify.com/v1/artists/3sFTupo9UGgrujjN21BjwR",
+      "id": "3sFTupo9UGgrujjN21BjwR",
+      "name": "Gossip",
+      "type": "artist",
+      "uri": "spotify:artist:3sFTupo9UGgrujjN21BjwR"
+    }
+  ],
+  "available_markets": [
+    "EE",
+    "FI",
+    "LT",
+    "LV",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM11201570"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1ehWYVL0GH7A7TTL04oWdG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1ehWYVL0GH7A7TTL04oWdG",
+  "id": "1ehWYVL0GH7A7TTL04oWdG",
+  "is_local": false,
+  "name": "Move in the Right Direction",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/861d6b8c2c4b6ed14bbf4b161513fdda69c80f2c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:1ehWYVL0GH7A7TTL04oWdG"
+}

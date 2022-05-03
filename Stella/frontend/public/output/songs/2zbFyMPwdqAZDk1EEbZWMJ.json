@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GhVFlFT3pagjVkslQPqoJ",
+        "id": "3GhVFlFT3pagjVkslQPqoJ",
+        "name": "Quadron",
+        "type": "artist",
+        "uri": "spotify:artist:3GhVFlFT3pagjVkslQPqoJ"
+      }
+    ],
+    "available_markets": [
+      "DK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1Snt5iqag5C7VX07x58DDw"
+    },
+    "href": "https://api.spotify.com/v1/albums/1Snt5iqag5C7VX07x58DDw",
+    "id": "1Snt5iqag5C7VX07x58DDw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27339dc4495bf310fd77d03b29a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0239dc4495bf310fd77d03b29a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485139dc4495bf310fd77d03b29a",
+        "width": 64
+      }
+    ],
+    "name": "Se Min Kjole Soundtrack",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:1Snt5iqag5C7VX07x58DDw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3GhVFlFT3pagjVkslQPqoJ",
+      "id": "3GhVFlFT3pagjVkslQPqoJ",
+      "name": "Quadron",
+      "type": "artist",
+      "uri": "spotify:artist:3GhVFlFT3pagjVkslQPqoJ"
+    }
+  ],
+  "available_markets": [
+    "DK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 252720,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKMB30900201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2zbFyMPwdqAZDk1EEbZWMJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2zbFyMPwdqAZDk1EEbZWMJ",
+  "id": "2zbFyMPwdqAZDk1EEbZWMJ",
+  "is_local": false,
+  "name": "Slippin'",
+  "popularity": 10,
+  "preview_url": "https://p.scdn.co/mp3-preview/22e817073a52ef882e933b5dd959e972a5c0b88c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2zbFyMPwdqAZDk1EEbZWMJ"
+}

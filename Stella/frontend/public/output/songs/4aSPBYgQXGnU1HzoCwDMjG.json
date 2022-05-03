@@ -1,0 +1,153 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn"
+        },
+        "href": "https://api.spotify.com/v1/artists/51jBhM2gW17sCGLI1eBkDn",
+        "id": "51jBhM2gW17sCGLI1eBkDn",
+        "name": "Maaike Ouboter",
+        "type": "artist",
+        "uri": "spotify:artist:51jBhM2gW17sCGLI1eBkDn"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AG",
+      "BB",
+      "BE",
+      "BH",
+      "BS",
+      "BZ",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EG",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "IQ",
+      "JM",
+      "JO",
+      "KN",
+      "KW",
+      "LB",
+      "LC",
+      "LU",
+      "LY",
+      "NI",
+      "NL",
+      "OM",
+      "PA",
+      "PS",
+      "QA",
+      "SA",
+      "SR",
+      "SV",
+      "TT",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5TNBqIavcqnggyzF1I50qh"
+    },
+    "href": "https://api.spotify.com/v1/albums/5TNBqIavcqnggyzF1I50qh",
+    "id": "5TNBqIavcqnggyzF1I50qh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273702ee83410b661270b75fea2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02702ee83410b661270b75fea2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851702ee83410b661270b75fea2",
+        "width": 64
+      }
+    ],
+    "name": "En Hoe Het Dan Ook Weer Dag Wordt",
+    "release_date": "2015-06-19",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5TNBqIavcqnggyzF1I50qh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn"
+      },
+      "href": "https://api.spotify.com/v1/artists/51jBhM2gW17sCGLI1eBkDn",
+      "id": "51jBhM2gW17sCGLI1eBkDn",
+      "name": "Maaike Ouboter",
+      "type": "artist",
+      "uri": "spotify:artist:51jBhM2gW17sCGLI1eBkDn"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AG",
+    "BB",
+    "BE",
+    "BH",
+    "BS",
+    "BZ",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EG",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "IQ",
+    "JM",
+    "JO",
+    "KN",
+    "KW",
+    "LB",
+    "LC",
+    "LU",
+    "LY",
+    "NI",
+    "NL",
+    "OM",
+    "PA",
+    "PS",
+    "QA",
+    "SA",
+    "SR",
+    "SV",
+    "TT",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 256347,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLG2X1400011"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4aSPBYgQXGnU1HzoCwDMjG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4aSPBYgQXGnU1HzoCwDMjG",
+  "id": "4aSPBYgQXGnU1HzoCwDMjG",
+  "is_local": false,
+  "name": "Dat Ik Je Mis",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/fafdf1735503f4a8b6fd859fb777a11cbfe0151d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4aSPBYgQXGnU1HzoCwDMjG"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4suo4y34OSfkAxmna55cJS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4suo4y34OSfkAxmna55cJS",
+        "id": "4suo4y34OSfkAxmna55cJS",
+        "name": "Murray Gold & BBC National Orchestra of Wales",
+        "type": "artist",
+        "uri": "spotify:artist:4suo4y34OSfkAxmna55cJS"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2FGnIrrLSR4Lb4qSmy5mqe"
+    },
+    "href": "https://api.spotify.com/v1/albums/2FGnIrrLSR4Lb4qSmy5mqe",
+    "id": "2FGnIrrLSR4Lb4qSmy5mqe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d106b4ae052bf08f998cad20",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d106b4ae052bf08f998cad20",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d106b4ae052bf08f998cad20",
+        "width": 64
+      }
+    ],
+    "name": "Doctor Who: Series 5 (Original Television Soundtrack)",
+    "release_date": "2010-10-29",
+    "release_date_precision": "day",
+    "total_tracks": 65,
+    "type": "album",
+    "uri": "spotify:album:2FGnIrrLSR4Lb4qSmy5mqe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4suo4y34OSfkAxmna55cJS"
+      },
+      "href": "https://api.spotify.com/v1/artists/4suo4y34OSfkAxmna55cJS",
+      "id": "4suo4y34OSfkAxmna55cJS",
+      "name": "Murray Gold & BBC National Orchestra of Wales",
+      "type": "artist",
+      "uri": "spotify:artist:4suo4y34OSfkAxmna55cJS"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 58706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC1000399"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/48wAmPxbrr85OC9BAi6Ngu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/48wAmPxbrr85OC9BAi6Ngu",
+  "id": "48wAmPxbrr85OC9BAi6Ngu",
+  "is_local": false,
+  "name": "Onwards!",
+  "popularity": 10,
+  "preview_url": "https://p.scdn.co/mp3-preview/109cccf8f58e415029f40e201f1658d34d38c18a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 63,
+  "type": "track",
+  "uri": "spotify:track:48wAmPxbrr85OC9BAi6Ngu"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9"
+        },
+        "href": "https://api.spotify.com/v1/artists/6IIDI5D6NsuaBQ0EacRLq9",
+        "id": "6IIDI5D6NsuaBQ0EacRLq9",
+        "name": "SARA'H",
+        "type": "artist",
+        "uri": "spotify:artist:6IIDI5D6NsuaBQ0EacRLq9"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1BoeatqckLuwvK1P6c7mN0"
+    },
+    "href": "https://api.spotify.com/v1/albums/1BoeatqckLuwvK1P6c7mN0",
+    "id": "1BoeatqckLuwvK1P6c7mN0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bfd12776da7c4b9f32d4190f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bfd12776da7c4b9f32d4190f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bfd12776da7c4b9f32d4190f",
+        "width": 64
+      }
+    ],
+    "name": "This Is Me (Je suis moi)",
+    "release_date": "2018-11-02",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1BoeatqckLuwvK1P6c7mN0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9"
+      },
+      "href": "https://api.spotify.com/v1/artists/6IIDI5D6NsuaBQ0EacRLq9",
+      "id": "6IIDI5D6NsuaBQ0EacRLq9",
+      "name": "SARA'H",
+      "type": "artist",
+      "uri": "spotify:artist:6IIDI5D6NsuaBQ0EacRLq9"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 235967,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USAT21811612"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1NTBYQW0rd5ErfFrvh8Qpk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1NTBYQW0rd5ErfFrvh8Qpk",
+  "id": "1NTBYQW0rd5ErfFrvh8Qpk",
+  "is_local": false,
+  "name": "This Is Me (Je suis moi)",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1NTBYQW0rd5ErfFrvh8Qpk"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        },
+        "href": "https://api.spotify.com/v1/artists/04LIHk1SobiQwt2tlupoAV",
+        "id": "04LIHk1SobiQwt2tlupoAV",
+        "name": "Leo Sayer",
+        "type": "artist",
+        "uri": "spotify:artist:04LIHk1SobiQwt2tlupoAV"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/1d79WI0e5XKTpBymbKADDQ",
+    "id": "1d79WI0e5XKTpBymbKADDQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a36d4a054f611e449eca370",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a36d4a054f611e449eca370",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a36d4a054f611e449eca370",
+        "width": 64
+      }
+    ],
+    "name": "Endless Flight",
+    "release_date": "1976",
+    "release_date_precision": "year",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1d79WI0e5XKTpBymbKADDQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+      },
+      "href": "https://api.spotify.com/v1/artists/04LIHk1SobiQwt2tlupoAV",
+      "id": "04LIHk1SobiQwt2tlupoAV",
+      "name": "Leo Sayer",
+      "type": "artist",
+      "uri": "spotify:artist:04LIHk1SobiQwt2tlupoAV"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 253226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWB10202832"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2TcwEYyydQuEMJwdmSgVLD",
+  "id": "2TcwEYyydQuEMJwdmSgVLD",
+  "is_local": false,
+  "name": "When I Need You - Remastered",
+  "popularity": 54,
+  "preview_url": "https://p.scdn.co/mp3-preview/7f6fd7bbfd2ea5e49613729913add9b6b996dc79?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:2TcwEYyydQuEMJwdmSgVLD"
+}

@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Ebt7JHILWJCE7aR7JLFB2",
+        "id": "6Ebt7JHILWJCE7aR7JLFB2",
+        "name": "Krafty Kuts",
+        "type": "artist",
+        "uri": "spotify:artist:6Ebt7JHILWJCE7aR7JLFB2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+        },
+        "href": "https://api.spotify.com/v1/artists/5RBFw1UkHw2NBsZFtheDEl",
+        "id": "5RBFw1UkHw2NBsZFtheDEl",
+        "name": "Dynamite MC",
+        "type": "artist",
+        "uri": "spotify:artist:5RBFw1UkHw2NBsZFtheDEl"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5BaAR7Pcizj4KNDJcgEDmW"
+    },
+    "href": "https://api.spotify.com/v1/albums/5BaAR7Pcizj4KNDJcgEDmW",
+    "id": "5BaAR7Pcizj4KNDJcgEDmW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d661cdc0cfc77ef378ce11c8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d661cdc0cfc77ef378ce11c8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d661cdc0cfc77ef378ce11c8",
+        "width": 64
+      }
+    ],
+    "name": "All 4 Corners",
+    "release_date": "2017-05-19",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:5BaAR7Pcizj4KNDJcgEDmW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Ebt7JHILWJCE7aR7JLFB2",
+      "id": "6Ebt7JHILWJCE7aR7JLFB2",
+      "name": "Krafty Kuts",
+      "type": "artist",
+      "uri": "spotify:artist:6Ebt7JHILWJCE7aR7JLFB2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+      },
+      "href": "https://api.spotify.com/v1/artists/5RBFw1UkHw2NBsZFtheDEl",
+      "id": "5RBFw1UkHw2NBsZFtheDEl",
+      "name": "Dynamite MC",
+      "type": "artist",
+      "uri": "spotify:artist:5RBFw1UkHw2NBsZFtheDEl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
+      },
+      "href": "https://api.spotify.com/v1/artists/1KDOjuXZPd8XA3YBakakMb",
+      "id": "1KDOjuXZPd8XA3YBakakMb",
+      "name": "Harry Shotta",
+      "type": "artist",
+      "uri": "spotify:artist:1KDOjuXZPd8XA3YBakakMb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1g2LQyuQ1fQsh3Dd9MGgTB"
+      },
+      "href": "https://api.spotify.com/v1/artists/1g2LQyuQ1fQsh3Dd9MGgTB",
+      "id": "1g2LQyuQ1fQsh3Dd9MGgTB",
+      "name": "Erb n Dub",
+      "type": "artist",
+      "uri": "spotify:artist:1g2LQyuQ1fQsh3Dd9MGgTB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Vh6UDWfu9PUSXSzAaB3CW",
+      "id": "6Vh6UDWfu9PUSXSzAaB3CW",
+      "name": "Example",
+      "type": "artist",
+      "uri": "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 256806,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "AUCN31209535"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4qlgG6QGdAGQ8fqS8IqEAQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4qlgG6QGdAGQ8fqS8IqEAQ",
+  "id": "4qlgG6QGdAGQ8fqS8IqEAQ",
+  "is_local": false,
+  "name": "War Is Over",
+  "popularity": 5,
+  "preview_url": "https://p.scdn.co/mp3-preview/cb34a92660edaf8445a648665979b6abd5ce474c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:4qlgG6QGdAGQ8fqS8IqEAQ"
+}

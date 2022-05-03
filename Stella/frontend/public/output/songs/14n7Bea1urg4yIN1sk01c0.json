@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6dKleaGxvv38r5qC8RiTwn"
+        },
+        "href": "https://api.spotify.com/v1/artists/6dKleaGxvv38r5qC8RiTwn",
+        "id": "6dKleaGxvv38r5qC8RiTwn",
+        "name": "Ogee",
+        "type": "artist",
+        "uri": "spotify:artist:6dKleaGxvv38r5qC8RiTwn"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7JQiWHSDG4K43VvxmUHjN8"
+    },
+    "href": "https://api.spotify.com/v1/albums/7JQiWHSDG4K43VvxmUHjN8",
+    "id": "7JQiWHSDG4K43VvxmUHjN8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a8d1620b9b50e2ac3efe0ff4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a8d1620b9b50e2ac3efe0ff4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a8d1620b9b50e2ac3efe0ff4",
+        "width": 64
+      }
+    ],
+    "name": "Spectre",
+    "release_date": "2021-12-10",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:7JQiWHSDG4K43VvxmUHjN8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6dKleaGxvv38r5qC8RiTwn"
+      },
+      "href": "https://api.spotify.com/v1/artists/6dKleaGxvv38r5qC8RiTwn",
+      "id": "6dKleaGxvv38r5qC8RiTwn",
+      "name": "Ogee",
+      "type": "artist",
+      "uri": "spotify:artist:6dKleaGxvv38r5qC8RiTwn"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR16W2101490"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/14n7Bea1urg4yIN1sk01c0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/14n7Bea1urg4yIN1sk01c0",
+  "id": "14n7Bea1urg4yIN1sk01c0",
+  "is_local": false,
+  "name": "Sors de ma tête",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/cb020fb49f3af6ded0adc7081d7080eee090c007?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:14n7Bea1urg4yIN1sk01c0"
+}

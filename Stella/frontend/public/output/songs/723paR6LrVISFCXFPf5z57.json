@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        "href": "https://api.spotify.com/v1/artists/0nJaMZM8paoA5HEUTUXPqi",
+        "id": "0nJaMZM8paoA5HEUTUXPqi",
+        "name": "Bear's Den",
+        "type": "artist",
+        "uri": "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
+    },
+    "href": "https://api.spotify.com/v1/albums/15z9H7eEOCtB2Xq28SDWwp",
+    "id": "15z9H7eEOCtB2Xq28SDWwp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27370094ea5c0003c5a30063e04",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0270094ea5c0003c5a30063e04",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485170094ea5c0003c5a30063e04",
+        "width": 64
+      }
+    ],
+    "name": "Islands",
+    "release_date": "2014-10-21",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:15z9H7eEOCtB2Xq28SDWwp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+      },
+      "href": "https://api.spotify.com/v1/artists/0nJaMZM8paoA5HEUTUXPqi",
+      "id": "0nJaMZM8paoA5HEUTUXPqi",
+      "name": "Bear's Den",
+      "type": "artist",
+      "uri": "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 279453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB6TW1400047"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/723paR6LrVISFCXFPf5z57"
+  },
+  "href": "https://api.spotify.com/v1/tracks/723paR6LrVISFCXFPf5z57",
+  "id": "723paR6LrVISFCXFPf5z57",
+  "is_local": false,
+  "name": "Above The Clouds Of Pompeii",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:723paR6LrVISFCXFPf5z57"
+}

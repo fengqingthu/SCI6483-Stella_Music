@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/064Wlx4YXsDEqEG0o5Hjxg"
+        },
+        "href": "https://api.spotify.com/v1/artists/064Wlx4YXsDEqEG0o5Hjxg",
+        "id": "064Wlx4YXsDEqEG0o5Hjxg",
+        "name": "Stefano Lentini",
+        "type": "artist",
+        "uri": "spotify:artist:064Wlx4YXsDEqEG0o5Hjxg"
+      }
+    ],
+    "available_markets": [
+      "IT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1q1BXAINRKIAXg2BrMKBJa"
+    },
+    "href": "https://api.spotify.com/v1/albums/1q1BXAINRKIAXg2BrMKBJa",
+    "id": "1q1BXAINRKIAXg2BrMKBJa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27335001f6d795da16fe7fe076c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0235001f6d795da16fe7fe076c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485135001f6d795da16fe7fe076c",
+        "width": 64
+      }
+    ],
+    "name": "La porta rossa (Colonna sonora originale della serie TV)",
+    "release_date": "2017-03-11",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:1q1BXAINRKIAXg2BrMKBJa"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/064Wlx4YXsDEqEG0o5Hjxg"
+      },
+      "href": "https://api.spotify.com/v1/artists/064Wlx4YXsDEqEG0o5Hjxg",
+      "id": "064Wlx4YXsDEqEG0o5Hjxg",
+      "name": "Stefano Lentini",
+      "type": "artist",
+      "uri": "spotify:artist:064Wlx4YXsDEqEG0o5Hjxg"
+    }
+  ],
+  "available_markets": [
+    "IT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 204741,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITE321702139"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/26FvxI77qUGw3QWrpmFunw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/26FvxI77qUGw3QWrpmFunw",
+  "id": "26FvxI77qUGw3QWrpmFunw",
+  "is_local": false,
+  "name": "Beethoven Revisited - Symphony No. 7, Mov. II",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/1bbaeb518371f8f71af0a2b06c3039a8831e0164?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:26FvxI77qUGw3QWrpmFunw"
+}

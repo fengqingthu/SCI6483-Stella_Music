@@ -1,0 +1,20 @@
+{
+  "danceability": 0.141,
+  "energy": 0.0427,
+  "key": 5,
+  "loudness": -26.085,
+  "mode": 1,
+  "speechiness": 0.0478,
+  "acousticness": 0.988,
+  "instrumentalness": 0.922,
+  "liveness": 0.134,
+  "valence": 0.0393,
+  "tempo": 63.918,
+  "type": "audio_features",
+  "id": "6CbdaG9zou8czkeNOITBYS",
+  "uri": "spotify:track:6CbdaG9zou8czkeNOITBYS",
+  "track_href": "https://api.spotify.com/v1/tracks/6CbdaG9zou8czkeNOITBYS",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6CbdaG9zou8czkeNOITBYS",
+  "duration_ms": 240000,
+  "time_signature": 4
+}

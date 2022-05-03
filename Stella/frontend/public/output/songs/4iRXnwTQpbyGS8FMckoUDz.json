@@ -1,0 +1,127 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "BD",
+      "BN",
+      "BT",
+      "DE",
+      "FM",
+      "HK",
+      "ID",
+      "IN",
+      "KH",
+      "KR",
+      "LA",
+      "LK",
+      "MO",
+      "MV",
+      "MY",
+      "NL",
+      "NP",
+      "PH",
+      "PK",
+      "SG",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6yaVJ7jwNzrXP0jVjwYxBZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/6yaVJ7jwNzrXP0jVjwYxBZ",
+    "id": "6yaVJ7jwNzrXP0jVjwYxBZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f9519c247d692f2dd6668a1b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f9519c247d692f2dd6668a1b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f9519c247d692f2dd6668a1b",
+        "width": 64
+      }
+    ],
+    "name": "Dreams In Rock Vol. III",
+    "release_date": "1992-09-10",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:6yaVJ7jwNzrXP0jVjwYxBZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+      },
+      "href": "https://api.spotify.com/v1/artists/2urZrEdsq72kx0UzfYN8Yv",
+      "id": "2urZrEdsq72kx0UzfYN8Yv",
+      "name": "Spandau Ballet",
+      "type": "artist",
+      "uri": "spotify:artist:2urZrEdsq72kx0UzfYN8Yv"
+    }
+  ],
+  "available_markets": [
+    "BD",
+    "BN",
+    "BT",
+    "DE",
+    "FM",
+    "HK",
+    "ID",
+    "IN",
+    "KH",
+    "KR",
+    "LA",
+    "LK",
+    "MO",
+    "MV",
+    "MY",
+    "NL",
+    "NP",
+    "PH",
+    "PK",
+    "SG",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 334000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBBN8602027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4iRXnwTQpbyGS8FMckoUDz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4iRXnwTQpbyGS8FMckoUDz",
+  "id": "4iRXnwTQpbyGS8FMckoUDz",
+  "is_local": false,
+  "name": "Through the Barricades",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/bc844de3e23e3c4bfd8260e2a32132ef94ec9dc8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:4iRXnwTQpbyGS8FMckoUDz"
+}

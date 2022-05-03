@@ -1,0 +1,20 @@
+{
+  "danceability": 0.166,
+  "energy": 0.182,
+  "key": 1,
+  "loudness": -16.808,
+  "mode": 0,
+  "speechiness": 0.0434,
+  "acousticness": 0.841,
+  "instrumentalness": 0.27,
+  "liveness": 0.0984,
+  "valence": 0.0301,
+  "tempo": 92.618,
+  "type": "audio_features",
+  "id": "4VkFi1Ec1EuxTOySKRrxam",
+  "uri": "spotify:track:4VkFi1Ec1EuxTOySKRrxam",
+  "track_href": "https://api.spotify.com/v1/tracks/4VkFi1Ec1EuxTOySKRrxam",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/4VkFi1Ec1EuxTOySKRrxam",
+  "duration_ms": 88000,
+  "time_signature": 4
+}

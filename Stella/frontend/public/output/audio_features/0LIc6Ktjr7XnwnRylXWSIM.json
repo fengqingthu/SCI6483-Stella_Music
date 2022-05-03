@@ -1,0 +1,20 @@
+{
+  "danceability": 0.68,
+  "energy": 0.08,
+  "key": 11,
+  "loudness": -13.763,
+  "mode": 1,
+  "speechiness": 0.063,
+  "acousticness": 0.942,
+  "instrumentalness": 0.645,
+  "liveness": 0.0749,
+  "valence": 0.0663,
+  "tempo": 119.647,
+  "type": "audio_features",
+  "id": "0LIc6Ktjr7XnwnRylXWSIM",
+  "uri": "spotify:track:0LIc6Ktjr7XnwnRylXWSIM",
+  "track_href": "https://api.spotify.com/v1/tracks/0LIc6Ktjr7XnwnRylXWSIM",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/0LIc6Ktjr7XnwnRylXWSIM",
+  "duration_ms": 63133,
+  "time_signature": 4
+}

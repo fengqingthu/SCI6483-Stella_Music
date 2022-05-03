@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mFKYdmiYwNJTDtSzgFyQx",
+        "id": "5mFKYdmiYwNJTDtSzgFyQx",
+        "name": "Andy Shauf",
+        "type": "artist",
+        "uri": "spotify:artist:5mFKYdmiYwNJTDtSzgFyQx"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE"
+    },
+    "href": "https://api.spotify.com/v1/albums/2EhgysAt5fY85LYceFFpbE",
+    "id": "2EhgysAt5fY85LYceFFpbE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397aea0fc188edcf842217324",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297aea0fc188edcf842217324",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197aea0fc188edcf842217324",
+        "width": 64
+      }
+    ],
+    "name": "The Party",
+    "release_date": "2016-06-03",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2EhgysAt5fY85LYceFFpbE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+      },
+      "href": "https://api.spotify.com/v1/artists/5mFKYdmiYwNJTDtSzgFyQx",
+      "id": "5mFKYdmiYwNJTDtSzgFyQx",
+      "name": "Andy Shauf",
+      "type": "artist",
+      "uri": "spotify:artist:5mFKYdmiYwNJTDtSzgFyQx"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USEP41541006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5vVVAOSbDrlV1GVCruE6mI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5vVVAOSbDrlV1GVCruE6mI",
+  "id": "5vVVAOSbDrlV1GVCruE6mI",
+  "is_local": false,
+  "name": "Quite Like You",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/ff1a3ee82999e03ca99e59ad4d115a250f3c4c9c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5vVVAOSbDrlV1GVCruE6mI"
+}

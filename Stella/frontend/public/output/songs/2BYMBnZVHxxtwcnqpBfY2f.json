@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mBXJUab9jbcHhYxMuWbxO",
+        "id": "1mBXJUab9jbcHhYxMuWbxO",
+        "name": "Poisonblack",
+        "type": "artist",
+        "uri": "spotify:artist:1mBXJUab9jbcHhYxMuWbxO"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0oWgdeYC6ikpEbhV1bxqNK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0oWgdeYC6ikpEbhV1bxqNK",
+    "id": "0oWgdeYC6ikpEbhV1bxqNK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a7e066010259bdf33297831",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a7e066010259bdf33297831",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a7e066010259bdf33297831",
+        "width": 64
+      }
+    ],
+    "name": "Lyijy",
+    "release_date": "2013-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0oWgdeYC6ikpEbhV1bxqNK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO"
+      },
+      "href": "https://api.spotify.com/v1/artists/1mBXJUab9jbcHhYxMuWbxO",
+      "id": "1mBXJUab9jbcHhYxMuWbxO",
+      "name": "Poisonblack",
+      "type": "artist",
+      "uri": "spotify:artist:1mBXJUab9jbcHhYxMuWbxO"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 216560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FIWMA1300389"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2BYMBnZVHxxtwcnqpBfY2f"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2BYMBnZVHxxtwcnqpBfY2f",
+  "id": "2BYMBnZVHxxtwcnqpBfY2f",
+  "is_local": false,
+  "name": "Home Is Where the Sty Is",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2BYMBnZVHxxtwcnqpBfY2f"
+}

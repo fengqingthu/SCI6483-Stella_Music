@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xcMOgFUM1IYZE22YjCvsL",
+        "id": "1xcMOgFUM1IYZE22YjCvsL",
+        "name": "Tei Shi",
+        "type": "artist",
+        "uri": "spotify:artist:1xcMOgFUM1IYZE22YjCvsL"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1"
+    },
+    "href": "https://api.spotify.com/v1/albums/4UgPnKsu5oqfJSaK4kkLT1",
+    "id": "4UgPnKsu5oqfJSaK4kkLT1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a5004668a43f0134088be09e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a5004668a43f0134088be09e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a5004668a43f0134088be09e",
+        "width": 64
+      }
+    ],
+    "name": "Verde",
+    "release_date": "2015-04-17",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:4UgPnKsu5oqfJSaK4kkLT1"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+      },
+      "href": "https://api.spotify.com/v1/artists/1xcMOgFUM1IYZE22YjCvsL",
+      "id": "1xcMOgFUM1IYZE22YjCvsL",
+      "name": "Tei Shi",
+      "type": "artist",
+      "uri": "spotify:artist:1xcMOgFUM1IYZE22YjCvsL"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 291117,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQE91400274"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1RFxoPtr9svzsslCxIauiu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1RFxoPtr9svzsslCxIauiu",
+  "id": "1RFxoPtr9svzsslCxIauiu",
+  "is_local": false,
+  "name": "Bassically",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/20aa4909d00b730d219e310b21d2c2f8e1e98d6b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1RFxoPtr9svzsslCxIauiu"
+}

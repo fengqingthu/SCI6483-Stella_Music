@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/38RfmOr1oMmALaGLUDvmIi"
+        },
+        "href": "https://api.spotify.com/v1/artists/38RfmOr1oMmALaGLUDvmIi",
+        "id": "38RfmOr1oMmALaGLUDvmIi",
+        "name": "Valve Studio Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:38RfmOr1oMmALaGLUDvmIi"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Hqlkslcjv6uVAzIs5CDdu"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Hqlkslcjv6uVAzIs5CDdu",
+    "id": "6Hqlkslcjv6uVAzIs5CDdu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27352a5cb6c2b2734a3eda83448",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0252a5cb6c2b2734a3eda83448",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485152a5cb6c2b2734a3eda83448",
+        "width": 64
+      }
+    ],
+    "name": "Fight Songs: The Music of Team Fortress 2",
+    "release_date": "2017-04-21",
+    "release_date_precision": "day",
+    "total_tracks": 32,
+    "type": "album",
+    "uri": "spotify:album:6Hqlkslcjv6uVAzIs5CDdu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/38RfmOr1oMmALaGLUDvmIi"
+      },
+      "href": "https://api.spotify.com/v1/artists/38RfmOr1oMmALaGLUDvmIi",
+      "id": "38RfmOr1oMmALaGLUDvmIi",
+      "name": "Valve Studio Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:38RfmOr1oMmALaGLUDvmIi"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 193066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM5WW1500384"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6OElHOEDaCd2JwmpUE1Kr8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6OElHOEDaCd2JwmpUE1Kr8",
+  "id": "6OElHOEDaCd2JwmpUE1Kr8",
+  "is_local": false,
+  "name": "More Gun",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/a2f66dd2613ef8e30d7376bd4b90774b50822d57?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 23,
+  "type": "track",
+  "uri": "spotify:track:6OElHOEDaCd2JwmpUE1Kr8"
+}

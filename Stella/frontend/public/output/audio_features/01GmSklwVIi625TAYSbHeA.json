@@ -1,0 +1,20 @@
+{
+  "danceability": 0.298,
+  "energy": 0.283,
+  "key": 6,
+  "loudness": -10.71,
+  "mode": 0,
+  "speechiness": 0.0341,
+  "acousticness": 0.976,
+  "instrumentalness": 0.146,
+  "liveness": 0.0943,
+  "valence": 0.273,
+  "tempo": 139.654,
+  "type": "audio_features",
+  "id": "01GmSklwVIi625TAYSbHeA",
+  "uri": "spotify:track:01GmSklwVIi625TAYSbHeA",
+  "track_href": "https://api.spotify.com/v1/tracks/01GmSklwVIi625TAYSbHeA",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/01GmSklwVIi625TAYSbHeA",
+  "duration_ms": 288443,
+  "time_signature": 4
+}

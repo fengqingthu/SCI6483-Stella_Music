@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+        },
+        "href": "https://api.spotify.com/v1/artists/7KGI0OwY8iAL5rI5p47YyK",
+        "id": "7KGI0OwY8iAL5rI5p47YyK",
+        "name": "Tora",
+        "type": "artist",
+        "uri": "spotify:artist:7KGI0OwY8iAL5rI5p47YyK"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6mKUZK5yVNmhTVT7PUVtgS"
+    },
+    "href": "https://api.spotify.com/v1/albums/6mKUZK5yVNmhTVT7PUVtgS",
+    "id": "6mKUZK5yVNmhTVT7PUVtgS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c8fadeda28d21a6ed0ac99bf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c8fadeda28d21a6ed0ac99bf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c8fadeda28d21a6ed0ac99bf",
+        "width": 64
+      }
+    ],
+    "name": "Can't Buy the Mood",
+    "release_date": "2019-08-09",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6mKUZK5yVNmhTVT7PUVtgS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+      },
+      "href": "https://api.spotify.com/v1/artists/7KGI0OwY8iAL5rI5p47YyK",
+      "id": "7KGI0OwY8iAL5rI5p47YyK",
+      "name": "Tora",
+      "type": "artist",
+      "uri": "spotify:artist:7KGI0OwY8iAL5rI5p47YyK"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 168375,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUOPK1700038"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6OzniVeeFIK1l2YwO5uKi8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6OzniVeeFIK1l2YwO5uKi8",
+  "id": "6OzniVeeFIK1l2YwO5uKi8",
+  "is_local": false,
+  "name": "Similar",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/cefd98784af7bc6df4941fb125dd77e22f81274b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:6OzniVeeFIK1l2YwO5uKi8"
+}

@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        },
+        "href": "https://api.spotify.com/v1/artists/5yFrjxlSd8zPqzCCNrOI5h",
+        "id": "5yFrjxlSd8zPqzCCNrOI5h",
+        "name": "Bertrand Belin",
+        "type": "artist",
+        "uri": "spotify:artist:5yFrjxlSd8zPqzCCNrOI5h"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6rBwILxZTeqJuGHEhGcLih"
+    },
+    "href": "https://api.spotify.com/v1/albums/6rBwILxZTeqJuGHEhGcLih",
+    "id": "6rBwILxZTeqJuGHEhGcLih",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732d8d39d41720a49f883186fe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022d8d39d41720a49f883186fe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512d8d39d41720a49f883186fe",
+        "width": 64
+      }
+    ],
+    "name": "Cap Waller (Nouvelle édition)",
+    "release_date": "2016-04-29",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6rBwILxZTeqJuGHEhGcLih"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+      },
+      "href": "https://api.spotify.com/v1/artists/5yFrjxlSd8zPqzCCNrOI5h",
+      "id": "5yFrjxlSd8zPqzCCNrOI5h",
+      "name": "Bertrand Belin",
+      "type": "artist",
+      "uri": "spotify:artist:5yFrjxlSd8zPqzCCNrOI5h"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XkCa3HcntokIgOP5N3QO7",
+      "id": "2XkCa3HcntokIgOP5N3QO7",
+      "name": "Camélia Jordana",
+      "type": "artist",
+      "uri": "spotify:artist:2XkCa3HcntokIgOP5N3QO7"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 295760,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR6F31600470"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/67F7H8Qt0AcK6bUosTLiAX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/67F7H8Qt0AcK6bUosTLiAX",
+  "id": "67F7H8Qt0AcK6bUosTLiAX",
+  "is_local": false,
+  "name": "Le mot juste (le beau geste)",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/db2fdf594daa459621d094bf8ab214e3fa982283?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:67F7H8Qt0AcK6bUosTLiAX"
+}

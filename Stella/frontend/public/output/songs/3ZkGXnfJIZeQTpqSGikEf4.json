@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Rmg5JiRphFMlhkwGNl9Fu",
+        "id": "6Rmg5JiRphFMlhkwGNl9Fu",
+        "name": "Tom Gregory",
+        "type": "artist",
+        "uri": "spotify:artist:6Rmg5JiRphFMlhkwGNl9Fu"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3dQC8hSrc1cfciHkp7JAKF"
+    },
+    "href": "https://api.spotify.com/v1/albums/3dQC8hSrc1cfciHkp7JAKF",
+    "id": "3dQC8hSrc1cfciHkp7JAKF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27385dd07dc9920bd5f40d40012",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0285dd07dc9920bd5f40d40012",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485185dd07dc9920bd5f40d40012",
+        "width": 64
+      }
+    ],
+    "name": "Heaven In A World So Cold",
+    "release_date": "2020-09-18",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3dQC8hSrc1cfciHkp7JAKF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Rmg5JiRphFMlhkwGNl9Fu",
+      "id": "6Rmg5JiRphFMlhkwGNl9Fu",
+      "name": "Tom Gregory",
+      "type": "artist",
+      "uri": "spotify:artist:6Rmg5JiRphFMlhkwGNl9Fu"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 166986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEN061901013"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3ZkGXnfJIZeQTpqSGikEf4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3ZkGXnfJIZeQTpqSGikEf4",
+  "id": "3ZkGXnfJIZeQTpqSGikEf4",
+  "is_local": false,
+  "name": "Small Steps",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/42db9b49fd2e3fbc5f94dafe79f776af866e8e79?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3ZkGXnfJIZeQTpqSGikEf4"
+}

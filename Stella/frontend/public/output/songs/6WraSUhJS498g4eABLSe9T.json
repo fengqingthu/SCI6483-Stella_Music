@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/65VzgvnIOrNmIk4UwsMI39"
+        },
+        "href": "https://api.spotify.com/v1/artists/65VzgvnIOrNmIk4UwsMI39",
+        "id": "65VzgvnIOrNmIk4UwsMI39",
+        "name": "Epic North",
+        "type": "artist",
+        "uri": "spotify:artist:65VzgvnIOrNmIk4UwsMI39"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0c8vY8OsoBwEIAEWHHpAvH"
+    },
+    "href": "https://api.spotify.com/v1/albums/0c8vY8OsoBwEIAEWHHpAvH",
+    "id": "0c8vY8OsoBwEIAEWHHpAvH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731b0537694782bd24aa631a94",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021b0537694782bd24aa631a94",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511b0537694782bd24aa631a94",
+        "width": 64
+      }
+    ],
+    "name": "Viking Warriors from Outer Space",
+    "release_date": "2013-12-04",
+    "release_date_precision": "day",
+    "total_tracks": 26,
+    "type": "album",
+    "uri": "spotify:album:0c8vY8OsoBwEIAEWHHpAvH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/65VzgvnIOrNmIk4UwsMI39"
+      },
+      "href": "https://api.spotify.com/v1/artists/65VzgvnIOrNmIk4UwsMI39",
+      "id": "65VzgvnIOrNmIk4UwsMI39",
+      "name": "Epic North",
+      "type": "artist",
+      "uri": "spotify:artist:65VzgvnIOrNmIk4UwsMI39"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 232000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCABS1330985"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6WraSUhJS498g4eABLSe9T"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6WraSUhJS498g4eABLSe9T",
+  "id": "6WraSUhJS498g4eABLSe9T",
+  "is_local": false,
+  "name": "This Is the Future",
+  "popularity": 12,
+  "preview_url": null,
+  "track_number": 26,
+  "type": "track",
+  "uri": "spotify:track:6WraSUhJS498g4eABLSe9T"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2TL8gYTNgD6nXkyuUdDrMg",
+        "id": "2TL8gYTNgD6nXkyuUdDrMg",
+        "name": "Jasmine Thompson",
+        "type": "artist",
+        "uri": "spotify:artist:2TL8gYTNgD6nXkyuUdDrMg"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1nQ5SpQ0buuRpx8ZLjtGqE"
+    },
+    "href": "https://api.spotify.com/v1/albums/1nQ5SpQ0buuRpx8ZLjtGqE",
+    "id": "1nQ5SpQ0buuRpx8ZLjtGqE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27329e8d0b78ed864a486b18a86",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0229e8d0b78ed864a486b18a86",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485129e8d0b78ed864a486b18a86",
+        "width": 64
+      }
+    ],
+    "name": "Adore",
+    "release_date": "2015-09-18",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:1nQ5SpQ0buuRpx8ZLjtGqE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2TL8gYTNgD6nXkyuUdDrMg",
+      "id": "2TL8gYTNgD6nXkyuUdDrMg",
+      "name": "Jasmine Thompson",
+      "type": "artist",
+      "uri": "spotify:artist:2TL8gYTNgD6nXkyuUdDrMg"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "LI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 187466,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USAT21501390"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0M2OGxA8soO4f2J6IvBqKl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0M2OGxA8soO4f2J6IvBqKl",
+  "id": "0M2OGxA8soO4f2J6IvBqKl",
+  "is_local": false,
+  "name": "Adore",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/fd500c4e477000db1c630256f3f8b4fd76425831?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0M2OGxA8soO4f2J6IvBqKl"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2xGCGoulmU85qYdpb2Z4xx",
+        "id": "2xGCGoulmU85qYdpb2Z4xx",
+        "name": "Elliot Moss",
+        "type": "artist",
+        "uri": "spotify:artist:2xGCGoulmU85qYdpb2Z4xx"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5AjZSs1x0ZJEqhXedf2AIB"
+    },
+    "href": "https://api.spotify.com/v1/albums/5AjZSs1x0ZJEqhXedf2AIB",
+    "id": "5AjZSs1x0ZJEqhXedf2AIB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273697c4f4065b631c379253238",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02697c4f4065b631c379253238",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851697c4f4065b631c379253238",
+        "width": 64
+      }
+    ],
+    "name": "Boomerang",
+    "release_date": "2017-04-28",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:5AjZSs1x0ZJEqhXedf2AIB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xGCGoulmU85qYdpb2Z4xx",
+      "id": "2xGCGoulmU85qYdpb2Z4xx",
+      "name": "Elliot Moss",
+      "type": "artist",
+      "uri": "spotify:artist:2xGCGoulmU85qYdpb2Z4xx"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 291349,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMLD61404246"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7m7inW1A2XXquP2ia2Iu8T"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7m7inW1A2XXquP2ia2Iu8T",
+  "id": "7m7inW1A2XXquP2ia2Iu8T",
+  "is_local": false,
+  "name": "Falling Down and Getting Hurt",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/40e868c5189b805be34ec6d7dabb42932ad318c4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:7m7inW1A2XXquP2ia2Iu8T"
+}

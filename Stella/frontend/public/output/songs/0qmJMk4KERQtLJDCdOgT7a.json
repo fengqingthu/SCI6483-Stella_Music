@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/2PQ9UX4kWDE3mf2fYGRzqF",
+        "id": "2PQ9UX4kWDE3mf2fYGRzqF",
+        "name": "Theodor Bastard",
+        "type": "artist",
+        "uri": "spotify:artist:2PQ9UX4kWDE3mf2fYGRzqF"
+      }
+    ],
+    "available_markets": [
+      "BY"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1haxSPFXlssMhJZ7g4zPZL"
+    },
+    "href": "https://api.spotify.com/v1/albums/1haxSPFXlssMhJZ7g4zPZL",
+    "id": "1haxSPFXlssMhJZ7g4zPZL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ee4000fbb2978a827a4be48c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ee4000fbb2978a827a4be48c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ee4000fbb2978a827a4be48c",
+        "width": 64
+      }
+    ],
+    "name": "Ветви",
+    "release_date": "2015-04-29",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1haxSPFXlssMhJZ7g4zPZL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+      },
+      "href": "https://api.spotify.com/v1/artists/2PQ9UX4kWDE3mf2fYGRzqF",
+      "id": "2PQ9UX4kWDE3mf2fYGRzqF",
+      "name": "Theodor Bastard",
+      "type": "artist",
+      "uri": "spotify:artist:2PQ9UX4kWDE3mf2fYGRzqF"
+    }
+  ],
+  "available_markets": [
+    "BY"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245712,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USCGJ1542972"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0qmJMk4KERQtLJDCdOgT7a"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0qmJMk4KERQtLJDCdOgT7a",
+  "id": "0qmJMk4KERQtLJDCdOgT7a",
+  "is_local": false,
+  "name": "Ветви",
+  "popularity": 10,
+  "preview_url": "https://p.scdn.co/mp3-preview/898d4401667b1de0543d66aa0067943f6baaae65?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0qmJMk4KERQtLJDCdOgT7a"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+        "id": "3ti6KzYwDK7GTraIlnLUdu",
+        "name": "Roomie",
+        "type": "artist",
+        "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/32wrve0fPpxmfQknzWIXT9"
+    },
+    "href": "https://api.spotify.com/v1/albums/32wrve0fPpxmfQknzWIXT9",
+    "id": "32wrve0fPpxmfQknzWIXT9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d4357f56e7a73f1669422cba",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d4357f56e7a73f1669422cba",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d4357f56e7a73f1669422cba",
+        "width": 64
+      }
+    ],
+    "name": "Ugly",
+    "release_date": "2012-11-26",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:32wrve0fPpxmfQknzWIXT9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+      "id": "3ti6KzYwDK7GTraIlnLUdu",
+      "name": "Roomie",
+      "type": "artist",
+      "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 165565,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "usx9p1223034"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6386gWXPpmwN4BFlj9sTbv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6386gWXPpmwN4BFlj9sTbv",
+  "id": "6386gWXPpmwN4BFlj9sTbv",
+  "is_local": false,
+  "name": "Ugly",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6386gWXPpmwN4BFlj9sTbv"
+}

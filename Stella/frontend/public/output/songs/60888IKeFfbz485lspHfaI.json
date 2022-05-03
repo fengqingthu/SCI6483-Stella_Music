@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0pCBCX4eCaqTivx7CwDYUp"
+    },
+    "href": "https://api.spotify.com/v1/albums/0pCBCX4eCaqTivx7CwDYUp",
+    "id": "0pCBCX4eCaqTivx7CwDYUp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e9c68d7859a5d2983b29cbb9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e9c68d7859a5d2983b29cbb9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e9c68d7859a5d2983b29cbb9",
+        "width": 64
+      }
+    ],
+    "name": "Sound Of Copenhagen Vol. 2",
+    "release_date": "2009",
+    "release_date_precision": "year",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:0pCBCX4eCaqTivx7CwDYUp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pfZnHTXD8eEUVQdDfPKwN"
+      },
+      "href": "https://api.spotify.com/v1/artists/7pfZnHTXD8eEUVQdDfPKwN",
+      "id": "7pfZnHTXD8eEUVQdDfPKwN",
+      "name": "Benny Berigan",
+      "type": "artist",
+      "uri": "spotify:artist:7pfZnHTXD8eEUVQdDfPKwN"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 228226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DK4YA1230028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/60888IKeFfbz485lspHfaI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/60888IKeFfbz485lspHfaI",
+  "id": "60888IKeFfbz485lspHfaI",
+  "is_local": false,
+  "name": "Caravan",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:60888IKeFfbz485lspHfaI"
+}

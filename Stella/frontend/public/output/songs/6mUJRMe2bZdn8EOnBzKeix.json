@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        },
+        "href": "https://api.spotify.com/v1/artists/2NPduAUeLVsfIauhRwuft1",
+        "id": "2NPduAUeLVsfIauhRwuft1",
+        "name": "Nightwish",
+        "type": "artist",
+        "uri": "spotify:artist:2NPduAUeLVsfIauhRwuft1"
+      }
+    ],
+    "available_markets": [
+      "FI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/26jbVB8h8umHU1jEaUf8LZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/26jbVB8h8umHU1jEaUf8LZ",
+    "id": "26jbVB8h8umHU1jEaUf8LZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a1a12280d92121d1c7e4ceda",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a1a12280d92121d1c7e4ceda",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a1a12280d92121d1c7e4ceda",
+        "width": 64
+      }
+    ],
+    "name": "Endless Forms Most Beautiful",
+    "release_date": "2015-03-27",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:26jbVB8h8umHU1jEaUf8LZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+      },
+      "href": "https://api.spotify.com/v1/artists/2NPduAUeLVsfIauhRwuft1",
+      "id": "2NPduAUeLVsfIauhRwuft1",
+      "name": "Nightwish",
+      "type": "artist",
+      "uri": "spotify:artist:2NPduAUeLVsfIauhRwuft1"
+    }
+  ],
+  "available_markets": [
+    "FI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 287000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DED831401185"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6mUJRMe2bZdn8EOnBzKeix"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6mUJRMe2bZdn8EOnBzKeix",
+  "id": "6mUJRMe2bZdn8EOnBzKeix",
+  "is_local": false,
+  "name": "Élan",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/b426364e861916701a9fb3d6f6e9492767833ba7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6mUJRMe2bZdn8EOnBzKeix"
+}

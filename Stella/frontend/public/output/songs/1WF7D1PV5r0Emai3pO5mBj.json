@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "name": "The Spaceman: Chaos",
+        "type": "artist",
+        "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4AwkYeyWS96lFdqfTOXHj9"
+    },
+    "href": "https://api.spotify.com/v1/albums/4AwkYeyWS96lFdqfTOXHj9",
+    "id": "4AwkYeyWS96lFdqfTOXHj9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366eb54fbfd6030d591f23347",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266eb54fbfd6030d591f23347",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166eb54fbfd6030d591f23347",
+        "width": 64
+      }
+    ],
+    "name": "Beau Town Brave",
+    "release_date": "2015-04-20",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4AwkYeyWS96lFdqfTOXHj9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "name": "The Spaceman: Chaos",
+      "type": "artist",
+      "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/616z7jsRROEgieGX6s02dM"
+      },
+      "href": "https://api.spotify.com/v1/artists/616z7jsRROEgieGX6s02dM",
+      "id": "616z7jsRROEgieGX6s02dM",
+      "name": "Wiscey Street",
+      "type": "artist",
+      "uri": "spotify:artist:616z7jsRROEgieGX6s02dM"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 283026,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "USQY51550773"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1WF7D1PV5r0Emai3pO5mBj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1WF7D1PV5r0Emai3pO5mBj",
+  "id": "1WF7D1PV5r0Emai3pO5mBj",
+  "is_local": false,
+  "name": "Soldier Boyz (feat. Wiscey Street)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:1WF7D1PV5r0Emai3pO5mBj"
+}

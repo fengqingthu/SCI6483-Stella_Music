@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+        "id": "1moxjboGR7GNWYIMWsRjgG",
+        "name": "Florence + The Machine",
+        "type": "artist",
+        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+    },
+    "href": "https://api.spotify.com/v1/albums/5SxudoALxEAVh9l83kSebx",
+    "id": "5SxudoALxEAVh9l83kSebx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02527d94ecf554774fc313bf48",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851527d94ecf554774fc313bf48",
+        "width": 64
+      }
+    ],
+    "name": "Ceremonials (Deluxe Edition)",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:5SxudoALxEAVh9l83kSebx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+      "id": "1moxjboGR7GNWYIMWsRjgG",
+      "name": "Florence + The Machine",
+      "type": "artist",
+      "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 303173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71107579"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5qaLfqAUiqvsoL0l4T05Yx",
+  "id": "5qaLfqAUiqvsoL0l4T05Yx",
+  "is_local": false,
+  "name": "Seven Devils",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5qaLfqAUiqvsoL0l4T05Yx"
+}

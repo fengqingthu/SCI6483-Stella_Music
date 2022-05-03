@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ShgdWtm52xvEr8uYmT0V6",
+        "id": "4ShgdWtm52xvEr8uYmT0V6",
+        "name": "SEGA SOUND TEAM",
+        "type": "artist",
+        "uri": "spotify:artist:4ShgdWtm52xvEr8uYmT0V6"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6pg3gLisvVI1lvMQaqeDI2"
+    },
+    "href": "https://api.spotify.com/v1/albums/6pg3gLisvVI1lvMQaqeDI2",
+    "id": "6pg3gLisvVI1lvMQaqeDI2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27383d4e0e5c912ed23bb68c2f2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0283d4e0e5c912ed23bb68c2f2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485183d4e0e5c912ed23bb68c2f2",
+        "width": 64
+      }
+    ],
+    "name": "Jet Set Radio Future SEGA Original Tracks",
+    "release_date": "2012-10-02",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:6pg3gLisvVI1lvMQaqeDI2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ULvi5IjU8vjBJW3e8EPLz"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ULvi5IjU8vjBJW3e8EPLz",
+      "id": "3ULvi5IjU8vjBJW3e8EPLz",
+      "name": "Hideki Naganuma",
+      "type": "artist",
+      "uri": "spotify:artist:3ULvi5IjU8vjBJW3e8EPLz"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 222014,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPR501205530"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2cV7cefYXlk5nomO9TlYgz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2cV7cefYXlk5nomO9TlYgz",
+  "id": "2cV7cefYXlk5nomO9TlYgz",
+  "is_local": false,
+  "name": "The Concept of Love",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/40700f06c16902921bbe093c61da94dd484c5321?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2cV7cefYXlk5nomO9TlYgz"
+}

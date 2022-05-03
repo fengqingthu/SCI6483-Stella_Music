@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        },
+        "href": "https://api.spotify.com/v1/artists/51K48NCxjB11t9eqUWWoIq",
+        "id": "51K48NCxjB11t9eqUWWoIq",
+        "name": "Youth Group",
+        "type": "artist",
+        "uri": "spotify:artist:51K48NCxjB11t9eqUWWoIq"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI"
+    },
+    "href": "https://api.spotify.com/v1/albums/0t4OvGh2M7gJ8asnTwughI",
+    "id": "0t4OvGh2M7gJ8asnTwughI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735ed863901e56d1b0f5dafb64",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025ed863901e56d1b0f5dafb64",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515ed863901e56d1b0f5dafb64",
+        "width": 64
+      }
+    ],
+    "name": "Casino Twilight Dogs",
+    "release_date": "2006-07-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0t4OvGh2M7gJ8asnTwughI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+      },
+      "href": "https://api.spotify.com/v1/artists/51K48NCxjB11t9eqUWWoIq",
+      "id": "51K48NCxjB11t9eqUWWoIq",
+      "name": "Youth Group",
+      "type": "artist",
+      "uri": "spotify:artist:51K48NCxjB11t9eqUWWoIq"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 238866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USEP40517101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0rdEIRgDyH03nwzk7cbbh2",
+  "id": "0rdEIRgDyH03nwzk7cbbh2",
+  "is_local": false,
+  "name": "Forever Young",
+  "popularity": 52,
+  "preview_url": "https://p.scdn.co/mp3-preview/589452e5ed9c055a18dd3534178392da82485561?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:0rdEIRgDyH03nwzk7cbbh2"
+}

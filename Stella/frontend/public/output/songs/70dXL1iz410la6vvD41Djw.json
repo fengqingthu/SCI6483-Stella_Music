@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5lultDodx4PtW2d7LZOBee"
+    },
+    "href": "https://api.spotify.com/v1/albums/5lultDodx4PtW2d7LZOBee",
+    "id": "5lultDodx4PtW2d7LZOBee",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738776b0ee5811d0d16adbc552",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028776b0ee5811d0d16adbc552",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518776b0ee5811d0d16adbc552",
+        "width": 64
+      }
+    ],
+    "name": "NYPD Blue",
+    "release_date": "1999-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:5lultDodx4PtW2d7LZOBee"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zJ68q2vwXpeJypOxOM1DU"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zJ68q2vwXpeJypOxOM1DU",
+      "id": "3zJ68q2vwXpeJypOxOM1DU",
+      "name": "Daniel Caine Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3zJ68q2vwXpeJypOxOM1DU"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 143560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC9801515"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/70dXL1iz410la6vvD41Djw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/70dXL1iz410la6vvD41Djw",
+  "id": "70dXL1iz410la6vvD41Djw",
+  "is_local": false,
+  "name": "MAGNUM P.I.",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/632f67a913b5d1f32eff3e8bb4f185e22ee5df35?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:70dXL1iz410la6vvD41Djw"
+}

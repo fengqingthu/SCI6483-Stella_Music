@@ -1,0 +1,161 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS",
+        "id": "4EENT7N7rCBwrddM3s0vFS",
+        "name": "Cut Copy",
+        "type": "artist",
+        "uri": "spotify:artist:4EENT7N7rCBwrddM3s0vFS"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AU",
+      "BE",
+      "BG",
+      "BH",
+      "CA",
+      "CH",
+      "CZ",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "FI",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "IQ",
+      "IS",
+      "JO",
+      "KW",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MX",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PK",
+      "PL",
+      "PT",
+      "QA",
+      "SA",
+      "SE",
+      "SK",
+      "TN",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
+    },
+    "href": "https://api.spotify.com/v1/albums/6k3dwEFYKsGrhS40jtiAGt",
+    "id": "6k3dwEFYKsGrhS40jtiAGt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273063651446188d0425c2173cb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02063651446188d0425c2173cb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851063651446188d0425c2173cb",
+        "width": 64
+      }
+    ],
+    "name": "In Ghost Colours",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:6k3dwEFYKsGrhS40jtiAGt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+      },
+      "href": "https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS",
+      "id": "4EENT7N7rCBwrddM3s0vFS",
+      "name": "Cut Copy",
+      "type": "artist",
+      "uri": "spotify:artist:4EENT7N7rCBwrddM3s0vFS"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AU",
+    "BE",
+    "BG",
+    "BH",
+    "CA",
+    "CH",
+    "CZ",
+    "DK",
+    "DZ",
+    "EE",
+    "EG",
+    "FI",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IQ",
+    "IS",
+    "JO",
+    "KW",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "MX",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PK",
+    "PL",
+    "PT",
+    "QA",
+    "SA",
+    "SE",
+    "SK",
+    "TN",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 277360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUUM70800086"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2dngx6srtqsxvyh7oGV8FM",
+  "id": "2dngx6srtqsxvyh7oGV8FM",
+  "is_local": false,
+  "name": "Lights & Music",
+  "popularity": 52,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2dngx6srtqsxvyh7oGV8FM"
+}

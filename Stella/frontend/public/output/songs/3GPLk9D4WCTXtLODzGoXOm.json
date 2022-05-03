@@ -1,0 +1,135 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Pe3z1UqRzKsQtHsl25dm6",
+        "id": "1Pe3z1UqRzKsQtHsl25dm6",
+        "name": "Juno Reactor",
+        "type": "artist",
+        "uri": "spotify:artist:1Pe3z1UqRzKsQtHsl25dm6"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Pm5OMfaOxfcC85jcIPdM3"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Pm5OMfaOxfcC85jcIPdM3",
+    "id": "3Pm5OMfaOxfcC85jcIPdM3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739936c4d4dff9b00ce7b19b00",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029936c4d4dff9b00ce7b19b00",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519936c4d4dff9b00ce7b19b00",
+        "width": 64
+      }
+    ],
+    "name": "The Mutant Theatre",
+    "release_date": "2018-06-22",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:3Pm5OMfaOxfcC85jcIPdM3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Pe3z1UqRzKsQtHsl25dm6",
+      "id": "1Pe3z1UqRzKsQtHsl25dm6",
+      "name": "Juno Reactor",
+      "type": "artist",
+      "uri": "spotify:artist:1Pe3z1UqRzKsQtHsl25dm6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2pZUjZ1CFHjo3PwFkEDvyx"
+      },
+      "href": "https://api.spotify.com/v1/artists/2pZUjZ1CFHjo3PwFkEDvyx",
+      "id": "2pZUjZ1CFHjo3PwFkEDvyx",
+      "name": "Amir John Haddad – EL AMIR",
+      "type": "artist",
+      "uri": "spotify:artist:2pZUjZ1CFHjo3PwFkEDvyx"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 669001,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US57M1811201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3GPLk9D4WCTXtLODzGoXOm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3GPLk9D4WCTXtLODzGoXOm",
+  "id": "3GPLk9D4WCTXtLODzGoXOm",
+  "is_local": false,
+  "name": "Return of the Pistolero",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/4476c21f7ffd155b45cf10c033a831c5cbc208e7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3GPLk9D4WCTXtLODzGoXOm"
+}

@@ -1,0 +1,115 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        "href": "https://api.spotify.com/v1/artists/6BrvowZBreEkXzJQMpL174",
+        "id": "6BrvowZBreEkXzJQMpL174",
+        "name": "Hardwell",
+        "type": "artist",
+        "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IpvVrP3VLhruTmnququq7",
+        "id": "3IpvVrP3VLhruTmnququq7",
+        "name": "Mike Williams",
+        "type": "artist",
+        "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ijCHaCu9iyUfzdjRWzozQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ijCHaCu9iyUfzdjRWzozQ",
+    "id": "0ijCHaCu9iyUfzdjRWzozQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273adfb123bc61dbf5f3f24f402",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02adfb123bc61dbf5f3f24f402",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851adfb123bc61dbf5f3f24f402",
+        "width": 64
+      }
+    ],
+    "name": "I'm Not Sorry",
+    "release_date": "2019-03-08",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0ijCHaCu9iyUfzdjRWzozQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+      },
+      "href": "https://api.spotify.com/v1/artists/6BrvowZBreEkXzJQMpL174",
+      "id": "6BrvowZBreEkXzJQMpL174",
+      "name": "Hardwell",
+      "type": "artist",
+      "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IpvVrP3VLhruTmnququq7",
+      "id": "3IpvVrP3VLhruTmnququq7",
+      "name": "Mike Williams",
+      "type": "artist",
+      "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 186093,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "NLQ8D1900028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/37rViwc93rhxfbkZ1mcRY4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/37rViwc93rhxfbkZ1mcRY4",
+  "id": "37rViwc93rhxfbkZ1mcRY4",
+  "is_local": false,
+  "name": "I'm Not Sorry",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/7228eac9de17a227e9fb6d8d7da1e1a9ff7bc46a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:37rViwc93rhxfbkZ1mcRY4"
+}

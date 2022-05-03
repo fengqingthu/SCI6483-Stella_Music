@@ -1,0 +1,147 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        },
+        "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+        "id": "7BqRcZsHYYQeqMAOp7e532",
+        "name": "Sunset Rollercoaster",
+        "type": "artist",
+        "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "BH",
+      "BN",
+      "BT",
+      "HK",
+      "ID",
+      "IL",
+      "IN",
+      "IQ",
+      "JO",
+      "JP",
+      "KG",
+      "KH",
+      "KR",
+      "KW",
+      "LA",
+      "LB",
+      "LK",
+      "MN",
+      "MO",
+      "MV",
+      "MY",
+      "NP",
+      "OM",
+      "PH",
+      "PK",
+      "QA",
+      "SA",
+      "SG",
+      "TH",
+      "TJ",
+      "TW",
+      "UZ",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2vE9BubwB3Sb5yZjv4FyNn"
+    },
+    "href": "https://api.spotify.com/v1/albums/2vE9BubwB3Sb5yZjv4FyNn",
+    "id": "2vE9BubwB3Sb5yZjv4FyNn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27367aa426a6d0688928dc9a653",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0267aa426a6d0688928dc9a653",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485167aa426a6d0688928dc9a653",
+        "width": 64
+      }
+    ],
+    "name": "JINJI KIKKO",
+    "release_date": "2016-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:2vE9BubwB3Sb5yZjv4FyNn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+      },
+      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+      "id": "7BqRcZsHYYQeqMAOp7e532",
+      "name": "Sunset Rollercoaster",
+      "type": "artist",
+      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "BH",
+    "BN",
+    "BT",
+    "HK",
+    "ID",
+    "IL",
+    "IN",
+    "IQ",
+    "JO",
+    "JP",
+    "KG",
+    "KH",
+    "KR",
+    "KW",
+    "LA",
+    "LB",
+    "LK",
+    "MN",
+    "MO",
+    "MV",
+    "MY",
+    "NP",
+    "OM",
+    "PH",
+    "PK",
+    "QA",
+    "SA",
+    "SG",
+    "TH",
+    "TJ",
+    "TW",
+    "UZ",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 400560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TWCR71600002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/59Bc4RPzSL3nYPANh25a6J"
+  },
+  "href": "https://api.spotify.com/v1/tracks/59Bc4RPzSL3nYPANh25a6J",
+  "id": "59Bc4RPzSL3nYPANh25a6J",
+  "is_local": false,
+  "name": "My Jinji",
+  "popularity": 58,
+  "preview_url": "https://p.scdn.co/mp3-preview/37d40f4df149451fc02c4c5e51e3cba4744de837?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:59Bc4RPzSL3nYPANh25a6J"
+}

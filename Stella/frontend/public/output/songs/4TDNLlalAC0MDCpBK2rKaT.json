@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+        },
+        "href": "https://api.spotify.com/v1/artists/7icDkrFloDss50hoqQ3Kkj",
+        "id": "7icDkrFloDss50hoqQ3Kkj",
+        "name": "Clinic",
+        "type": "artist",
+        "uri": "spotify:artist:7icDkrFloDss50hoqQ3Kkj"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5VOwYIRD4m2DNbP3vmY3jy"
+    },
+    "href": "https://api.spotify.com/v1/albums/5VOwYIRD4m2DNbP3vmY3jy",
+    "id": "5VOwYIRD4m2DNbP3vmY3jy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27378c04f2650793fe79f81d390",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0278c04f2650793fe79f81d390",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485178c04f2650793fe79f81d390",
+        "width": 64
+      }
+    ],
+    "name": "Walking With Thee",
+    "release_date": "2002-08-06",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5VOwYIRD4m2DNbP3vmY3jy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+      },
+      "href": "https://api.spotify.com/v1/artists/7icDkrFloDss50hoqQ3Kkj",
+      "id": "7icDkrFloDss50hoqQ3Kkj",
+      "name": "Clinic",
+      "type": "artist",
+      "uri": "spotify:artist:7icDkrFloDss50hoqQ3Kkj"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 155173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL0100491"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4TDNLlalAC0MDCpBK2rKaT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4TDNLlalAC0MDCpBK2rKaT",
+  "id": "4TDNLlalAC0MDCpBK2rKaT",
+  "is_local": false,
+  "name": "Walking With Thee",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4TDNLlalAC0MDCpBK2rKaT"
+}

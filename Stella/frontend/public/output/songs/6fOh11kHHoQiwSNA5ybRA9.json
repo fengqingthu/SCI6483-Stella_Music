@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
+        },
+        "href": "https://api.spotify.com/v1/artists/1LcLsIWOl1Z8vo1wl6bxg2",
+        "id": "1LcLsIWOl1Z8vo1wl6bxg2",
+        "name": "Spank Rock",
+        "type": "artist",
+        "uri": "spotify:artist:1LcLsIWOl1Z8vo1wl6bxg2"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5m7V9HqUCBe87yzIQ4P7wr"
+    },
+    "href": "https://api.spotify.com/v1/albums/5m7V9HqUCBe87yzIQ4P7wr",
+    "id": "5m7V9HqUCBe87yzIQ4P7wr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27376acfe1fca2a831bfb26a651",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0276acfe1fca2a831bfb26a651",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485176acfe1fca2a831bfb26a651",
+        "width": 64
+      }
+    ],
+    "name": "Everything Is Boring and Everyone Is a F---ing Liar",
+    "release_date": "2011-09-27",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:5m7V9HqUCBe87yzIQ4P7wr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
+      },
+      "href": "https://api.spotify.com/v1/artists/1LcLsIWOl1Z8vo1wl6bxg2",
+      "id": "1LcLsIWOl1Z8vo1wl6bxg2",
+      "name": "Spank Rock",
+      "type": "artist",
+      "uri": "spotify:artist:1LcLsIWOl1Z8vo1wl6bxg2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+      "id": "6Jrxnp0JgqmeUX1veU591p",
+      "name": "Santigold",
+      "type": "artist",
+      "uri": "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232802,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "USA371379285"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6fOh11kHHoQiwSNA5ybRA9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6fOh11kHHoQiwSNA5ybRA9",
+  "id": "6fOh11kHHoQiwSNA5ybRA9",
+  "is_local": false,
+  "name": "Car Song (feat. Santigold)",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/5a3c9b8f58accb76dec9d9646e1e8f6b4083ea26?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6fOh11kHHoQiwSNA5ybRA9"
+}

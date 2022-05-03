@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        },
+        "href": "https://api.spotify.com/v1/artists/40Ojab0UtVQFjA76qXr8Ot",
+        "id": "40Ojab0UtVQFjA76qXr8Ot",
+        "name": "Apparat",
+        "type": "artist",
+        "uri": "spotify:artist:40Ojab0UtVQFjA76qXr8Ot"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3"
+    },
+    "href": "https://api.spotify.com/v1/albums/5EHvg6pPmS7wBzcCjXZIs3",
+    "id": "5EHvg6pPmS7wBzcCjXZIs3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739232dfbdf0aaa96b258a2b3a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029232dfbdf0aaa96b258a2b3a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519232dfbdf0aaa96b258a2b3a",
+        "width": 64
+      }
+    ],
+    "name": "The Devil's Walk",
+    "release_date": "2011-09-27",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5EHvg6pPmS7wBzcCjXZIs3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+      },
+      "href": "https://api.spotify.com/v1/artists/40Ojab0UtVQFjA76qXr8Ot",
+      "id": "40Ojab0UtVQFjA76qXr8Ot",
+      "name": "Apparat",
+      "type": "artist",
+      "uri": "spotify:artist:40Ojab0UtVQFjA76qXr8Ot"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+      },
+      "href": "https://api.spotify.com/v1/artists/2mAYpnSe3g2Y22JcZ2ddku",
+      "id": "2mAYpnSe3g2Y22JcZ2ddku",
+      "name": "Soap&Skin",
+      "type": "artist",
+      "uri": "spotify:artist:2mAYpnSe3g2Y22JcZ2ddku"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 269490,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBR8R1100102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6BJXuY0lY0EUtSDCgkYnqE",
+  "id": "6BJXuY0lY0EUtSDCgkYnqE",
+  "is_local": false,
+  "name": "Goodbye (with Soap & Skin)",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/e1066a26dfd3f94e46ccd34f5e0402bcadc734f1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:6BJXuY0lY0EUtSDCgkYnqE"
+}

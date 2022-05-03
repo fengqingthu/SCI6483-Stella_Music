@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ybAN3utgdoUL1MUCtH4QM",
+        "id": "1ybAN3utgdoUL1MUCtH4QM",
+        "name": "Tennis",
+        "type": "artist",
+        "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2qpspWmRrEI8EEEXqL1O5e"
+    },
+    "href": "https://api.spotify.com/v1/albums/2qpspWmRrEI8EEEXqL1O5e",
+    "id": "2qpspWmRrEI8EEEXqL1O5e",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273add5b498a3196a680b659197",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02add5b498a3196a680b659197",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851add5b498a3196a680b659197",
+        "width": 64
+      }
+    ],
+    "name": "Ritual In Repeat (Deluxe)",
+    "release_date": "2014-09-09",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:2qpspWmRrEI8EEEXqL1O5e"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ybAN3utgdoUL1MUCtH4QM",
+      "id": "1ybAN3utgdoUL1MUCtH4QM",
+      "name": "Tennis",
+      "type": "artist",
+      "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 271440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMF661411005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3o6cyNUUVQ55klr7tswS1c"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3o6cyNUUVQ55klr7tswS1c",
+  "id": "3o6cyNUUVQ55klr7tswS1c",
+  "is_local": false,
+  "name": "Bad Girls",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:3o6cyNUUVQ55klr7tswS1c"
+}

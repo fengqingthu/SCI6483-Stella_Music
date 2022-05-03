@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+        },
+        "href": "https://api.spotify.com/v1/artists/4R073T3AVJKqAsbzLmLW9u",
+        "id": "4R073T3AVJKqAsbzLmLW9u",
+        "name": "John Maus",
+        "type": "artist",
+        "uri": "spotify:artist:4R073T3AVJKqAsbzLmLW9u"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
+    },
+    "href": "https://api.spotify.com/v1/albums/6lfo4f2EW26I06q2cIMPof",
+    "id": "6lfo4f2EW26I06q2cIMPof",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27350bc8ef82d299d7d8933b012",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0250bc8ef82d299d7d8933b012",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485150bc8ef82d299d7d8933b012",
+        "width": 64
+      }
+    ],
+    "name": "We Must Become the Pitiless Censors of Ourselves",
+    "release_date": "2011-06-28",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6lfo4f2EW26I06q2cIMPof"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+      },
+      "href": "https://api.spotify.com/v1/artists/4R073T3AVJKqAsbzLmLW9u",
+      "id": "4R073T3AVJKqAsbzLmLW9u",
+      "name": "John Maus",
+      "type": "artist",
+      "uri": "spotify:artist:4R073T3AVJKqAsbzLmLW9u"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 248706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL1100159"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0MpsyFvt1KaxNYBYw2aanq",
+  "id": "0MpsyFvt1KaxNYBYw2aanq",
+  "is_local": false,
+  "name": "Hey Moon",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/b942f48a8150cdfe5373c976c1aa96e10cbb39e0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0MpsyFvt1KaxNYBYw2aanq"
+}

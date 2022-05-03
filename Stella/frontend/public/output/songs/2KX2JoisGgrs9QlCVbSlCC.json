@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/4S33gEeiCjwfD1FJKfMT3Y",
+        "id": "4S33gEeiCjwfD1FJKfMT3Y",
+        "name": "Kevin Penkin",
+        "type": "artist",
+        "uri": "spotify:artist:4S33gEeiCjwfD1FJKfMT3Y"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BR",
+      "CA",
+      "DE",
+      "FR",
+      "GB",
+      "HK",
+      "MX",
+      "SG",
+      "TH",
+      "TW",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5oEzjkSYSfC0ITRiqK6m8l"
+    },
+    "href": "https://api.spotify.com/v1/albums/5oEzjkSYSfC0ITRiqK6m8l",
+    "id": "5oEzjkSYSfC0ITRiqK6m8l",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366b615c7cfcf307007c070d4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266b615c7cfcf307007c070d4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166b615c7cfcf307007c070d4",
+        "width": 64
+      }
+    ],
+    "name": "MADE IN ABYSS Original Soundtrack",
+    "release_date": "2017-09-27",
+    "release_date_precision": "day",
+    "total_tracks": 52,
+    "type": "album",
+    "uri": "spotify:album:5oEzjkSYSfC0ITRiqK6m8l"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/4S33gEeiCjwfD1FJKfMT3Y",
+      "id": "4S33gEeiCjwfD1FJKfMT3Y",
+      "name": "Kevin Penkin",
+      "type": "artist",
+      "uri": "spotify:artist:4S33gEeiCjwfD1FJKfMT3Y"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BR",
+    "CA",
+    "DE",
+    "FR",
+    "GB",
+    "HK",
+    "MX",
+    "SG",
+    "TH",
+    "TW",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 128866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPD731700362"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2KX2JoisGgrs9QlCVbSlCC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2KX2JoisGgrs9QlCVbSlCC",
+  "id": "2KX2JoisGgrs9QlCVbSlCC",
+  "is_local": false,
+  "name": "Made in Abyss",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/2a134325f22b1cc9e1cd018dd59cd2738b1e5000?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2KX2JoisGgrs9QlCVbSlCC"
+}

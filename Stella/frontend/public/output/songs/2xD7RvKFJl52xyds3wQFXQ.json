@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UcJxoeHWWWyT5HZP064om",
+        "id": "6UcJxoeHWWWyT5HZP064om",
+        "name": "Chet Faker",
+        "type": "artist",
+        "uri": "spotify:artist:6UcJxoeHWWWyT5HZP064om"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L"
+    },
+    "href": "https://api.spotify.com/v1/albums/1lqdYmOceSVAulxV7YuD7L",
+    "id": "1lqdYmOceSVAulxV7YuD7L",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273de2fdfef843577dc40cee8be",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02de2fdfef843577dc40cee8be",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851de2fdfef843577dc40cee8be",
+        "width": 64
+      }
+    ],
+    "name": "Thinking In Textures",
+    "release_date": "2012-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:1lqdYmOceSVAulxV7YuD7L"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UcJxoeHWWWyT5HZP064om",
+      "id": "6UcJxoeHWWWyT5HZP064om",
+      "name": "Chet Faker",
+      "type": "artist",
+      "uri": "spotify:artist:6UcJxoeHWWWyT5HZP064om"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUDJ01200879"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2xD7RvKFJl52xyds3wQFXQ",
+  "id": "2xD7RvKFJl52xyds3wQFXQ",
+  "is_local": false,
+  "name": "No Diggity",
+  "popularity": 53,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2xD7RvKFJl52xyds3wQFXQ"
+}

@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+        "id": "5nPOO9iTcrs9k6yFffPxjH",
+        "name": "Röyksopp",
+        "type": "artist",
+        "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ltQ2DPaXFzw2ym0GkUW0c"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ltQ2DPaXFzw2ym0GkUW0c",
+    "id": "1ltQ2DPaXFzw2ym0GkUW0c",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27302dead090c07149e3d304a74",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0202dead090c07149e3d304a74",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485102dead090c07149e3d304a74",
+        "width": 64
+      }
+    ],
+    "name": "The Ladder",
+    "release_date": "2022-01-13",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1ltQ2DPaXFzw2ym0GkUW0c"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+      "id": "5nPOO9iTcrs9k6yFffPxjH",
+      "name": "Röyksopp",
+      "type": "artist",
+      "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 333520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBW232100101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5omGUMfBqGH9iv2vLpoieD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5omGUMfBqGH9iv2vLpoieD",
+  "id": "5omGUMfBqGH9iv2vLpoieD",
+  "is_local": false,
+  "name": "The Ladder",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/41a79b07f2c752b59c956ade3fbdf31753b74818?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5omGUMfBqGH9iv2vLpoieD"
+}

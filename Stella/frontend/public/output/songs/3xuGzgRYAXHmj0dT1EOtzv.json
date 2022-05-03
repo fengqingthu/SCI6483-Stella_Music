@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+        "id": "2eRNMtoi82UZUuaL6naDjA",
+        "name": "Cœur De Pirate",
+        "type": "artist",
+        "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/71fry0hY8cte1dlWqIhPM3"
+    },
+    "href": "https://api.spotify.com/v1/albums/71fry0hY8cte1dlWqIhPM3",
+    "id": "71fry0hY8cte1dlWqIhPM3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fea4f5a1fda85e8a62fd1a8a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fea4f5a1fda85e8a62fd1a8a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fea4f5a1fda85e8a62fd1a8a",
+        "width": 64
+      }
+    ],
+    "name": "Cœur De Pirate",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:71fry0hY8cte1dlWqIhPM3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+      "id": "2eRNMtoi82UZUuaL6naDjA",
+      "name": "Cœur De Pirate",
+      "type": "artist",
+      "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 166013,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAD430890713"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3xuGzgRYAXHmj0dT1EOtzv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3xuGzgRYAXHmj0dT1EOtzv",
+  "id": "3xuGzgRYAXHmj0dT1EOtzv",
+  "is_local": false,
+  "name": "Comme des enfants",
+  "popularity": 53,
+  "preview_url": "https://p.scdn.co/mp3-preview/eb6a84950ec9ddfdd38eef19dddb4819c0c70ece?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3xuGzgRYAXHmj0dT1EOtzv"
+}

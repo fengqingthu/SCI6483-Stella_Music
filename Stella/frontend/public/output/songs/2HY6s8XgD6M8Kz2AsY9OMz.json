@@ -1,0 +1,191 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VeT7hHTJFJZcENGekjCsB",
+        "id": "0VeT7hHTJFJZcENGekjCsB",
+        "name": "London Music Works",
+        "type": "artist",
+        "uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51Joo99K8H2eBY3gKJou3J"
+        },
+        "href": "https://api.spotify.com/v1/artists/51Joo99K8H2eBY3gKJou3J",
+        "id": "51Joo99K8H2eBY3gKJou3J",
+        "name": "Mark Ayres",
+        "type": "artist",
+        "uri": "spotify:artist:51Joo99K8H2eBY3gKJou3J"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5cLFYkE77PajbU7sDJznfd"
+    },
+    "href": "https://api.spotify.com/v1/albums/5cLFYkE77PajbU7sDJznfd",
+    "id": "5cLFYkE77PajbU7sDJznfd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27321d6c05fca73459518ad0731",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0221d6c05fca73459518ad0731",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485121d6c05fca73459518ad0731",
+        "width": 64
+      }
+    ],
+    "name": "The Best of Hans Zimmer",
+    "release_date": "2011-02-07",
+    "release_date_precision": "day",
+    "total_tracks": 32,
+    "type": "album",
+    "uri": "spotify:album:5cLFYkE77PajbU7sDJznfd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+      "id": "2oQJQUIpJFFnfKvHJA0xBu",
+      "name": "The City of Prague Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "AU",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "JP",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 2,
+  "duration_ms": 217146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0700053"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2HY6s8XgD6M8Kz2AsY9OMz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2HY6s8XgD6M8Kz2AsY9OMz",
+  "id": "2HY6s8XgD6M8Kz2AsY9OMz",
+  "is_local": false,
+  "name": "Roll Tide (From \"Crimson Tide\")",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2HY6s8XgD6M8Kz2AsY9OMz"
+}

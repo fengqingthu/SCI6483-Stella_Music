@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1YbjPApplrc6D9NtSlN4ly"
+    },
+    "href": "https://api.spotify.com/v1/albums/1YbjPApplrc6D9NtSlN4ly",
+    "id": "1YbjPApplrc6D9NtSlN4ly",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ce92a81c249446bd1833986a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ce92a81c249446bd1833986a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ce92a81c249446bd1833986a",
+        "width": 64
+      }
+    ],
+    "name": "Music From the Films of Sean Connery",
+    "release_date": "2006-06-06",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:1YbjPApplrc6D9NtSlN4ly"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+      "id": "2oQJQUIpJFFnfKvHJA0xBu",
+      "name": "The City of Prague Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk"
+      },
+      "href": "https://api.spotify.com/v1/artists/5V7l2e1oLF7oSzpvdaDenk",
+      "id": "5V7l2e1oLF7oSzpvdaDenk",
+      "name": "Paul Bateman",
+      "type": "artist",
+      "uri": "spotify:artist:5V7l2e1oLF7oSzpvdaDenk"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 183213,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC9700521"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3STG96JDByfJ9p11opW5Iy"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3STG96JDByfJ9p11opW5Iy",
+  "id": "3STG96JDByfJ9p11opW5Iy",
+  "is_local": false,
+  "name": "Suite (From \"Robin Hood: Prince of Thieves\")",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/138bf0d939d78499b161858b5f30c2496cf35f5b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:3STG96JDByfJ9p11opW5Iy"
+}

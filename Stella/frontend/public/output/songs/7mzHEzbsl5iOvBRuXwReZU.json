@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+        "id": "7dnB1wSxbYa8CejeVg98hz",
+        "name": "Meat Loaf",
+        "type": "artist",
+        "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
+    },
+    "href": "https://api.spotify.com/v1/albums/0elHWyUbF2KLuHl8GjlzEM",
+    "id": "0elHWyUbF2KLuHl8GjlzEM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273acbd2bd40539468ce318db2f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02acbd2bd40539468ce318db2f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851acbd2bd40539468ce318db2f",
+        "width": 64
+      }
+    ],
+    "name": "Bat Out Of Hell",
+    "release_date": "1977",
+    "release_date_precision": "year",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:0elHWyUbF2KLuHl8GjlzEM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+      "id": "7dnB1wSxbYa8CejeVg98hz",
+      "name": "Meat Loaf",
+      "type": "artist",
+      "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 508333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM17700331"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7mzHEzbsl5iOvBRuXwReZU",
+  "id": "7mzHEzbsl5iOvBRuXwReZU",
+  "is_local": false,
+  "name": "Paradise By the Dashboard Light",
+  "popularity": 52,
+  "preview_url": "https://p.scdn.co/mp3-preview/de23db0b1c55873cd20a1f260f9f15b0b6807080?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:7mzHEzbsl5iOvBRuXwReZU"
+}

@@ -1,0 +1,151 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        },
+        "href": "https://api.spotify.com/v1/artists/15h5B5quwDm2C1rhbtvUPD",
+        "id": "15h5B5quwDm2C1rhbtvUPD",
+        "name": "Cocoon",
+        "type": "artist",
+        "uri": "spotify:artist:15h5B5quwDm2C1rhbtvUPD"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AT",
+      "BA",
+      "BG",
+      "BY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "KZ",
+      "LT",
+      "LV",
+      "MC",
+      "ME",
+      "MK",
+      "MT",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6zanYbR1BtPWN2T1197bid"
+    },
+    "href": "https://api.spotify.com/v1/albums/6zanYbR1BtPWN2T1197bid",
+    "id": "6zanYbR1BtPWN2T1197bid",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739a5552aa4a93c4794fe1452d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029a5552aa4a93c4794fe1452d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519a5552aa4a93c4794fe1452d",
+        "width": 64
+      }
+    ],
+    "name": "Where The Oceans End",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6zanYbR1BtPWN2T1197bid"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+      },
+      "href": "https://api.spotify.com/v1/artists/15h5B5quwDm2C1rhbtvUPD",
+      "id": "15h5B5quwDm2C1rhbtvUPD",
+      "name": "Cocoon",
+      "type": "artist",
+      "uri": "spotify:artist:15h5B5quwDm2C1rhbtvUPD"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BA",
+    "BG",
+    "BY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "KZ",
+    "LT",
+    "LV",
+    "MC",
+    "ME",
+    "MK",
+    "MT",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 201786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRIGW1000370"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1cXPkN2uKjwWRPhtssrRLX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1cXPkN2uKjwWRPhtssrRLX",
+  "id": "1cXPkN2uKjwWRPhtssrRLX",
+  "is_local": false,
+  "name": "Sushi",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1cXPkN2uKjwWRPhtssrRLX"
+}

@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3zJ68q2vwXpeJypOxOM1DU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3zJ68q2vwXpeJypOxOM1DU",
+        "id": "3zJ68q2vwXpeJypOxOM1DU",
+        "name": "Daniel Caine Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:3zJ68q2vwXpeJypOxOM1DU"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2CQwKrXRnqZUMgLPeT2PWS"
+    },
+    "href": "https://api.spotify.com/v1/albums/2CQwKrXRnqZUMgLPeT2PWS",
+    "id": "2CQwKrXRnqZUMgLPeT2PWS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273235e656f3c9990c3b29abb1e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02235e656f3c9990c3b29abb1e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851235e656f3c9990c3b29abb1e",
+        "width": 64
+      }
+    ],
+    "name": "Hill Street Blues",
+    "release_date": "1999-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:2CQwKrXRnqZUMgLPeT2PWS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zJ68q2vwXpeJypOxOM1DU"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zJ68q2vwXpeJypOxOM1DU",
+      "id": "3zJ68q2vwXpeJypOxOM1DU",
+      "name": "Daniel Caine Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3zJ68q2vwXpeJypOxOM1DU"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191213,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC9801487"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0eJAWCxiT1kDhJ6PmjdP4e"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0eJAWCxiT1kDhJ6PmjdP4e",
+  "id": "0eJAWCxiT1kDhJ6PmjdP4e",
+  "is_local": false,
+  "name": "Hill Street Blues",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/f6081bdd83576f0421f57fed5ce8705d815a7ad5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0eJAWCxiT1kDhJ6PmjdP4e"
+}

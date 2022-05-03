@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3UhIlk54Oe4ja06V962ptU",
+        "id": "3UhIlk54Oe4ja06V962ptU",
+        "name": "Triggerfinger",
+        "type": "artist",
+        "uri": "spotify:artist:3UhIlk54Oe4ja06V962ptU"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/31mVG6MIiOwVfUxN8Tcimx"
+    },
+    "href": "https://api.spotify.com/v1/albums/31mVG6MIiOwVfUxN8Tcimx",
+    "id": "31mVG6MIiOwVfUxN8Tcimx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27340d9c8789a143685baaa9245",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0240d9c8789a143685baaa9245",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485140d9c8789a143685baaa9245",
+        "width": 64
+      }
+    ],
+    "name": "By Absence Of The Sun",
+    "release_date": "2014-04-21",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:31mVG6MIiOwVfUxN8Tcimx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UhIlk54Oe4ja06V962ptU",
+      "id": "3UhIlk54Oe4ja06V962ptU",
+      "name": "Triggerfinger",
+      "type": "artist",
+      "uri": "spotify:artist:3UhIlk54Oe4ja06V962ptU"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 239440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEN151400003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/51sDC4uVZoAwadfH1mSWMa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/51sDC4uVZoAwadfH1mSWMa",
+  "id": "51sDC4uVZoAwadfH1mSWMa",
+  "is_local": false,
+  "name": "By Absence Of The Sun",
+  "popularity": 6,
+  "preview_url": "https://p.scdn.co/mp3-preview/a9af91dcb616904f4925e3323ec44f94540b7859?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:51sDC4uVZoAwadfH1mSWMa"
+}

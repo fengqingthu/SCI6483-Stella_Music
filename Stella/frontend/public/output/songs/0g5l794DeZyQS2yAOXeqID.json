@@ -1,0 +1,113 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        },
+        "href": "https://api.spotify.com/v1/artists/2EO56JK4txid1Pss9GVbOL",
+        "id": "2EO56JK4txid1Pss9GVbOL",
+        "name": "Stars",
+        "type": "artist",
+        "uri": "spotify:artist:2EO56JK4txid1Pss9GVbOL"
+      }
+    ],
+    "available_markets": [
+      "BO",
+      "BR",
+      "CO",
+      "CR",
+      "EC",
+      "GT",
+      "HN",
+      "ID",
+      "KR",
+      "MX",
+      "MY",
+      "PE",
+      "PH",
+      "SG",
+      "SV",
+      "US",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1DO8C1pmMT1llrTbm0Se83"
+    },
+    "href": "https://api.spotify.com/v1/albums/1DO8C1pmMT1llrTbm0Se83",
+    "id": "1DO8C1pmMT1llrTbm0Se83",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273260f56f9b840c8b736f369da",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02260f56f9b840c8b736f369da",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851260f56f9b840c8b736f369da",
+        "width": 64
+      }
+    ],
+    "name": "No One Is Lost",
+    "release_date": "2014-10-07",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1DO8C1pmMT1llrTbm0Se83"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+      },
+      "href": "https://api.spotify.com/v1/artists/2EO56JK4txid1Pss9GVbOL",
+      "id": "2EO56JK4txid1Pss9GVbOL",
+      "name": "Stars",
+      "type": "artist",
+      "uri": "spotify:artist:2EO56JK4txid1Pss9GVbOL"
+    }
+  ],
+  "available_markets": [
+    "BO",
+    "BR",
+    "CO",
+    "CR",
+    "EC",
+    "GT",
+    "HN",
+    "ID",
+    "KR",
+    "MX",
+    "MY",
+    "PE",
+    "PH",
+    "SG",
+    "SV",
+    "US",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 285933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USATO1400513"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0g5l794DeZyQS2yAOXeqID"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0g5l794DeZyQS2yAOXeqID",
+  "id": "0g5l794DeZyQS2yAOXeqID",
+  "is_local": false,
+  "name": "No One Is Lost",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/eb6f001cfd10baaf79cc5e86d61f9d1c8c60e554?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:0g5l794DeZyQS2yAOXeqID"
+}

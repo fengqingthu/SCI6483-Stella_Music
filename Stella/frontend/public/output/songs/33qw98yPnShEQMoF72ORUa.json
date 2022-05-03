@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5tVyieWwN9j09jXUovK2zN",
+        "id": "5tVyieWwN9j09jXUovK2zN",
+        "name": "Danny Saucedo",
+        "type": "artist",
+        "uri": "spotify:artist:5tVyieWwN9j09jXUovK2zN"
+      }
+    ],
+    "available_markets": [
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN"
+    },
+    "href": "https://api.spotify.com/v1/albums/1B0mVsLzCERctx9aZDC5yN",
+    "id": "1B0mVsLzCERctx9aZDC5yN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c8dab79e02c53be58f003ea7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c8dab79e02c53be58f003ea7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c8dab79e02c53be58f003ea7",
+        "width": 64
+      }
+    ],
+    "name": "Amazing",
+    "release_date": "2012-02-26",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1B0mVsLzCERctx9aZDC5yN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+      },
+      "href": "https://api.spotify.com/v1/artists/5tVyieWwN9j09jXUovK2zN",
+      "id": "5tVyieWwN9j09jXUovK2zN",
+      "name": "Danny Saucedo",
+      "type": "artist",
+      "uri": "spotify:artist:5tVyieWwN9j09jXUovK2zN"
+    }
+  ],
+  "available_markets": [
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 181266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEBGA1200006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/33qw98yPnShEQMoF72ORUa",
+  "id": "33qw98yPnShEQMoF72ORUa",
+  "is_local": false,
+  "name": "Amazing",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/a65a2d7a43b9f6ea05b74af0f5cf9dfebc0293ff?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:33qw98yPnShEQMoF72ORUa"
+}

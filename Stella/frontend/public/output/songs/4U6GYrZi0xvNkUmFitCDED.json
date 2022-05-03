@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        "href": "https://api.spotify.com/v1/artists/04vj3iPUiVh5melWr0w3xT",
+        "id": "04vj3iPUiVh5melWr0w3xT",
+        "name": "Christine and the Queens",
+        "type": "artist",
+        "uri": "spotify:artist:04vj3iPUiVh5melWr0w3xT"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "DE",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+    },
+    "href": "https://api.spotify.com/v1/albums/5qYhFUAumctJEgm6nFJJfO",
+    "id": "5qYhFUAumctJEgm6nFJJfO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27346200c6d9f7ecc5f73a81bff",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0246200c6d9f7ecc5f73a81bff",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485146200c6d9f7ecc5f73a81bff",
+        "width": 64
+      }
+    ],
+    "name": "Christine and the Queens",
+    "release_date": "2015-06-05",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5qYhFUAumctJEgm6nFJJfO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+      },
+      "href": "https://api.spotify.com/v1/artists/04vj3iPUiVh5melWr0w3xT",
+      "id": "04vj3iPUiVh5melWr0w3xT",
+      "name": "Christine and the Queens",
+      "type": "artist",
+      "uri": "spotify:artist:04vj3iPUiVh5melWr0w3xT"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "DE",
+    "MX",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 233247,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR6P11500950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4U6GYrZi0xvNkUmFitCDED",
+  "id": "4U6GYrZi0xvNkUmFitCDED",
+  "is_local": false,
+  "name": "Tilted",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/63e1be100f2a75d4a983befd6696935a5979ac64?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4U6GYrZi0xvNkUmFitCDED"
+}

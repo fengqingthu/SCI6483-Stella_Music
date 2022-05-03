@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4FTPrxr5zwdfmh46OLnNhn"
+        },
+        "href": "https://api.spotify.com/v1/artists/4FTPrxr5zwdfmh46OLnNhn",
+        "id": "4FTPrxr5zwdfmh46OLnNhn",
+        "name": "The Van Jets",
+        "type": "artist",
+        "uri": "spotify:artist:4FTPrxr5zwdfmh46OLnNhn"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5vWGjMokoXbrOTHKWnBQcG"
+    },
+    "href": "https://api.spotify.com/v1/albums/5vWGjMokoXbrOTHKWnBQcG",
+    "id": "5vWGjMokoXbrOTHKWnBQcG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273885dd90caf46eae91cbb4832",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02885dd90caf46eae91cbb4832",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851885dd90caf46eae91cbb4832",
+        "width": 64
+      }
+    ],
+    "name": "Here Comes the Light",
+    "release_date": "2012-07-22",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5vWGjMokoXbrOTHKWnBQcG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4FTPrxr5zwdfmh46OLnNhn"
+      },
+      "href": "https://api.spotify.com/v1/artists/4FTPrxr5zwdfmh46OLnNhn",
+      "id": "4FTPrxr5zwdfmh46OLnNhn",
+      "name": "The Van Jets",
+      "type": "artist",
+      "uri": "spotify:artist:4FTPrxr5zwdfmh46OLnNhn"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 209181,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEB091200001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1A5xiHhDriHzA8C7CGq51l"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1A5xiHhDriHzA8C7CGq51l",
+  "id": "1A5xiHhDriHzA8C7CGq51l",
+  "is_local": false,
+  "name": "Here Comes the Light - Radio Edit",
+  "popularity": 4,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1A5xiHhDriHzA8C7CGq51l"
+}

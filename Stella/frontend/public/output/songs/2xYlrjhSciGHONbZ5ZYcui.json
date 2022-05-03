@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0vAw8AfCObQgZlXRSRILOq"
+        },
+        "href": "https://api.spotify.com/v1/artists/0vAw8AfCObQgZlXRSRILOq",
+        "id": "0vAw8AfCObQgZlXRSRILOq",
+        "name": "Orange Blossom",
+        "type": "artist",
+        "uri": "spotify:artist:0vAw8AfCObQgZlXRSRILOq"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7jLIH7smlJslupfepXfug5"
+    },
+    "href": "https://api.spotify.com/v1/albums/7jLIH7smlJslupfepXfug5",
+    "id": "7jLIH7smlJslupfepXfug5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a7db55eb6cf0dd97f4f043e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a7db55eb6cf0dd97f4f043e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a7db55eb6cf0dd97f4f043e",
+        "width": 64
+      }
+    ],
+    "name": "Under the Shade of Violets",
+    "release_date": "2014-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7jLIH7smlJslupfepXfug5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0vAw8AfCObQgZlXRSRILOq"
+      },
+      "href": "https://api.spotify.com/v1/artists/0vAw8AfCObQgZlXRSRILOq",
+      "id": "0vAw8AfCObQgZlXRSRILOq",
+      "name": "Orange Blossom",
+      "type": "artist",
+      "uri": "spotify:artist:0vAw8AfCObQgZlXRSRILOq"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 349013,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRX471410002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2xYlrjhSciGHONbZ5ZYcui"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2xYlrjhSciGHONbZ5ZYcui",
+  "id": "2xYlrjhSciGHONbZ5ZYcui",
+  "is_local": false,
+  "name": "Ya Sîdî",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/a62a239c37eed6b4b46b29a7effa624cb5cce23d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2xYlrjhSciGHONbZ5ZYcui"
+}

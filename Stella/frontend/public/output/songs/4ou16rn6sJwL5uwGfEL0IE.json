@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OpqU68JpZlzvjAJj3B2Da",
+        "id": "3OpqU68JpZlzvjAJj3B2Da",
+        "name": "Alestorm",
+        "type": "artist",
+        "uri": "spotify:artist:3OpqU68JpZlzvjAJj3B2Da"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/44yDI6WQi6iJqW4tvqfsfB"
+    },
+    "href": "https://api.spotify.com/v1/albums/44yDI6WQi6iJqW4tvqfsfB",
+    "id": "44yDI6WQi6iJqW4tvqfsfB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27370848e9220813396388b86cb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0270848e9220813396388b86cb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485170848e9220813396388b86cb",
+        "width": 64
+      }
+    ],
+    "name": "Sunset On The Golden Age",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:44yDI6WQi6iJqW4tvqfsfB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+      },
+      "href": "https://api.spotify.com/v1/artists/3OpqU68JpZlzvjAJj3B2Da",
+      "id": "3OpqU68JpZlzvjAJj3B2Da",
+      "name": "Alestorm",
+      "type": "artist",
+      "uri": "spotify:artist:3OpqU68JpZlzvjAJj3B2Da"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261454609"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4ou16rn6sJwL5uwGfEL0IE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4ou16rn6sJwL5uwGfEL0IE",
+  "id": "4ou16rn6sJwL5uwGfEL0IE",
+  "is_local": false,
+  "name": "Hangover",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/0a1d30c46baa8bb482590d44e172fe2f19e9fffa?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:4ou16rn6sJwL5uwGfEL0IE"
+}

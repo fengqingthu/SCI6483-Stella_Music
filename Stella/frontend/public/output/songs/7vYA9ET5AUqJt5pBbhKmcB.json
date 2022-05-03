@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+        "id": "3ICflSq6ZgYAIrm2CTkfVP",
+        "name": "The Animals",
+        "type": "artist",
+        "uri": "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
+    },
+    "href": "https://api.spotify.com/v1/albums/3GoBNqjGtsJ8jnwp1PfKby",
+    "id": "3GoBNqjGtsJ8jnwp1PfKby",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b89d37d22e4d2392ee12898c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b89d37d22e4d2392ee12898c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b89d37d22e4d2392ee12898c",
+        "width": 64
+      }
+    ],
+    "name": "Animal Tracks",
+    "release_date": "1965-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:3GoBNqjGtsJ8jnwp1PfKby"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+      "id": "3ICflSq6ZgYAIrm2CTkfVP",
+      "name": "The Animals",
+      "type": "artist",
+      "uri": "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 149360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA171360028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7vYA9ET5AUqJt5pBbhKmcB",
+  "id": "7vYA9ET5AUqJt5pBbhKmcB",
+  "is_local": false,
+  "name": "Don't Let Me Be Misunderstood",
+  "popularity": 56,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:7vYA9ET5AUqJt5pBbhKmcB"
+}

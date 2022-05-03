@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr"
+        },
+        "href": "https://api.spotify.com/v1/artists/1JOdUvDAzNy3L37rZ4Nigr",
+        "id": "1JOdUvDAzNy3L37rZ4Nigr",
+        "name": "pewdiepie",
+        "type": "artist",
+        "uri": "spotify:artist:1JOdUvDAzNy3L37rZ4Nigr"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/57N8XHgAuNLtGPpHQCMvNz"
+    },
+    "href": "https://api.spotify.com/v1/albums/57N8XHgAuNLtGPpHQCMvNz",
+    "id": "57N8XHgAuNLtGPpHQCMvNz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738464155d8f72a1ed08e588dd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028464155d8f72a1ed08e588dd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518464155d8f72a1ed08e588dd",
+        "width": 64
+      }
+    ],
+    "name": "Bitch Lasagna (Instrumental)",
+    "release_date": "2018-12-10",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:57N8XHgAuNLtGPpHQCMvNz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr"
+      },
+      "href": "https://api.spotify.com/v1/artists/1JOdUvDAzNy3L37rZ4Nigr",
+      "id": "1JOdUvDAzNy3L37rZ4Nigr",
+      "name": "pewdiepie",
+      "type": "artist",
+      "uri": "spotify:artist:1JOdUvDAzNy3L37rZ4Nigr"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 134533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "RUA1H1813089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7JxaWQzt5NQhN99OCNt2oO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7JxaWQzt5NQhN99OCNt2oO",
+  "id": "7JxaWQzt5NQhN99OCNt2oO",
+  "is_local": false,
+  "name": "Bitch Lasagna (Instrumental)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7JxaWQzt5NQhN99OCNt2oO"
+}

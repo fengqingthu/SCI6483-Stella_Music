@@ -1,0 +1,173 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6kLw7VpGwN4N0sBdmKhhfd",
+        "id": "6kLw7VpGwN4N0sBdmKhhfd",
+        "name": "Emilie Simon",
+        "type": "artist",
+        "uri": "spotify:artist:6kLw7VpGwN4N0sBdmKhhfd"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "FI",
+      "FR",
+      "GB",
+      "GN",
+      "GR",
+      "HK",
+      "HU",
+      "ID",
+      "IE",
+      "IT",
+      "KH",
+      "KR",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "RO",
+      "RW",
+      "SE",
+      "SG",
+      "SK",
+      "TH",
+      "TW",
+      "US",
+      "VN",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0LBqnZ4gu82Ke7OkKzVDys"
+    },
+    "href": "https://api.spotify.com/v1/albums/0LBqnZ4gu82Ke7OkKzVDys",
+    "id": "0LBqnZ4gu82Ke7OkKzVDys",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f08f21b4d64d953d86cd7ea6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f08f21b4d64d953d86cd7ea6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f08f21b4d64d953d86cd7ea6",
+        "width": 64
+      }
+    ],
+    "name": "Emilie Simon",
+    "release_date": "2003-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0LBqnZ4gu82Ke7OkKzVDys"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd"
+      },
+      "href": "https://api.spotify.com/v1/artists/6kLw7VpGwN4N0sBdmKhhfd",
+      "id": "6kLw7VpGwN4N0sBdmKhhfd",
+      "name": "Emilie Simon",
+      "type": "artist",
+      "uri": "spotify:artist:6kLw7VpGwN4N0sBdmKhhfd"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BE",
+    "BG",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "GB",
+    "GN",
+    "GR",
+    "HK",
+    "HU",
+    "ID",
+    "IE",
+    "IT",
+    "KH",
+    "KR",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "RO",
+    "RW",
+    "SE",
+    "SG",
+    "SK",
+    "TH",
+    "TW",
+    "US",
+    "VN",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 184040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ010201880"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2enOlOxkWuXIwZEVtmjPoe"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2enOlOxkWuXIwZEVtmjPoe",
+  "id": "2enOlOxkWuXIwZEVtmjPoe",
+  "is_local": false,
+  "name": "Desert - Version Française",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2enOlOxkWuXIwZEVtmjPoe"
+}

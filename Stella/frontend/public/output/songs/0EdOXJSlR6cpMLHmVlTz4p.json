@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ptJIIR10UVlGjN0VntFaK",
+        "id": "4ptJIIR10UVlGjN0VntFaK",
+        "name": "Day Wave",
+        "type": "artist",
+        "uri": "spotify:artist:4ptJIIR10UVlGjN0VntFaK"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2E2Hr50ZbLkmygd4L7FDAy"
+    },
+    "href": "https://api.spotify.com/v1/albums/2E2Hr50ZbLkmygd4L7FDAy",
+    "id": "2E2Hr50ZbLkmygd4L7FDAy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ad6021c82269b58d171a840b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ad6021c82269b58d171a840b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ad6021c82269b58d171a840b",
+        "width": 64
+      }
+    ],
+    "name": "Potions",
+    "release_date": "2020-03-26",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2E2Hr50ZbLkmygd4L7FDAy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ptJIIR10UVlGjN0VntFaK",
+      "id": "4ptJIIR10UVlGjN0VntFaK",
+      "name": "Day Wave",
+      "type": "artist",
+      "uri": "spotify:artist:4ptJIIR10UVlGjN0VntFaK"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 190061,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBPVV2003025"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0EdOXJSlR6cpMLHmVlTz4p"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0EdOXJSlR6cpMLHmVlTz4p",
+  "id": "0EdOXJSlR6cpMLHmVlTz4p",
+  "is_local": false,
+  "name": "Potions",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/b74e225114cc78aa059827d534efba73d815960d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0EdOXJSlR6cpMLHmVlTz4p"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.48,
+  "energy": 0.351,
+  "key": 0,
+  "loudness": -6.689,
+  "mode": 1,
+  "speechiness": 0.0251,
+  "acousticness": 0.46,
+  "instrumentalness": 0.0000598,
+  "liveness": 0.103,
+  "valence": 0.0396,
+  "tempo": 83.404,
+  "type": "audio_features",
+  "id": "12YEsOa2fYlRWSRrVolP54",
+  "uri": "spotify:track:12YEsOa2fYlRWSRrVolP54",
+  "track_href": "https://api.spotify.com/v1/tracks/12YEsOa2fYlRWSRrVolP54",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/12YEsOa2fYlRWSRrVolP54",
+  "duration_ms": 218308,
+  "time_signature": 4
+}

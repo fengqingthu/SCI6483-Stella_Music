@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "DK",
+      "FR",
+      "GB",
+      "HK",
+      "HR",
+      "IE",
+      "KG",
+      "KR",
+      "KZ",
+      "LU",
+      "ME",
+      "MK",
+      "NL",
+      "RO",
+      "RS",
+      "SA",
+      "SI",
+      "TJ",
+      "UA",
+      "UZ",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3wlVkdNTC6YYSXUMI6GMTZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/3wlVkdNTC6YYSXUMI6GMTZ",
+    "id": "3wlVkdNTC6YYSXUMI6GMTZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a9771599da1441189a505add",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a9771599da1441189a505add",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a9771599da1441189a505add",
+        "width": 64
+      }
+    ],
+    "name": "Kick-Ass: The Score",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 39,
+    "type": "album",
+    "uri": "spotify:album:3wlVkdNTC6YYSXUMI6GMTZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4MEZhJCV2uLCrhZoCzfjVs"
+      },
+      "href": "https://api.spotify.com/v1/artists/4MEZhJCV2uLCrhZoCzfjVs",
+      "id": "4MEZhJCV2uLCrhZoCzfjVs",
+      "name": "Marius de Vries",
+      "type": "artist",
+      "uri": "spotify:artist:4MEZhJCV2uLCrhZoCzfjVs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/147dKKwnUn9qesNx8uAs3Z",
+      "id": "147dKKwnUn9qesNx8uAs3Z",
+      "name": "Ilan Eshkeri",
+      "type": "artist",
+      "uri": "spotify:artist:147dKKwnUn9qesNx8uAs3Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5SEW04tNMMrOz7UFQJA6vz",
+      "id": "5SEW04tNMMrOz7UFQJA6vz",
+      "name": "Henry Jackman",
+      "type": "artist",
+      "uri": "spotify:artist:5SEW04tNMMrOz7UFQJA6vz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
+      },
+      "href": "https://api.spotify.com/v1/artists/4UGoqrmNHDJ166XD6DtZni",
+      "id": "4UGoqrmNHDJ166XD6DtZni",
+      "name": "John Murphy",
+      "type": "artist",
+      "uri": "spotify:artist:4UGoqrmNHDJ166XD6DtZni"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "DK",
+    "FR",
+    "GB",
+    "HK",
+    "HR",
+    "IE",
+    "KG",
+    "KR",
+    "KZ",
+    "LU",
+    "ME",
+    "MK",
+    "NL",
+    "RO",
+    "RS",
+    "SA",
+    "SI",
+    "TJ",
+    "UA",
+    "UZ",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 109733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71005076"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5q6hVDYtmTlxvkBlTLK6WO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5q6hVDYtmTlxvkBlTLK6WO",
+  "id": "5q6hVDYtmTlxvkBlTLK6WO",
+  "is_local": false,
+  "name": "Flying Home",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 38,
+  "type": "track",
+  "uri": "spotify:track:5q6hVDYtmTlxvkBlTLK6WO"
+}

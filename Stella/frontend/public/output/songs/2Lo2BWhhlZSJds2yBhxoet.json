@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
+        "id": "6UBA15slIuadJ8h2lPRPos",
+        "name": "Tech N9ne",
+        "type": "artist",
+        "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ytQrBinlg9hb4uoaEmk37"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ytQrBinlg9hb4uoaEmk37",
+    "id": "0ytQrBinlg9hb4uoaEmk37",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736a0b17b302637c4094433f09",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026a0b17b302637c4094433f09",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516a0b17b302637c4094433f09",
+        "width": 64
+      }
+    ],
+    "name": "All 6's And 7's",
+    "release_date": "2011-06-07",
+    "release_date_precision": "day",
+    "total_tracks": 24,
+    "type": "album",
+    "uri": "spotify:album:0ytQrBinlg9hb4uoaEmk37"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
+      "id": "6UBA15slIuadJ8h2lPRPos",
+      "name": "Tech N9ne",
+      "type": "artist",
+      "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 326426,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "USZXT1109711"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Lo2BWhhlZSJds2yBhxoet",
+  "id": "2Lo2BWhhlZSJds2yBhxoet",
+  "is_local": false,
+  "name": "Worldwide Choppers",
+  "popularity": 55,
+  "preview_url": "https://p.scdn.co/mp3-preview/93ee70ba204df14022300bd0dc812b094644cb28?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2Lo2BWhhlZSJds2yBhxoet"
+}

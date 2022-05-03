@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
+        },
+        "href": "https://api.spotify.com/v1/artists/6KJIIOCWsWtNc7ICINtPEw",
+        "id": "6KJIIOCWsWtNc7ICINtPEw",
+        "name": "Jonathan Wilson",
+        "type": "artist",
+        "uri": "spotify:artist:6KJIIOCWsWtNc7ICINtPEw"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
+    },
+    "href": "https://api.spotify.com/v1/albums/0oFgCWCbCPdLcDBVblR65z",
+    "id": "0oFgCWCbCPdLcDBVblR65z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c685e3f17c57b34a9a5ee8e5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c685e3f17c57b34a9a5ee8e5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c685e3f17c57b34a9a5ee8e5",
+        "width": 64
+      }
+    ],
+    "name": "Fanfare",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:0oFgCWCbCPdLcDBVblR65z"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
+      },
+      "href": "https://api.spotify.com/v1/artists/6KJIIOCWsWtNc7ICINtPEw",
+      "id": "6KJIIOCWsWtNc7ICINtPEw",
+      "name": "Jonathan Wilson",
+      "type": "artist",
+      "uri": "spotify:artist:6KJIIOCWsWtNc7ICINtPEw"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 390666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBRP1342307"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0dTKg7gQzxuBRNRy0e1IVX",
+  "id": "0dTKg7gQzxuBRNRy0e1IVX",
+  "is_local": false,
+  "name": "Cecil Taylor",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:0dTKg7gQzxuBRNRy0e1IVX"
+}

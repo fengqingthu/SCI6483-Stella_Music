@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1LxdCpPSFpzNBKyQI22aDz"
+        },
+        "href": "https://api.spotify.com/v1/artists/1LxdCpPSFpzNBKyQI22aDz",
+        "id": "1LxdCpPSFpzNBKyQI22aDz",
+        "name": "Les Rallizes Dénudés",
+        "type": "artist",
+        "uri": "spotify:artist:1LxdCpPSFpzNBKyQI22aDz"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6GZWFHxmtg3J7rwrRthUaq"
+    },
+    "href": "https://api.spotify.com/v1/albums/6GZWFHxmtg3J7rwrRthUaq",
+    "id": "6GZWFHxmtg3J7rwrRthUaq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273197a7ec77ecfebc8cdc8b035",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02197a7ec77ecfebc8cdc8b035",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851197a7ec77ecfebc8cdc8b035",
+        "width": 64
+      }
+    ],
+    "name": "屋根裏 1979",
+    "release_date": "2017-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:6GZWFHxmtg3J7rwrRthUaq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1LxdCpPSFpzNBKyQI22aDz"
+      },
+      "href": "https://api.spotify.com/v1/artists/1LxdCpPSFpzNBKyQI22aDz",
+      "id": "1LxdCpPSFpzNBKyQI22aDz",
+      "name": "Les Rallizes Dénudés",
+      "type": "artist",
+      "uri": "spotify:artist:1LxdCpPSFpzNBKyQI22aDz"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 539442,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBSMU4021629"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2ZfwdK3gyRg2hotQ6Mhoqp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2ZfwdK3gyRg2hotQ6Mhoqp",
+  "id": "2ZfwdK3gyRg2hotQ6Mhoqp",
+  "is_local": false,
+  "name": "The Last One",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:2ZfwdK3gyRg2hotQ6Mhoqp"
+}

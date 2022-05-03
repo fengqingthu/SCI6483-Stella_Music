@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "DK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7223Ev71CxAtsbLzVkTLOj"
+    },
+    "href": "https://api.spotify.com/v1/albums/7223Ev71CxAtsbLzVkTLOj",
+    "id": "7223Ev71CxAtsbLzVkTLOj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27396fa2057cb0f0d4d60c99665",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0296fa2057cb0f0d4d60c99665",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485196fa2057cb0f0d4d60c99665",
+        "width": 64
+      }
+    ],
+    "name": "Women",
+    "release_date": "2008-10-27",
+    "release_date_precision": "day",
+    "total_tracks": 40,
+    "type": "album",
+    "uri": "spotify:album:7223Ev71CxAtsbLzVkTLOj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Gf3LSwa5hh8Cjo60WhVjC",
+      "id": "7Gf3LSwa5hh8Cjo60WhVjC",
+      "name": "India.Arie",
+      "type": "artist",
+      "uri": "spotify:artist:7Gf3LSwa5hh8Cjo60WhVjC"
+    }
+  ],
+  "available_markets": [
+    "DK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 296106,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMO10001082"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7iLjAQAo64SYvN1TTlEeMo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7iLjAQAo64SYvN1TTlEeMo",
+  "id": "7iLjAQAo64SYvN1TTlEeMo",
+  "is_local": false,
+  "name": "Brown Skin",
+  "popularity": 14,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:7iLjAQAo64SYvN1TTlEeMo"
+}

@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        "href": "https://api.spotify.com/v1/artists/3HqP3nd8WI0VfHRhApPlan",
+        "id": "3HqP3nd8WI0VfHRhApPlan",
+        "name": "Trinix",
+        "type": "artist",
+        "uri": "spotify:artist:3HqP3nd8WI0VfHRhApPlan"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1QPJGTnLWsv6jTFzZrdYzM"
+    },
+    "href": "https://api.spotify.com/v1/albums/1QPJGTnLWsv6jTFzZrdYzM",
+    "id": "1QPJGTnLWsv6jTFzZrdYzM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d7478695b29ccdd9f8e2138c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d7478695b29ccdd9f8e2138c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d7478695b29ccdd9f8e2138c",
+        "width": 64
+      }
+    ],
+    "name": "Rodeo",
+    "release_date": "2019-07-12",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1QPJGTnLWsv6jTFzZrdYzM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+      },
+      "href": "https://api.spotify.com/v1/artists/3HqP3nd8WI0VfHRhApPlan",
+      "id": "3HqP3nd8WI0VfHRhApPlan",
+      "name": "Trinix",
+      "type": "artist",
+      "uri": "spotify:artist:3HqP3nd8WI0VfHRhApPlan"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 159385,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11902941"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2sXEIFgP2Zlmi1tw8V1yMO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2sXEIFgP2Zlmi1tw8V1yMO",
+  "id": "2sXEIFgP2Zlmi1tw8V1yMO",
+  "is_local": false,
+  "name": "Rodeo",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/95fc2e1998a796911069a36678609a8d3d0011e5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2sXEIFgP2Zlmi1tw8V1yMO"
+}

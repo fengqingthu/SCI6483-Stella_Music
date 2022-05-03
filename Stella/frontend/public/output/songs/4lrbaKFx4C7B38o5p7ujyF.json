@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        },
+        "href": "https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM",
+        "id": "43O3c6wewpzPKwVaGEEtBM",
+        "name": "My Morning Jacket",
+        "type": "artist",
+        "uri": "spotify:artist:43O3c6wewpzPKwVaGEEtBM"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5QdrLd11irInpKv030UbHV"
+    },
+    "href": "https://api.spotify.com/v1/albums/5QdrLd11irInpKv030UbHV",
+    "id": "5QdrLd11irInpKv030UbHV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273142ce2c6db6c9bf50a1deab2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02142ce2c6db6c9bf50a1deab2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851142ce2c6db6c9bf50a1deab2",
+        "width": 64
+      }
+    ],
+    "name": "The Waterfall II",
+    "release_date": "2020-07-10",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5QdrLd11irInpKv030UbHV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+      },
+      "href": "https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM",
+      "id": "43O3c6wewpzPKwVaGEEtBM",
+      "name": "My Morning Jacket",
+      "type": "artist",
+      "uri": "spotify:artist:43O3c6wewpzPKwVaGEEtBM"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 373973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USATO2000165"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4lrbaKFx4C7B38o5p7ujyF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4lrbaKFx4C7B38o5p7ujyF",
+  "id": "4lrbaKFx4C7B38o5p7ujyF",
+  "is_local": false,
+  "name": "Feel You",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4lrbaKFx4C7B38o5p7ujyF"
+}

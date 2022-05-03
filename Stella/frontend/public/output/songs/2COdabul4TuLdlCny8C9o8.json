@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        },
+        "href": "https://api.spotify.com/v1/artists/11wRdbnoYqRddKBrpHt4Ue",
+        "id": "11wRdbnoYqRddKBrpHt4Ue",
+        "name": "Kasabian",
+        "type": "artist",
+        "uri": "spotify:artist:11wRdbnoYqRddKBrpHt4Ue"
+      }
+    ],
+    "available_markets": [
+      "IT",
+      "MT",
+      "SM"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6CrTXLy88JacRvA30aIaLP"
+    },
+    "href": "https://api.spotify.com/v1/albums/6CrTXLy88JacRvA30aIaLP",
+    "id": "6CrTXLy88JacRvA30aIaLP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dc11bd7df265ceb433eb2c70",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dc11bd7df265ceb433eb2c70",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dc11bd7df265ceb433eb2c70",
+        "width": 64
+      }
+    ],
+    "name": "Velociraptor!",
+    "release_date": "2011",
+    "release_date_precision": "year",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:6CrTXLy88JacRvA30aIaLP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+      },
+      "href": "https://api.spotify.com/v1/artists/11wRdbnoYqRddKBrpHt4Ue",
+      "id": "11wRdbnoYqRddKBrpHt4Ue",
+      "name": "Kasabian",
+      "type": "artist",
+      "uri": "spotify:artist:11wRdbnoYqRddKBrpHt4Ue"
+    }
+  ],
+  "available_markets": [
+    "IT",
+    "MT",
+    "SM"
+  ],
+  "disc_number": 1,
+  "duration_ms": 243960,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBARL1100558"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2COdabul4TuLdlCny8C9o8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2COdabul4TuLdlCny8C9o8",
+  "id": "2COdabul4TuLdlCny8C9o8",
+  "is_local": false,
+  "name": "Goodbye Kiss",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/762e04b4db0018e60ebfc1f717f49c33162cbf51?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2COdabul4TuLdlCny8C9o8"
+}

@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY"
+        },
+        "href": "https://api.spotify.com/v1/artists/30YHp6jELIUSYUGssR9JRY",
+        "id": "30YHp6jELIUSYUGssR9JRY",
+        "name": "Vladimir Cosma",
+        "type": "artist",
+        "uri": "spotify:artist:30YHp6jELIUSYUGssR9JRY"
+      }
+    ],
+    "available_markets": [
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/49bkxdA9UAmWeqF9VA6YVI"
+    },
+    "href": "https://api.spotify.com/v1/albums/49bkxdA9UAmWeqF9VA6YVI",
+    "id": "49bkxdA9UAmWeqF9VA6YVI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27364f3a190ec893a4d65d198d4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0264f3a190ec893a4d65d198d4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485164f3a190ec893a4d65d198d4",
+        "width": 64
+      }
+    ],
+    "name": "Der große Blonde mit dem schwarzen Schuh (Yves Robert's Original Motion Soundtrack)",
+    "release_date": "1972",
+    "release_date_precision": "year",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:49bkxdA9UAmWeqF9VA6YVI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY"
+      },
+      "href": "https://api.spotify.com/v1/artists/30YHp6jELIUSYUGssR9JRY",
+      "id": "30YHp6jELIUSYUGssR9JRY",
+      "name": "Vladimir Cosma",
+      "type": "artist",
+      "uri": "spotify:artist:30YHp6jELIUSYUGssR9JRY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+      },
+      "href": "https://api.spotify.com/v1/artists/12FFWdcxApUNXV9TljwDpT",
+      "id": "12FFWdcxApUNXV9TljwDpT",
+      "name": "Gheorghe Zamfir",
+      "type": "artist",
+      "uri": "spotify:artist:12FFWdcxApUNXV9TljwDpT"
+    }
+  ],
+  "available_markets": [
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 126333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLF360900190"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3AHKzwlW9MY8Ob6ea6wfED"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3AHKzwlW9MY8Ob6ea6wfED",
+  "id": "3AHKzwlW9MY8Ob6ea6wfED",
+  "is_local": false,
+  "name": "Sirba",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/930191870bb54c6fd8a4ec80d9289b61760c9569?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3AHKzwlW9MY8Ob6ea6wfED"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        "href": "https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve",
+        "id": "5hW4L92KnC6dX9t7tYM4Ve",
+        "name": "Joni Mitchell",
+        "type": "artist",
+        "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+    },
+    "href": "https://api.spotify.com/v1/albums/1vz94WpXDVYIEGja8cjFNa",
+    "id": "1vz94WpXDVYIEGja8cjFNa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e9f77be85457110ebf304da7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e9f77be85457110ebf304da7",
+        "width": 64
+      }
+    ],
+    "name": "Blue",
+    "release_date": "1971-06-22",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1vz94WpXDVYIEGja8cjFNa"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+      },
+      "href": "https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve",
+      "id": "5hW4L92KnC6dX9t7tYM4Ve",
+      "name": "Joni Mitchell",
+      "type": "artist",
+      "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 263480,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRE19600208"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7shVwhUdVbHpykOfbzvDc1",
+  "id": "7shVwhUdVbHpykOfbzvDc1",
+  "is_local": false,
+  "name": "A Case of You",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:7shVwhUdVbHpykOfbzvDc1"
+}

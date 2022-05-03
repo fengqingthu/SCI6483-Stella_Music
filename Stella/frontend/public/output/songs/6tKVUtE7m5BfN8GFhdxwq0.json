@@ -1,0 +1,117 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr"
+        },
+        "href": "https://api.spotify.com/v1/artists/7EIEvxpeoLo0qpHFpSrxOr",
+        "id": "7EIEvxpeoLo0qpHFpSrxOr",
+        "name": "RANDALL",
+        "type": "artist",
+        "uri": "spotify:artist:7EIEvxpeoLo0qpHFpSrxOr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zQrcUTf7m5hTwoOdXuk6E",
+        "id": "5zQrcUTf7m5hTwoOdXuk6E",
+        "name": "Twelve",
+        "type": "artist",
+        "uri": "spotify:artist:5zQrcUTf7m5hTwoOdXuk6E"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75n51LJE4IE6C0OlJZVF1h"
+        },
+        "href": "https://api.spotify.com/v1/artists/75n51LJE4IE6C0OlJZVF1h",
+        "id": "75n51LJE4IE6C0OlJZVF1h",
+        "name": "Yasmine Ammari",
+        "type": "artist",
+        "uri": "spotify:artist:75n51LJE4IE6C0OlJZVF1h"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4UqUx8R6YX1DKEyE2deZi8"
+    },
+    "href": "https://api.spotify.com/v1/albums/4UqUx8R6YX1DKEyE2deZi8",
+    "id": "4UqUx8R6YX1DKEyE2deZi8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27345e479eecf6b0f637ca34286",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0245e479eecf6b0f637ca34286",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485145e479eecf6b0f637ca34286",
+        "width": 64
+      }
+    ],
+    "name": "Sauvage",
+    "release_date": "2018-09-03",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4UqUx8R6YX1DKEyE2deZi8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr"
+      },
+      "href": "https://api.spotify.com/v1/artists/7EIEvxpeoLo0qpHFpSrxOr",
+      "id": "7EIEvxpeoLo0qpHFpSrxOr",
+      "name": "RANDALL",
+      "type": "artist",
+      "uri": "spotify:artist:7EIEvxpeoLo0qpHFpSrxOr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zQrcUTf7m5hTwoOdXuk6E",
+      "id": "5zQrcUTf7m5hTwoOdXuk6E",
+      "name": "Twelve",
+      "type": "artist",
+      "uri": "spotify:artist:5zQrcUTf7m5hTwoOdXuk6E"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/75n51LJE4IE6C0OlJZVF1h"
+      },
+      "href": "https://api.spotify.com/v1/artists/75n51LJE4IE6C0OlJZVF1h",
+      "id": "75n51LJE4IE6C0OlJZVF1h",
+      "name": "Yasmine Ammari",
+      "type": "artist",
+      "uri": "spotify:artist:75n51LJE4IE6C0OlJZVF1h"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 243870,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USLZJ1838759"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6tKVUtE7m5BfN8GFhdxwq0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6tKVUtE7m5BfN8GFhdxwq0",
+  "id": "6tKVUtE7m5BfN8GFhdxwq0",
+  "is_local": false,
+  "name": "Sauvage",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6tKVUtE7m5BfN8GFhdxwq0"
+}

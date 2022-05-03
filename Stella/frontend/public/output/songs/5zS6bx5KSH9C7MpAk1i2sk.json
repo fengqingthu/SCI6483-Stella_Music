@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
+        },
+        "href": "https://api.spotify.com/v1/artists/3UQ87SmqkLxIMdenYnsLld",
+        "id": "3UQ87SmqkLxIMdenYnsLld",
+        "name": "Efence",
+        "type": "artist",
+        "uri": "spotify:artist:3UQ87SmqkLxIMdenYnsLld"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6fsWcJePfjC3FGNj5qF34i"
+    },
+    "href": "https://api.spotify.com/v1/albums/6fsWcJePfjC3FGNj5qF34i",
+    "id": "6fsWcJePfjC3FGNj5qF34i",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cfa5fc78e2e1b5f42081054f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cfa5fc78e2e1b5f42081054f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cfa5fc78e2e1b5f42081054f",
+        "width": 64
+      }
+    ],
+    "name": "Lost Future",
+    "release_date": "2017-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6fsWcJePfjC3FGNj5qF34i"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UQ87SmqkLxIMdenYnsLld",
+      "id": "3UQ87SmqkLxIMdenYnsLld",
+      "name": "Efence",
+      "type": "artist",
+      "uri": "spotify:artist:3UQ87SmqkLxIMdenYnsLld"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 117142,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBSMU4107217"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5zS6bx5KSH9C7MpAk1i2sk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5zS6bx5KSH9C7MpAk1i2sk",
+  "id": "5zS6bx5KSH9C7MpAk1i2sk",
+  "is_local": false,
+  "name": "Exodus",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5zS6bx5KSH9C7MpAk1i2sk"
+}

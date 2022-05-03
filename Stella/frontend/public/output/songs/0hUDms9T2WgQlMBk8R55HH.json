@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        },
+        "href": "https://api.spotify.com/v1/artists/0CUpzKPDfIVzYqMn47jiV3",
+        "id": "0CUpzKPDfIVzYqMn47jiV3",
+        "name": "Curtis Harding",
+        "type": "artist",
+        "uri": "spotify:artist:0CUpzKPDfIVzYqMn47jiV3"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CW",
+      "JP",
+      "MX",
+      "SN",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+    },
+    "href": "https://api.spotify.com/v1/albums/1aLiavRsS14I7FDHVTvE40",
+    "id": "1aLiavRsS14I7FDHVTvE40",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273005cfea9f95a3d59cd41a505",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02005cfea9f95a3d59cd41a505",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851005cfea9f95a3d59cd41a505",
+        "width": 64
+      }
+    ],
+    "name": "Soul Power",
+    "release_date": "2014-06-05",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1aLiavRsS14I7FDHVTvE40"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+      },
+      "href": "https://api.spotify.com/v1/artists/0CUpzKPDfIVzYqMn47jiV3",
+      "id": "0CUpzKPDfIVzYqMn47jiV3",
+      "name": "Curtis Harding",
+      "type": "artist",
+      "uri": "spotify:artist:0CUpzKPDfIVzYqMn47jiV3"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CW",
+    "JP",
+    "MX",
+    "SN",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 203498,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA2B1400665"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0hUDms9T2WgQlMBk8R55HH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0hUDms9T2WgQlMBk8R55HH",
+  "id": "0hUDms9T2WgQlMBk8R55HH",
+  "is_local": false,
+  "name": "Keep On Shining",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/7266b013dba7b7f3641f699dac3d8532ff6a1465?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0hUDms9T2WgQlMBk8R55HH"
+}

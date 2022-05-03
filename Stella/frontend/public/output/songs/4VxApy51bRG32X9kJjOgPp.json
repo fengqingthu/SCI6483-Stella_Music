@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zbQoW1WWTzvITE8w4ckoC",
+        "id": "5zbQoW1WWTzvITE8w4ckoC",
+        "name": "Rex The Dog",
+        "type": "artist",
+        "uri": "spotify:artist:5zbQoW1WWTzvITE8w4ckoC"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2gaw3G7HBQuz93N8X89JIA"
+    },
+    "href": "https://api.spotify.com/v1/albums/2gaw3G7HBQuz93N8X89JIA",
+    "id": "2gaw3G7HBQuz93N8X89JIA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ebe7ceae0534cdfa6c0ad176",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ebe7ceae0534cdfa6c0ad176",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ebe7ceae0534cdfa6c0ad176",
+        "width": 64
+      }
+    ],
+    "name": "The Rex The Dog Show",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:2gaw3G7HBQuz93N8X89JIA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zbQoW1WWTzvITE8w4ckoC",
+      "id": "5zbQoW1WWTzvITE8w4ckoC",
+      "name": "Rex The Dog",
+      "type": "artist",
+      "uri": "spotify:artist:5zbQoW1WWTzvITE8w4ckoC"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 227026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBLK0800077"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4VxApy51bRG32X9kJjOgPp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4VxApy51bRG32X9kJjOgPp",
+  "id": "4VxApy51bRG32X9kJjOgPp",
+  "is_local": false,
+  "name": "Bubblicious",
+  "popularity": 1,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4VxApy51bRG32X9kJjOgPp"
+}

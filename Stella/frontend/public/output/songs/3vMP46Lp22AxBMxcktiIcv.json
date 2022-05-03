@@ -1,0 +1,174 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/167abweXl3demO9x0VMMeJ",
+        "id": "167abweXl3demO9x0VMMeJ",
+        "name": "Yodelice",
+        "type": "artist",
+        "uri": "spotify:artist:167abweXl3demO9x0VMMeJ"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AM",
+      "AT",
+      "AZ",
+      "BE",
+      "BN",
+      "BR",
+      "BY",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DE",
+      "EG",
+      "ES",
+      "FJ",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IS",
+      "JP",
+      "KG",
+      "KR",
+      "KZ",
+      "LK",
+      "LU",
+      "MO",
+      "MX",
+      "MY",
+      "NL",
+      "NO",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "RW",
+      "SA",
+      "SE",
+      "SK",
+      "TJ",
+      "TN",
+      "TR",
+      "TW",
+      "UA",
+      "UZ",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5evLNpow1p6ShqkT42Hlek"
+    },
+    "href": "https://api.spotify.com/v1/albums/5evLNpow1p6ShqkT42Hlek",
+    "id": "5evLNpow1p6ShqkT42Hlek",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273578cfd2c53da0d5b9a7f21c9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02578cfd2c53da0d5b9a7f21c9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851578cfd2c53da0d5b9a7f21c9",
+        "width": 64
+      }
+    ],
+    "name": "Cardioid",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:5evLNpow1p6ShqkT42Hlek"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/167abweXl3demO9x0VMMeJ",
+      "id": "167abweXl3demO9x0VMMeJ",
+      "name": "Yodelice",
+      "type": "artist",
+      "uri": "spotify:artist:167abweXl3demO9x0VMMeJ"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AM",
+    "AT",
+    "AZ",
+    "BE",
+    "BN",
+    "BR",
+    "BY",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "DE",
+    "EG",
+    "ES",
+    "FJ",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IS",
+    "KG",
+    "KR",
+    "KZ",
+    "LK",
+    "LU",
+    "MO",
+    "MY",
+    "NL",
+    "NO",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "RW",
+    "SE",
+    "SK",
+    "TJ",
+    "TN",
+    "TR",
+    "TW",
+    "UA",
+    "UZ",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 184093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM71000385"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3vMP46Lp22AxBMxcktiIcv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3vMP46Lp22AxBMxcktiIcv",
+  "id": "3vMP46Lp22AxBMxcktiIcv",
+  "is_local": false,
+  "name": "More Than Meets The Eye",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3vMP46Lp22AxBMxcktiIcv"
+}

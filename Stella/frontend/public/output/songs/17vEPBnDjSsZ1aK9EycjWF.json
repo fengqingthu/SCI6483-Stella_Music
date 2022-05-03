@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7alhYdkaNVTVONOWbexztu"
+    },
+    "href": "https://api.spotify.com/v1/albums/7alhYdkaNVTVONOWbexztu",
+    "id": "7alhYdkaNVTVONOWbexztu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397a350765ff95dc625e2c4e7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297a350765ff95dc625e2c4e7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197a350765ff95dc625e2c4e7",
+        "width": 64
+      }
+    ],
+    "name": "Ace Ventura Pet Detective (Original Motion Picture Soundtrack)",
+    "release_date": "2017-02-17",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7alhYdkaNVTVONOWbexztu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/665KyJHrkWF8QJ94IyHKKZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/665KyJHrkWF8QJ94IyHKKZ",
+      "id": "665KyJHrkWF8QJ94IyHKKZ",
+      "name": "Ira Newborn",
+      "type": "artist",
+      "uri": "spotify:artist:665KyJHrkWF8QJ94IyHKKZ"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 161266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ushm91656272"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/17vEPBnDjSsZ1aK9EycjWF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/17vEPBnDjSsZ1aK9EycjWF",
+  "id": "17vEPBnDjSsZ1aK9EycjWF",
+  "is_local": false,
+  "name": "All Ace's",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:17vEPBnDjSsZ1aK9EycjWF"
+}

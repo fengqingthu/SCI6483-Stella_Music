@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        },
+        "href": "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+        "id": "5uCXJWo3WoXgqv3T1RlAbh",
+        "name": "Katie Melua",
+        "type": "artist",
+        "uri": "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6IuXcCOQ3GyLxWmxAvmlXG"
+    },
+    "href": "https://api.spotify.com/v1/albums/6IuXcCOQ3GyLxWmxAvmlXG",
+    "id": "6IuXcCOQ3GyLxWmxAvmlXG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dbf48fcfe53dc1a5c21bf300",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dbf48fcfe53dc1a5c21bf300",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dbf48fcfe53dc1a5c21bf300",
+        "width": 64
+      }
+    ],
+    "name": "Piece by Piece",
+    "release_date": "2005",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6IuXcCOQ3GyLxWmxAvmlXG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+      },
+      "href": "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+      "id": "5uCXJWo3WoXgqv3T1RlAbh",
+      "name": "Katie Melua",
+      "type": "artist",
+      "uri": "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 194560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBDVY0500059"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/470UOQDSTMTBEgkBaeqVN6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/470UOQDSTMTBEgkBaeqVN6",
+  "id": "470UOQDSTMTBEgkBaeqVN6",
+  "is_local": false,
+  "name": "Nine Million Bicycles",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:470UOQDSTMTBEgkBaeqVN6"
+}

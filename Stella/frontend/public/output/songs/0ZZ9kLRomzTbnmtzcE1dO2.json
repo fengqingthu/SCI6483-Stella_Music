@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        },
+        "href": "https://api.spotify.com/v1/artists/2iUVQjheBnvOt8vaBrxXJz",
+        "id": "2iUVQjheBnvOt8vaBrxXJz",
+        "name": "Cass McCombs",
+        "type": "artist",
+        "uri": "spotify:artist:2iUVQjheBnvOt8vaBrxXJz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1o6cyvB2TPK1EEEHciBaCG"
+    },
+    "href": "https://api.spotify.com/v1/albums/1o6cyvB2TPK1EEEHciBaCG",
+    "id": "1o6cyvB2TPK1EEEHciBaCG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c8e902908ce46ce6f067d44c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c8e902908ce46ce6f067d44c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c8e902908ce46ce6f067d44c",
+        "width": 64
+      }
+    ],
+    "name": "Dropping The Writ",
+    "release_date": "2007-10-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1o6cyvB2TPK1EEEHciBaCG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2iUVQjheBnvOt8vaBrxXJz",
+      "id": "2iUVQjheBnvOt8vaBrxXJz",
+      "name": "Cass McCombs",
+      "type": "artist",
+      "uri": "spotify:artist:2iUVQjheBnvOt8vaBrxXJz"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 255093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL0700383"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ZZ9kLRomzTbnmtzcE1dO2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ZZ9kLRomzTbnmtzcE1dO2",
+  "id": "0ZZ9kLRomzTbnmtzcE1dO2",
+  "is_local": false,
+  "name": "That's That",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/0f3be2988314330bac35a6d890a500e57c532c9a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0ZZ9kLRomzTbnmtzcE1dO2"
+}

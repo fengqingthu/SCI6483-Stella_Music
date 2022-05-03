@@ -1,0 +1,20 @@
+{
+  "danceability": 0.344,
+  "energy": 0.81,
+  "key": 11,
+  "loudness": -8.098,
+  "mode": 1,
+  "speechiness": 0.0448,
+  "acousticness": 0.0017,
+  "instrumentalness": 0.000409,
+  "liveness": 0.119,
+  "valence": 0.667,
+  "tempo": 153.801,
+  "type": "audio_features",
+  "id": "6EXOSA4BWBM1AUsXxKwYDT",
+  "uri": "spotify:track:6EXOSA4BWBM1AUsXxKwYDT",
+  "track_href": "https://api.spotify.com/v1/tracks/6EXOSA4BWBM1AUsXxKwYDT",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6EXOSA4BWBM1AUsXxKwYDT",
+  "duration_ms": 160827,
+  "time_signature": 4
+}

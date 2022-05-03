@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        },
+        "href": "https://api.spotify.com/v1/artists/5KBbs98MK59UNMF1VTwMmz",
+        "id": "5KBbs98MK59UNMF1VTwMmz",
+        "name": "Claudio Capéo",
+        "type": "artist",
+        "uri": "spotify:artist:5KBbs98MK59UNMF1VTwMmz"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IS",
+      "IT",
+      "KG",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TJ",
+      "UA",
+      "UZ",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1v3zVl4XqmmiJBR8qcYQcx"
+    },
+    "href": "https://api.spotify.com/v1/albums/1v3zVl4XqmmiJBR8qcYQcx",
+    "id": "1v3zVl4XqmmiJBR8qcYQcx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735582d42f413fe1bde027d794",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025582d42f413fe1bde027d794",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515582d42f413fe1bde027d794",
+        "width": 64
+      }
+    ],
+    "name": "Claudio Capéo (Edition mondiale)",
+    "release_date": "2018-10-19",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:1v3zVl4XqmmiJBR8qcYQcx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5KBbs98MK59UNMF1VTwMmz",
+      "id": "5KBbs98MK59UNMF1VTwMmz",
+      "name": "Claudio Capéo",
+      "type": "artist",
+      "uri": "spotify:artist:5KBbs98MK59UNMF1VTwMmz"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IS",
+    "IT",
+    "KG",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TJ",
+    "UA",
+    "UZ",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR7S01601110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0MSQpFCmk54AKROOBMmwua"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0MSQpFCmk54AKROOBMmwua",
+  "id": "0MSQpFCmk54AKROOBMmwua",
+  "is_local": false,
+  "name": "Ça va ça va",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/2c619d51123946447193cc04cfcfe472f0a2b2d4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:0MSQpFCmk54AKROOBMmwua"
+}

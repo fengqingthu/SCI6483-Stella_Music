@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+        "id": "2mLA48B366zkELXYx7hcDN",
+        "name": "Peggy Gou",
+        "type": "artist",
+        "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/08h82u881TzR4HjmF4m9Di"
+    },
+    "href": "https://api.spotify.com/v1/albums/08h82u881TzR4HjmF4m9Di",
+    "id": "08h82u881TzR4HjmF4m9Di",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737c7a1e1687b4ff6db8b7e712",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027c7a1e1687b4ff6db8b7e712",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517c7a1e1687b4ff6db8b7e712",
+        "width": 64
+      }
+    ],
+    "name": "Play Gou",
+    "release_date": "2020-08-06",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:08h82u881TzR4HjmF4m9Di"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id": "7A0awCXkE1FtSU8B0qwOJQ",
+      "name": "Jamie xx",
+      "type": "artist",
+      "uri": "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 140438,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3DF2052832"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2BFImG3tm5pVLoe7t8KFO7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2BFImG3tm5pVLoe7t8KFO7",
+  "id": "2BFImG3tm5pVLoe7t8KFO7",
+  "is_local": false,
+  "name": "idontknow",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:2BFImG3tm5pVLoe7t8KFO7"
+}

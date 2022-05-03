@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        "href": "https://api.spotify.com/v1/artists/25sJFKMqDENdsTF7zRXoif",
+        "id": "25sJFKMqDENdsTF7zRXoif",
+        "name": "Klaas",
+        "type": "artist",
+        "uri": "spotify:artist:25sJFKMqDENdsTF7zRXoif"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1wwUDxPgtvmdLSkRly8Umh"
+    },
+    "href": "https://api.spotify.com/v1/albums/1wwUDxPgtvmdLSkRly8Umh",
+    "id": "1wwUDxPgtvmdLSkRly8Umh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a516cdbda686911fffe3011f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a516cdbda686911fffe3011f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a516cdbda686911fffe3011f",
+        "width": 64
+      }
+    ],
+    "name": "Ok Without You",
+    "release_date": "2018-11-02",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:1wwUDxPgtvmdLSkRly8Umh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+      },
+      "href": "https://api.spotify.com/v1/artists/25sJFKMqDENdsTF7zRXoif",
+      "id": "25sJFKMqDENdsTF7zRXoif",
+      "name": "Klaas",
+      "type": "artist",
+      "uri": "spotify:artist:25sJFKMqDENdsTF7zRXoif"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 170880,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEMA61800720"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/67Qag8I3eEarJejfXkYEX1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/67Qag8I3eEarJejfXkYEX1",
+  "id": "67Qag8I3eEarJejfXkYEX1",
+  "is_local": false,
+  "name": "Ok Without You",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/fcf54df3557aa3f8bc3b9debbfd603cdc75c924d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:67Qag8I3eEarJejfXkYEX1"
+}

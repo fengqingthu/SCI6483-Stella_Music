@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/63qODcvBCdG2kTguOJkEqJ",
+        "id": "63qODcvBCdG2kTguOJkEqJ",
+        "name": "Leaves' Eyes",
+        "type": "artist",
+        "uri": "spotify:artist:63qODcvBCdG2kTguOJkEqJ"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4AFO4Z3R6GvUNcMgu64QAh"
+    },
+    "href": "https://api.spotify.com/v1/albums/4AFO4Z3R6GvUNcMgu64QAh",
+    "id": "4AFO4Z3R6GvUNcMgu64QAh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732507f4d2894c5d2245bb2548",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022507f4d2894c5d2245bb2548",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512507f4d2894c5d2245bb2548",
+        "width": 64
+      }
+    ],
+    "name": "Njord",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4AFO4Z3R6GvUNcMgu64QAh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/63qODcvBCdG2kTguOJkEqJ",
+      "id": "63qODcvBCdG2kTguOJkEqJ",
+      "name": "Leaves' Eyes",
+      "type": "artist",
+      "uri": "spotify:artist:63qODcvBCdG2kTguOJkEqJ"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 244253,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN260930405"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1NAg4r8oHMEzZLqPxWKUc5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1NAg4r8oHMEzZLqPxWKUc5",
+  "id": "1NAg4r8oHMEzZLqPxWKUc5",
+  "is_local": false,
+  "name": "Scarborough Fair",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/379d63987db4a053cb16fd90fdbe8b8f8d9b059d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1NAg4r8oHMEzZLqPxWKUc5"
+}

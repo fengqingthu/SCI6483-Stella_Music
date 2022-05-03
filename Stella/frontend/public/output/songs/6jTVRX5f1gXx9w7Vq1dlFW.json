@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        },
+        "href": "https://api.spotify.com/v1/artists/2pElTJJ5D3ziEPyvZsW5eF",
+        "id": "2pElTJJ5D3ziEPyvZsW5eF",
+        "name": "Fernando Velázquez",
+        "type": "artist",
+        "uri": "spotify:artist:2pElTJJ5D3ziEPyvZsW5eF"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6gXGIZtrJVSJPnHwR3KrGb"
+    },
+    "href": "https://api.spotify.com/v1/albums/6gXGIZtrJVSJPnHwR3KrGb",
+    "id": "6gXGIZtrJVSJPnHwR3KrGb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739bc2f6530cf9ea322d0fc2d6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029bc2f6530cf9ea322d0fc2d6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519bc2f6530cf9ea322d0fc2d6",
+        "width": 64
+      }
+    ],
+    "name": "Pride And Prejudice And Zombies (Original Motion Picutre Soundtrack)",
+    "release_date": "2015-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 23,
+    "type": "album",
+    "uri": "spotify:album:6gXGIZtrJVSJPnHwR3KrGb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+      },
+      "href": "https://api.spotify.com/v1/artists/2pElTJJ5D3ziEPyvZsW5eF",
+      "id": "2pElTJJ5D3ziEPyvZsW5eF",
+      "name": "Fernando Velázquez",
+      "type": "artist",
+      "uri": "spotify:artist:2pElTJJ5D3ziEPyvZsW5eF"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 161173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3M51539222"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6jTVRX5f1gXx9w7Vq1dlFW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6jTVRX5f1gXx9w7Vq1dlFW",
+  "id": "6jTVRX5f1gXx9w7Vq1dlFW",
+  "is_local": false,
+  "name": "After The Explosion",
+  "popularity": 28,
+  "preview_url": null,
+  "track_number": 22,
+  "type": "track",
+  "uri": "spotify:track:6jTVRX5f1gXx9w7Vq1dlFW"
+}

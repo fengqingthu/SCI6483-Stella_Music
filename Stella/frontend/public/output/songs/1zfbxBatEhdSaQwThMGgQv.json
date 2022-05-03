@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ZoDDgOXZBj0PfJ0EzsAHj"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ZoDDgOXZBj0PfJ0EzsAHj",
+        "id": "5ZoDDgOXZBj0PfJ0EzsAHj",
+        "name": "Unge Moped & Tuber",
+        "type": "artist",
+        "uri": "spotify:artist:5ZoDDgOXZBj0PfJ0EzsAHj"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4o068QoTejNBSqaQdyn3BW"
+    },
+    "href": "https://api.spotify.com/v1/albums/4o068QoTejNBSqaQdyn3BW",
+    "id": "4o068QoTejNBSqaQdyn3BW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730246b71d9ed3a8a2f8e8b1c6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020246b71d9ed3a8a2f8e8b1c6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510246b71d9ed3a8a2f8e8b1c6",
+        "width": 64
+      }
+    ],
+    "name": "Døden er nær",
+    "release_date": "2019-03-03",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4o068QoTejNBSqaQdyn3BW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZoDDgOXZBj0PfJ0EzsAHj"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ZoDDgOXZBj0PfJ0EzsAHj",
+      "id": "5ZoDDgOXZBj0PfJ0EzsAHj",
+      "name": "Unge Moped & Tuber",
+      "type": "artist",
+      "uri": "spotify:artist:5ZoDDgOXZBj0PfJ0EzsAHj"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 131526,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QZDA81970156"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1zfbxBatEhdSaQwThMGgQv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1zfbxBatEhdSaQwThMGgQv",
+  "id": "1zfbxBatEhdSaQwThMGgQv",
+  "is_local": false,
+  "name": "Døden er nær",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1zfbxBatEhdSaQwThMGgQv"
+}

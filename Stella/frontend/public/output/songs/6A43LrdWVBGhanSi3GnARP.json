@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        },
+        "href": "https://api.spotify.com/v1/artists/68HFSFMCZzyRjkkm9bv5Vt",
+        "id": "68HFSFMCZzyRjkkm9bv5Vt",
+        "name": "Jaga Jazzist",
+        "type": "artist",
+        "uri": "spotify:artist:68HFSFMCZzyRjkkm9bv5Vt"
+      }
+    ],
+    "available_markets": [
+      "NO"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0KUdqbbKo0DFeYb72qDsX5"
+    },
+    "href": "https://api.spotify.com/v1/albums/0KUdqbbKo0DFeYb72qDsX5",
+    "id": "0KUdqbbKo0DFeYb72qDsX5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fac2663b1845f0503b3f86cc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fac2663b1845f0503b3f86cc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fac2663b1845f0503b3f86cc",
+        "width": 64
+      }
+    ],
+    "name": "One-Armed Bandit",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:0KUdqbbKo0DFeYb72qDsX5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+      },
+      "href": "https://api.spotify.com/v1/artists/68HFSFMCZzyRjkkm9bv5Vt",
+      "id": "68HFSFMCZzyRjkkm9bv5Vt",
+      "name": "Jaga Jazzist",
+      "type": "artist",
+      "uri": "spotify:artist:68HFSFMCZzyRjkkm9bv5Vt"
+    }
+  ],
+  "available_markets": [
+    "NO"
+  ],
+  "disc_number": 1,
+  "duration_ms": 427746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NOYYC0901020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6A43LrdWVBGhanSi3GnARP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6A43LrdWVBGhanSi3GnARP",
+  "id": "6A43LrdWVBGhanSi3GnARP",
+  "is_local": false,
+  "name": "One-Armed Bandit",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/c72f1a7b091dab94b41f72c59ed09b6d66463a29?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6A43LrdWVBGhanSi3GnARP"
+}

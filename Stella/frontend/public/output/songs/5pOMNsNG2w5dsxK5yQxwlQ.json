@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        },
+        "href": "https://api.spotify.com/v1/artists/0krCd0zVANPv9ryri4T0TO",
+        "id": "0krCd0zVANPv9ryri4T0TO",
+        "name": "Michel Sardou",
+        "type": "artist",
+        "uri": "spotify:artist:0krCd0zVANPv9ryri4T0TO"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0YbtL3nFsT94O2FmCOvVLt"
+    },
+    "href": "https://api.spotify.com/v1/albums/0YbtL3nFsT94O2FmCOvVLt",
+    "id": "0YbtL3nFsT94O2FmCOvVLt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27314f73ddc14ff2f144f24352f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0214f73ddc14ff2f144f24352f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485114f73ddc14ff2f144f24352f",
+        "width": 64
+      }
+    ],
+    "name": "Les lacs du Connemara",
+    "release_date": "1981-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:0YbtL3nFsT94O2FmCOvVLt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+      },
+      "href": "https://api.spotify.com/v1/artists/0krCd0zVANPv9ryri4T0TO",
+      "id": "0krCd0zVANPv9ryri4T0TO",
+      "name": "Michel Sardou",
+      "type": "artist",
+      "uri": "spotify:artist:0krCd0zVANPv9ryri4T0TO"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 363533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR25F8100050"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5pOMNsNG2w5dsxK5yQxwlQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5pOMNsNG2w5dsxK5yQxwlQ",
+  "id": "5pOMNsNG2w5dsxK5yQxwlQ",
+  "is_local": false,
+  "name": "Les lacs du Connemara",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5pOMNsNG2w5dsxK5yQxwlQ"
+}

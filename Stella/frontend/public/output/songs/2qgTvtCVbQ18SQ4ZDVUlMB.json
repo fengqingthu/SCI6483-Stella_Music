@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+        "id": "4k1ELeJKT1ISyDv8JivPpB",
+        "name": "The Prodigy",
+        "type": "artist",
+        "uri": "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/03dxI2SHrYyEvxKITMXLDu"
+    },
+    "href": "https://api.spotify.com/v1/albums/03dxI2SHrYyEvxKITMXLDu",
+    "id": "03dxI2SHrYyEvxKITMXLDu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732b0f658f555c515c599c42f6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022b0f658f555c515c599c42f6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512b0f658f555c515c599c42f6",
+        "width": 64
+      }
+    ],
+    "name": "Invaders Must Die (Special Version)",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:03dxI2SHrYyEvxKITMXLDu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+      },
+      "href": "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+      "id": "4k1ELeJKT1ISyDv8JivPpB",
+      "name": "The Prodigy",
+      "type": "artist",
+      "uri": "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 216026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEJ0800392"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2qgTvtCVbQ18SQ4ZDVUlMB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2qgTvtCVbQ18SQ4ZDVUlMB",
+  "id": "2qgTvtCVbQ18SQ4ZDVUlMB",
+  "is_local": false,
+  "name": "O",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/fa8d9dafd7ef8ee2cf4fbd3457c77f277a0568fd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2qgTvtCVbQ18SQ4ZDVUlMB"
+}

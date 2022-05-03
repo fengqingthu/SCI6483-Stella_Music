@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/28INUgyzTTRbvSphrJbgZ2",
+        "id": "28INUgyzTTRbvSphrJbgZ2",
+        "name": "C2C",
+        "type": "artist",
+        "uri": "spotify:artist:28INUgyzTTRbvSphrJbgZ2"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7MBBBqrVL3QiadQoRkfJrZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/7MBBBqrVL3QiadQoRkfJrZ",
+    "id": "7MBBBqrVL3QiadQoRkfJrZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d78e52d139e5c578b6b92309",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d78e52d139e5c578b6b92309",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d78e52d139e5c578b6b92309",
+        "width": 64
+      }
+    ],
+    "name": "Down The Road",
+    "release_date": "2012-07-23",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:7MBBBqrVL3QiadQoRkfJrZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+      },
+      "href": "https://api.spotify.com/v1/artists/28INUgyzTTRbvSphrJbgZ2",
+      "id": "28INUgyzTTRbvSphrJbgZ2",
+      "name": "C2C",
+      "type": "artist",
+      "uri": "spotify:artist:28INUgyzTTRbvSphrJbgZ2"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 313080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9T31200003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/42Nx19pyD6Klqgyl1to5Z9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/42Nx19pyD6Klqgyl1to5Z9",
+  "id": "42Nx19pyD6Klqgyl1to5Z9",
+  "is_local": false,
+  "name": "Someday",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:42Nx19pyD6Klqgyl1to5Z9"
+}

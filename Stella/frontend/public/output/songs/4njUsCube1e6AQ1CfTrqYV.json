@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+        "id": "2eRNMtoi82UZUuaL6naDjA",
+        "name": "Cœur De Pirate",
+        "type": "artist",
+        "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2d7VyB1yp5S8gWYKc1SkHl"
+    },
+    "href": "https://api.spotify.com/v1/albums/2d7VyB1yp5S8gWYKc1SkHl",
+    "id": "2d7VyB1yp5S8gWYKc1SkHl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27365979babd52850a863984380",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0265979babd52850a863984380",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485165979babd52850a863984380",
+        "width": 64
+      }
+    ],
+    "name": "Child Of Light",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:2d7VyB1yp5S8gWYKc1SkHl"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+      "id": "2eRNMtoi82UZUuaL6naDjA",
+      "name": "Cœur De Pirate",
+      "type": "artist",
+      "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211546,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAD431405301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4njUsCube1e6AQ1CfTrqYV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4njUsCube1e6AQ1CfTrqYV",
+  "id": "4njUsCube1e6AQ1CfTrqYV",
+  "is_local": false,
+  "name": "Pilgrims On A Long Journey",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/8ae523665a127a894d1029d6bca92c0cfca65f84?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4njUsCube1e6AQ1CfTrqYV"
+}

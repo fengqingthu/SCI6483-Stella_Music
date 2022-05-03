@@ -1,0 +1,20 @@
+{
+  "danceability": 0.375,
+  "energy": 0.337,
+  "key": 10,
+  "loudness": -16.463,
+  "mode": 1,
+  "speechiness": 0.0357,
+  "acousticness": 0.552,
+  "instrumentalness": 0.504,
+  "liveness": 0.288,
+  "valence": 0.0525,
+  "tempo": 122.528,
+  "type": "audio_features",
+  "id": "5GW8NxoUag5zx7ArTURDEj",
+  "uri": "spotify:track:5GW8NxoUag5zx7ArTURDEj",
+  "track_href": "https://api.spotify.com/v1/tracks/5GW8NxoUag5zx7ArTURDEj",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GW8NxoUag5zx7ArTURDEj",
+  "duration_ms": 66360,
+  "time_signature": 4
+}

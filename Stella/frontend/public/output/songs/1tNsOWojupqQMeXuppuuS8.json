@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4uethVhVpoyO3OhT40JH1o"
+        },
+        "href": "https://api.spotify.com/v1/artists/4uethVhVpoyO3OhT40JH1o",
+        "id": "4uethVhVpoyO3OhT40JH1o",
+        "name": "machineheart",
+        "type": "artist",
+        "uri": "spotify:artist:4uethVhVpoyO3OhT40JH1o"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/05qQlNaEf6fO50JOIh5Ohx"
+    },
+    "href": "https://api.spotify.com/v1/albums/05qQlNaEf6fO50JOIh5Ohx",
+    "id": "05qQlNaEf6fO50JOIh5Ohx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ce93d2c6fe7715d88ef982b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027ce93d2c6fe7715d88ef982b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517ce93d2c6fe7715d88ef982b",
+        "width": 64
+      }
+    ],
+    "name": "People Change",
+    "release_date": "2019-02-08",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:05qQlNaEf6fO50JOIh5Ohx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4uethVhVpoyO3OhT40JH1o"
+      },
+      "href": "https://api.spotify.com/v1/artists/4uethVhVpoyO3OhT40JH1o",
+      "id": "4uethVhVpoyO3OhT40JH1o",
+      "name": "machineheart",
+      "type": "artist",
+      "uri": "spotify:artist:4uethVhVpoyO3OhT40JH1o"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 331947,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAN111800148"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1tNsOWojupqQMeXuppuuS8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1tNsOWojupqQMeXuppuuS8",
+  "id": "1tNsOWojupqQMeXuppuuS8",
+  "is_local": false,
+  "name": "Overgrown",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1tNsOWojupqQMeXuppuuS8"
+}

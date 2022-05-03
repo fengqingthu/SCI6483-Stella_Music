@@ -1,0 +1,155 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "BA",
+      "BD",
+      "BE",
+      "BO",
+      "BR",
+      "CI",
+      "CL",
+      "CM",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DO",
+      "EC",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GN",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HR",
+      "HU",
+      "ID",
+      "IL",
+      "IS",
+      "KH",
+      "KR",
+      "LA",
+      "LI",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "ME",
+      "MK",
+      "MT",
+      "MU",
+      "MX",
+      "MY",
+      "NG",
+      "NI",
+      "NO",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "RO",
+      "RS",
+      "RW",
+      "SE",
+      "SG",
+      "SI",
+      "SK",
+      "SN",
+      "SV",
+      "TN",
+      "TR",
+      "TW",
+      "TZ",
+      "UA",
+      "VE",
+      "VN",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7nwPqEdTOfVft9Knxd1kC5"
+    },
+    "href": "https://api.spotify.com/v1/albums/7nwPqEdTOfVft9Knxd1kC5",
+    "id": "7nwPqEdTOfVft9Knxd1kC5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fc240ba6854eb5042144714d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fc240ba6854eb5042144714d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fc240ba6854eb5042144714d",
+        "width": 64
+      }
+    ],
+    "name": "Cool - Dance",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:7nwPqEdTOfVft9Knxd1kC5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Q9P0SbpaP9xsBtLUVK0Be",
+      "id": "3Q9P0SbpaP9xsBtLUVK0Be",
+      "name": "Planet Perfecto",
+      "type": "artist",
+      "uri": "spotify:artist:3Q9P0SbpaP9xsBtLUVK0Be"
+    }
+  ],
+  "available_markets": [
+    "HR"
+  ],
+  "disc_number": 2,
+  "duration_ms": 189360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBANR9900105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7x20ZsMeQc0IusiIAybuAb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7x20ZsMeQc0IusiIAybuAb",
+  "id": "7x20ZsMeQc0IusiIAybuAb",
+  "is_local": false,
+  "name": "Bullet In The Gun",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:7x20ZsMeQc0IusiIAybuAb"
+}

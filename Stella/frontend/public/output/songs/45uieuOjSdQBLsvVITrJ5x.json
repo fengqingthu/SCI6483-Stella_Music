@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj"
+        },
+        "href": "https://api.spotify.com/v1/artists/5TkylUv5ysSbNoawmn3PBj",
+        "id": "5TkylUv5ysSbNoawmn3PBj",
+        "name": "Agar Agar",
+        "type": "artist",
+        "uri": "spotify:artist:5TkylUv5ysSbNoawmn3PBj"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1DztCD055PfboiWfvVKujj"
+    },
+    "href": "https://api.spotify.com/v1/albums/1DztCD055PfboiWfvVKujj",
+    "id": "1DztCD055PfboiWfvVKujj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27350071323b2924374534526fb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0250071323b2924374534526fb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485150071323b2924374534526fb",
+        "width": 64
+      }
+    ],
+    "name": "Prettiest Virgin",
+    "release_date": "2016-04-22",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:1DztCD055PfboiWfvVKujj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj"
+      },
+      "href": "https://api.spotify.com/v1/artists/5TkylUv5ysSbNoawmn3PBj",
+      "id": "5TkylUv5ysSbNoawmn3PBj",
+      "name": "Agar Agar",
+      "type": "artist",
+      "uri": "spotify:artist:5TkylUv5ysSbNoawmn3PBj"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 270000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRPIN1600060"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/45uieuOjSdQBLsvVITrJ5x"
+  },
+  "href": "https://api.spotify.com/v1/tracks/45uieuOjSdQBLsvVITrJ5x",
+  "id": "45uieuOjSdQBLsvVITrJ5x",
+  "is_local": false,
+  "name": "Prettiest Virgin - Radio Edit",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/f77eb3dc55f8072bbcb257832606b3368f0bf3a2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:45uieuOjSdQBLsvVITrJ5x"
+}

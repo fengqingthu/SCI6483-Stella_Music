@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WZ7IgzdjPvwFdjDjjuZm7",
+        "id": "0WZ7IgzdjPvwFdjDjjuZm7",
+        "name": "Esther Phillips",
+        "type": "artist",
+        "uri": "spotify:artist:0WZ7IgzdjPvwFdjDjjuZm7"
+      }
+    ],
+    "available_markets": [
+      "KH",
+      "KR",
+      "LA",
+      "TH",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5DKr9135qjzQLbejKs4Aak"
+    },
+    "href": "https://api.spotify.com/v1/albums/5DKr9135qjzQLbejKs4Aak",
+    "id": "5DKr9135qjzQLbejKs4Aak",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739f8f53aea739dcc6380e5dde",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029f8f53aea739dcc6380e5dde",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519f8f53aea739dcc6380e5dde",
+        "width": 64
+      }
+    ],
+    "name": "From a Whisper to a Scream",
+    "release_date": "1971",
+    "release_date_precision": "year",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5DKr9135qjzQLbejKs4Aak"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
+      },
+      "href": "https://api.spotify.com/v1/artists/0WZ7IgzdjPvwFdjDjjuZm7",
+      "id": "0WZ7IgzdjPvwFdjDjjuZm7",
+      "name": "Esther Phillips",
+      "type": "artist",
+      "uri": "spotify:artist:0WZ7IgzdjPvwFdjDjjuZm7"
+    }
+  ],
+  "available_markets": [
+    "KH",
+    "KR",
+    "LA",
+    "TH",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM10114928"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/55oPHqN7fwbbfZnZlG1EG5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/55oPHqN7fwbbfZnZlG1EG5",
+  "id": "55oPHqN7fwbbfZnZlG1EG5",
+  "is_local": false,
+  "name": "Home Is Where the Hatred Is",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/0e48821aebb37f69934821dc17192a2d0ac4d9b8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:55oPHqN7fwbbfZnZlG1EG5"
+}

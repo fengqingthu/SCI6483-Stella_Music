@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30oV84oJ6PpIzrJFpVBlM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/30oV84oJ6PpIzrJFpVBlM6",
+        "id": "30oV84oJ6PpIzrJFpVBlM6",
+        "name": "Mass Hysteria",
+        "type": "artist",
+        "uri": "spotify:artist:30oV84oJ6PpIzrJFpVBlM6"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5NmyDUoF0iIKdM3r9X8uw1"
+    },
+    "href": "https://api.spotify.com/v1/albums/5NmyDUoF0iIKdM3r9X8uw1",
+    "id": "5NmyDUoF0iIKdM3r9X8uw1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ee5be13a86e61bf50b7ceeed",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ee5be13a86e61bf50b7ceeed",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ee5be13a86e61bf50b7ceeed",
+        "width": 64
+      }
+    ],
+    "name": "Matière noire",
+    "release_date": "2015-10-23",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5NmyDUoF0iIKdM3r9X8uw1"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/30oV84oJ6PpIzrJFpVBlM6"
+      },
+      "href": "https://api.spotify.com/v1/artists/30oV84oJ6PpIzrJFpVBlM6",
+      "id": "30oV84oJ6PpIzrJFpVBlM6",
+      "name": "Mass Hysteria",
+      "type": "artist",
+      "uri": "spotify:artist:30oV84oJ6PpIzrJFpVBlM6"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 249675,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "FR7Z81500193"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3wmav68HsoQAlOYgZotuAn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3wmav68HsoQAlOYgZotuAn",
+  "id": "3wmav68HsoQAlOYgZotuAn",
+  "is_local": false,
+  "name": "L'enfer des dieux",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/255e505c77c48dc8ff4e35800e5cdd3be728a459?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:3wmav68HsoQAlOYgZotuAn"
+}

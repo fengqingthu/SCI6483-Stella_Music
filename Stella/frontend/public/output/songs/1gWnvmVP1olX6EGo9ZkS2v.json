@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YtTF1pj1ZFufjkP0BEfWE"
+        },
+        "href": "https://api.spotify.com/v1/artists/1YtTF1pj1ZFufjkP0BEfWE",
+        "id": "1YtTF1pj1ZFufjkP0BEfWE",
+        "name": "Tom Tykwer",
+        "type": "artist",
+        "uri": "spotify:artist:1YtTF1pj1ZFufjkP0BEfWE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/35CsFzAi3BR19Ar1wRlPb6"
+        },
+        "href": "https://api.spotify.com/v1/artists/35CsFzAi3BR19Ar1wRlPb6",
+        "id": "35CsFzAi3BR19Ar1wRlPb6",
+        "name": "Johnny Klimek",
+        "type": "artist",
+        "uri": "spotify:artist:35CsFzAi3BR19Ar1wRlPb6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7"
+        },
+        "href": "https://api.spotify.com/v1/artists/4CefZM5UsS1y5rvzq8M8S7",
+        "id": "4CefZM5UsS1y5rvzq8M8S7",
+        "name": "Reinhold Heil",
+        "type": "artist",
+        "uri": "spotify:artist:4CefZM5UsS1y5rvzq8M8S7"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6S1Asg9LqgrbnJdD8RaIpf"
+    },
+    "href": "https://api.spotify.com/v1/albums/6S1Asg9LqgrbnJdD8RaIpf",
+    "id": "6S1Asg9LqgrbnJdD8RaIpf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273eb6e47c8a3aebaa404fe834b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02eb6e47c8a3aebaa404fe834b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851eb6e47c8a3aebaa404fe834b",
+        "width": 64
+      }
+    ],
+    "name": "Cloud Atlas (Original Motion Picture Soundtrack)",
+    "release_date": "2012-10-23",
+    "release_date_precision": "day",
+    "total_tracks": 23,
+    "type": "album",
+    "uri": "spotify:album:6S1Asg9LqgrbnJdD8RaIpf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YtTF1pj1ZFufjkP0BEfWE"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YtTF1pj1ZFufjkP0BEfWE",
+      "id": "1YtTF1pj1ZFufjkP0BEfWE",
+      "name": "Tom Tykwer",
+      "type": "artist",
+      "uri": "spotify:artist:1YtTF1pj1ZFufjkP0BEfWE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35CsFzAi3BR19Ar1wRlPb6"
+      },
+      "href": "https://api.spotify.com/v1/artists/35CsFzAi3BR19Ar1wRlPb6",
+      "id": "35CsFzAi3BR19Ar1wRlPb6",
+      "name": "Johnny Klimek",
+      "type": "artist",
+      "uri": "spotify:artist:35CsFzAi3BR19Ar1wRlPb6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7"
+      },
+      "href": "https://api.spotify.com/v1/artists/4CefZM5UsS1y5rvzq8M8S7",
+      "id": "4CefZM5UsS1y5rvzq8M8S7",
+      "name": "Reinhold Heil",
+      "type": "artist",
+      "uri": "spotify:artist:4CefZM5UsS1y5rvzq8M8S7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/71PhpDeHPMwGTCoGNgvHsM"
+      },
+      "href": "https://api.spotify.com/v1/artists/71PhpDeHPMwGTCoGNgvHsM",
+      "id": "71PhpDeHPMwGTCoGNgvHsM",
+      "name": "Gene Pritsker",
+      "type": "artist",
+      "uri": "spotify:artist:71PhpDeHPMwGTCoGNgvHsM"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 297164,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNLR1200448"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1gWnvmVP1olX6EGo9ZkS2v"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1gWnvmVP1olX6EGo9ZkS2v",
+  "id": "1gWnvmVP1olX6EGo9ZkS2v",
+  "is_local": false,
+  "name": "The Cloud Atlas Sextet for Orchestra",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/203555f052d971371b9844deee6b860e0ae41e09?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 22,
+  "type": "track",
+  "uri": "spotify:track:1gWnvmVP1olX6EGo9ZkS2v"
+}

@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+        },
+        "href": "https://api.spotify.com/v1/artists/0MoXIHcFwhIWnFgBfdvQ30",
+        "id": "0MoXIHcFwhIWnFgBfdvQ30",
+        "name": "Little Boots",
+        "type": "artist",
+        "uri": "spotify:artist:0MoXIHcFwhIWnFgBfdvQ30"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5lA3nrpXpOOMWGmfnRbig2"
+    },
+    "href": "https://api.spotify.com/v1/albums/5lA3nrpXpOOMWGmfnRbig2",
+    "id": "5lA3nrpXpOOMWGmfnRbig2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27395a6fac12785812514f62857",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0295a6fac12785812514f62857",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485195a6fac12785812514f62857",
+        "width": 64
+      }
+    ],
+    "name": "Every Night I Say a Prayer",
+    "release_date": "2012-04-23",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:5lA3nrpXpOOMWGmfnRbig2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+      },
+      "href": "https://api.spotify.com/v1/artists/0MoXIHcFwhIWnFgBfdvQ30",
+      "id": "0MoXIHcFwhIWnFgBfdvQ30",
+      "name": "Little Boots",
+      "type": "artist",
+      "uri": "spotify:artist:0MoXIHcFwhIWnFgBfdvQ30"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218702,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA561100742"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7BhbGHElkQFCMoX2YoZq7p"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7BhbGHElkQFCMoX2YoZq7p",
+  "id": "7BhbGHElkQFCMoX2YoZq7p",
+  "is_local": false,
+  "name": "Every Night I Say a Prayer",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/1ef19a4aa9aa671a387fea0e698a1738bb13802d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7BhbGHElkQFCMoX2YoZq7p"
+}

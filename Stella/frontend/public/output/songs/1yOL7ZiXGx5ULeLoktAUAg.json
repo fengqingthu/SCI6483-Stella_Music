@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        },
+        "href": "https://api.spotify.com/v1/artists/6CwfuxIqcltXDGjfZsMd9A",
+        "id": "6CwfuxIqcltXDGjfZsMd9A",
+        "name": "MARINA",
+        "type": "artist",
+        "uri": "spotify:artist:6CwfuxIqcltXDGjfZsMd9A"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1cb2YQ7Ii622olGiImJz2B"
+    },
+    "href": "https://api.spotify.com/v1/albums/1cb2YQ7Ii622olGiImJz2B",
+    "id": "1cb2YQ7Ii622olGiImJz2B",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dd7430c4df164fe74465fa58",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dd7430c4df164fe74465fa58",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dd7430c4df164fe74465fa58",
+        "width": 64
+      }
+    ],
+    "name": "Electra Heart",
+    "release_date": "2012-04-27",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1cb2YQ7Ii622olGiImJz2B"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+      },
+      "href": "https://api.spotify.com/v1/artists/6CwfuxIqcltXDGjfZsMd9A",
+      "id": "6CwfuxIqcltXDGjfZsMd9A",
+      "name": "MARINA",
+      "type": "artist",
+      "uri": "spotify:artist:6CwfuxIqcltXDGjfZsMd9A"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 154666,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBFFS1200008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1yOL7ZiXGx5ULeLoktAUAg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1yOL7ZiXGx5ULeLoktAUAg",
+  "id": "1yOL7ZiXGx5ULeLoktAUAg",
+  "is_local": false,
+  "name": "Bubblegum Bitch",
+  "popularity": 53,
+  "preview_url": "https://p.scdn.co/mp3-preview/f810cde382843fe234143fef053083cc4b97eebb?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1yOL7ZiXGx5ULeLoktAUAg"
+}

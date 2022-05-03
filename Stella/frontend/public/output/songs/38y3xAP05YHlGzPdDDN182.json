@@ -1,0 +1,107 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
+        },
+        "href": "https://api.spotify.com/v1/artists/7H9BHRpRnP55YwZpFLAVmd",
+        "id": "7H9BHRpRnP55YwZpFLAVmd",
+        "name": "Axel Bauer",
+        "type": "artist",
+        "uri": "spotify:artist:7H9BHRpRnP55YwZpFLAVmd"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "CH",
+      "ES",
+      "FR",
+      "LU",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2mUcEar3wqV5G4fsDgdnmf"
+    },
+    "href": "https://api.spotify.com/v1/albums/2mUcEar3wqV5G4fsDgdnmf",
+    "id": "2mUcEar3wqV5G4fsDgdnmf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273509692bed50228b40812aa10",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02509692bed50228b40812aa10",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851509692bed50228b40812aa10",
+        "width": 64
+      }
+    ],
+    "name": "Personne N'Est Parfait",
+    "release_date": "2000-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2mUcEar3wqV5G4fsDgdnmf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
+      },
+      "href": "https://api.spotify.com/v1/artists/7H9BHRpRnP55YwZpFLAVmd",
+      "id": "7H9BHRpRnP55YwZpFLAVmd",
+      "name": "Axel Bauer",
+      "type": "artist",
+      "uri": "spotify:artist:7H9BHRpRnP55YwZpFLAVmd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FLS6y4AR3126l4D06V0ZD",
+      "id": "3FLS6y4AR3126l4D06V0ZD",
+      "name": "Zazie",
+      "type": "artist",
+      "uri": "spotify:artist:3FLS6y4AR3126l4D06V0ZD"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "CH",
+    "ES",
+    "FR",
+    "LU",
+    "MX",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 329786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ030001000"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/38y3xAP05YHlGzPdDDN182"
+  },
+  "href": "https://api.spotify.com/v1/tracks/38y3xAP05YHlGzPdDDN182",
+  "id": "38y3xAP05YHlGzPdDDN182",
+  "is_local": false,
+  "name": "A ma place",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:38y3xAP05YHlGzPdDDN182"
+}

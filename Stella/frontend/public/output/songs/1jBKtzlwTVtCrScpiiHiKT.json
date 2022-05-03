@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+        "id": "6qgnBH6iDM91ipVXv28OMu",
+        "name": "KAYTRANADA",
+        "type": "artist",
+        "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y"
+    },
+    "href": "https://api.spotify.com/v1/albums/1tbB05wnLmxMl8WPbcnV0y",
+    "id": "1tbB05wnLmxMl8WPbcnV0y",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737406485764bd698f99d687c1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027406485764bd698f99d687c1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517406485764bd698f99d687c1",
+        "width": 64
+      }
+    ],
+    "name": "Intimidated",
+    "release_date": "2021-11-19",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:1tbB05wnLmxMl8WPbcnV0y"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+      "id": "6qgnBH6iDM91ipVXv28OMu",
+      "name": "KAYTRANADA",
+      "type": "artist",
+      "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+      "id": "3Y7RZ31TRPVadSFVy1o8os",
+      "name": "H.E.R.",
+      "type": "artist",
+      "uri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 207840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRC12102824"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1jBKtzlwTVtCrScpiiHiKT",
+  "id": "1jBKtzlwTVtCrScpiiHiKT",
+  "is_local": false,
+  "name": "Intimidated (feat. H.E.R.)",
+  "popularity": 51,
+  "preview_url": "https://p.scdn.co/mp3-preview/e8a4f1ff4ef41afdb7303bfd84334ad1faa21198?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1jBKtzlwTVtCrScpiiHiKT"
+}

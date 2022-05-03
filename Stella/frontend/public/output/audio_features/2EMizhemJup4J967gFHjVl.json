@@ -1,0 +1,20 @@
+{
+  "danceability": 0.747,
+  "energy": 0.838,
+  "key": 2,
+  "loudness": -16.184,
+  "mode": 0,
+  "speechiness": 0.0923,
+  "acousticness": 0.0234,
+  "instrumentalness": 0.844,
+  "liveness": 0.218,
+  "valence": 0.541,
+  "tempo": 105.395,
+  "type": "audio_features",
+  "id": "2EMizhemJup4J967gFHjVl",
+  "uri": "spotify:track:2EMizhemJup4J967gFHjVl",
+  "track_href": "https://api.spotify.com/v1/tracks/2EMizhemJup4J967gFHjVl",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2EMizhemJup4J967gFHjVl",
+  "duration_ms": 352520,
+  "time_signature": 4
+}

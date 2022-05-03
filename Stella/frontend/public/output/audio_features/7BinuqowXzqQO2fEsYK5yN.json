@@ -1,0 +1,20 @@
+{
+  "danceability": 0.684,
+  "energy": 0.869,
+  "key": 2,
+  "loudness": -6.994,
+  "mode": 1,
+  "speechiness": 0.0462,
+  "acousticness": 0.349,
+  "instrumentalness": 0.319,
+  "liveness": 0.274,
+  "valence": 0.661,
+  "tempo": 129.936,
+  "type": "audio_features",
+  "id": "7BinuqowXzqQO2fEsYK5yN",
+  "uri": "spotify:track:7BinuqowXzqQO2fEsYK5yN",
+  "track_href": "https://api.spotify.com/v1/tracks/7BinuqowXzqQO2fEsYK5yN",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BinuqowXzqQO2fEsYK5yN",
+  "duration_ms": 227560,
+  "time_signature": 4
+}

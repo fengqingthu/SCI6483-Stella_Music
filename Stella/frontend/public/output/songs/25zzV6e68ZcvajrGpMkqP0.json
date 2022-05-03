@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+        },
+        "href": "https://api.spotify.com/v1/artists/1udruffum7CorOphFUMB9A",
+        "id": "1udruffum7CorOphFUMB9A",
+        "name": "Kato",
+        "type": "artist",
+        "uri": "spotify:artist:1udruffum7CorOphFUMB9A"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4S8xFmygrvSaWt4Gmw5VZ8"
+    },
+    "href": "https://api.spotify.com/v1/albums/4S8xFmygrvSaWt4Gmw5VZ8",
+    "id": "4S8xFmygrvSaWt4Gmw5VZ8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735dd23a370b8fbbc0e78f6ca4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025dd23a370b8fbbc0e78f6ca4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515dd23a370b8fbbc0e78f6ca4",
+        "width": 64
+      }
+    ],
+    "name": "Dumt På Dig (feat. TopGunn)",
+    "release_date": "2014-05-06",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4S8xFmygrvSaWt4Gmw5VZ8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+      },
+      "href": "https://api.spotify.com/v1/artists/1udruffum7CorOphFUMB9A",
+      "id": "1udruffum7CorOphFUMB9A",
+      "name": "Kato",
+      "type": "artist",
+      "uri": "spotify:artist:1udruffum7CorOphFUMB9A"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nXezpatStChCEWVvYLjd5",
+      "id": "4nXezpatStChCEWVvYLjd5",
+      "name": "TopGunn",
+      "type": "artist",
+      "uri": "spotify:artist:4nXezpatStChCEWVvYLjd5"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 194651,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DK4YA1402301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/25zzV6e68ZcvajrGpMkqP0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/25zzV6e68ZcvajrGpMkqP0",
+  "id": "25zzV6e68ZcvajrGpMkqP0",
+  "is_local": false,
+  "name": "Dumt På Dig (feat. TopGunn) - Radio Edit",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:25zzV6e68ZcvajrGpMkqP0"
+}

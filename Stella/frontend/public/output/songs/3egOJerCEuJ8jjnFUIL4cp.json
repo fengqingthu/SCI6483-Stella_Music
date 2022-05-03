@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tJSPijz99rQ8cNtr7DYMH",
+        "id": "4tJSPijz99rQ8cNtr7DYMH",
+        "name": "C. Jérôme",
+        "type": "artist",
+        "uri": "spotify:artist:4tJSPijz99rQ8cNtr7DYMH"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "FR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/58WixUJ0Pj6ZZUIoyrrmMo"
+    },
+    "href": "https://api.spotify.com/v1/albums/58WixUJ0Pj6ZZUIoyrrmMo",
+    "id": "58WixUJ0Pj6ZZUIoyrrmMo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737df0e987066ff2d90e0e59f5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027df0e987066ff2d90e0e59f5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517df0e987066ff2d90e0e59f5",
+        "width": 64
+      }
+    ],
+    "name": "Tous Mes Tubes",
+    "release_date": "1999-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:58WixUJ0Pj6ZZUIoyrrmMo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tJSPijz99rQ8cNtr7DYMH",
+      "id": "4tJSPijz99rQ8cNtr7DYMH",
+      "name": "C. Jérôme",
+      "type": "artist",
+      "uri": "spotify:artist:4tJSPijz99rQ8cNtr7DYMH"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "FR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 182493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ287200101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3egOJerCEuJ8jjnFUIL4cp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3egOJerCEuJ8jjnFUIL4cp",
+  "id": "3egOJerCEuJ8jjnFUIL4cp",
+  "is_local": false,
+  "name": "Kiss Me",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3egOJerCEuJ8jjnFUIL4cp"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        },
+        "href": "https://api.spotify.com/v1/artists/5cMVRrisBpDkXCVG48epED",
+        "id": "5cMVRrisBpDkXCVG48epED",
+        "name": "Jenny Lewis",
+        "type": "artist",
+        "uri": "spotify:artist:5cMVRrisBpDkXCVG48epED"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae"
+    },
+    "href": "https://api.spotify.com/v1/albums/7qri8zA09EXNsQU7eBgCae",
+    "id": "7qri8zA09EXNsQU7eBgCae",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e649a6f583f2dd4614769719",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e649a6f583f2dd4614769719",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e649a6f583f2dd4614769719",
+        "width": 64
+      }
+    ],
+    "name": "Acid Tongue",
+    "release_date": "2008-09-23",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7qri8zA09EXNsQU7eBgCae"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+      },
+      "href": "https://api.spotify.com/v1/artists/5cMVRrisBpDkXCVG48epED",
+      "id": "5cMVRrisBpDkXCVG48epED",
+      "name": "Jenny Lewis",
+      "type": "artist",
+      "uri": "spotify:artist:5cMVRrisBpDkXCVG48epED"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230106,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWB10805445"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6MKL3Xdcf3qFhTP2KJhcsn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6MKL3Xdcf3qFhTP2KJhcsn",
+  "id": "6MKL3Xdcf3qFhTP2KJhcsn",
+  "is_local": false,
+  "name": "Acid Tongue",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/73c3ff4caca07d8033c4a8b9cd090d451e0b013b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:6MKL3Xdcf3qFhTP2KJhcsn"
+}

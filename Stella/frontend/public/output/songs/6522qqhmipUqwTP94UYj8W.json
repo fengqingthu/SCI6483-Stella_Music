@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
+        },
+        "href": "https://api.spotify.com/v1/artists/4l2d1CRNjXgG4RBoA89Kle",
+        "id": "4l2d1CRNjXgG4RBoA89Kle",
+        "name": "Mantovani",
+        "type": "artist",
+        "uri": "spotify:artist:4l2d1CRNjXgG4RBoA89Kle"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0lxQIc8MszXlSkat8bxmCW"
+    },
+    "href": "https://api.spotify.com/v1/albums/0lxQIc8MszXlSkat8bxmCW",
+    "id": "0lxQIc8MszXlSkat8bxmCW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27358790fe75d9a968b701a955d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0258790fe75d9a968b701a955d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485158790fe75d9a968b701a955d",
+        "width": 64
+      }
+    ],
+    "name": "Silver Memories: The Magic Of Mantovani",
+    "release_date": "2016-08-05",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:0lxQIc8MszXlSkat8bxmCW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
+      },
+      "href": "https://api.spotify.com/v1/artists/4l2d1CRNjXgG4RBoA89Kle",
+      "id": "4l2d1CRNjXgG4RBoA89Kle",
+      "name": "Mantovani",
+      "type": "artist",
+      "uri": "spotify:artist:4l2d1CRNjXgG4RBoA89Kle"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 189933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBBA5760030"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6522qqhmipUqwTP94UYj8W"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6522qqhmipUqwTP94UYj8W",
+  "id": "6522qqhmipUqwTP94UYj8W",
+  "is_local": false,
+  "name": "Charmaine - Orchestral Version",
+  "popularity": 18,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6522qqhmipUqwTP94UYj8W"
+}

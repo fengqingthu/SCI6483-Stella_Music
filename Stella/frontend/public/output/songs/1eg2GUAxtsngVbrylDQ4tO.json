@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        },
+        "href": "https://api.spotify.com/v1/artists/31GFatrHl2ijnS4ZAWA9s0",
+        "id": "31GFatrHl2ijnS4ZAWA9s0",
+        "name": "Gilbert Bécaud",
+        "type": "artist",
+        "uri": "spotify:artist:31GFatrHl2ijnS4ZAWA9s0"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "FR",
+      "LU",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1uXNErodaE5u4hZvcoyt9d"
+    },
+    "href": "https://api.spotify.com/v1/albums/1uXNErodaE5u4hZvcoyt9d",
+    "id": "1uXNErodaE5u4hZvcoyt9d",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27330a245a7e9cb050615d94a9a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0230a245a7e9cb050615d94a9a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485130a245a7e9cb050615d94a9a",
+        "width": 64
+      }
+    ],
+    "name": "Eternel",
+    "release_date": "2011-11-16",
+    "release_date_precision": "day",
+    "total_tracks": 45,
+    "type": "album",
+    "uri": "spotify:album:1uXNErodaE5u4hZvcoyt9d"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+      },
+      "href": "https://api.spotify.com/v1/artists/31GFatrHl2ijnS4ZAWA9s0",
+      "id": "31GFatrHl2ijnS4ZAWA9s0",
+      "name": "Gilbert Bécaud",
+      "type": "artist",
+      "uri": "spotify:artist:31GFatrHl2ijnS4ZAWA9s0"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "FR",
+    "LU",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 166346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ111101409"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1eg2GUAxtsngVbrylDQ4tO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1eg2GUAxtsngVbrylDQ4tO",
+  "id": "1eg2GUAxtsngVbrylDQ4tO",
+  "is_local": false,
+  "name": "Je reviens te chercher",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/35136af16a13888dbf55e11baf22dd899f8b66fa?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:1eg2GUAxtsngVbrylDQ4tO"
+}

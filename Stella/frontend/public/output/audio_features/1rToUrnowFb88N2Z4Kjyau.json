@@ -1,0 +1,20 @@
+{
+  "danceability": 0.548,
+  "energy": 0.708,
+  "key": 5,
+  "loudness": -12.09,
+  "mode": 0,
+  "speechiness": 0.0333,
+  "acousticness": 0.00962,
+  "instrumentalness": 0.829,
+  "liveness": 0.0693,
+  "valence": 0.137,
+  "tempo": 129.876,
+  "type": "audio_features",
+  "id": "1rToUrnowFb88N2Z4Kjyau",
+  "uri": "spotify:track:1rToUrnowFb88N2Z4Kjyau",
+  "track_href": "https://api.spotify.com/v1/tracks/1rToUrnowFb88N2Z4Kjyau",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/1rToUrnowFb88N2Z4Kjyau",
+  "duration_ms": 268600,
+  "time_signature": 4
+}

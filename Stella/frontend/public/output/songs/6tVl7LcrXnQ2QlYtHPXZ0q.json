@@ -1,0 +1,231 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0NdNx5JwLDvas2LsMVTSyQ",
+        "id": "0NdNx5JwLDvas2LsMVTSyQ",
+        "name": "George Fenton",
+        "type": "artist",
+        "uri": "spotify:artist:0NdNx5JwLDvas2LsMVTSyQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1iZZQ9LJg4rERzOzLwjkRW",
+        "id": "1iZZQ9LJg4rERzOzLwjkRW",
+        "name": "The Choir of Magdalen College, Oxford",
+        "type": "artist",
+        "uri": "spotify:artist:1iZZQ9LJg4rERzOzLwjkRW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3dIPaddbWppnquuPkcYVDg",
+        "id": "3dIPaddbWppnquuPkcYVDg",
+        "name": "BBC Concert Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:3dIPaddbWppnquuPkcYVDg"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AR",
+      "AT",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IL",
+      "IS",
+      "IT",
+      "JP",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MU",
+      "MY",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TW",
+      "VE",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1L0r4mY8xTAhKdNiWlNx6s"
+    },
+    "href": "https://api.spotify.com/v1/albums/1L0r4mY8xTAhKdNiWlNx6s",
+    "id": "1L0r4mY8xTAhKdNiWlNx6s",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c2bdc6f16424708bb86817bb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c2bdc6f16424708bb86817bb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c2bdc6f16424708bb86817bb",
+        "width": 64
+      }
+    ],
+    "name": "The Blue Planet - Music from the BBC TV Series",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:1L0r4mY8xTAhKdNiWlNx6s"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NdNx5JwLDvas2LsMVTSyQ",
+      "id": "0NdNx5JwLDvas2LsMVTSyQ",
+      "name": "George Fenton",
+      "type": "artist",
+      "uri": "spotify:artist:0NdNx5JwLDvas2LsMVTSyQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dIPaddbWppnquuPkcYVDg",
+      "id": "3dIPaddbWppnquuPkcYVDg",
+      "name": "BBC Concert Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3dIPaddbWppnquuPkcYVDg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+      },
+      "href": "https://api.spotify.com/v1/artists/1iZZQ9LJg4rERzOzLwjkRW",
+      "id": "1iZZQ9LJg4rERzOzLwjkRW",
+      "name": "The Choir of Magdalen College, Oxford",
+      "type": "artist",
+      "uri": "spotify:artist:1iZZQ9LJg4rERzOzLwjkRW"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AR",
+    "AT",
+    "BE",
+    "BG",
+    "BO",
+    "BR",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "DO",
+    "EC",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GR",
+    "GT",
+    "HK",
+    "HN",
+    "HU",
+    "ID",
+    "IL",
+    "IS",
+    "IT",
+    "JP",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "MU",
+    "MY",
+    "NG",
+    "NI",
+    "NL",
+    "NO",
+    "PA",
+    "PE",
+    "PH",
+    "PL",
+    "PT",
+    "PY",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "SV",
+    "TW",
+    "VE",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 169133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCAD0101319"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6tVl7LcrXnQ2QlYtHPXZ0q"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6tVl7LcrXnQ2QlYtHPXZ0q",
+  "id": "6tVl7LcrXnQ2QlYtHPXZ0q",
+  "is_local": false,
+  "name": "The Blue Planet [The Blue Planet - Music for the BBC TV Series]",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/9c179cd8e04aa01cf4c9f0c9c17466a78e7182e3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6tVl7LcrXnQ2QlYtHPXZ0q"
+}

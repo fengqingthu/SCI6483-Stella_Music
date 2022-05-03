@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ceQN2NVlLg1hgTzljDE4n",
+        "id": "3ceQN2NVlLg1hgTzljDE4n",
+        "name": "Half Moon Run",
+        "type": "artist",
+        "uri": "spotify:artist:3ceQN2NVlLg1hgTzljDE4n"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/524nTFaECBD4ftiDNLYDKM"
+    },
+    "href": "https://api.spotify.com/v1/albums/524nTFaECBD4ftiDNLYDKM",
+    "id": "524nTFaECBD4ftiDNLYDKM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cf3e585748077c2d2b66ac6b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cf3e585748077c2d2b66ac6b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cf3e585748077c2d2b66ac6b",
+        "width": 64
+      }
+    ],
+    "name": "Sun Leads Me On",
+    "release_date": "2015-08-07",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:524nTFaECBD4ftiDNLYDKM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ceQN2NVlLg1hgTzljDE4n",
+      "id": "3ceQN2NVlLg1hgTzljDE4n",
+      "name": "Half Moon Run",
+      "type": "artist",
+      "uri": "spotify:artist:3ceQN2NVlLg1hgTzljDE4n"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAI251515405"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6NfJJp412N12oe8f31dCUL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6NfJJp412N12oe8f31dCUL",
+  "id": "6NfJJp412N12oe8f31dCUL",
+  "is_local": false,
+  "name": "Turn Your Love",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/5cf11a6fc513922191fe34e30ce34310b37f0c7c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:6NfJJp412N12oe8f31dCUL"
+}

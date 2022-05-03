@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ok7bEDf9CZ0448D59AaNL",
+        "id": "6ok7bEDf9CZ0448D59AaNL",
+        "name": "Ludo",
+        "type": "artist",
+        "uri": "spotify:artist:6ok7bEDf9CZ0448D59AaNL"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA"
+    },
+    "href": "https://api.spotify.com/v1/albums/7kG99quHohiDviZ4FsKCQA",
+    "id": "7kG99quHohiDviZ4FsKCQA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a10744b35fb72bdcb4db3779",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a10744b35fb72bdcb4db3779",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a10744b35fb72bdcb4db3779",
+        "width": 64
+      }
+    ],
+    "name": "You're Awful, I Love You",
+    "release_date": "2007-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7kG99quHohiDviZ4FsKCQA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ok7bEDf9CZ0448D59AaNL",
+      "id": "6ok7bEDf9CZ0448D59AaNL",
+      "name": "Ludo",
+      "type": "artist",
+      "uri": "spotify:artist:6ok7bEDf9CZ0448D59AaNL"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 260533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM70767133"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3IlYkyctlcTqXAZOA4ZPzz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3IlYkyctlcTqXAZOA4ZPzz",
+  "id": "3IlYkyctlcTqXAZOA4ZPzz",
+  "is_local": false,
+  "name": "Love Me Dead",
+  "popularity": 55,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3IlYkyctlcTqXAZOA4ZPzz"
+}

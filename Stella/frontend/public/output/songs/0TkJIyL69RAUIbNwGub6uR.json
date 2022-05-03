@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+        "id": "6s22t5Y3prQHyaHWUN1R1C",
+        "name": "AJR",
+        "type": "artist",
+        "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5"
+    },
+    "href": "https://api.spotify.com/v1/albums/51iPchT1rPmDNT5FYGoPn5",
+    "id": "51iPchT1rPmDNT5FYGoPn5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27335a22744330810f0cca97210",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0235a22744330810f0cca97210",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485135a22744330810f0cca97210",
+        "width": 64
+      }
+    ],
+    "name": "The Click (Deluxe Edition)",
+    "release_date": "2018-09-21",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:51iPchT1rPmDNT5FYGoPn5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+      },
+      "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+      "id": "6s22t5Y3prQHyaHWUN1R1C",
+      "name": "AJR",
+      "type": "artist",
+      "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 212373,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QMRSZ1702960"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0TkJIyL69RAUIbNwGub6uR",
+  "id": "0TkJIyL69RAUIbNwGub6uR",
+  "is_local": false,
+  "name": "Burn The House Down",
+  "popularity": 67,
+  "preview_url": "https://p.scdn.co/mp3-preview/152946e859d302256897fffd1cb1ec8b510d0819?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:0TkJIyL69RAUIbNwGub6uR"
+}

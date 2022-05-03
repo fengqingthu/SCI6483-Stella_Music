@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+        },
+        "href": "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+        "id": "5BnNG7QQQDTNd43ozx5y13",
+        "name": "Blackmore's Night",
+        "type": "artist",
+        "uri": "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/51giyhOVqKARrGY7lCrv6b"
+    },
+    "href": "https://api.spotify.com/v1/albums/51giyhOVqKARrGY7lCrv6b",
+    "id": "51giyhOVqKARrGY7lCrv6b",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730ee3980a580dfcf413aa7e7e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020ee3980a580dfcf413aa7e7e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510ee3980a580dfcf413aa7e7e",
+        "width": 64
+      }
+    ],
+    "name": "Ghost of a Rose",
+    "release_date": "2003-06-17",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:51giyhOVqKARrGY7lCrv6b"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+      "id": "5BnNG7QQQDTNd43ozx5y13",
+      "name": "Blackmore's Night",
+      "type": "artist",
+      "uri": "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 294306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEZ901000322"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5uyj36y2abGhYYls9j3LSn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5uyj36y2abGhYYls9j3LSn",
+  "id": "5uyj36y2abGhYYls9j3LSn",
+  "is_local": false,
+  "name": "Diamonds and Rust",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/e1ddd9ba76342c478773fc86687cc079a6d15134?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5uyj36y2abGhYYls9j3LSn"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        "href": "https://api.spotify.com/v1/artists/6HQYnRM4OzToCYPpVBInuU",
+        "id": "6HQYnRM4OzToCYPpVBInuU",
+        "name": "Kamasi Washington",
+        "type": "artist",
+        "uri": "spotify:artist:6HQYnRM4OzToCYPpVBInuU"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4XpN8C7ulShkadw4dGJuPy"
+    },
+    "href": "https://api.spotify.com/v1/albums/4XpN8C7ulShkadw4dGJuPy",
+    "id": "4XpN8C7ulShkadw4dGJuPy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735a934f475c9f7e7d5b588bc0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025a934f475c9f7e7d5b588bc0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515a934f475c9f7e7d5b588bc0",
+        "width": 64
+      }
+    ],
+    "name": "The Epic",
+    "release_date": "2015-05-04",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:4XpN8C7ulShkadw4dGJuPy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+      },
+      "href": "https://api.spotify.com/v1/artists/6HQYnRM4OzToCYPpVBInuU",
+      "id": "6HQYnRM4OzToCYPpVBInuU",
+      "name": "Kamasi Washington",
+      "type": "artist",
+      "uri": "spotify:artist:6HQYnRM4OzToCYPpVBInuU"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 494459,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US25X1086576"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6L6d77z7kLOaizY5gPgUxl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6L6d77z7kLOaizY5gPgUxl",
+  "id": "6L6d77z7kLOaizY5gPgUxl",
+  "is_local": false,
+  "name": "Cherokee",
+  "popularity": 6,
+  "preview_url": "https://p.scdn.co/mp3-preview/d82b84d385f26737b23396d72c401edc56d90fc2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:6L6d77z7kLOaizY5gPgUxl"
+}

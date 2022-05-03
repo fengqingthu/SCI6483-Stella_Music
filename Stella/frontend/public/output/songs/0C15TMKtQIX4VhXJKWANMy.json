@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5kwHgbzNHq1iHkUSrAmjjQ",
+        "id": "5kwHgbzNHq1iHkUSrAmjjQ",
+        "name": "Audio Bullys",
+        "type": "artist",
+        "uri": "spotify:artist:5kwHgbzNHq1iHkUSrAmjjQ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1wN8lrxgbYyszSD1zSW7sE"
+    },
+    "href": "https://api.spotify.com/v1/albums/1wN8lrxgbYyszSD1zSW7sE",
+    "id": "1wN8lrxgbYyszSD1zSW7sE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c07a377ea5b770d35f3ed93c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c07a377ea5b770d35f3ed93c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c07a377ea5b770d35f3ed93c",
+        "width": 64
+      }
+    ],
+    "name": "Higher Than The Eiffel",
+    "release_date": "2010",
+    "release_date_precision": "year",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:1wN8lrxgbYyszSD1zSW7sE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5kwHgbzNHq1iHkUSrAmjjQ",
+      "id": "5kwHgbzNHq1iHkUSrAmjjQ",
+      "name": "Audio Bullys",
+      "type": "artist",
+      "uri": "spotify:artist:5kwHgbzNHq1iHkUSrAmjjQ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 200786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEJ0900516"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0C15TMKtQIX4VhXJKWANMy"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0C15TMKtQIX4VhXJKWANMy",
+  "id": "0C15TMKtQIX4VhXJKWANMy",
+  "is_local": false,
+  "name": "Only Man",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/0f2e304dc24dc56dc186fa616ba3b0ff08dea106?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0C15TMKtQIX4VhXJKWANMy"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.583,
+  "energy": 0.666,
+  "key": 9,
+  "loudness": -11.702,
+  "mode": 0,
+  "speechiness": 0.0307,
+  "acousticness": 0.0917,
+  "instrumentalness": 0.993,
+  "liveness": 0.281,
+  "valence": 0.11,
+  "tempo": 121.709,
+  "type": "audio_features",
+  "id": "3kwql90R2gmkK12R8uGHCs",
+  "uri": "spotify:track:3kwql90R2gmkK12R8uGHCs",
+  "track_href": "https://api.spotify.com/v1/tracks/3kwql90R2gmkK12R8uGHCs",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3kwql90R2gmkK12R8uGHCs",
+  "duration_ms": 401253,
+  "time_signature": 4
+}

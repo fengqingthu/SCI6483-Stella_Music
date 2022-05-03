@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        },
+        "href": "https://api.spotify.com/v1/artists/4uOFEWy9mIcvQbr03IbPcL",
+        "id": "4uOFEWy9mIcvQbr03IbPcL",
+        "name": "Manafest",
+        "type": "artist",
+        "uri": "spotify:artist:4uOFEWy9mIcvQbr03IbPcL"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/79eaPvyRWtCaDbsLS1Od6V"
+    },
+    "href": "https://api.spotify.com/v1/albums/79eaPvyRWtCaDbsLS1Od6V",
+    "id": "79eaPvyRWtCaDbsLS1Od6V",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d4993b875a00b4a2e1245839",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d4993b875a00b4a2e1245839",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d4993b875a00b4a2e1245839",
+        "width": 64
+      }
+    ],
+    "name": "The Chase",
+    "release_date": "2010-03-16",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:79eaPvyRWtCaDbsLS1Od6V"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+      },
+      "href": "https://api.spotify.com/v1/artists/4uOFEWy9mIcvQbr03IbPcL",
+      "id": "4uOFEWy9mIcvQbr03IbPcL",
+      "name": "Manafest",
+      "type": "artist",
+      "uri": "spotify:artist:4uOFEWy9mIcvQbr03IbPcL"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219586,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USBR21000015"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6a63btMaQk1w0zDyFO92s2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6a63btMaQk1w0zDyFO92s2",
+  "id": "6a63btMaQk1w0zDyFO92s2",
+  "is_local": false,
+  "name": "Renegade",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/a3d6165ea96b463320ae873c26079ba46a08117c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:6a63btMaQk1w0zDyFO92s2"
+}

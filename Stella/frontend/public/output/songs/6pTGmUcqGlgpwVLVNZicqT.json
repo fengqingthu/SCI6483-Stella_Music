@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WifYZsO8WO6hGlWIDM4Zq",
+        "id": "3WifYZsO8WO6hGlWIDM4Zq",
+        "name": "Ben Salisbury",
+        "type": "artist",
+        "uri": "spotify:artist:3WifYZsO8WO6hGlWIDM4Zq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh"
+        },
+        "href": "https://api.spotify.com/v1/artists/53b2a4ytPlelgBJYLLocWh",
+        "id": "53b2a4ytPlelgBJYLLocWh",
+        "name": "Geoff Barrow",
+        "type": "artist",
+        "uri": "spotify:artist:53b2a4ytPlelgBJYLLocWh"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG"
+    },
+    "href": "https://api.spotify.com/v1/albums/70iPSxP7Jtb2ZwrypiZFQG",
+    "id": "70iPSxP7Jtb2ZwrypiZFQG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c389110337452bfb1dd42bd6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c389110337452bfb1dd42bd6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c389110337452bfb1dd42bd6",
+        "width": 64
+      }
+    ],
+    "name": "Annihilation (Original Motion Picture Soundtrack)",
+    "release_date": "2018-02-23",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:70iPSxP7Jtb2ZwrypiZFQG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3WifYZsO8WO6hGlWIDM4Zq",
+      "id": "3WifYZsO8WO6hGlWIDM4Zq",
+      "name": "Ben Salisbury",
+      "type": "artist",
+      "uri": "spotify:artist:3WifYZsO8WO6hGlWIDM4Zq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh"
+      },
+      "href": "https://api.spotify.com/v1/artists/53b2a4ytPlelgBJYLLocWh",
+      "id": "53b2a4ytPlelgBJYLLocWh",
+      "name": "Geoff Barrow",
+      "type": "artist",
+      "uri": "spotify:artist:53b2a4ytPlelgBJYLLocWh"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 97403,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBER71700710"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6pTGmUcqGlgpwVLVNZicqT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6pTGmUcqGlgpwVLVNZicqT",
+  "id": "6pTGmUcqGlgpwVLVNZicqT",
+  "is_local": false,
+  "name": "Cells Divide",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/1ea6c00d0f04caec0b37c1c420461d47e3f62877?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:6pTGmUcqGlgpwVLVNZicqT"
+}

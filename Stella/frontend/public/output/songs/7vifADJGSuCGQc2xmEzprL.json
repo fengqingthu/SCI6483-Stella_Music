@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        },
+        "href": "https://api.spotify.com/v1/artists/320EPCSEezHt1rtbfwH6Ck",
+        "id": "320EPCSEezHt1rtbfwH6Ck",
+        "name": "The Monkees",
+        "type": "artist",
+        "uri": "spotify:artist:320EPCSEezHt1rtbfwH6Ck"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h"
+    },
+    "href": "https://api.spotify.com/v1/albums/1q1LuLo92N5cl5e0GKRq7h",
+    "id": "1q1LuLo92N5cl5e0GKRq7h",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a7a91f2f0e256aa36527eb85",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a7a91f2f0e256aa36527eb85",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a7a91f2f0e256aa36527eb85",
+        "width": 64
+      }
+    ],
+    "name": "The Monkees (Deluxe Edition)",
+    "release_date": "1966-10-10",
+    "release_date_precision": "day",
+    "total_tracks": 29,
+    "type": "album",
+    "uri": "spotify:album:1q1LuLo92N5cl5e0GKRq7h"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+      },
+      "href": "https://api.spotify.com/v1/artists/320EPCSEezHt1rtbfwH6Ck",
+      "id": "320EPCSEezHt1rtbfwH6Ck",
+      "name": "The Monkees",
+      "type": "artist",
+      "uri": "spotify:artist:320EPCSEezHt1rtbfwH6Ck"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 160613,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRH10651237"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7vifADJGSuCGQc2xmEzprL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7vifADJGSuCGQc2xmEzprL",
+  "id": "7vifADJGSuCGQc2xmEzprL",
+  "is_local": false,
+  "name": "Gonna Buy Me a Dog - Original Stereo Version; 2006 Remaster",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/fcbaf22fee0528b7709bb30d5e23554d79be704e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:7vifADJGSuCGQc2xmEzprL"
+}

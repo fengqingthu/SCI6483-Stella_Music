@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2aAHdB5HweT3mFcRzm0swc",
+        "id": "2aAHdB5HweT3mFcRzm0swc",
+        "name": "Glenn Miller",
+        "type": "artist",
+        "uri": "spotify:artist:2aAHdB5HweT3mFcRzm0swc"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
+    },
+    "href": "https://api.spotify.com/v1/albums/4dkdsQFiMF2Ok0AczTiVBR",
+    "id": "4dkdsQFiMF2Ok0AczTiVBR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730cc5eb834d42e68068a11e93",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020cc5eb834d42e68068a11e93",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510cc5eb834d42e68068a11e93",
+        "width": 64
+      }
+    ],
+    "name": "Ultimate Big Band Collection: Glenn Miller",
+    "release_date": "1939",
+    "release_date_precision": "year",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4dkdsQFiMF2Ok0AczTiVBR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+      },
+      "href": "https://api.spotify.com/v1/artists/2aAHdB5HweT3mFcRzm0swc",
+      "id": "2aAHdB5HweT3mFcRzm0swc",
+      "name": "Glenn Miller",
+      "type": "artist",
+      "uri": "spotify:artist:2aAHdB5HweT3mFcRzm0swc"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 216746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USBB10200858"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1xsY8IFXUrxeet1Fcmk4oC",
+  "id": "1xsY8IFXUrxeet1Fcmk4oC",
+  "is_local": false,
+  "name": "In the Mood",
+  "popularity": 52,
+  "preview_url": "https://p.scdn.co/mp3-preview/13dbe655775ff3d90ed47a29aabe5ebd6b441598?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:1xsY8IFXUrxeet1Fcmk4oC"
+}

@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2bLXpW64n9Oa1UHSlgyuQR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2bLXpW64n9Oa1UHSlgyuQR",
+        "id": "2bLXpW64n9Oa1UHSlgyuQR",
+        "name": "SONIC ADVENTURE 2",
+        "type": "artist",
+        "uri": "spotify:artist:2bLXpW64n9Oa1UHSlgyuQR"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/534RtJP8QXhoGc3yNqb5Vb"
+    },
+    "href": "https://api.spotify.com/v1/albums/534RtJP8QXhoGc3yNqb5Vb",
+    "id": "534RtJP8QXhoGc3yNqb5Vb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ac138b55f4df59a942bb068a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ac138b55f4df59a942bb068a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ac138b55f4df59a942bb068a",
+        "width": 64
+      }
+    ],
+    "name": "SONIC ADVENTURE 2 Original Soundtrack (20th Anniversary Edition)",
+    "release_date": "2011-06-22",
+    "release_date_precision": "day",
+    "total_tracks": 30,
+    "type": "album",
+    "uri": "spotify:album:534RtJP8QXhoGc3yNqb5Vb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1uQyJRZqbvwsUqHgEuIEI9"
+      },
+      "href": "https://api.spotify.com/v1/artists/1uQyJRZqbvwsUqHgEuIEI9",
+      "id": "1uQyJRZqbvwsUqHgEuIEI9",
+      "name": "Ted Poley",
+      "type": "artist",
+      "uri": "spotify:artist:1uQyJRZqbvwsUqHgEuIEI9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6alD2yMb2cpw8pQs4iR6DE"
+      },
+      "href": "https://api.spotify.com/v1/artists/6alD2yMb2cpw8pQs4iR6DE",
+      "id": "6alD2yMb2cpw8pQs4iR6DE",
+      "name": "Tony Harnell",
+      "type": "artist",
+      "uri": "spotify:artist:6alD2yMb2cpw8pQs4iR6DE"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 139920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPX301168210"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5CZNuQZszsDSa0VX7kpFsV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5CZNuQZszsDSa0VX7kpFsV",
+  "id": "5CZNuQZszsDSa0VX7kpFsV",
+  "is_local": false,
+  "name": "Escape From The City ...for City Escape",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/c4f9f831e7b7da4ff883c1f92d2578cfcb3e3dc4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5CZNuQZszsDSa0VX7kpFsV"
+}

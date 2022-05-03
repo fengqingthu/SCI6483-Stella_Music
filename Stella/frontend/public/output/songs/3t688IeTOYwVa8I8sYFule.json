@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80"
+        },
+        "href": "https://api.spotify.com/v1/artists/4v5M2g2hKOoaUceEgJbr80",
+        "id": "4v5M2g2hKOoaUceEgJbr80",
+        "name": "Turboweekend",
+        "type": "artist",
+        "uri": "spotify:artist:4v5M2g2hKOoaUceEgJbr80"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6JhykBAYzVcb0feuqgK94Z"
+    },
+    "href": "https://api.spotify.com/v1/albums/6JhykBAYzVcb0feuqgK94Z",
+    "id": "6JhykBAYzVcb0feuqgK94Z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27345c8538ab23181c463f78460",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0245c8538ab23181c463f78460",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485145c8538ab23181c463f78460",
+        "width": 64
+      }
+    ],
+    "name": "Shadow Sounds",
+    "release_date": "2013-04-29",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:6JhykBAYzVcb0feuqgK94Z"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80"
+      },
+      "href": "https://api.spotify.com/v1/artists/4v5M2g2hKOoaUceEgJbr80",
+      "id": "4v5M2g2hKOoaUceEgJbr80",
+      "name": "Turboweekend",
+      "type": "artist",
+      "uri": "spotify:artist:4v5M2g2hKOoaUceEgJbr80"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 179315,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKABA1300119"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3t688IeTOYwVa8I8sYFule"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3t688IeTOYwVa8I8sYFule",
+  "id": "3t688IeTOYwVa8I8sYFule",
+  "is_local": false,
+  "name": "Trouble Is",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/8efbc8fd0663e98c6947310669112ac5637af16e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:3t688IeTOYwVa8I8sYFule"
+}

@@ -1,0 +1,117 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        },
+        "href": "https://api.spotify.com/v1/artists/3gdbcIdNypBsYNu3iiCjtN",
+        "id": "3gdbcIdNypBsYNu3iiCjtN",
+        "name": "The B-52's",
+        "type": "artist",
+        "uri": "spotify:artist:3gdbcIdNypBsYNu3iiCjtN"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AT",
+      "BE",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "JP",
+      "LI",
+      "LU",
+      "NL",
+      "NO",
+      "PT",
+      "SE",
+      "SM"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4VcKXOCUzcrxltYt0Jyqfk"
+    },
+    "href": "https://api.spotify.com/v1/albums/4VcKXOCUzcrxltYt0Jyqfk",
+    "id": "4VcKXOCUzcrxltYt0Jyqfk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c93cd25cc5a8ceb7674f9c1a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c93cd25cc5a8ceb7674f9c1a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c93cd25cc5a8ceb7674f9c1a",
+        "width": 64
+      }
+    ],
+    "name": "B-52's",
+    "release_date": "1979-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:4VcKXOCUzcrxltYt0Jyqfk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gdbcIdNypBsYNu3iiCjtN",
+      "id": "3gdbcIdNypBsYNu3iiCjtN",
+      "name": "The B-52's",
+      "type": "artist",
+      "uri": "spotify:artist:3gdbcIdNypBsYNu3iiCjtN"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "IE",
+    "IT",
+    "JP",
+    "LI",
+    "LU",
+    "NL",
+    "NO",
+    "PT",
+    "SE",
+    "SM"
+  ],
+  "disc_number": 1,
+  "duration_ms": 276712,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USIR27900011"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3t3GtCFoABBDACLLSleDgV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3t3GtCFoABBDACLLSleDgV",
+  "id": "3t3GtCFoABBDACLLSleDgV",
+  "is_local": false,
+  "name": "Planet Claire",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/d6ce9b39110f7ed034ce8a0eb8339e60f8e65ae5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3t3GtCFoABBDACLLSleDgV"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        },
+        "href": "https://api.spotify.com/v1/artists/4wXchxfTTggLtzkoUhO86Q",
+        "id": "4wXchxfTTggLtzkoUhO86Q",
+        "name": "Soccer Mommy",
+        "type": "artist",
+        "uri": "spotify:artist:4wXchxfTTggLtzkoUhO86Q"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "NZ",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4ls7LePd8KDEwAVEVyoLvH"
+    },
+    "href": "https://api.spotify.com/v1/albums/4ls7LePd8KDEwAVEVyoLvH",
+    "id": "4ls7LePd8KDEwAVEVyoLvH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27345187d9eba2d2446228fa3ca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0245187d9eba2d2446228fa3ca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485145187d9eba2d2446228fa3ca",
+        "width": 64
+      }
+    ],
+    "name": "For Young Hearts",
+    "release_date": "2016-06-17",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:4ls7LePd8KDEwAVEVyoLvH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/4wXchxfTTggLtzkoUhO86Q",
+      "id": "4wXchxfTTggLtzkoUhO86Q",
+      "name": "Soccer Mommy",
+      "type": "artist",
+      "uri": "spotify:artist:4wXchxfTTggLtzkoUhO86Q"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "NZ",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 261919,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USJ441600105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2o3jyT6JzyrpRncOVIxLLl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2o3jyT6JzyrpRncOVIxLLl",
+  "id": "2o3jyT6JzyrpRncOVIxLLl",
+  "is_local": false,
+  "name": "Switzerland",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/f9e9a5cefaaefe721c56c96cb3219e51ac863552?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:2o3jyT6JzyrpRncOVIxLLl"
+}

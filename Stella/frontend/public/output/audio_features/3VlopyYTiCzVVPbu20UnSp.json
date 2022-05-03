@@ -1,0 +1,20 @@
+{
+  "danceability": 0.603,
+  "energy": 0.363,
+  "key": 2,
+  "loudness": -14.827,
+  "mode": 1,
+  "speechiness": 0.0756,
+  "acousticness": 0.591,
+  "instrumentalness": 0.856,
+  "liveness": 0.101,
+  "valence": 0.0363,
+  "tempo": 200.053,
+  "type": "audio_features",
+  "id": "3VlopyYTiCzVVPbu20UnSp",
+  "uri": "spotify:track:3VlopyYTiCzVVPbu20UnSp",
+  "track_href": "https://api.spotify.com/v1/tracks/3VlopyYTiCzVVPbu20UnSp",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VlopyYTiCzVVPbu20UnSp",
+  "duration_ms": 221904,
+  "time_signature": 4
+}

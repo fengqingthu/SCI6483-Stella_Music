@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        },
+        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+        "name": "Ghostly Kisses",
+        "type": "artist",
+        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/36xeFFwd13XdFyGDaJm2Af"
+    },
+    "href": "https://api.spotify.com/v1/albums/36xeFFwd13XdFyGDaJm2Af",
+    "id": "36xeFFwd13XdFyGDaJm2Af",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397d19c9c737eba1760e8d931",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297d19c9c737eba1760e8d931",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197d19c9c737eba1760e8d931",
+        "width": 64
+      }
+    ],
+    "name": "Alone Together",
+    "release_date": "2019-10-25",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:36xeFFwd13XdFyGDaJm2Af"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+      },
+      "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+      "id": "7EkzQPP0cgt2qCnXUg6PHj",
+      "name": "Ghostly Kisses",
+      "type": "artist",
+      "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMBZ91910577"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5RnR7HsFsaJfZSkiXicLwe"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5RnR7HsFsaJfZSkiXicLwe",
+  "id": "5RnR7HsFsaJfZSkiXicLwe",
+  "is_local": false,
+  "name": "Empty Note - Acoustic",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/ff4f90a22a5775b8690884780e82f86d6a160f98?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5RnR7HsFsaJfZSkiXicLwe"
+}

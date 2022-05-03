@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1K9SwCNFeSR8s2fshLX7AO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1K9SwCNFeSR8s2fshLX7AO",
+        "id": "1K9SwCNFeSR8s2fshLX7AO",
+        "name": "Nancy Vieira",
+        "type": "artist",
+        "uri": "spotify:artist:1K9SwCNFeSR8s2fshLX7AO"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5wHx7n3fuibvkRYmZ9BxFr"
+    },
+    "href": "https://api.spotify.com/v1/albums/5wHx7n3fuibvkRYmZ9BxFr",
+    "id": "5wHx7n3fuibvkRYmZ9BxFr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737b921ea1c39b93d1a71b57d9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027b921ea1c39b93d1a71b57d9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517b921ea1c39b93d1a71b57d9",
+        "width": 64
+      }
+    ],
+    "name": "No Ama",
+    "release_date": "2012-04-09",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5wHx7n3fuibvkRYmZ9BxFr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1K9SwCNFeSR8s2fshLX7AO"
+      },
+      "href": "https://api.spotify.com/v1/artists/1K9SwCNFeSR8s2fshLX7AO",
+      "id": "1K9SwCNFeSR8s2fshLX7AO",
+      "name": "Nancy Vieira",
+      "type": "artist",
+      "uri": "spotify:artist:1K9SwCNFeSR8s2fshLX7AO"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRX621116030"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4uQ5AN27TlXi69BBFEIk3U"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4uQ5AN27TlXi69BBFEIk3U",
+  "id": "4uQ5AN27TlXi69BBFEIk3U",
+  "is_local": false,
+  "name": "Cab'Verde Na Coracon",
+  "popularity": 17,
+  "preview_url": "https://p.scdn.co/mp3-preview/ab1ebb40b4f1b5ab218dff9d232de60816047383?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4uQ5AN27TlXi69BBFEIk3U"
+}

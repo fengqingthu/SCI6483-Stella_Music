@@ -1,0 +1,201 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/4lianjyuR1tqf6oUX8kjrZ",
+        "id": "4lianjyuR1tqf6oUX8kjrZ",
+        "name": "Franco Battiato",
+        "type": "artist",
+        "uri": "spotify:artist:4lianjyuR1tqf6oUX8kjrZ"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "AU",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "FJ",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "HU",
+      "IT",
+      "JM",
+      "KI",
+      "KN",
+      "LC",
+      "MH",
+      "MT",
+      "MX",
+      "NI",
+      "NR",
+      "NZ",
+      "PA",
+      "PE",
+      "PG",
+      "PW",
+      "PY",
+      "SB",
+      "SM",
+      "SR",
+      "SV",
+      "TO",
+      "TT",
+      "TV",
+      "UY",
+      "VC",
+      "VE",
+      "VU",
+      "WS"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2W0juo4ye4hI0mXRqtZldr"
+    },
+    "href": "https://api.spotify.com/v1/albums/2W0juo4ye4hI0mXRqtZldr",
+    "id": "2W0juo4ye4hI0mXRqtZldr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730e1b1b8c0662b89e939ce9cc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020e1b1b8c0662b89e939ce9cc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510e1b1b8c0662b89e939ce9cc",
+        "width": 64
+      }
+    ],
+    "name": "Campi Magnetici - I Numeri Non Si Possono Amare",
+    "release_date": "2000-06-09",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:2W0juo4ye4hI0mXRqtZldr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4a16JEaHldo5vZuRojtGTZ",
+      "id": "4a16JEaHldo5vZuRojtGTZ",
+      "name": "Charles Trenet",
+      "type": "artist",
+      "uri": "spotify:artist:4a16JEaHldo5vZuRojtGTZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1lXddOYjsskXai9LOzan4s"
+      },
+      "href": "https://api.spotify.com/v1/artists/1lXddOYjsskXai9LOzan4s",
+      "id": "1lXddOYjsskXai9LOzan4s",
+      "name": "A. Albert Lasry",
+      "type": "artist",
+      "uri": "spotify:artist:1lXddOYjsskXai9LOzan4s"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CFR9Rqy3YIAK9JuKUMzIa"
+      },
+      "href": "https://api.spotify.com/v1/artists/4CFR9Rqy3YIAK9JuKUMzIa",
+      "id": "4CFR9Rqy3YIAK9JuKUMzIa",
+      "name": "Manlio Sgalambro",
+      "type": "artist",
+      "uri": "spotify:artist:4CFR9Rqy3YIAK9JuKUMzIa"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "AU",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "FJ",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "HU",
+    "IT",
+    "JM",
+    "KI",
+    "KN",
+    "LC",
+    "MH",
+    "MT",
+    "MX",
+    "NI",
+    "NR",
+    "NZ",
+    "PA",
+    "PE",
+    "PG",
+    "PW",
+    "PY",
+    "SB",
+    "SM",
+    "SR",
+    "SV",
+    "TO",
+    "TT",
+    "TV",
+    "UY",
+    "VC",
+    "VE",
+    "VU",
+    "WS"
+  ],
+  "disc_number": 1,
+  "duration_ms": 180320,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITM000001865"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5qQkvPGDGnZSYolM5sEjF7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5qQkvPGDGnZSYolM5sEjF7",
+  "id": "5qQkvPGDGnZSYolM5sEjF7",
+  "is_local": false,
+  "name": "La Mer",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/5b50a2108fa4e765de09a7cb13c6c81fa4eb9cda?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5qQkvPGDGnZSYolM5sEjF7"
+}

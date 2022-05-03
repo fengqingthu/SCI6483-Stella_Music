@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+        },
+        "href": "https://api.spotify.com/v1/artists/57b3sKD9pGilMb2QlMqArq",
+        "id": "57b3sKD9pGilMb2QlMqArq",
+        "name": "Hardcore Superstar",
+        "type": "artist",
+        "uri": "spotify:artist:57b3sKD9pGilMb2QlMqArq"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DK",
+      "DM",
+      "DO",
+      "FI",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "IS",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "NO",
+      "PA",
+      "SE",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/74vhxRWyIuQBMTO0kFKZrK"
+    },
+    "href": "https://api.spotify.com/v1/albums/74vhxRWyIuQBMTO0kFKZrK",
+    "id": "74vhxRWyIuQBMTO0kFKZrK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734a255d696fef0b33f9c23af3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024a255d696fef0b33f9c23af3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514a255d696fef0b33f9c23af3",
+        "width": 64
+      }
+    ],
+    "name": "C'mon Take on Me",
+    "release_date": "2013-02-27",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:74vhxRWyIuQBMTO0kFKZrK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+      },
+      "href": "https://api.spotify.com/v1/artists/57b3sKD9pGilMb2QlMqArq",
+      "id": "57b3sKD9pGilMb2QlMqArq",
+      "name": "Hardcore Superstar",
+      "type": "artist",
+      "uri": "spotify:artist:57b3sKD9pGilMb2QlMqArq"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DK",
+    "DM",
+    "DO",
+    "FI",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "IS",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "NO",
+    "PA",
+    "SE",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 263213,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVWR1300404"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4qPvCSEUWHBQrUYYub8KbC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4qPvCSEUWHBQrUYYub8KbC",
+  "id": "4qPvCSEUWHBQrUYYub8KbC",
+  "is_local": false,
+  "name": "Above the Law",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/031503e47a59d34c8f70fc4d65dfa67c7620a687?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4qPvCSEUWHBQrUYYub8KbC"
+}

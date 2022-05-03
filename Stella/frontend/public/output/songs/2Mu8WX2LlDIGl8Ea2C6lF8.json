@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        },
+        "href": "https://api.spotify.com/v1/artists/150sLjaVg4A3g4M0Pvs4Qr",
+        "id": "150sLjaVg4A3g4M0Pvs4Qr",
+        "name": "Teodor Wolgers",
+        "type": "artist",
+        "uri": "spotify:artist:150sLjaVg4A3g4M0Pvs4Qr"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0OyO7mdSxWDcK1nLg9jkwY"
+    },
+    "href": "https://api.spotify.com/v1/albums/0OyO7mdSxWDcK1nLg9jkwY",
+    "id": "0OyO7mdSxWDcK1nLg9jkwY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273041d38d2bdf73840e86593e4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02041d38d2bdf73840e86593e4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851041d38d2bdf73840e86593e4",
+        "width": 64
+      }
+    ],
+    "name": "nostalgia",
+    "release_date": "2020-06-05",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0OyO7mdSxWDcK1nLg9jkwY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+      },
+      "href": "https://api.spotify.com/v1/artists/150sLjaVg4A3g4M0Pvs4Qr",
+      "id": "150sLjaVg4A3g4M0Pvs4Qr",
+      "name": "Teodor Wolgers",
+      "type": "artist",
+      "uri": "spotify:artist:150sLjaVg4A3g4M0Pvs4Qr"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 191906,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBPVV2003144"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Mu8WX2LlDIGl8Ea2C6lF8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Mu8WX2LlDIGl8Ea2C6lF8",
+  "id": "2Mu8WX2LlDIGl8Ea2C6lF8",
+  "is_local": false,
+  "name": "nostalgia",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2Mu8WX2LlDIGl8Ea2C6lF8"
+}

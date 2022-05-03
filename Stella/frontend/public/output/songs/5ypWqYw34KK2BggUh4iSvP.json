@@ -1,0 +1,171 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RCoE2Dq19lePKhPzt9vM5"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RCoE2Dq19lePKhPzt9vM5",
+        "id": "1RCoE2Dq19lePKhPzt9vM5",
+        "name": "The Hush Sound",
+        "type": "artist",
+        "uri": "spotify:artist:1RCoE2Dq19lePKhPzt9vM5"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AM",
+      "AZ",
+      "BB",
+      "BF",
+      "BS",
+      "BW",
+      "BY",
+      "BZ",
+      "CV",
+      "DM",
+      "FJ",
+      "FM",
+      "GB",
+      "GD",
+      "GH",
+      "GM",
+      "GW",
+      "IE",
+      "IL",
+      "IN",
+      "KE",
+      "KG",
+      "KN",
+      "KZ",
+      "MD",
+      "MN",
+      "MU",
+      "MX",
+      "MZ",
+      "NA",
+      "NE",
+      "NG",
+      "NP",
+      "PG",
+      "SZ",
+      "TD",
+      "TJ",
+      "TR",
+      "TT",
+      "UA",
+      "UG",
+      "US",
+      "UZ",
+      "ZA",
+      "ZW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3sYfvpmvDAZLbawkDZN2fi"
+    },
+    "href": "https://api.spotify.com/v1/albums/3sYfvpmvDAZLbawkDZN2fi",
+    "id": "3sYfvpmvDAZLbawkDZN2fi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ff8329e1f16a84f6d095677b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ff8329e1f16a84f6d095677b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ff8329e1f16a84f6d095677b",
+        "width": 64
+      }
+    ],
+    "name": "Like Vines",
+    "release_date": "2006-06-05",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3sYfvpmvDAZLbawkDZN2fi"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1RCoE2Dq19lePKhPzt9vM5"
+      },
+      "href": "https://api.spotify.com/v1/artists/1RCoE2Dq19lePKhPzt9vM5",
+      "id": "1RCoE2Dq19lePKhPzt9vM5",
+      "name": "The Hush Sound",
+      "type": "artist",
+      "uri": "spotify:artist:1RCoE2Dq19lePKhPzt9vM5"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AM",
+    "AZ",
+    "BB",
+    "BF",
+    "BS",
+    "BW",
+    "BY",
+    "BZ",
+    "CV",
+    "DM",
+    "FJ",
+    "FM",
+    "GB",
+    "GD",
+    "GH",
+    "GM",
+    "GW",
+    "IE",
+    "IL",
+    "IN",
+    "KE",
+    "KG",
+    "KN",
+    "KZ",
+    "MD",
+    "MN",
+    "MU",
+    "MX",
+    "MZ",
+    "NA",
+    "NE",
+    "NG",
+    "NP",
+    "PG",
+    "SZ",
+    "TD",
+    "TJ",
+    "TR",
+    "TT",
+    "UA",
+    "UG",
+    "US",
+    "UZ",
+    "ZA",
+    "ZW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 197520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US56V0608501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5ypWqYw34KK2BggUh4iSvP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5ypWqYw34KK2BggUh4iSvP",
+  "id": "5ypWqYw34KK2BggUh4iSvP",
+  "is_local": false,
+  "name": "We Intertwined",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/9f27d7066c01a43f17c8c4007c08488ba8747c96?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5ypWqYw34KK2BggUh4iSvP"
+}

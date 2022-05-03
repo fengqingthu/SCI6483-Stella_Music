@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2bDwgXwukZKYXcGRITXZKs"
+        },
+        "href": "https://api.spotify.com/v1/artists/2bDwgXwukZKYXcGRITXZKs",
+        "id": "2bDwgXwukZKYXcGRITXZKs",
+        "name": "Elgate feat. Spektrem",
+        "type": "artist",
+        "uri": "spotify:artist:2bDwgXwukZKYXcGRITXZKs"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2xjXNgSoabiDsVGspWe8hY"
+    },
+    "href": "https://api.spotify.com/v1/albums/2xjXNgSoabiDsVGspWe8hY",
+    "id": "2xjXNgSoabiDsVGspWe8hY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ef6da17cdb4f7e268a24bd53",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ef6da17cdb4f7e268a24bd53",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ef6da17cdb4f7e268a24bd53",
+        "width": 64
+      }
+    ],
+    "name": "Shine",
+    "release_date": "2014-07-02",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2xjXNgSoabiDsVGspWe8hY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2bDwgXwukZKYXcGRITXZKs"
+      },
+      "href": "https://api.spotify.com/v1/artists/2bDwgXwukZKYXcGRITXZKs",
+      "id": "2bDwgXwukZKYXcGRITXZKs",
+      "name": "Elgate feat. Spektrem",
+      "type": "artist",
+      "uri": "spotify:artist:2bDwgXwukZKYXcGRITXZKs"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 228675,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GMBA21485634"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7F9JEUSWBBzrByXA3FszFX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7F9JEUSWBBzrByXA3FszFX",
+  "id": "7F9JEUSWBBzrByXA3FszFX",
+  "is_local": false,
+  "name": "Shine",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7F9JEUSWBBzrByXA3FszFX"
+}

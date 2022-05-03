@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4MFjiDExvhqqS1Xv1jtb53"
+        },
+        "href": "https://api.spotify.com/v1/artists/4MFjiDExvhqqS1Xv1jtb53",
+        "id": "4MFjiDExvhqqS1Xv1jtb53",
+        "name": "Art Mengo",
+        "type": "artist",
+        "uri": "spotify:artist:4MFjiDExvhqqS1Xv1jtb53"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5D5fHX7GnJMKgk6El68pI2"
+    },
+    "href": "https://api.spotify.com/v1/albums/5D5fHX7GnJMKgk6El68pI2",
+    "id": "5D5fHX7GnJMKgk6El68pI2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a9e7551f1ed1d20b5398f240",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a9e7551f1ed1d20b5398f240",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a9e7551f1ed1d20b5398f240",
+        "width": 64
+      }
+    ],
+    "name": "La maison des ailes",
+    "release_date": "2018-10-19",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5D5fHX7GnJMKgk6El68pI2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4MFjiDExvhqqS1Xv1jtb53"
+      },
+      "href": "https://api.spotify.com/v1/artists/4MFjiDExvhqqS1Xv1jtb53",
+      "id": "4MFjiDExvhqqS1Xv1jtb53",
+      "name": "Art Mengo",
+      "type": "artist",
+      "uri": "spotify:artist:4MFjiDExvhqqS1Xv1jtb53"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226917,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR7Z81800184"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7s6zK6ZrUvPo8Bg7PNU8zg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7s6zK6ZrUvPo8Bg7PNU8zg",
+  "id": "7s6zK6ZrUvPo8Bg7PNU8zg",
+  "is_local": false,
+  "name": "Grand le ciel",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/081f16e45d5219c5b3c504b4dd75ca2cd134fb01?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:7s6zK6ZrUvPo8Bg7PNU8zg"
+}

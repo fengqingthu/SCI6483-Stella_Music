@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Z7UcsdweVlRbAk5wH5fsf",
+        "id": "2Z7UcsdweVlRbAk5wH5fsf",
+        "name": "The Last Shadow Puppets",
+        "type": "artist",
+        "uri": "spotify:artist:2Z7UcsdweVlRbAk5wH5fsf"
+      }
+    ],
+    "available_markets": [
+      "GR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3wKnLgxCmFr7vl3izFVTDM"
+    },
+    "href": "https://api.spotify.com/v1/albums/3wKnLgxCmFr7vl3izFVTDM",
+    "id": "3wKnLgxCmFr7vl3izFVTDM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b7ca0fd108a57c36d381867e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b7ca0fd108a57c36d381867e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b7ca0fd108a57c36d381867e",
+        "width": 64
+      }
+    ],
+    "name": "The Age Of The Understatement",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3wKnLgxCmFr7vl3izFVTDM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Z7UcsdweVlRbAk5wH5fsf",
+      "id": "2Z7UcsdweVlRbAk5wH5fsf",
+      "name": "The Last Shadow Puppets",
+      "type": "artist",
+      "uri": "spotify:artist:2Z7UcsdweVlRbAk5wH5fsf"
+    }
+  ],
+  "available_markets": [
+    "GR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 138413,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL0800156"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Yo7EKacdJJF30Kb1YEots"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Yo7EKacdJJF30Kb1YEots",
+  "id": "5Yo7EKacdJJF30Kb1YEots",
+  "is_local": false,
+  "name": "Standing Next To Me",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/9c4f93bcd388f2f54006ee742c8b9091235bd02a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5Yo7EKacdJJF30Kb1YEots"
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5FXMcILCOMjljRTV6cLoiE",
+        "id": "5FXMcILCOMjljRTV6cLoiE",
+        "name": "Sirenia",
+        "type": "artist",
+        "uri": "spotify:artist:5FXMcILCOMjljRTV6cLoiE"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6inibjYZZOdynqpy7jOsY8"
+    },
+    "href": "https://api.spotify.com/v1/albums/6inibjYZZOdynqpy7jOsY8",
+    "id": "6inibjYZZOdynqpy7jOsY8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27386ea935395700ec424572161",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0286ea935395700ec424572161",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485186ea935395700ec424572161",
+        "width": 64
+      }
+    ],
+    "name": "An Elixir For Existence",
+    "release_date": "2004-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:6inibjYZZOdynqpy7jOsY8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FXMcILCOMjljRTV6cLoiE",
+      "id": "5FXMcILCOMjljRTV6cLoiE",
+      "name": "Sirenia",
+      "type": "artist",
+      "uri": "spotify:artist:5FXMcILCOMjljRTV6cLoiE"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 285680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN260413509"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0hfpYMOY3cp8Aozj9dJngA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0hfpYMOY3cp8Aozj9dJngA",
+  "id": "0hfpYMOY3cp8Aozj9dJngA",
+  "is_local": false,
+  "name": "Seven Sirens And A Silver Tear",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/93e83134b62639f6efaf9e2fd9be2bfce33e14ad?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:0hfpYMOY3cp8Aozj9dJngA"
+}

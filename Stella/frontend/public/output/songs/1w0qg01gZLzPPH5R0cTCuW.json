@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        },
+        "href": "https://api.spotify.com/v1/artists/25tMQOrIU4LlUo6Sv8v5SE",
+        "id": "25tMQOrIU4LlUo6Sv8v5SE",
+        "name": "Gavin James",
+        "type": "artist",
+        "uri": "spotify:artist:25tMQOrIU4LlUo6Sv8v5SE"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IL",
+      "IS",
+      "IT",
+      "KG",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MK",
+      "MN",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TJ",
+      "TR",
+      "UA",
+      "UZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX"
+    },
+    "href": "https://api.spotify.com/v1/albums/4xsgJS74UkFgI1DE71lnXX",
+    "id": "4xsgJS74UkFgI1DE71lnXX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273627c59a5d7ef462b6a038757",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02627c59a5d7ef462b6a038757",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851627c59a5d7ef462b6a038757",
+        "width": 64
+      }
+    ],
+    "name": "Only Ticket Home",
+    "release_date": "2018-10-26",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:4xsgJS74UkFgI1DE71lnXX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+      },
+      "href": "https://api.spotify.com/v1/artists/25tMQOrIU4LlUo6Sv8v5SE",
+      "id": "25tMQOrIU4LlUo6Sv8v5SE",
+      "name": "Gavin James",
+      "type": "artist",
+      "uri": "spotify:artist:25tMQOrIU4LlUo6Sv8v5SE"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IL",
+    "IS",
+    "IT",
+    "KG",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MK",
+    "MN",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TJ",
+    "TR",
+    "UA",
+    "UZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 247842,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB45A1800988"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1w0qg01gZLzPPH5R0cTCuW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1w0qg01gZLzPPH5R0cTCuW",
+  "id": "1w0qg01gZLzPPH5R0cTCuW",
+  "is_local": false,
+  "name": "Always",
+  "popularity": 58,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1w0qg01gZLzPPH5R0cTCuW"
+}

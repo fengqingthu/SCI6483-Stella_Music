@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+        },
+        "href": "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+        "id": "5BnNG7QQQDTNd43ozx5y13",
+        "name": "Blackmore's Night",
+        "type": "artist",
+        "uri": "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6f9h0hZo7MYnUlNtoat7KW"
+    },
+    "href": "https://api.spotify.com/v1/albums/6f9h0hZo7MYnUlNtoat7KW",
+    "id": "6f9h0hZo7MYnUlNtoat7KW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273697c1b72618a48df81ceab78",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02697c1b72618a48df81ceab78",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851697c1b72618a48df81ceab78",
+        "width": 64
+      }
+    ],
+    "name": "Fires at Midnight",
+    "release_date": "2001",
+    "release_date_precision": "year",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:6f9h0hZo7MYnUlNtoat7KW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+      "id": "5BnNG7QQQDTNd43ozx5y13",
+      "name": "Blackmore's Night",
+      "type": "artist",
+      "uri": "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 371573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEA450103100"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0gt3jWOc4rjRK57x8yP5Oh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0gt3jWOc4rjRK57x8yP5Oh",
+  "id": "0gt3jWOc4rjRK57x8yP5Oh",
+  "is_local": false,
+  "name": "Storm",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/034a112e4958c92147fa3dd41465cb0792ab649c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:0gt3jWOc4rjRK57x8yP5Oh"
+}

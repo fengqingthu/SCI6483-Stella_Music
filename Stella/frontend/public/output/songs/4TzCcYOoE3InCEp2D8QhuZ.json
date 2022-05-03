@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
+        },
+        "href": "https://api.spotify.com/v1/artists/1fBcQOi8yEfWN7fknMoqIE",
+        "id": "1fBcQOi8yEfWN7fknMoqIE",
+        "name": "Patrice",
+        "type": "artist",
+        "uri": "spotify:artist:1fBcQOi8yEfWN7fknMoqIE"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0TCkN2IgDcXCejP3yL6m9t"
+    },
+    "href": "https://api.spotify.com/v1/albums/0TCkN2IgDcXCejP3yL6m9t",
+    "id": "0TCkN2IgDcXCejP3yL6m9t",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731737206eb3a0ce89e7053e1e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021737206eb3a0ce89e7053e1e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511737206eb3a0ce89e7053e1e",
+        "width": 64
+      }
+    ],
+    "name": "The Rising Of The Son",
+    "release_date": "2013-08-26",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0TCkN2IgDcXCejP3yL6m9t"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
+      },
+      "href": "https://api.spotify.com/v1/artists/1fBcQOi8yEfWN7fknMoqIE",
+      "id": "1fBcQOi8yEfWN7fknMoqIE",
+      "name": "Patrice",
+      "type": "artist",
+      "uri": "spotify:artist:1fBcQOi8yEfWN7fknMoqIE"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 227813,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DERS21300002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4TzCcYOoE3InCEp2D8QhuZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4TzCcYOoE3InCEp2D8QhuZ",
+  "id": "4TzCcYOoE3InCEp2D8QhuZ",
+  "is_local": false,
+  "name": "Cry Cry Cry",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/11005aa2a3c25ebba0221e7fbd668aac285cee1e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4TzCcYOoE3InCEp2D8QhuZ"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4UTHeJ0TdH6zAEt5MoV02I"
+        },
+        "href": "https://api.spotify.com/v1/artists/4UTHeJ0TdH6zAEt5MoV02I",
+        "id": "4UTHeJ0TdH6zAEt5MoV02I",
+        "name": "Delphic",
+        "type": "artist",
+        "uri": "spotify:artist:4UTHeJ0TdH6zAEt5MoV02I"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "GB",
+      "IE",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3ubVoUBM2gUBbZgzoUqgtX"
+    },
+    "href": "https://api.spotify.com/v1/albums/3ubVoUBM2gUBbZgzoUqgtX",
+    "id": "3ubVoUBM2gUBbZgzoUqgtX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dd7b9d3033882245f22a92ad",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dd7b9d3033882245f22a92ad",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dd7b9d3033882245f22a92ad",
+        "width": 64
+      }
+    ],
+    "name": "Acolyte",
+    "release_date": "2010",
+    "release_date_precision": "year",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3ubVoUBM2gUBbZgzoUqgtX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4UTHeJ0TdH6zAEt5MoV02I"
+      },
+      "href": "https://api.spotify.com/v1/artists/4UTHeJ0TdH6zAEt5MoV02I",
+      "id": "4UTHeJ0TdH6zAEt5MoV02I",
+      "name": "Delphic",
+      "type": "artist",
+      "uri": "spotify:artist:4UTHeJ0TdH6zAEt5MoV02I"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "GB",
+    "IE",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 246133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70903534"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4uPC1XKFcSwfCEDSxsflnz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4uPC1XKFcSwfCEDSxsflnz",
+  "id": "4uPC1XKFcSwfCEDSxsflnz",
+  "is_local": false,
+  "name": "Doubt",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/c30045f2b70a708b813a7c14e9297fef3ea69a88?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4uPC1XKFcSwfCEDSxsflnz"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        },
+        "href": "https://api.spotify.com/v1/artists/7290H8m1Dwt8G7jm1y9CQx",
+        "id": "7290H8m1Dwt8G7jm1y9CQx",
+        "name": "Chris Isaak",
+        "type": "artist",
+        "uri": "spotify:artist:7290H8m1Dwt8G7jm1y9CQx"
+      }
+    ],
+    "available_markets": [
+      "AU"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4BdWGUgGvnD6QjrOrU2JZt"
+    },
+    "href": "https://api.spotify.com/v1/albums/4BdWGUgGvnD6QjrOrU2JZt",
+    "id": "4BdWGUgGvnD6QjrOrU2JZt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27309a4abca212c575edf9f6c77",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0209a4abca212c575edf9f6c77",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485109a4abca212c575edf9f6c77",
+        "width": 64
+      }
+    ],
+    "name": "Heart Shaped World",
+    "release_date": "1989",
+    "release_date_precision": "year",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4BdWGUgGvnD6QjrOrU2JZt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+      },
+      "href": "https://api.spotify.com/v1/artists/7290H8m1Dwt8G7jm1y9CQx",
+      "id": "7290H8m1Dwt8G7jm1y9CQx",
+      "name": "Chris Isaak",
+      "type": "artist",
+      "uri": "spotify:artist:7290H8m1Dwt8G7jm1y9CQx"
+    }
+  ],
+  "available_markets": [
+    "AU"
+  ],
+  "disc_number": 1,
+  "duration_ms": 287506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRE19900989"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/57MbOuT7s2ES3IW9KuZQzI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/57MbOuT7s2ES3IW9KuZQzI",
+  "id": "57MbOuT7s2ES3IW9KuZQzI",
+  "is_local": false,
+  "name": "Wicked Game",
+  "popularity": 51,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:57MbOuT7s2ES3IW9KuZQzI"
+}

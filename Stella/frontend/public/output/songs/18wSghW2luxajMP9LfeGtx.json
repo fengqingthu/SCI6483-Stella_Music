@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        },
+        "href": "https://api.spotify.com/v1/artists/3w1Q754jb31h5CXQCcnLNL",
+        "id": "3w1Q754jb31h5CXQCcnLNL",
+        "name": "Capcom Sound Team",
+        "type": "artist",
+        "uri": "spotify:artist:3w1Q754jb31h5CXQCcnLNL"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+    },
+    "href": "https://api.spotify.com/v1/albums/0hU2xjMRQWN7zsawye1wfh",
+    "id": "0hU2xjMRQWN7zsawye1wfh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731db6a201dde18eeff71b560a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021db6a201dde18eeff71b560a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511db6a201dde18eeff71b560a",
+        "width": 64
+      }
+    ],
+    "name": "モンスターハンター:ワールド オリジナル・サウンドトラック",
+    "release_date": "2018-02-14",
+    "release_date_precision": "day",
+    "total_tracks": 83,
+    "type": "album",
+    "uri": "spotify:album:0hU2xjMRQWN7zsawye1wfh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+      },
+      "href": "https://api.spotify.com/v1/artists/58RrZSfiTZiUgjNvWO7vCt",
+      "id": "58RrZSfiTZiUgjNvWO7vCt",
+      "name": "TADAYOSHI MAKINO",
+      "type": "artist",
+      "uri": "spotify:artist:58RrZSfiTZiUgjNvWO7vCt"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 271520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPE101706810"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/18wSghW2luxajMP9LfeGtx",
+  "id": "18wSghW2luxajMP9LfeGtx",
+  "is_local": false,
+  "name": "星に駆られて",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/e4b46bf529d6bb733ca54af5ea5694742bed8de2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:18wSghW2luxajMP9LfeGtx"
+}

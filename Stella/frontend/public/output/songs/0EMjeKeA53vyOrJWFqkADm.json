@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3J297wyeF2mibIB1VS9T2l"
+        },
+        "href": "https://api.spotify.com/v1/artists/3J297wyeF2mibIB1VS9T2l",
+        "id": "3J297wyeF2mibIB1VS9T2l",
+        "name": "shirts0001",
+        "type": "artist",
+        "uri": "spotify:artist:3J297wyeF2mibIB1VS9T2l"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Q0z2yXedx8FCaWBmvVAhB"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Q0z2yXedx8FCaWBmvVAhB",
+    "id": "3Q0z2yXedx8FCaWBmvVAhB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a0cb57f22af000437e0e6dd8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a0cb57f22af000437e0e6dd8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a0cb57f22af000437e0e6dd8",
+        "width": 64
+      }
+    ],
+    "name": "Erika - German marching song",
+    "release_date": "2021-10-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:3Q0z2yXedx8FCaWBmvVAhB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3J297wyeF2mibIB1VS9T2l"
+      },
+      "href": "https://api.spotify.com/v1/artists/3J297wyeF2mibIB1VS9T2l",
+      "id": "3J297wyeF2mibIB1VS9T2l",
+      "name": "shirts0001",
+      "type": "artist",
+      "uri": "spotify:artist:3J297wyeF2mibIB1VS9T2l"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 178549,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZNMZ2110351"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0EMjeKeA53vyOrJWFqkADm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0EMjeKeA53vyOrJWFqkADm",
+  "id": "0EMjeKeA53vyOrJWFqkADm",
+  "is_local": false,
+  "name": "Erika - German marching song",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0EMjeKeA53vyOrJWFqkADm"
+}

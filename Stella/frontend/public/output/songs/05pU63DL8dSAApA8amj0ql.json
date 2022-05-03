@@ -1,0 +1,135 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/167abweXl3demO9x0VMMeJ",
+        "id": "167abweXl3demO9x0VMMeJ",
+        "name": "Yodelice",
+        "type": "artist",
+        "uri": "spotify:artist:167abweXl3demO9x0VMMeJ"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "BE",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "HK",
+      "HU",
+      "IE",
+      "IS",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "MY",
+      "NL",
+      "NO",
+      "PK",
+      "PL",
+      "PT",
+      "SE",
+      "SG",
+      "TR",
+      "TW",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ZBipWDQranfO54JP023ZT",
+    "id": "1ZBipWDQranfO54JP023ZT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730e9fe99b72527f01ee134963",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020e9fe99b72527f01ee134963",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510e9fe99b72527f01ee134963",
+        "width": 64
+      }
+    ],
+    "name": "Tree Of Life",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1ZBipWDQranfO54JP023ZT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/167abweXl3demO9x0VMMeJ",
+      "id": "167abweXl3demO9x0VMMeJ",
+      "name": "Yodelice",
+      "type": "artist",
+      "uri": "spotify:artist:167abweXl3demO9x0VMMeJ"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "BE",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "HK",
+    "HU",
+    "IE",
+    "IS",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "MY",
+    "NL",
+    "NO",
+    "PK",
+    "PL",
+    "PT",
+    "SE",
+    "SG",
+    "TR",
+    "TW",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 137093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM70803273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql"
+  },
+  "href": "https://api.spotify.com/v1/tracks/05pU63DL8dSAApA8amj0ql",
+  "id": "05pU63DL8dSAApA8amj0ql",
+  "is_local": false,
+  "name": "Sunday With A Flu",
+  "popularity": 55,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:05pU63DL8dSAApA8amj0ql"
+}

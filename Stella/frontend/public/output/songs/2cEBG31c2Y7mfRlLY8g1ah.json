@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/7D5oTJSXSHf51auG0106CQ",
+        "id": "7D5oTJSXSHf51auG0106CQ",
+        "name": "Benjamin Francis Leftwich",
+        "type": "artist",
+        "uri": "spotify:artist:7D5oTJSXSHf51auG0106CQ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0"
+    },
+    "href": "https://api.spotify.com/v1/albums/2V5uxReEmjn0j5tAG6oHI0",
+    "id": "2V5uxReEmjn0j5tAG6oHI0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738dba7c8dbbe53114c18d88b6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028dba7c8dbbe53114c18d88b6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518dba7c8dbbe53114c18d88b6",
+        "width": 64
+      }
+    ],
+    "name": "Last Smoke Before the Snowstorm",
+    "release_date": "2011-07-03",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2V5uxReEmjn0j5tAG6oHI0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/7D5oTJSXSHf51auG0106CQ",
+      "id": "7D5oTJSXSHf51auG0106CQ",
+      "name": "Benjamin Francis Leftwich",
+      "type": "artist",
+      "uri": "spotify:artist:7D5oTJSXSHf51auG0106CQ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 177533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBK3W1000025"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2cEBG31c2Y7mfRlLY8g1ah",
+  "id": "2cEBG31c2Y7mfRlLY8g1ah",
+  "is_local": false,
+  "name": "Pictures",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/55d6d07780ed50f5a7c9d6d21d7e93c6abc2fce1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2cEBG31c2Y7mfRlLY8g1ah"
+}

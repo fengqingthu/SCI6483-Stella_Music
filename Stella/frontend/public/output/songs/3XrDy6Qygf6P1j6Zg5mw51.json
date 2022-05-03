@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        },
+        "href": "https://api.spotify.com/v1/artists/1jzIEzXVJ4p1kFDmio6LEL",
+        "id": "1jzIEzXVJ4p1kFDmio6LEL",
+        "name": "Xandria",
+        "type": "artist",
+        "uri": "spotify:artist:1jzIEzXVJ4p1kFDmio6LEL"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6fEovcZdYi8SQQEAVY55FK"
+    },
+    "href": "https://api.spotify.com/v1/albums/6fEovcZdYi8SQQEAVY55FK",
+    "id": "6fEovcZdYi8SQQEAVY55FK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d36aa482243d12e406cccfdb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d36aa482243d12e406cccfdb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d36aa482243d12e406cccfdb",
+        "width": 64
+      }
+    ],
+    "name": "Sacrificium",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6fEovcZdYi8SQQEAVY55FK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+      },
+      "href": "https://api.spotify.com/v1/artists/1jzIEzXVJ4p1kFDmio6LEL",
+      "id": "1jzIEzXVJ4p1kFDmio6LEL",
+      "name": "Xandria",
+      "type": "artist",
+      "uri": "spotify:artist:1jzIEzXVJ4p1kFDmio6LEL"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 236066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261453402"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3XrDy6Qygf6P1j6Zg5mw51"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3XrDy6Qygf6P1j6Zg5mw51",
+  "id": "3XrDy6Qygf6P1j6Zg5mw51",
+  "is_local": false,
+  "name": "Nightfall",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/0b2e88afcfda092dd7fea5bdee7387a319fd1920?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3XrDy6Qygf6P1j6Zg5mw51"
+}

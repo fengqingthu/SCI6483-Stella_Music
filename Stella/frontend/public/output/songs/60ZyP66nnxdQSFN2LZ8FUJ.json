@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+        "id": "3IVrpJxHeUFoYP4H6bxg57",
+        "name": "Kadebostany",
+        "type": "artist",
+        "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1MfrwTCzKu0WAFszrsDDxA"
+    },
+    "href": "https://api.spotify.com/v1/albums/1MfrwTCzKu0WAFszrsDDxA",
+    "id": "1MfrwTCzKu0WAFszrsDDxA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733bbdcb79b63beed8ad3d6d20",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023bbdcb79b63beed8ad3d6d20",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513bbdcb79b63beed8ad3d6d20",
+        "width": 64
+      }
+    ],
+    "name": "Wild In Secret (feat. Valeria Stoica)",
+    "release_date": "2021-11-19",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1MfrwTCzKu0WAFszrsDDxA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+      "id": "3IVrpJxHeUFoYP4H6bxg57",
+      "name": "Kadebostany",
+      "type": "artist",
+      "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1U0dn9EFyhTfKS4xvFrUSR",
+      "id": "1U0dn9EFyhTfKS4xvFrUSR",
+      "name": "Valeria Stoica",
+      "type": "artist",
+      "uri": "spotify:artist:1U0dn9EFyhTfKS4xvFrUSR"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 143389,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH5482100047"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/60ZyP66nnxdQSFN2LZ8FUJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/60ZyP66nnxdQSFN2LZ8FUJ",
+  "id": "60ZyP66nnxdQSFN2LZ8FUJ",
+  "is_local": false,
+  "name": "Wild In Secret (feat. Valeria Stoica)",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/6542cc91f03f0bd3b6c0cfbfdb89976462d07a3c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:60ZyP66nnxdQSFN2LZ8FUJ"
+}

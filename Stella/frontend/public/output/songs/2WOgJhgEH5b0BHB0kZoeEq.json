@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+        "id": "3ti6KzYwDK7GTraIlnLUdu",
+        "name": "Roomie",
+        "type": "artist",
+        "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Kwg50aLv2MD8pjJY488OS"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Kwg50aLv2MD8pjJY488OS",
+    "id": "6Kwg50aLv2MD8pjJY488OS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731f9eea9f920256b8c532bc23",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021f9eea9f920256b8c532bc23",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511f9eea9f920256b8c532bc23",
+        "width": 64
+      }
+    ],
+    "name": "Dating a Douchebag (Demo)",
+    "release_date": "2014-02-04",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6Kwg50aLv2MD8pjJY488OS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ti6KzYwDK7GTraIlnLUdu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ti6KzYwDK7GTraIlnLUdu",
+      "id": "3ti6KzYwDK7GTraIlnLUdu",
+      "name": "Roomie",
+      "type": "artist",
+      "uri": "spotify:artist:3ti6KzYwDK7GTraIlnLUdu"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 219803,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "uscgh1454475"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2WOgJhgEH5b0BHB0kZoeEq"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2WOgJhgEH5b0BHB0kZoeEq",
+  "id": "2WOgJhgEH5b0BHB0kZoeEq",
+  "is_local": false,
+  "name": "Dating a Douchebag (Demo)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2WOgJhgEH5b0BHB0kZoeEq"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        },
+        "href": "https://api.spotify.com/v1/artists/3w1Q754jb31h5CXQCcnLNL",
+        "id": "3w1Q754jb31h5CXQCcnLNL",
+        "name": "Capcom Sound Team",
+        "type": "artist",
+        "uri": "spotify:artist:3w1Q754jb31h5CXQCcnLNL"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+    },
+    "href": "https://api.spotify.com/v1/albums/0hU2xjMRQWN7zsawye1wfh",
+    "id": "0hU2xjMRQWN7zsawye1wfh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731db6a201dde18eeff71b560a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021db6a201dde18eeff71b560a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511db6a201dde18eeff71b560a",
+        "width": 64
+      }
+    ],
+    "name": "モンスターハンター:ワールド オリジナル・サウンドトラック",
+    "release_date": "2018-02-14",
+    "release_date_precision": "day",
+    "total_tracks": 83,
+    "type": "album",
+    "uri": "spotify:album:0hU2xjMRQWN7zsawye1wfh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+      },
+      "href": "https://api.spotify.com/v1/artists/6iA27PNXCsDXNyhLGYk6Bl",
+      "id": "6iA27PNXCsDXNyhLGYk6Bl",
+      "name": "Akihiko Narita",
+      "type": "artist",
+      "uri": "spotify:artist:6iA27PNXCsDXNyhLGYk6Bl"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 2,
+  "duration_ms": 283306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPE101800470"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5zxNxEAcnxYwKsQ8AjIrff"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5zxNxEAcnxYwKsQ8AjIrff",
+  "id": "5zxNxEAcnxYwKsQ8AjIrff",
+  "is_local": false,
+  "name": "禁断の地へと誘う獣らの囁き",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/e2211d9df390fec3800198f2f595e9bfc85e407e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:5zxNxEAcnxYwKsQ8AjIrff"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
+        },
+        "href": "https://api.spotify.com/v1/artists/2H5FmmxEe60Tl6PZyfa95F",
+        "id": "2H5FmmxEe60Tl6PZyfa95F",
+        "name": "Pictish Trail",
+        "type": "artist",
+        "uri": "spotify:artist:2H5FmmxEe60Tl6PZyfa95F"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5dfHKH8Caqaoqu5d6zJiNa"
+    },
+    "href": "https://api.spotify.com/v1/albums/5dfHKH8Caqaoqu5d6zJiNa",
+    "id": "5dfHKH8Caqaoqu5d6zJiNa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27362a65080931b05e72cc8be2b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0262a65080931b05e72cc8be2b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485162a65080931b05e72cc8be2b",
+        "width": 64
+      }
+    ],
+    "name": "Future Echoes",
+    "release_date": "2016-09-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5dfHKH8Caqaoqu5d6zJiNa"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
+      },
+      "href": "https://api.spotify.com/v1/artists/2H5FmmxEe60Tl6PZyfa95F",
+      "id": "2H5FmmxEe60Tl6PZyfa95F",
+      "name": "Pictish Trail",
+      "type": "artist",
+      "uri": "spotify:artist:2H5FmmxEe60Tl6PZyfa95F"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 220080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBZDN1600001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4QEoxcLkDEEWqN0AXF99WQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4QEoxcLkDEEWqN0AXF99WQ",
+  "id": "4QEoxcLkDEEWqN0AXF99WQ",
+  "is_local": false,
+  "name": "Far Gone (Don't Leave)",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/0945a1863a4c33caa98af66896a0d71551d77e5d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4QEoxcLkDEEWqN0AXF99WQ"
+}

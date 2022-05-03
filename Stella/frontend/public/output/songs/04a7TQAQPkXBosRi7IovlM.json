@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        },
+        "href": "https://api.spotify.com/v1/artists/7x5rK9BClDQ8wmCkYAGsQp",
+        "id": "7x5rK9BClDQ8wmCkYAGsQp",
+        "name": "Paolo Nutini",
+        "type": "artist",
+        "uri": "spotify:artist:7x5rK9BClDQ8wmCkYAGsQp"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "JP",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6jvaYzdcyKbh1B8ZWAfPix"
+    },
+    "href": "https://api.spotify.com/v1/albums/6jvaYzdcyKbh1B8ZWAfPix",
+    "id": "6jvaYzdcyKbh1B8ZWAfPix",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731f2080fa515c0a63662a411d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021f2080fa515c0a63662a411d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511f2080fa515c0a63662a411d",
+        "width": 64
+      }
+    ],
+    "name": "These Streets (Deluxe)",
+    "release_date": "2006-07-17",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6jvaYzdcyKbh1B8ZWAfPix"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+      },
+      "href": "https://api.spotify.com/v1/artists/7x5rK9BClDQ8wmCkYAGsQp",
+      "id": "7x5rK9BClDQ8wmCkYAGsQp",
+      "name": "Paolo Nutini",
+      "type": "artist",
+      "uri": "spotify:artist:7x5rK9BClDQ8wmCkYAGsQp"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "JP",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 203653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAHS0600229"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/04a7TQAQPkXBosRi7IovlM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/04a7TQAQPkXBosRi7IovlM",
+  "id": "04a7TQAQPkXBosRi7IovlM",
+  "is_local": false,
+  "name": "New Shoes",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/aa8c0e3c81f770bc6cc8a10af6f4c4502268d51b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:04a7TQAQPkXBosRi7IovlM"
+}

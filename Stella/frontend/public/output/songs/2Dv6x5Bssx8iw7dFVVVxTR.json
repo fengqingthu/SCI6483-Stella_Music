@@ -1,0 +1,159 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+        },
+        "href": "https://api.spotify.com/v1/artists/57b3sKD9pGilMb2QlMqArq",
+        "id": "57b3sKD9pGilMb2QlMqArq",
+        "name": "Hardcore Superstar",
+        "type": "artist",
+        "uri": "spotify:artist:57b3sKD9pGilMb2QlMqArq"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AZ",
+      "BD",
+      "BH",
+      "BN",
+      "BT",
+      "DK",
+      "FI",
+      "HK",
+      "ID",
+      "IN",
+      "IQ",
+      "IS",
+      "JO",
+      "JP",
+      "KH",
+      "KR",
+      "KW",
+      "LA",
+      "LB",
+      "LK",
+      "MN",
+      "MO",
+      "MV",
+      "MY",
+      "NO",
+      "NP",
+      "OM",
+      "PH",
+      "PK",
+      "PS",
+      "QA",
+      "SA",
+      "SE",
+      "SG",
+      "TG",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4raUhz4RLy0dmpCTM8EDZq"
+    },
+    "href": "https://api.spotify.com/v1/albums/4raUhz4RLy0dmpCTM8EDZq",
+    "id": "4raUhz4RLy0dmpCTM8EDZq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27363581107cba18fab909af9db",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0263581107cba18fab909af9db",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485163581107cba18fab909af9db",
+        "width": 64
+      }
+    ],
+    "name": "Split Your Lip",
+    "release_date": "2010-11-23",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4raUhz4RLy0dmpCTM8EDZq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+      },
+      "href": "https://api.spotify.com/v1/artists/57b3sKD9pGilMb2QlMqArq",
+      "id": "57b3sKD9pGilMb2QlMqArq",
+      "name": "Hardcore Superstar",
+      "type": "artist",
+      "uri": "spotify:artist:57b3sKD9pGilMb2QlMqArq"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AZ",
+    "BD",
+    "BH",
+    "BN",
+    "BT",
+    "DK",
+    "FI",
+    "HK",
+    "ID",
+    "IN",
+    "IQ",
+    "IS",
+    "JO",
+    "JP",
+    "KH",
+    "KR",
+    "KW",
+    "LA",
+    "LB",
+    "LK",
+    "MN",
+    "MO",
+    "MV",
+    "MY",
+    "NO",
+    "NP",
+    "OM",
+    "PH",
+    "PK",
+    "PS",
+    "QA",
+    "SA",
+    "SE",
+    "SG",
+    "TG",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 237533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVWR1000205"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Dv6x5Bssx8iw7dFVVVxTR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Dv6x5Bssx8iw7dFVVVxTR",
+  "id": "2Dv6x5Bssx8iw7dFVVVxTR",
+  "is_local": false,
+  "name": "Moonshine",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/474b7f483ea71b13b82b6953468cd2c01de08c38?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2Dv6x5Bssx8iw7dFVVVxTR"
+}

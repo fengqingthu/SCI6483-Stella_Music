@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5v5E2nwjEMrZ3LkLpf0y3j"
+        },
+        "href": "https://api.spotify.com/v1/artists/5v5E2nwjEMrZ3LkLpf0y3j",
+        "id": "5v5E2nwjEMrZ3LkLpf0y3j",
+        "name": "Robert Corff, The Gourmet's Delight & Johnny & The Tornados",
+        "type": "artist",
+        "uri": "spotify:artist:5v5E2nwjEMrZ3LkLpf0y3j"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7lyphl7ySmWLrRxqIj4MNK"
+    },
+    "href": "https://api.spotify.com/v1/albums/7lyphl7ySmWLrRxqIj4MNK",
+    "id": "7lyphl7ySmWLrRxqIj4MNK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f9291951af2e71b872fcbded",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f9291951af2e71b872fcbded",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f9291951af2e71b872fcbded",
+        "width": 64
+      }
+    ],
+    "name": "Gas-s-s-s! Music from the Soundtrack (Remastered)",
+    "release_date": "1970",
+    "release_date_precision": "year",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:7lyphl7ySmWLrRxqIj4MNK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/411gQHDYIMJ7N1w29xT0x5"
+      },
+      "href": "https://api.spotify.com/v1/artists/411gQHDYIMJ7N1w29xT0x5",
+      "id": "411gQHDYIMJ7N1w29xT0x5",
+      "name": "Robert Corff",
+      "type": "artist",
+      "uri": "spotify:artist:411gQHDYIMJ7N1w29xT0x5"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 152267,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USJ3V1220845"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2dSMS9Znxib9jWt4fcJ7B2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2dSMS9Znxib9jWt4fcJ7B2",
+  "id": "2dSMS9Znxib9jWt4fcJ7B2",
+  "is_local": false,
+  "name": "Maybe It Wasn't Really Love",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2dSMS9Znxib9jWt4fcJ7B2"
+}

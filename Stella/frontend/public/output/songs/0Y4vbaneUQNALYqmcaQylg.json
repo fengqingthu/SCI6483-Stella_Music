@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hV6oxGLeLFw17DGjIPkYD",
+        "id": "6hV6oxGLeLFw17DGjIPkYD",
+        "name": "Cosmo Sheldrake",
+        "type": "artist",
+        "uri": "spotify:artist:6hV6oxGLeLFw17DGjIPkYD"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5wWwQ36jDU3QGxG4TH2NHB"
+    },
+    "href": "https://api.spotify.com/v1/albums/5wWwQ36jDU3QGxG4TH2NHB",
+    "id": "5wWwQ36jDU3QGxG4TH2NHB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d0aeaa615ed3f16a39868570",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d0aeaa615ed3f16a39868570",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d0aeaa615ed3f16a39868570",
+        "width": 64
+      }
+    ],
+    "name": "Pelicans We",
+    "release_date": "2015-04-06",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:5wWwQ36jDU3QGxG4TH2NHB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hV6oxGLeLFw17DGjIPkYD",
+      "id": "6hV6oxGLeLFw17DGjIPkYD",
+      "name": "Cosmo Sheldrake",
+      "type": "artist",
+      "uri": "spotify:artist:6hV6oxGLeLFw17DGjIPkYD"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241683,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKZV1425075"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Y4vbaneUQNALYqmcaQylg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Y4vbaneUQNALYqmcaQylg",
+  "id": "0Y4vbaneUQNALYqmcaQylg",
+  "is_local": false,
+  "name": "Tardigrade Song",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/59fd7d8293af0ec5680784a20a3bc4d57e3a48d0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0Y4vbaneUQNALYqmcaQylg"
+}

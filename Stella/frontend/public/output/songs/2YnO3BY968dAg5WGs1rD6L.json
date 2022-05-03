@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
+        },
+        "href": "https://api.spotify.com/v1/artists/5KhvKrmpVAYSZBbskHd00W",
+        "id": "5KhvKrmpVAYSZBbskHd00W",
+        "name": "Peter von Poehl",
+        "type": "artist",
+        "uri": "spotify:artist:5KhvKrmpVAYSZBbskHd00W"
+      }
+    ],
+    "available_markets": [
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5kOMj7MVYRXyObDx2kTXG7"
+    },
+    "href": "https://api.spotify.com/v1/albums/5kOMj7MVYRXyObDx2kTXG7",
+    "id": "5kOMj7MVYRXyObDx2kTXG7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27372c243746bf9f1f6759845a6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0272c243746bf9f1f6759845a6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485172c243746bf9f1f6759845a6",
+        "width": 64
+      }
+    ],
+    "name": "Going To Where The Tea Trees Are",
+    "release_date": "2006",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5kOMj7MVYRXyObDx2kTXG7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
+      },
+      "href": "https://api.spotify.com/v1/artists/5KhvKrmpVAYSZBbskHd00W",
+      "id": "5KhvKrmpVAYSZBbskHd00W",
+      "name": "Peter von Poehl",
+      "type": "artist",
+      "uri": "spotify:artist:5KhvKrmpVAYSZBbskHd00W"
+    }
+  ],
+  "available_markets": [
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 217640,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWWY0600108"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2YnO3BY968dAg5WGs1rD6L"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2YnO3BY968dAg5WGs1rD6L",
+  "id": "2YnO3BY968dAg5WGs1rD6L",
+  "is_local": false,
+  "name": "The Stoy Of The Impossible",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/33c6222aa83914b1e69a1045cd3cc3b0798fe04d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:2YnO3BY968dAg5WGs1rD6L"
+}

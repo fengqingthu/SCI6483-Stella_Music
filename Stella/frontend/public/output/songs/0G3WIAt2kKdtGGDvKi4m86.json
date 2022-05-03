@@ -1,0 +1,115 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/78Die3Gb8yaElTmGCa7m7N",
+        "id": "78Die3Gb8yaElTmGCa7m7N",
+        "name": "Kore",
+        "type": "artist",
+        "uri": "spotify:artist:78Die3Gb8yaElTmGCa7m7N"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        "href": "https://api.spotify.com/v1/artists/6MvRVq0CtpQQlwnIiszV8F",
+        "id": "6MvRVq0CtpQQlwnIiszV8F",
+        "name": "Magic System",
+        "type": "artist",
+        "uri": "spotify:artist:6MvRVq0CtpQQlwnIiszV8F"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "DE",
+      "GR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3JwUNy6anbcnBgnjH8GKFC"
+    },
+    "href": "https://api.spotify.com/v1/albums/3JwUNy6anbcnBgnjH8GKFC",
+    "id": "3JwUNy6anbcnBgnjH8GKFC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273af55a279cecf1db2de39a3b1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02af55a279cecf1db2de39a3b1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851af55a279cecf1db2de39a3b1",
+        "width": 64
+      }
+    ],
+    "name": "Même Pas Fatigué",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:3JwUNy6anbcnBgnjH8GKFC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+      },
+      "href": "https://api.spotify.com/v1/artists/78Die3Gb8yaElTmGCa7m7N",
+      "id": "78Die3Gb8yaElTmGCa7m7N",
+      "name": "Kore",
+      "type": "artist",
+      "uri": "spotify:artist:78Die3Gb8yaElTmGCa7m7N"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+      },
+      "href": "https://api.spotify.com/v1/artists/6MvRVq0CtpQQlwnIiszV8F",
+      "id": "6MvRVq0CtpQQlwnIiszV8F",
+      "name": "Magic System",
+      "type": "artist",
+      "uri": "spotify:artist:6MvRVq0CtpQQlwnIiszV8F"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+      },
+      "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX",
+      "id": "28ztjHIXceRRntmTUfnmUX",
+      "name": "Khaled",
+      "type": "artist",
+      "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "DE",
+    "GR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 204026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR1S70900017"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0G3WIAt2kKdtGGDvKi4m86"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0G3WIAt2kKdtGGDvKi4m86",
+  "id": "0G3WIAt2kKdtGGDvKi4m86",
+  "is_local": false,
+  "name": "Même Pas Fatigué",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0G3WIAt2kKdtGGDvKi4m86"
+}

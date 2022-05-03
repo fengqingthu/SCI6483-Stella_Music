@@ -1,0 +1,163 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        },
+        "href": "https://api.spotify.com/v1/artists/61NKNrhSMTYg2q0f3vS46e",
+        "id": "61NKNrhSMTYg2q0f3vS46e",
+        "name": "Philippe Katerine",
+        "type": "artist",
+        "uri": "spotify:artist:61NKNrhSMTYg2q0f3vS46e"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AT",
+      "AZ",
+      "BE",
+      "BY",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DE",
+      "EG",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IL",
+      "KG",
+      "KR",
+      "KZ",
+      "LK",
+      "LU",
+      "MX",
+      "MY",
+      "NL",
+      "NO",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "RW",
+      "SA",
+      "SE",
+      "SK",
+      "TJ",
+      "TN",
+      "TR",
+      "TW",
+      "UA",
+      "UZ",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5IwuJEt22vrqQQl8Zgr5RJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5IwuJEt22vrqQQl8Zgr5RJ",
+    "id": "5IwuJEt22vrqQQl8Zgr5RJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e00f02a767457543c709ae0d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e00f02a767457543c709ae0d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e00f02a767457543c709ae0d",
+        "width": 64
+      }
+    ],
+    "name": "Philippe Katerine",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 24,
+    "type": "album",
+    "uri": "spotify:album:5IwuJEt22vrqQQl8Zgr5RJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+      },
+      "href": "https://api.spotify.com/v1/artists/61NKNrhSMTYg2q0f3vS46e",
+      "id": "61NKNrhSMTYg2q0f3vS46e",
+      "name": "Philippe Katerine",
+      "type": "artist",
+      "uri": "spotify:artist:61NKNrhSMTYg2q0f3vS46e"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AT",
+    "AZ",
+    "BE",
+    "BY",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "DE",
+    "EG",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IL",
+    "KG",
+    "KR",
+    "KZ",
+    "LK",
+    "LU",
+    "MX",
+    "MY",
+    "NL",
+    "NO",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "RW",
+    "SA",
+    "SE",
+    "SK",
+    "TJ",
+    "TN",
+    "TR",
+    "TW",
+    "UA",
+    "UZ",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 171266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM71000498"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4lvGJOxOmcVaLcu0Jb648O"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4lvGJOxOmcVaLcu0Jb648O",
+  "id": "4lvGJOxOmcVaLcu0Jb648O",
+  "is_local": false,
+  "name": "Parivélib'",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:4lvGJOxOmcVaLcu0Jb648O"
+}

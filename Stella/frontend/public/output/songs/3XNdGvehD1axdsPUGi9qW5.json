@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+        "id": "3IVrpJxHeUFoYP4H6bxg57",
+        "name": "Kadebostany",
+        "type": "artist",
+        "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "MD",
+      "TJ",
+      "UA",
+      "UZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2J3peIQRGLQZ9X925thp1G"
+    },
+    "href": "https://api.spotify.com/v1/albums/2J3peIQRGLQZ9X925thp1G",
+    "id": "2J3peIQRGLQZ9X925thp1G",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27344fbc5d8e9c351f4528c6f6e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0244fbc5d8e9c351f4528c6f6e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485144fbc5d8e9c351f4528c6f6e",
+        "width": 64
+      }
+    ],
+    "name": "Pop Collection",
+    "release_date": "2015-05-21",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:2J3peIQRGLQZ9X925thp1G"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+      "id": "3IVrpJxHeUFoYP4H6bxg57",
+      "name": "Kadebostany",
+      "type": "artist",
+      "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AZ",
+    "BY",
+    "KG",
+    "KZ",
+    "MD",
+    "TJ",
+    "UA",
+    "UZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 310543,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMPU51285818"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3XNdGvehD1axdsPUGi9qW5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3XNdGvehD1axdsPUGi9qW5",
+  "id": "3XNdGvehD1axdsPUGi9qW5",
+  "is_local": false,
+  "name": "Castle in The Snow (Bentley Grey Remix) [Bonus track]",
+  "popularity": 15,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:3XNdGvehD1axdsPUGi9qW5"
+}

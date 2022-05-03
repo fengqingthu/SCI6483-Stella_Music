@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7ItxZ7Aj1SXNMjtgVzlGCM"
+    },
+    "href": "https://api.spotify.com/v1/albums/7ItxZ7Aj1SXNMjtgVzlGCM",
+    "id": "7ItxZ7Aj1SXNMjtgVzlGCM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f84604857bc3e6b181f9801b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f84604857bc3e6b181f9801b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f84604857bc3e6b181f9801b",
+        "width": 64
+      }
+    ],
+    "name": "Dreamboats & Petticoats 4",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 56,
+    "type": "album",
+    "uri": "spotify:album:7ItxZ7Aj1SXNMjtgVzlGCM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CVHH6NpR8WwHLYjgI4t7A"
+      },
+      "href": "https://api.spotify.com/v1/artists/4CVHH6NpR8WwHLYjgI4t7A",
+      "id": "4CVHH6NpR8WwHLYjgI4t7A",
+      "name": "Jane Morgan",
+      "type": "artist",
+      "uri": "spotify:artist:4CVHH6NpR8WwHLYjgI4t7A"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 2,
+  "duration_ms": 177093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMC10200867"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4WzVNWdLiJU8Z27drtU5ki"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4WzVNWdLiJU8Z27drtU5ki",
+  "id": "4WzVNWdLiJU8Z27drtU5ki",
+  "is_local": false,
+  "name": "The Day The Rains Came",
+  "popularity": 9,
+  "preview_url": null,
+  "track_number": 17,
+  "type": "track",
+  "uri": "spotify:track:4WzVNWdLiJU8Z27drtU5ki"
+}

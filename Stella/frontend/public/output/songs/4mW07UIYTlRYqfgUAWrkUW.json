@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+        },
+        "href": "https://api.spotify.com/v1/artists/0tfnDOJ5a2ib3mHAI4qGyD",
+        "id": "0tfnDOJ5a2ib3mHAI4qGyD",
+        "name": "The Dreadnoughts",
+        "type": "artist",
+        "uri": "spotify:artist:0tfnDOJ5a2ib3mHAI4qGyD"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1muzqfpKHWD4gWtcGKeNrO"
+    },
+    "href": "https://api.spotify.com/v1/albums/1muzqfpKHWD4gWtcGKeNrO",
+    "id": "1muzqfpKHWD4gWtcGKeNrO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27357e884207dd7195358fac55d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0257e884207dd7195358fac55d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485157e884207dd7195358fac55d",
+        "width": 64
+      }
+    ],
+    "name": "Into The North",
+    "release_date": "2019-11-15",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:1muzqfpKHWD4gWtcGKeNrO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+      },
+      "href": "https://api.spotify.com/v1/artists/0tfnDOJ5a2ib3mHAI4qGyD",
+      "id": "0tfnDOJ5a2ib3mHAI4qGyD",
+      "name": "The Dreadnoughts",
+      "type": "artist",
+      "uri": "spotify:artist:0tfnDOJ5a2ib3mHAI4qGyD"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 229733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CASE11900085"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4mW07UIYTlRYqfgUAWrkUW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4mW07UIYTlRYqfgUAWrkUW",
+  "id": "4mW07UIYTlRYqfgUAWrkUW",
+  "is_local": false,
+  "name": "Roll Northumbria",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/f1058a0e8827f8e819e6e59f7f2c2872549ff81b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4mW07UIYTlRYqfgUAWrkUW"
+}

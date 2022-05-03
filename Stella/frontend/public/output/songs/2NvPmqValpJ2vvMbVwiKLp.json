@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DL71JYSG6VREkmLSzfWhU",
+        "id": "3DL71JYSG6VREkmLSzfWhU",
+        "name": "Efterklang",
+        "type": "artist",
+        "uri": "spotify:artist:3DL71JYSG6VREkmLSzfWhU"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4r6QKjkxSWG9vMbnam7bTM"
+    },
+    "href": "https://api.spotify.com/v1/albums/4r6QKjkxSWG9vMbnam7bTM",
+    "id": "4r6QKjkxSWG9vMbnam7bTM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736abbc36189a34e11613e119d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026abbc36189a34e11613e119d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516abbc36189a34e11613e119d",
+        "width": 64
+      }
+    ],
+    "name": "Magic Chairs",
+    "release_date": "2010-02-22",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4r6QKjkxSWG9vMbnam7bTM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+      },
+      "href": "https://api.spotify.com/v1/artists/3DL71JYSG6VREkmLSzfWhU",
+      "id": "3DL71JYSG6VREkmLSzfWhU",
+      "name": "Efterklang",
+      "type": "artist",
+      "uri": "spotify:artist:3DL71JYSG6VREkmLSzfWhU"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 293760,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKEF51000201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2NvPmqValpJ2vvMbVwiKLp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2NvPmqValpJ2vvMbVwiKLp",
+  "id": "2NvPmqValpJ2vvMbVwiKLp",
+  "is_local": false,
+  "name": "Modern Drift",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/e10d85333036b1fef547a52016793f5f38525f9e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2NvPmqValpJ2vvMbVwiKLp"
+}

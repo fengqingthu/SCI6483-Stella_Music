@@ -1,0 +1,20 @@
+{
+  "danceability": 0.297,
+  "energy": 0.0214,
+  "key": 5,
+  "loudness": -32.398,
+  "mode": 1,
+  "speechiness": 0.0658,
+  "acousticness": 0.995,
+  "instrumentalness": 0.934,
+  "liveness": 0.0652,
+  "valence": 0.132,
+  "tempo": 212.349,
+  "type": "audio_features",
+  "id": "0yIM3MDx8UTwueyoZJobsb",
+  "uri": "spotify:track:0yIM3MDx8UTwueyoZJobsb",
+  "track_href": "https://api.spotify.com/v1/tracks/0yIM3MDx8UTwueyoZJobsb",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/0yIM3MDx8UTwueyoZJobsb",
+  "duration_ms": 283227,
+  "time_signature": 4
+}

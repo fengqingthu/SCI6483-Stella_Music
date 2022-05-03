@@ -1,0 +1,205 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WTWOrIS77vY3hkCFqTyIw",
+        "id": "3WTWOrIS77vY3hkCFqTyIw",
+        "name": "Howling",
+        "type": "artist",
+        "uri": "spotify:artist:3WTWOrIS77vY3hkCFqTyIw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2KjAo6wVc9d2WcxdxSArpV",
+        "id": "2KjAo6wVc9d2WcxdxSArpV",
+        "name": "RY X",
+        "type": "artist",
+        "uri": "spotify:artist:2KjAo6wVc9d2WcxdxSArpV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        },
+        "href": "https://api.spotify.com/v1/artists/1gbnoyNZEf6K9HytIv1D94",
+        "id": "1gbnoyNZEf6K9HytIv1D94",
+        "name": "Frank Wiedemann",
+        "type": "artist",
+        "uri": "spotify:artist:1gbnoyNZEf6K9HytIv1D94"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/51Ndl1ddEGf3pkOOUe3rJj"
+    },
+    "href": "https://api.spotify.com/v1/albums/51Ndl1ddEGf3pkOOUe3rJj",
+    "id": "51Ndl1ddEGf3pkOOUe3rJj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731d695d7f19cad707146d92a1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021d695d7f19cad707146d92a1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511d695d7f19cad707146d92a1",
+        "width": 64
+      }
+    ],
+    "name": "Sacred Ground",
+    "release_date": "2015-05-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:51Ndl1ddEGf3pkOOUe3rJj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw"
+      },
+      "href": "https://api.spotify.com/v1/artists/3WTWOrIS77vY3hkCFqTyIw",
+      "id": "3WTWOrIS77vY3hkCFqTyIw",
+      "name": "Howling",
+      "type": "artist",
+      "uri": "spotify:artist:3WTWOrIS77vY3hkCFqTyIw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KjAo6wVc9d2WcxdxSArpV",
+      "id": "2KjAo6wVc9d2WcxdxSArpV",
+      "name": "RY X",
+      "type": "artist",
+      "uri": "spotify:artist:2KjAo6wVc9d2WcxdxSArpV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+      },
+      "href": "https://api.spotify.com/v1/artists/1gbnoyNZEf6K9HytIv1D94",
+      "id": "1gbnoyNZEf6K9HytIv1D94",
+      "name": "Frank Wiedemann",
+      "type": "artist",
+      "uri": "spotify:artist:1gbnoyNZEf6K9HytIv1D94"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GR",
+    "HR",
+    "HU",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 261519,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEOE81510224"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0U1Hf2ILVMXFxCjLdydf7G"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0U1Hf2ILVMXFxCjLdydf7G",
+  "id": "0U1Hf2ILVMXFxCjLdydf7G",
+  "is_local": false,
+  "name": "Stole the Night",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/3b8ed5ac71232e607d1807c75a9e104f5ffe5ba0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0U1Hf2ILVMXFxCjLdydf7G"
+}

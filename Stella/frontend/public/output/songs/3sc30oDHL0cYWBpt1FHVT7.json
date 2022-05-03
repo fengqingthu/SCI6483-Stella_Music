@@ -1,0 +1,149 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        },
+        "href": "https://api.spotify.com/v1/artists/0z9s3P5vCzKcUBSxgBDyLU",
+        "id": "0z9s3P5vCzKcUBSxgBDyLU",
+        "name": "Jonny Greenwood",
+        "type": "artist",
+        "uri": "spotify:artist:0z9s3P5vCzKcUBSxgBDyLU"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah"
+    },
+    "href": "https://api.spotify.com/v1/albums/6hWmVhmirxDxlfZAmtOZah",
+    "id": "6hWmVhmirxDxlfZAmtOZah",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27304736ab671bd4ed4e649b7c3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0204736ab671bd4ed4e649b7c3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485104736ab671bd4ed4e649b7c3",
+        "width": 64
+      }
+    ],
+    "name": "The Power Of The Dog (Soundtrack From The Netflix Film)",
+    "release_date": "2021-11-17",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:6hWmVhmirxDxlfZAmtOZah"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+      },
+      "href": "https://api.spotify.com/v1/artists/0z9s3P5vCzKcUBSxgBDyLU",
+      "id": "0z9s3P5vCzKcUBSxgBDyLU",
+      "name": "Jonny Greenwood",
+      "type": "artist",
+      "uri": "spotify:artist:0z9s3P5vCzKcUBSxgBDyLU"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 137266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZ8BZ2100867"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3sc30oDHL0cYWBpt1FHVT7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3sc30oDHL0cYWBpt1FHVT7",
+  "id": "3sc30oDHL0cYWBpt1FHVT7",
+  "is_local": false,
+  "name": "25 Years",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/c09eab371672d46a3037ec0f36d0594dd2593826?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3sc30oDHL0cYWBpt1FHVT7"
+}

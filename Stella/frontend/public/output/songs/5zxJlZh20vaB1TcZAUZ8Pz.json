@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        },
+        "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+        "id": "7CIW23FQUXPc1zebnO1TDG",
+        "name": "Matt Corby",
+        "type": "artist",
+        "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+    },
+    "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
+    "id": "0FPU4TuKoO4CLUUXBBo6tW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+        "width": 64
+      }
+    ],
+    "name": "Rainbow Valley",
+    "release_date": "2018-11-02",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
+      "name": "Matt Corby",
+      "type": "artist",
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 262257,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUUM71800934"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5zxJlZh20vaB1TcZAUZ8Pz",
+  "id": "5zxJlZh20vaB1TcZAUZ8Pz",
+  "is_local": false,
+  "name": "Miracle Love",
+  "popularity": 55,
+  "preview_url": "https://p.scdn.co/mp3-preview/987e37ae23fc05f3629e9f1171dfcb6b7647e195?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:5zxJlZh20vaB1TcZAUZ8Pz"
+}

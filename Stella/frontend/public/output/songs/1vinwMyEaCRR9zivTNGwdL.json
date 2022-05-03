@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        },
+        "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+        "id": "22ojy4H4ZVpowC4lRRC8In",
+        "name": "Destroyer",
+        "type": "artist",
+        "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2lxvrP32vU3oRjEEKTSHUr"
+    },
+    "href": "https://api.spotify.com/v1/albums/2lxvrP32vU3oRjEEKTSHUr",
+    "id": "2lxvrP32vU3oRjEEKTSHUr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c7411562b38c5abe83da0407",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c7411562b38c5abe83da0407",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c7411562b38c5abe83da0407",
+        "width": 64
+      }
+    ],
+    "name": "Have We Met",
+    "release_date": "2020-01-31",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2lxvrP32vU3oRjEEKTSHUr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+      },
+      "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+      "id": "22ojy4H4ZVpowC4lRRC8In",
+      "name": "Destroyer",
+      "type": "artist",
+      "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 301000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMRG2070903"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1vinwMyEaCRR9zivTNGwdL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1vinwMyEaCRR9zivTNGwdL",
+  "id": "1vinwMyEaCRR9zivTNGwdL",
+  "is_local": false,
+  "name": "It Just Doesn’t Happen",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/5e1513ba4a8dde279849cff5d25dca3b4e9a271e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1vinwMyEaCRR9zivTNGwdL"
+}

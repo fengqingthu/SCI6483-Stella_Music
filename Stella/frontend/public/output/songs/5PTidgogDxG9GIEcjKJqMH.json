@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6"
+        },
+        "href": "https://api.spotify.com/v1/artists/0yLmsf6RBPYqm6hvFJCPg6",
+        "id": "0yLmsf6RBPYqm6hvFJCPg6",
+        "name": "Taylor McFerrin",
+        "type": "artist",
+        "uri": "spotify:artist:0yLmsf6RBPYqm6hvFJCPg6"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4R4p3ZRTrUpcKzoOAPBSdI"
+    },
+    "href": "https://api.spotify.com/v1/albums/4R4p3ZRTrUpcKzoOAPBSdI",
+    "id": "4R4p3ZRTrUpcKzoOAPBSdI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733499fffa3915631d43ff754a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023499fffa3915631d43ff754a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513499fffa3915631d43ff754a",
+        "width": 64
+      }
+    ],
+    "name": "Early Riser",
+    "release_date": "2014-05-14",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4R4p3ZRTrUpcKzoOAPBSdI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6"
+      },
+      "href": "https://api.spotify.com/v1/artists/0yLmsf6RBPYqm6hvFJCPg6",
+      "id": "0yLmsf6RBPYqm6hvFJCPg6",
+      "name": "Taylor McFerrin",
+      "type": "artist",
+      "uri": "spotify:artist:0yLmsf6RBPYqm6hvFJCPg6"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 239200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFB1403100"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5PTidgogDxG9GIEcjKJqMH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5PTidgogDxG9GIEcjKJqMH",
+  "id": "5PTidgogDxG9GIEcjKJqMH",
+  "is_local": false,
+  "name": "Postpartum",
+  "popularity": 5,
+  "preview_url": "https://p.scdn.co/mp3-preview/e1f6727228d6c1379212b3d61408e5aa0368e2a8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5PTidgogDxG9GIEcjKJqMH"
+}

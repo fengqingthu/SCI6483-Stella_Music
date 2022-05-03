@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4sxiyUw3V62oTX569HrZrI"
+        },
+        "href": "https://api.spotify.com/v1/artists/4sxiyUw3V62oTX569HrZrI",
+        "id": "4sxiyUw3V62oTX569HrZrI",
+        "name": "Zimmer",
+        "type": "artist",
+        "uri": "spotify:artist:4sxiyUw3V62oTX569HrZrI"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3PoUJgovJ2EsVouQ8Acnx6"
+    },
+    "href": "https://api.spotify.com/v1/albums/3PoUJgovJ2EsVouQ8Acnx6",
+    "id": "3PoUJgovJ2EsVouQ8Acnx6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f8ad46377b17e4d39570644b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f8ad46377b17e4d39570644b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f8ad46377b17e4d39570644b",
+        "width": 64
+      }
+    ],
+    "name": "Superiority",
+    "release_date": "2015-01-02",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:3PoUJgovJ2EsVouQ8Acnx6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4sxiyUw3V62oTX569HrZrI"
+      },
+      "href": "https://api.spotify.com/v1/artists/4sxiyUw3V62oTX569HrZrI",
+      "id": "4sxiyUw3V62oTX569HrZrI",
+      "name": "Zimmer",
+      "type": "artist",
+      "uri": "spotify:artist:4sxiyUw3V62oTX569HrZrI"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 129288,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "TCACC1597049"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3tsexNJUPpNzJ0002Gu95q"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3tsexNJUPpNzJ0002Gu95q",
+  "id": "3tsexNJUPpNzJ0002Gu95q",
+  "is_local": false,
+  "name": "Superiority",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3tsexNJUPpNzJ0002Gu95q"
+}

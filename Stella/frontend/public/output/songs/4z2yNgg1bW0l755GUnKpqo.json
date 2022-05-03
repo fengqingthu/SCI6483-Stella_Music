@@ -1,0 +1,195 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HhXce8PpMmaKjBIWzAxWc",
+        "id": "1HhXce8PpMmaKjBIWzAxWc",
+        "name": "S-Crew",
+        "type": "artist",
+        "uri": "spotify:artist:1HhXce8PpMmaKjBIWzAxWc"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BF",
+      "BH",
+      "BJ",
+      "BR",
+      "CG",
+      "CH",
+      "DE",
+      "DK",
+      "DZ",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "HR",
+      "IE",
+      "IQ",
+      "IT",
+      "JO",
+      "KW",
+      "LB",
+      "LU",
+      "LY",
+      "MA",
+      "MC",
+      "ME",
+      "MG",
+      "MK",
+      "ML",
+      "MU",
+      "NE",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PK",
+      "PL",
+      "PT",
+      "QA",
+      "RS",
+      "SA",
+      "SE",
+      "SI",
+      "SN",
+      "TD",
+      "TN",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1JMf0mpgcK5lcVu46RQNrr"
+    },
+    "href": "https://api.spotify.com/v1/albums/1JMf0mpgcK5lcVu46RQNrr",
+    "id": "1JMf0mpgcK5lcVu46RQNrr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273daed9c11ccdf66d72b94d92c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02daed9c11ccdf66d72b94d92c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851daed9c11ccdf66d72b94d92c",
+        "width": 64
+      }
+    ],
+    "name": "Seine Zoo",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:1JMf0mpgcK5lcVu46RQNrr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HhXce8PpMmaKjBIWzAxWc",
+      "id": "1HhXce8PpMmaKjBIWzAxWc",
+      "name": "S-Crew",
+      "type": "artist",
+      "uri": "spotify:artist:1HhXce8PpMmaKjBIWzAxWc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0eUnyj9Lj4rGCWUZE29rqb"
+      },
+      "href": "https://api.spotify.com/v1/artists/0eUnyj9Lj4rGCWUZE29rqb",
+      "id": "0eUnyj9Lj4rGCWUZE29rqb",
+      "name": "Super Social Jeez",
+      "type": "artist",
+      "uri": "spotify:artist:0eUnyj9Lj4rGCWUZE29rqb"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AT",
+    "AU",
+    "BA",
+    "BE",
+    "BF",
+    "BH",
+    "BJ",
+    "BR",
+    "CG",
+    "CH",
+    "DE",
+    "DK",
+    "DZ",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "HR",
+    "IE",
+    "IQ",
+    "IT",
+    "JO",
+    "KW",
+    "LB",
+    "LU",
+    "LY",
+    "MA",
+    "MC",
+    "ME",
+    "MG",
+    "MK",
+    "ML",
+    "MU",
+    "NE",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PK",
+    "PL",
+    "PT",
+    "QA",
+    "RS",
+    "SA",
+    "SE",
+    "SI",
+    "SN",
+    "TD",
+    "TN",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210053,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11305258"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4z2yNgg1bW0l755GUnKpqo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4z2yNgg1bW0l755GUnKpqo",
+  "id": "4z2yNgg1bW0l755GUnKpqo",
+  "is_local": false,
+  "name": "Les Parisiennes",
+  "popularity": 55,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:4z2yNgg1bW0l755GUnKpqo"
+}

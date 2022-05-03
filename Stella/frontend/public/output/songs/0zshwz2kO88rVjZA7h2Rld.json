@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        },
+        "href": "https://api.spotify.com/v1/artists/3XquRQYlB1gXQkYdOV7S2x",
+        "id": "3XquRQYlB1gXQkYdOV7S2x",
+        "name": "Paddy And The Rats",
+        "type": "artist",
+        "uri": "spotify:artist:3XquRQYlB1gXQkYdOV7S2x"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/54Unt4yRKxgVSY3Jr7dPX5"
+    },
+    "href": "https://api.spotify.com/v1/albums/54Unt4yRKxgVSY3Jr7dPX5",
+    "id": "54Unt4yRKxgVSY3Jr7dPX5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739e189a622f81d653eddc7f7e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029e189a622f81d653eddc7f7e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519e189a622f81d653eddc7f7e",
+        "width": 64
+      }
+    ],
+    "name": "Riot City Outlaws",
+    "release_date": "2018-04-06",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:54Unt4yRKxgVSY3Jr7dPX5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+      },
+      "href": "https://api.spotify.com/v1/artists/3XquRQYlB1gXQkYdOV7S2x",
+      "id": "3XquRQYlB1gXQkYdOV7S2x",
+      "name": "Paddy And The Rats",
+      "type": "artist",
+      "uri": "spotify:artist:3XquRQYlB1gXQkYdOV7S2x"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 190500,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261877508"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zshwz2kO88rVjZA7h2Rld"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zshwz2kO88rVjZA7h2Rld",
+  "id": "0zshwz2kO88rVjZA7h2Rld",
+  "is_local": false,
+  "name": "One Last Ale",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/10eed9f646ec951e7b0f06d1992c23fe9b3048b0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:0zshwz2kO88rVjZA7h2Rld"
+}

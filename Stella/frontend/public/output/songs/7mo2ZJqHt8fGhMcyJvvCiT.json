@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC"
+        },
+        "href": "https://api.spotify.com/v1/artists/5squ8uM6fhMQY71t9xobJC",
+        "id": "5squ8uM6fhMQY71t9xobJC",
+        "name": "Kosheen",
+        "type": "artist",
+        "uri": "spotify:artist:5squ8uM6fhMQY71t9xobJC"
+      }
+    ],
+    "available_markets": [
+      "CZ",
+      "HU",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Fi83fmKUvd9pAJejL71Lo"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Fi83fmKUvd9pAJejL71Lo",
+    "id": "3Fi83fmKUvd9pAJejL71Lo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731aee90c9189c7d5f3e01fa35",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021aee90c9189c7d5f3e01fa35",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511aee90c9189c7d5f3e01fa35",
+        "width": 64
+      }
+    ],
+    "name": "Independence",
+    "release_date": "2012-09-21",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:3Fi83fmKUvd9pAJejL71Lo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC"
+      },
+      "href": "https://api.spotify.com/v1/artists/5squ8uM6fhMQY71t9xobJC",
+      "id": "5squ8uM6fhMQY71t9xobJC",
+      "name": "Kosheen",
+      "type": "artist",
+      "uri": "spotify:artist:5squ8uM6fhMQY71t9xobJC"
+    }
+  ],
+  "available_markets": [
+    "CZ",
+    "HU",
+    "SK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 283999,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CZA231200514"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7mo2ZJqHt8fGhMcyJvvCiT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7mo2ZJqHt8fGhMcyJvvCiT",
+  "id": "7mo2ZJqHt8fGhMcyJvvCiT",
+  "is_local": false,
+  "name": "Addict",
+  "popularity": 23,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7mo2ZJqHt8fGhMcyJvvCiT"
+}

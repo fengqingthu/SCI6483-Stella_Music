@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2dPIBvg7mU59dCTGjhPylV",
+        "id": "2dPIBvg7mU59dCTGjhPylV",
+        "name": "Foxwarren",
+        "type": "artist",
+        "uri": "spotify:artist:2dPIBvg7mU59dCTGjhPylV"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
+    },
+    "href": "https://api.spotify.com/v1/albums/7AQ1f6J9I55bW2qYPJbWgp",
+    "id": "7AQ1f6J9I55bW2qYPJbWgp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273de85009e7fa352f1a8bb8f77",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02de85009e7fa352f1a8bb8f77",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851de85009e7fa352f1a8bb8f77",
+        "width": 64
+      }
+    ],
+    "name": "Foxwarren",
+    "release_date": "2018-11-30",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:7AQ1f6J9I55bW2qYPJbWgp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+      },
+      "href": "https://api.spotify.com/v1/artists/2dPIBvg7mU59dCTGjhPylV",
+      "id": "2dPIBvg7mU59dCTGjhPylV",
+      "name": "Foxwarren",
+      "type": "artist",
+      "uri": "spotify:artist:2dPIBvg7mU59dCTGjhPylV"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 260093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USEP41841008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3kXrgO7Sl0jgURAv7boX5q",
+  "id": "3kXrgO7Sl0jgURAv7boX5q",
+  "is_local": false,
+  "name": "Sunset Canyon",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/9d2f211159f3a43e81222158ea2b2d5d04e9c793?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:3kXrgO7Sl0jgURAv7boX5q"
+}

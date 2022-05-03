@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0tZ4ZMRjTKhK49L4WOGT2I"
+    },
+    "href": "https://api.spotify.com/v1/albums/0tZ4ZMRjTKhK49L4WOGT2I",
+    "id": "0tZ4ZMRjTKhK49L4WOGT2I",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6e9cc2d34f9884c89c59cea",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6e9cc2d34f9884c89c59cea",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d6e9cc2d34f9884c89c59cea",
+        "width": 64
+      }
+    ],
+    "name": "This Is Epic Music, Vol. 1",
+    "release_date": "2014-12-02",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:0tZ4ZMRjTKhK49L4WOGT2I"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2SrDoQLTZqsVi8Vg1UdHao"
+      },
+      "href": "https://api.spotify.com/v1/artists/2SrDoQLTZqsVi8Vg1UdHao",
+      "id": "2SrDoQLTZqsVi8Vg1UdHao",
+      "name": "Globus",
+      "type": "artist",
+      "uri": "spotify:artist:2SrDoQLTZqsVi8Vg1UdHao"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 227440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMSTJ1405616"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0TWq9lXXUFrB4lW5x72VYd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0TWq9lXXUFrB4lW5x72VYd",
+  "id": "0TWq9lXXUFrB4lW5x72VYd",
+  "is_local": false,
+  "name": "A Thousand Deaths (Instrumental)",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/5577e6221836d7f189cdfb539984e1330b7099a2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:0TWq9lXXUFrB4lW5x72VYd"
+}

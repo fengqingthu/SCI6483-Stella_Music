@@ -1,0 +1,155 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+        },
+        "href": "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+        "id": "46CuxapoPjUfIOiXdNq7qM",
+        "name": "Oh Land",
+        "type": "artist",
+        "uri": "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AL",
+      "AT",
+      "BA",
+      "BG",
+      "BH",
+      "CA",
+      "CH",
+      "DE",
+      "DZ",
+      "EG",
+      "FR",
+      "HR",
+      "IL",
+      "IQ",
+      "JO",
+      "KW",
+      "LB",
+      "LI",
+      "LY",
+      "MA",
+      "MC",
+      "ME",
+      "MK",
+      "MX",
+      "OM",
+      "PL",
+      "PS",
+      "QA",
+      "RO",
+      "RS",
+      "SA",
+      "SE",
+      "SI",
+      "TN",
+      "US",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4ZViAZBx7M4vleeGgaNSMI"
+    },
+    "href": "https://api.spotify.com/v1/albums/4ZViAZBx7M4vleeGgaNSMI",
+    "id": "4ZViAZBx7M4vleeGgaNSMI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738374baf32481e39809d36dae",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028374baf32481e39809d36dae",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518374baf32481e39809d36dae",
+        "width": 64
+      }
+    ],
+    "name": "Oh Land",
+    "release_date": "2011-03-11",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4ZViAZBx7M4vleeGgaNSMI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+      },
+      "href": "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+      "id": "46CuxapoPjUfIOiXdNq7qM",
+      "name": "Oh Land",
+      "type": "artist",
+      "uri": "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AL",
+    "AT",
+    "BA",
+    "BG",
+    "BH",
+    "CA",
+    "CH",
+    "DE",
+    "DZ",
+    "EG",
+    "FR",
+    "HR",
+    "IL",
+    "IQ",
+    "JO",
+    "KW",
+    "LB",
+    "LI",
+    "LY",
+    "MA",
+    "MC",
+    "ME",
+    "MK",
+    "MX",
+    "OM",
+    "PL",
+    "PS",
+    "QA",
+    "RO",
+    "RS",
+    "SA",
+    "SE",
+    "SI",
+    "TN",
+    "US",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 275440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM11003978"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7fzkwV4lfFdaImzLLRarA3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7fzkwV4lfFdaImzLLRarA3",
+  "id": "7fzkwV4lfFdaImzLLRarA3",
+  "is_local": false,
+  "name": "Wolf & I",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/b318af0e5861b9c0bde86711237088ffcfff758b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:7fzkwV4lfFdaImzLLRarA3"
+}

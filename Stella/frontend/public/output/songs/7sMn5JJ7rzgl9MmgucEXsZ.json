@@ -1,0 +1,129 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ybAN3utgdoUL1MUCtH4QM",
+        "id": "1ybAN3utgdoUL1MUCtH4QM",
+        "name": "Tennis",
+        "type": "artist",
+        "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AU",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "NZ",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb"
+    },
+    "href": "https://api.spotify.com/v1/albums/3vghyeIx26jtU7DdAW2bEb",
+    "id": "3vghyeIx26jtU7DdAW2bEb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273638788c6653daca3b047dd60",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02638788c6653daca3b047dd60",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851638788c6653daca3b047dd60",
+        "width": 64
+      }
+    ],
+    "name": "Swimmer",
+    "release_date": "2020-02-14",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:3vghyeIx26jtU7DdAW2bEb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ybAN3utgdoUL1MUCtH4QM",
+      "id": "1ybAN3utgdoUL1MUCtH4QM",
+      "name": "Tennis",
+      "type": "artist",
+      "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AU",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "NZ",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 231080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USFLB1900910"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7sMn5JJ7rzgl9MmgucEXsZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7sMn5JJ7rzgl9MmgucEXsZ",
+  "id": "7sMn5JJ7rzgl9MmgucEXsZ",
+  "is_local": false,
+  "name": "Need Your Love",
+  "popularity": 52,
+  "preview_url": "https://p.scdn.co/mp3-preview/89a6fa856d811268c3b66cda1e46de0451307583?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7sMn5JJ7rzgl9MmgucEXsZ"
+}

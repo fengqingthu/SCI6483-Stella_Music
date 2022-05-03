@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        },
+        "href": "https://api.spotify.com/v1/artists/0z9hynUsIjf0ddI4uHqPWX",
+        "id": "0z9hynUsIjf0ddI4uHqPWX",
+        "name": "Dustin Tebbutt",
+        "type": "artist",
+        "uri": "spotify:artist:0z9hynUsIjf0ddI4uHqPWX"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw"
+    },
+    "href": "https://api.spotify.com/v1/albums/6qjhxh5olXQ1y7T4PV2qSw",
+    "id": "6qjhxh5olXQ1y7T4PV2qSw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734b4b6c06f69ce21eef212f28",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024b4b6c06f69ce21eef212f28",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514b4b6c06f69ce21eef212f28",
+        "width": 64
+      }
+    ],
+    "name": "The Breach EP",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:6qjhxh5olXQ1y7T4PV2qSw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+      },
+      "href": "https://api.spotify.com/v1/artists/0z9hynUsIjf0ddI4uHqPWX",
+      "id": "0z9hynUsIjf0ddI4uHqPWX",
+      "name": "Dustin Tebbutt",
+      "type": "artist",
+      "uri": "spotify:artist:0z9hynUsIjf0ddI4uHqPWX"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 253848,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUZN31300204"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1rSrMVQbnYWihopHxGXhOD",
+  "id": "1rSrMVQbnYWihopHxGXhOD",
+  "is_local": false,
+  "name": "The Breach",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/57df9e1a2bfa14080b2fe22e808bd67f51310427?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1rSrMVQbnYWihopHxGXhOD"
+}

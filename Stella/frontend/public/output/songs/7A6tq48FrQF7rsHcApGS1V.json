@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0flT3Kuy6tiznNQa9bfZxd"
+        },
+        "href": "https://api.spotify.com/v1/artists/0flT3Kuy6tiznNQa9bfZxd",
+        "id": "0flT3Kuy6tiznNQa9bfZxd",
+        "name": "Maximum Balloon",
+        "type": "artist",
+        "uri": "spotify:artist:0flT3Kuy6tiznNQa9bfZxd"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5HuOODksicaQxkm33lc1VM"
+    },
+    "href": "https://api.spotify.com/v1/albums/5HuOODksicaQxkm33lc1VM",
+    "id": "5HuOODksicaQxkm33lc1VM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27330860b64b1fae28d16c1087d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0230860b64b1fae28d16c1087d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485130860b64b1fae28d16c1087d",
+        "width": 64
+      }
+    ],
+    "name": "Maximum Balloon (Deluxe version)",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:5HuOODksicaQxkm33lc1VM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0flT3Kuy6tiznNQa9bfZxd"
+      },
+      "href": "https://api.spotify.com/v1/artists/0flT3Kuy6tiznNQa9bfZxd",
+      "id": "0flT3Kuy6tiznNQa9bfZxd",
+      "name": "Maximum Balloon",
+      "type": "artist",
+      "uri": "spotify:artist:0flT3Kuy6tiznNQa9bfZxd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35TqNMFg5FZVqFXU2jzbAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/35TqNMFg5FZVqFXU2jzbAH",
+      "id": "35TqNMFg5FZVqFXU2jzbAH",
+      "name": "Aku",
+      "type": "artist",
+      "uri": "spotify:artist:35TqNMFg5FZVqFXU2jzbAH"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71014921"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7A6tq48FrQF7rsHcApGS1V"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7A6tq48FrQF7rsHcApGS1V",
+  "id": "7A6tq48FrQF7rsHcApGS1V",
+  "is_local": false,
+  "name": "Tiger",
+  "popularity": 17,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:7A6tq48FrQF7rsHcApGS1V"
+}

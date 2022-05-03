@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RBwMAGd1Ep3EITgXeqRxk"
+        },
+        "href": "https://api.spotify.com/v1/artists/6RBwMAGd1Ep3EITgXeqRxk",
+        "id": "6RBwMAGd1Ep3EITgXeqRxk",
+        "name": "Alexey Omelchuk",
+        "type": "artist",
+        "uri": "spotify:artist:6RBwMAGd1Ep3EITgXeqRxk"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/137iE8T2WWdMzXKuTlnjGm"
+    },
+    "href": "https://api.spotify.com/v1/albums/137iE8T2WWdMzXKuTlnjGm",
+    "id": "137iE8T2WWdMzXKuTlnjGm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273502957c845b106278505e24f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02502957c845b106278505e24f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851502957c845b106278505e24f",
+        "width": 64
+      }
+    ],
+    "name": "Metro: Last Light: Original Soundtrack (Component 2)",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:137iE8T2WWdMzXKuTlnjGm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6RBwMAGd1Ep3EITgXeqRxk"
+      },
+      "href": "https://api.spotify.com/v1/artists/6RBwMAGd1Ep3EITgXeqRxk",
+      "id": "6RBwMAGd1Ep3EITgXeqRxk",
+      "name": "Alexey Omelchuk",
+      "type": "artist",
+      "uri": "spotify:artist:6RBwMAGd1Ep3EITgXeqRxk"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 171293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSR21300891"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2QvH4YTFzuxSU9GUcUFdYD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2QvH4YTFzuxSU9GUcUFdYD",
+  "id": "2QvH4YTFzuxSU9GUcUFdYD",
+  "is_local": false,
+  "name": "Mobius",
+  "popularity": 15,
+  "preview_url": "https://p.scdn.co/mp3-preview/84ea66a0b34d5791591738e70d3bb6d88875d1d2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 27,
+  "type": "track",
+  "uri": "spotify:track:2QvH4YTFzuxSU9GUcUFdYD"
+}

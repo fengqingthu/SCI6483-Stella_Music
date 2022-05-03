@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/03xHpEH36DtelWTh7x2tdJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/03xHpEH36DtelWTh7x2tdJ",
+        "id": "03xHpEH36DtelWTh7x2tdJ",
+        "name": "Giana Factory",
+        "type": "artist",
+        "uri": "spotify:artist:03xHpEH36DtelWTh7x2tdJ"
+      }
+    ],
+    "available_markets": [
+      "DK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/46739nJpqABiLEHFv4YP4N"
+    },
+    "href": "https://api.spotify.com/v1/albums/46739nJpqABiLEHFv4YP4N",
+    "id": "46739nJpqABiLEHFv4YP4N",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734be313ec0c2eba74b6c7e3bf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024be313ec0c2eba74b6c7e3bf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514be313ec0c2eba74b6c7e3bf",
+        "width": 64
+      }
+    ],
+    "name": "The Remake Collection",
+    "release_date": "2011-10-08",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:46739nJpqABiLEHFv4YP4N"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/03xHpEH36DtelWTh7x2tdJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/03xHpEH36DtelWTh7x2tdJ",
+      "id": "03xHpEH36DtelWTh7x2tdJ",
+      "name": "Giana Factory",
+      "type": "artist",
+      "uri": "spotify:artist:03xHpEH36DtelWTh7x2tdJ"
+    }
+  ],
+  "available_markets": [
+    "DK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 197337,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKAZ71090299"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3pfLCDgKa2HMKbtqzK6tVX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3pfLCDgKa2HMKbtqzK6tVX",
+  "id": "3pfLCDgKa2HMKbtqzK6tVX",
+  "is_local": false,
+  "name": "Rainbow Girl (Radio Edit)",
+  "popularity": 3,
+  "preview_url": "https://p.scdn.co/mp3-preview/e06903c0ba044d5fd3384f4c884b22ec2f1d30b3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3pfLCDgKa2HMKbtqzK6tVX"
+}

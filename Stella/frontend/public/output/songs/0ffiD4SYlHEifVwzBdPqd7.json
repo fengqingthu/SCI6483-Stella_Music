@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        "href": "https://api.spotify.com/v1/artists/6fFcUOFcbjeIuEomuUthkw",
+        "id": "6fFcUOFcbjeIuEomuUthkw",
+        "name": "Oklou",
+        "type": "artist",
+        "uri": "spotify:artist:6fFcUOFcbjeIuEomuUthkw"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE"
+    },
+    "href": "https://api.spotify.com/v1/albums/6s7TtMHRcoy8D0ipc0wmjE",
+    "id": "6s7TtMHRcoy8D0ipc0wmjE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27385affaa226eac65cede53e59",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0285affaa226eac65cede53e59",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485185affaa226eac65cede53e59",
+        "width": 64
+      }
+    ],
+    "name": "Galore",
+    "release_date": "2020-09-24",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6s7TtMHRcoy8D0ipc0wmjE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+      },
+      "href": "https://api.spotify.com/v1/artists/6fFcUOFcbjeIuEomuUthkw",
+      "id": "6fFcUOFcbjeIuEomuUthkw",
+      "name": "Oklou",
+      "type": "artist",
+      "uri": "spotify:artist:6fFcUOFcbjeIuEomuUthkw"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 183506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKPL2015015"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ffiD4SYlHEifVwzBdPqd7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ffiD4SYlHEifVwzBdPqd7",
+  "id": "0ffiD4SYlHEifVwzBdPqd7",
+  "is_local": false,
+  "name": "god's chariots",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0ffiD4SYlHEifVwzBdPqd7"
+}

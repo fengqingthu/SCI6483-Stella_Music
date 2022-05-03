@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zaXYwewAXedKNCff45U5l",
+        "id": "5zaXYwewAXedKNCff45U5l",
+        "name": "Dusty Springfield",
+        "type": "artist",
+        "uri": "spotify:artist:5zaXYwewAXedKNCff45U5l"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1MBFuOnoVKgGlVlQiXkXxr"
+    },
+    "href": "https://api.spotify.com/v1/albums/1MBFuOnoVKgGlVlQiXkXxr",
+    "id": "1MBFuOnoVKgGlVlQiXkXxr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27344c565890a584ba64a6f10dc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0244c565890a584ba64a6f10dc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485144c565890a584ba64a6f10dc",
+        "width": 64
+      }
+    ],
+    "name": "A Little Piece Of My Heart: The Essential Dusty Springfield",
+    "release_date": "2016-09-23",
+    "release_date_precision": "day",
+    "total_tracks": 60,
+    "type": "album",
+    "uri": "spotify:album:1MBFuOnoVKgGlVlQiXkXxr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zaXYwewAXedKNCff45U5l",
+      "id": "5zaXYwewAXedKNCff45U5l",
+      "name": "Dusty Springfield",
+      "type": "artist",
+      "uri": "spotify:artist:5zaXYwewAXedKNCff45U5l"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 2,
+  "duration_ms": 209160,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF086600731"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5fTJR8TxEczFLziJDgffUS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5fTJR8TxEczFLziJDgffUS",
+  "id": "5fTJR8TxEczFLziJDgffUS",
+  "is_local": false,
+  "name": "Goin' Back",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5fTJR8TxEczFLziJDgffUS"
+}

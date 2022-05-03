@@ -1,0 +1,151 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
+        },
+        "href": "https://api.spotify.com/v1/artists/7axA2bNeZsae6t2mgxoSFh",
+        "id": "7axA2bNeZsae6t2mgxoSFh",
+        "name": "Charly Bliss",
+        "type": "artist",
+        "uri": "spotify:artist:7axA2bNeZsae6t2mgxoSFh"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PG",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1r4TaIR9nZHCM2umwoEiWB"
+    },
+    "href": "https://api.spotify.com/v1/albums/1r4TaIR9nZHCM2umwoEiWB",
+    "id": "1r4TaIR9nZHCM2umwoEiWB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e9100591475d07986bc38319",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e9100591475d07986bc38319",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e9100591475d07986bc38319",
+        "width": 64
+      }
+    ],
+    "name": "Young Enough",
+    "release_date": "2019-05-10",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1r4TaIR9nZHCM2umwoEiWB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
+      },
+      "href": "https://api.spotify.com/v1/artists/7axA2bNeZsae6t2mgxoSFh",
+      "id": "7axA2bNeZsae6t2mgxoSFh",
+      "name": "Charly Bliss",
+      "type": "artist",
+      "uri": "spotify:artist:7axA2bNeZsae6t2mgxoSFh"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PG",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USBS51800089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3BnDZeuKBHTnv4ABHNRKx9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3BnDZeuKBHTnv4ABHNRKx9",
+  "id": "3BnDZeuKBHTnv4ABHNRKx9",
+  "is_local": false,
+  "name": "Capacity",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/60381be68ff984003a2f423b969212bef26b3183?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3BnDZeuKBHTnv4ABHNRKx9"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+        "id": "5hE6NCoobhyEu6TRSbjOJY",
+        "name": "Fever Ray",
+        "type": "artist",
+        "uri": "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0kwTQSsriuNeqL2iXxeYFd"
+    },
+    "href": "https://api.spotify.com/v1/albums/0kwTQSsriuNeqL2iXxeYFd",
+    "id": "0kwTQSsriuNeqL2iXxeYFd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734838deecc78337f79f4cd802",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024838deecc78337f79f4cd802",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514838deecc78337f79f4cd802",
+        "width": 64
+      }
+    ],
+    "name": "To The Moon And Back",
+    "release_date": "2017-10-20",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:0kwTQSsriuNeqL2iXxeYFd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+      },
+      "href": "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+      "id": "5hE6NCoobhyEu6TRSbjOJY",
+      "name": "Fever Ray",
+      "type": "artist",
+      "uri": "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 213021,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "SEWCE1700022"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/77z77PUHMoMQdUB6HDfJtx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/77z77PUHMoMQdUB6HDfJtx",
+  "id": "77z77PUHMoMQdUB6HDfJtx",
+  "is_local": false,
+  "name": "To The Moon And Back - Edit",
+  "popularity": 7,
+  "preview_url": "https://p.scdn.co/mp3-preview/fdbaa65c3f4a42d0cb66f22dafebe9643e2f9aed?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:77z77PUHMoMQdUB6HDfJtx"
+}

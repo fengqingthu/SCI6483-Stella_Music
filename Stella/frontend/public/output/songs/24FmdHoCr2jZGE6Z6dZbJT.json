@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href": "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id": "33EUXrFKGjpUSGacqEHhU4",
+        "name": "Iggy Pop",
+        "type": "artist",
+        "uri": "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5F79SWd4x7teHv5An2pqHQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5F79SWd4x7teHv5An2pqHQ",
+    "id": "5F79SWd4x7teHv5An2pqHQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fe455cf2635dc2c6a6816a66",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fe455cf2635dc2c6a6816a66",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fe455cf2635dc2c6a6816a66",
+        "width": 64
+      }
+    ],
+    "name": "Lust For Life",
+    "release_date": "1977-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:5F79SWd4x7teHv5An2pqHQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+      },
+      "href": "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+      "id": "33EUXrFKGjpUSGacqEHhU4",
+      "name": "Iggy Pop",
+      "type": "artist",
+      "uri": "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 284066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVI20700278"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/24FmdHoCr2jZGE6Z6dZbJT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/24FmdHoCr2jZGE6Z6dZbJT",
+  "id": "24FmdHoCr2jZGE6Z6dZbJT",
+  "is_local": false,
+  "name": "The Passenger",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:24FmdHoCr2jZGE6Z6dZbJT"
+}

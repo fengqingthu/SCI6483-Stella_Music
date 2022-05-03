@@ -1,0 +1,20 @@
+{
+  "danceability": 0.649,
+  "energy": 0.723,
+  "key": 7,
+  "loudness": -8.226,
+  "mode": 1,
+  "speechiness": 0.032,
+  "acousticness": 0.398,
+  "instrumentalness": 0.0000129,
+  "liveness": 0.0684,
+  "valence": 0.884,
+  "tempo": 107.945,
+  "type": "audio_features",
+  "id": "5HoWezhCvIvP1L2sqO4S9y",
+  "uri": "spotify:track:5HoWezhCvIvP1L2sqO4S9y",
+  "track_href": "https://api.spotify.com/v1/tracks/5HoWezhCvIvP1L2sqO4S9y",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5HoWezhCvIvP1L2sqO4S9y",
+  "duration_ms": 223373,
+  "time_signature": 4
+}

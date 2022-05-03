@@ -1,0 +1,65 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ru2x3pjrNn67D22BRwlFP",
+        "id": "5ru2x3pjrNn67D22BRwlFP",
+        "name": "Yves Montand",
+        "type": "artist",
+        "uri": "spotify:artist:5ru2x3pjrNn67D22BRwlFP"
+      }
+    ],
+    "available_markets": [
+      "MX"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0sxmZ8jLN2uXuMksiP3d4e"
+    },
+    "href": "https://api.spotify.com/v1/albums/0sxmZ8jLN2uXuMksiP3d4e",
+    "id": "0sxmZ8jLN2uXuMksiP3d4e",
+    "images": [],
+    "name": "Master Serie",
+    "release_date": "1986-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 23,
+    "type": "album",
+    "uri": "spotify:album:0sxmZ8jLN2uXuMksiP3d4e"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ru2x3pjrNn67D22BRwlFP",
+      "id": "5ru2x3pjrNn67D22BRwlFP",
+      "name": "Yves Montand",
+      "type": "artist",
+      "uri": "spotify:artist:5ru2x3pjrNn67D22BRwlFP"
+    }
+  ],
+  "available_markets": [
+    "MX"
+  ],
+  "disc_number": 1,
+  "duration_ms": 163160,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ036800530"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Fq6rpiEIW5dxKd8O1te26"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Fq6rpiEIW5dxKd8O1te26",
+  "id": "5Fq6rpiEIW5dxKd8O1te26",
+  "is_local": false,
+  "name": "À bicyclette",
+  "popularity": 11,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5Fq6rpiEIW5dxKd8O1te26"
+}

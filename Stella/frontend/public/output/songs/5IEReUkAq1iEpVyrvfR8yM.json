@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2933wDUojoQmvqSdTAE5NB",
+        "id": "2933wDUojoQmvqSdTAE5NB",
+        "name": "DARKSIDE",
+        "type": "artist",
+        "uri": "spotify:artist:2933wDUojoQmvqSdTAE5NB"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1rnogXkMBXDVzDPFSq4dDe"
+    },
+    "href": "https://api.spotify.com/v1/albums/1rnogXkMBXDVzDPFSq4dDe",
+    "id": "1rnogXkMBXDVzDPFSq4dDe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b0af74cb7661e62941dfe98d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b0af74cb7661e62941dfe98d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b0af74cb7661e62941dfe98d",
+        "width": 64
+      }
+    ],
+    "name": "Psychic",
+    "release_date": "2013-10-04",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:1rnogXkMBXDVzDPFSq4dDe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2933wDUojoQmvqSdTAE5NB",
+      "id": "2933wDUojoQmvqSdTAE5NB",
+      "name": "DARKSIDE",
+      "type": "artist",
+      "uri": "spotify:artist:2933wDUojoQmvqSdTAE5NB"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 297614,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMTD1303938"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5IEReUkAq1iEpVyrvfR8yM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5IEReUkAq1iEpVyrvfR8yM",
+  "id": "5IEReUkAq1iEpVyrvfR8yM",
+  "is_local": false,
+  "name": "Heart",
+  "popularity": 15,
+  "preview_url": "https://p.scdn.co/mp3-preview/2246a82b4873815f26a83988d3da7b08a6cfc2e0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5IEReUkAq1iEpVyrvfR8yM"
+}

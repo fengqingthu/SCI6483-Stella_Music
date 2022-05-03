@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4GHFJBQkQbnFoJnbcHg4Pg"
+        },
+        "href": "https://api.spotify.com/v1/artists/4GHFJBQkQbnFoJnbcHg4Pg",
+        "id": "4GHFJBQkQbnFoJnbcHg4Pg",
+        "name": "HIBIKI SAKURA(CV:AI FAIROUZ)",
+        "type": "artist",
+        "uri": "spotify:artist:4GHFJBQkQbnFoJnbcHg4Pg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6HeoQc68qVTvs8ibBxLBRU"
+        },
+        "href": "https://api.spotify.com/v1/artists/6HeoQc68qVTvs8ibBxLBRU",
+        "id": "6HeoQc68qVTvs8ibBxLBRU",
+        "name": "NARUZO MACHIO(CV:KAITO ISHIKAWA)",
+        "type": "artist",
+        "uri": "spotify:artist:6HeoQc68qVTvs8ibBxLBRU"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BR",
+      "CA",
+      "DE",
+      "FR",
+      "GB",
+      "HK",
+      "MX",
+      "SG",
+      "TH",
+      "TW",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/16Tjzz7Z6aOqQsLXIuyxg5"
+    },
+    "href": "https://api.spotify.com/v1/albums/16Tjzz7Z6aOqQsLXIuyxg5",
+    "id": "16Tjzz7Z6aOqQsLXIuyxg5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27361126e0d5d980b92192eb89c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0261126e0d5d980b92192eb89c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485161126e0d5d980b92192eb89c",
+        "width": 64
+      }
+    ],
+    "name": "TV SERIES ”DUMBBELL NAN-KILO MOTERU?” OPENING THEME「ONEGAI MUSCLE」/ENDING THEME「MACHO ARE NAME?」",
+    "release_date": "2019-07-24",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:16Tjzz7Z6aOqQsLXIuyxg5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4GHFJBQkQbnFoJnbcHg4Pg"
+      },
+      "href": "https://api.spotify.com/v1/artists/4GHFJBQkQbnFoJnbcHg4Pg",
+      "id": "4GHFJBQkQbnFoJnbcHg4Pg",
+      "name": "HIBIKI SAKURA(CV:AI FAIROUZ)",
+      "type": "artist",
+      "uri": "spotify:artist:4GHFJBQkQbnFoJnbcHg4Pg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HeoQc68qVTvs8ibBxLBRU"
+      },
+      "href": "https://api.spotify.com/v1/artists/6HeoQc68qVTvs8ibBxLBRU",
+      "id": "6HeoQc68qVTvs8ibBxLBRU",
+      "name": "NARUZO MACHIO(CV:KAITO ISHIKAWA)",
+      "type": "artist",
+      "uri": "spotify:artist:6HeoQc68qVTvs8ibBxLBRU"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BR",
+    "CA",
+    "DE",
+    "FR",
+    "GB",
+    "HK",
+    "MX",
+    "SG",
+    "TH",
+    "TW",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 220865,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPD731900226"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5no7mcSWpXEiA9TfsOcIEd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5no7mcSWpXEiA9TfsOcIEd",
+  "id": "5no7mcSWpXEiA9TfsOcIEd",
+  "is_local": false,
+  "name": "ONEGAI MUSCLE",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/fb0b575fd30f96de9538fb5e8f58cafa8a2b579c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5no7mcSWpXEiA9TfsOcIEd"
+}

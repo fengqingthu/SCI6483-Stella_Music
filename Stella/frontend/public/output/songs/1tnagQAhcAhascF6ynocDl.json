@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Ih0fEQQsy9EeAJbYEeQRa",
+        "id": "1Ih0fEQQsy9EeAJbYEeQRa",
+        "name": "Avantasia",
+        "type": "artist",
+        "uri": "spotify:artist:1Ih0fEQQsy9EeAJbYEeQRa"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "GR",
+      "IS",
+      "IT",
+      "NO"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0b6ZwFHmoED6pN1uLmqtby"
+    },
+    "href": "https://api.spotify.com/v1/albums/0b6ZwFHmoED6pN1uLmqtby",
+    "id": "0b6ZwFHmoED6pN1uLmqtby",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736be6fa154322b3040312a245",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026be6fa154322b3040312a245",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516be6fa154322b3040312a245",
+        "width": 64
+      }
+    ],
+    "name": "The Scarecrow",
+    "release_date": "2008-01-25",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0b6ZwFHmoED6pN1uLmqtby"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Ih0fEQQsy9EeAJbYEeQRa",
+      "id": "1Ih0fEQQsy9EeAJbYEeQRa",
+      "name": "Avantasia",
+      "type": "artist",
+      "uri": "spotify:artist:1Ih0fEQQsy9EeAJbYEeQRa"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "GR",
+    "IS",
+    "IT",
+    "NO"
+  ],
+  "disc_number": 1,
+  "duration_ms": 672573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DED830703616"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1tnagQAhcAhascF6ynocDl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1tnagQAhcAhascF6ynocDl",
+  "id": "1tnagQAhcAhascF6ynocDl",
+  "is_local": false,
+  "name": "The Scarecrow",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/19f3b95f5fc503888f82396ef29563878fcc8e5f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1tnagQAhcAhascF6ynocDl"
+}

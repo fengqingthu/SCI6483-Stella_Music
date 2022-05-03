@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "IT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2fIotg5Hzge8FzAzrMiP6R"
+    },
+    "href": "https://api.spotify.com/v1/albums/2fIotg5Hzge8FzAzrMiP6R",
+    "id": "2fIotg5Hzge8FzAzrMiP6R",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27392a8d64faa00451df82b94d3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0292a8d64faa00451df82b94d3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485192a8d64faa00451df82b94d3",
+        "width": 64
+      }
+    ],
+    "name": "La Grande Bellezza",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 29,
+    "type": "album",
+    "uri": "spotify:album:2fIotg5Hzge8FzAzrMiP6R"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oLXPtqJveGbowHgv9g0Y8"
+      },
+      "href": "https://api.spotify.com/v1/artists/5oLXPtqJveGbowHgv9g0Y8",
+      "id": "5oLXPtqJveGbowHgv9g0Y8",
+      "name": "Vladimir Martynov",
+      "type": "artist",
+      "uri": "spotify:artist:5oLXPtqJveGbowHgv9g0Y8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+      },
+      "href": "https://api.spotify.com/v1/artists/0M6xcJTswOl2qvExCJhiS3",
+      "id": "0M6xcJTswOl2qvExCJhiS3",
+      "name": "Kronos Quartet",
+      "type": "artist",
+      "uri": "spotify:artist:0M6xcJTswOl2qvExCJhiS3"
+    }
+  ],
+  "available_markets": [
+    "IT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 325405,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNO11100354"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4fsInZAskqJgGkYuaSgUR3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4fsInZAskqJgGkYuaSgUR3",
+  "id": "4fsInZAskqJgGkYuaSgUR3",
+  "is_local": false,
+  "name": "The Beatitudes",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:4fsInZAskqJgGkYuaSgUR3"
+}

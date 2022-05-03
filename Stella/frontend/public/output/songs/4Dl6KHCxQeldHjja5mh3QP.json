@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        },
+        "href": "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+        "id": "0IwlY33zbBXN7zlS9DP2Cj",
+        "name": "Nico",
+        "type": "artist",
+        "uri": "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+      }
+    ],
+    "available_markets": [
+      "GB"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1idlViSmWJ9UsQpv4XVPNi"
+    },
+    "href": "https://api.spotify.com/v1/albums/1idlViSmWJ9UsQpv4XVPNi",
+    "id": "1idlViSmWJ9UsQpv4XVPNi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f4b990a6e490d1df133ba9b1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f4b990a6e490d1df133ba9b1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f4b990a6e490d1df133ba9b1",
+        "width": 64
+      }
+    ],
+    "name": "I'm Not Sayin' / The Last Mile",
+    "release_date": "1965-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:1idlViSmWJ9UsQpv4XVPNi"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+      },
+      "href": "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+      "id": "0IwlY33zbBXN7zlS9DP2Cj",
+      "name": "Nico",
+      "type": "artist",
+      "uri": "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+    }
+  ],
+  "available_markets": [
+    "GB"
+  ],
+  "disc_number": 1,
+  "duration_ms": 168386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAWA6573279"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Dl6KHCxQeldHjja5mh3QP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Dl6KHCxQeldHjja5mh3QP",
+  "id": "4Dl6KHCxQeldHjja5mh3QP",
+  "is_local": false,
+  "name": "I'm Not Sayin'",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/0692716a268f3555b8b5be162022b349cd080962?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4Dl6KHCxQeldHjja5mh3QP"
+}

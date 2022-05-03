@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Pl9qnKpdOFI90QWXQtP7q"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Pl9qnKpdOFI90QWXQtP7q",
+        "id": "4Pl9qnKpdOFI90QWXQtP7q",
+        "name": "Voodoo & Serano",
+        "type": "artist",
+        "uri": "spotify:artist:4Pl9qnKpdOFI90QWXQtP7q"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1MT01NLNQm3WCvettpIZml"
+    },
+    "href": "https://api.spotify.com/v1/albums/1MT01NLNQm3WCvettpIZml",
+    "id": "1MT01NLNQm3WCvettpIZml",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27325cd93928bf13eceede0e0dc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0225cd93928bf13eceede0e0dc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485125cd93928bf13eceede0e0dc",
+        "width": 64
+      }
+    ],
+    "name": "Blood Is Pumpin' 05",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:1MT01NLNQm3WCvettpIZml"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Pl9qnKpdOFI90QWXQtP7q"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Pl9qnKpdOFI90QWXQtP7q",
+      "id": "4Pl9qnKpdOFI90QWXQtP7q",
+      "name": "Voodoo & Serano",
+      "type": "artist",
+      "uri": "spotify:artist:4Pl9qnKpdOFI90QWXQtP7q"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 430480,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USR3R0500141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/46Zk77p0Xr3kH5ndppcyPV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/46Zk77p0Xr3kH5ndppcyPV",
+  "id": "46Zk77p0Xr3kH5ndppcyPV",
+  "is_local": false,
+  "name": "Blood Is Pumpin' (Remake Club Mix)",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/9f89d59c98bf36d5dacca378d2711426f5f4f5d9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:46Zk77p0Xr3kH5ndppcyPV"
+}

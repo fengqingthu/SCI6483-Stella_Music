@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4LtH1oYwx8nSiVJkrjUArA"
+    },
+    "href": "https://api.spotify.com/v1/albums/4LtH1oYwx8nSiVJkrjUArA",
+    "id": "4LtH1oYwx8nSiVJkrjUArA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273687d259364efb9f035499794",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02687d259364efb9f035499794",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851687d259364efb9f035499794",
+        "width": 64
+      }
+    ],
+    "name": "Song Of The Sea (Original Motion Picture Soundtrack)",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:4LtH1oYwx8nSiVJkrjUArA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+      },
+      "href": "https://api.spotify.com/v1/artists/0z7Yuv7DuDQ5SaVn4VSlLt",
+      "id": "0z7Yuv7DuDQ5SaVn4VSlLt",
+      "name": "Lisa Hannigan",
+      "type": "artist",
+      "uri": "spotify:artist:0z7Yuv7DuDQ5SaVn4VSlLt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7nJCUuqYgyLYLBQMLbQy4f"
+      },
+      "href": "https://api.spotify.com/v1/artists/7nJCUuqYgyLYLBQMLbQy4f",
+      "id": "7nJCUuqYgyLYLBQMLbQy4f",
+      "name": "Lucy O' Connell",
+      "type": "artist",
+      "uri": "spotify:artist:7nJCUuqYgyLYLBQMLbQy4f"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 317066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11415925"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3RUXuIXutIE6rcTgawkLaS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3RUXuIXutIE6rcTgawkLaS",
+  "id": "3RUXuIXutIE6rcTgawkLaS",
+  "is_local": false,
+  "name": "The Song",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:3RUXuIXutIE6rcTgawkLaS"
+}

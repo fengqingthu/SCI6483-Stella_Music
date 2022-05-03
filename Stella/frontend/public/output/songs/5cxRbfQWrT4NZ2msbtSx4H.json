@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+        "id": "5nPOO9iTcrs9k6yFffPxjH",
+        "name": "Röyksopp",
+        "type": "artist",
+        "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1WHbPhjPCBhjo49DpKvYbL"
+    },
+    "href": "https://api.spotify.com/v1/albums/1WHbPhjPCBhjo49DpKvYbL",
+    "id": "1WHbPhjPCBhjo49DpKvYbL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27373a6321d8a9b9adada32753c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0273a6321d8a9b9adada32753c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485173a6321d8a9b9adada32753c",
+        "width": 64
+      }
+    ],
+    "name": "Melody AM",
+    "release_date": "2001-08-22",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1WHbPhjPCBhjo49DpKvYbL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+      "id": "5nPOO9iTcrs9k6yFffPxjH",
+      "name": "Röyksopp",
+      "type": "artist",
+      "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 237826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFC0100043"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5cxRbfQWrT4NZ2msbtSx4H"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5cxRbfQWrT4NZ2msbtSx4H",
+  "id": "5cxRbfQWrT4NZ2msbtSx4H",
+  "is_local": false,
+  "name": "Poor Leno",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/8be3c583a16f6c3dd132251682e8455844abd5a9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5cxRbfQWrT4NZ2msbtSx4H"
+}

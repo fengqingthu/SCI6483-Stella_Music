@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1GmirXBlYEOlia9rk6Q3k9"
+        },
+        "href": "https://api.spotify.com/v1/artists/1GmirXBlYEOlia9rk6Q3k9",
+        "id": "1GmirXBlYEOlia9rk6Q3k9",
+        "name": "Nathan Fillion",
+        "type": "artist",
+        "uri": "spotify:artist:1GmirXBlYEOlia9rk6Q3k9"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/67cYBf4cNZiasBZGW4QTfI"
+    },
+    "href": "https://api.spotify.com/v1/albums/67cYBf4cNZiasBZGW4QTfI",
+    "id": "67cYBf4cNZiasBZGW4QTfI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fa0b59ba85b3f51aea165d4f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fa0b59ba85b3f51aea165d4f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fa0b59ba85b3f51aea165d4f",
+        "width": 64
+      }
+    ],
+    "name": "Agricultural Map",
+    "release_date": "2021-11-29",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:67cYBf4cNZiasBZGW4QTfI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GmirXBlYEOlia9rk6Q3k9"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GmirXBlYEOlia9rk6Q3k9",
+      "id": "1GmirXBlYEOlia9rk6Q3k9",
+      "name": "Nathan Fillion",
+      "type": "artist",
+      "uri": "spotify:artist:1GmirXBlYEOlia9rk6Q3k9"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 166698,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GX47Y2008824"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7a0O1qd29rPQCbFsLk6RZ1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7a0O1qd29rPQCbFsLk6RZ1",
+  "id": "7a0O1qd29rPQCbFsLk6RZ1",
+  "is_local": false,
+  "name": "Weathered",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:7a0O1qd29rPQCbFsLk6RZ1"
+}

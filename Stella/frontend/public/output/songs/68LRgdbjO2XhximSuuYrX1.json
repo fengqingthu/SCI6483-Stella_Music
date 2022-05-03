@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+        "id": "6Tyzp9KzpiZ04DABQoedps",
+        "name": "Little Dragon",
+        "type": "artist",
+        "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7k23RY9MYjG9gc7oDVa7hj"
+    },
+    "href": "https://api.spotify.com/v1/albums/7k23RY9MYjG9gc7oDVa7hj",
+    "id": "7k23RY9MYjG9gc7oDVa7hj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dae7881d3fd3eae194e9c8d9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dae7881d3fd3eae194e9c8d9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dae7881d3fd3eae194e9c8d9",
+        "width": 64
+      }
+    ],
+    "name": "Best Friends",
+    "release_date": "2018-03-02",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7k23RY9MYjG9gc7oDVa7hj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+      "id": "6Tyzp9KzpiZ04DABQoedps",
+      "name": "Little Dragon",
+      "type": "artist",
+      "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USC4R1802343"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/68LRgdbjO2XhximSuuYrX1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/68LRgdbjO2XhximSuuYrX1",
+  "id": "68LRgdbjO2XhximSuuYrX1",
+  "is_local": false,
+  "name": "Best Friends",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:68LRgdbjO2XhximSuuYrX1"
+}

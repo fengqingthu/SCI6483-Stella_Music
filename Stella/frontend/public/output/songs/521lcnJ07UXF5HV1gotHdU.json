@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        },
+        "href": "https://api.spotify.com/v1/artists/5O5V29YvM6AzAQ0rNt59fy",
+        "id": "5O5V29YvM6AzAQ0rNt59fy",
+        "name": "Karen Dalton",
+        "type": "artist",
+        "uri": "spotify:artist:5O5V29YvM6AzAQ0rNt59fy"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/79DQ41cRzZSMBigcL3TAXC"
+    },
+    "href": "https://api.spotify.com/v1/albums/79DQ41cRzZSMBigcL3TAXC",
+    "id": "79DQ41cRzZSMBigcL3TAXC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cb636f8963b67d2912a5c2df",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cb636f8963b67d2912a5c2df",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cb636f8963b67d2912a5c2df",
+        "width": 64
+      }
+    ],
+    "name": "In My Own Time",
+    "release_date": "2002-11-06",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:79DQ41cRzZSMBigcL3TAXC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5O5V29YvM6AzAQ0rNt59fy",
+      "id": "5O5V29YvM6AzAQ0rNt59fy",
+      "name": "Karen Dalton",
+      "type": "artist",
+      "uri": "spotify:artist:5O5V29YvM6AzAQ0rNt59fy"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 203333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USDEA0602201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/521lcnJ07UXF5HV1gotHdU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/521lcnJ07UXF5HV1gotHdU",
+  "id": "521lcnJ07UXF5HV1gotHdU",
+  "is_local": false,
+  "name": "Something on Your Mind",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/706a9a09a626644165626f8e379a5f59f7bcd083?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:521lcnJ07UXF5HV1gotHdU"
+}

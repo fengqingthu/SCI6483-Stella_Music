@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        },
+        "href": "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+        "id": "46CitWgnWrvF9t70C2p1Me",
+        "name": "Daughter",
+        "type": "artist",
+        "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2pN1kvmyK2OoIHQAqou65I"
+    },
+    "href": "https://api.spotify.com/v1/albums/2pN1kvmyK2OoIHQAqou65I",
+    "id": "2pN1kvmyK2OoIHQAqou65I",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f159d52bcd53d0d8b6776150",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f159d52bcd53d0d8b6776150",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f159d52bcd53d0d8b6776150",
+        "width": 64
+      }
+    ],
+    "name": "Not to Disappear",
+    "release_date": "2016-01-15",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2pN1kvmyK2OoIHQAqou65I"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+      },
+      "href": "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+      "id": "46CitWgnWrvF9t70C2p1Me",
+      "name": "Daughter",
+      "type": "artist",
+      "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 314831,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFL1500136"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5xz16gO1U2r3aSukjhgMZs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5xz16gO1U2r3aSukjhgMZs",
+  "id": "5xz16gO1U2r3aSukjhgMZs",
+  "is_local": false,
+  "name": "Doing the Right Thing",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/862485049e9c97824ca0f994b8fed2ab4b64e240?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5xz16gO1U2r3aSukjhgMZs"
+}

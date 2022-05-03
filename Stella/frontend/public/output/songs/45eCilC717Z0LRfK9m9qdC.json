@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wyBxBXLVLaiF2jxHCpvTe",
+        "id": "7wyBxBXLVLaiF2jxHCpvTe",
+        "name": "Koop",
+        "type": "artist",
+        "uri": "spotify:artist:7wyBxBXLVLaiF2jxHCpvTe"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
+    },
+    "href": "https://api.spotify.com/v1/albums/7utDnqKdc3HiSx54MSaGSc",
+    "id": "7utDnqKdc3HiSx54MSaGSc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a31091a8aa6c3b9e3bac4580",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a31091a8aa6c3b9e3bac4580",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a31091a8aa6c3b9e3bac4580",
+        "width": 64
+      }
+    ],
+    "name": "Koop Islands",
+    "release_date": "2007-06-05",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7utDnqKdc3HiSx54MSaGSc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
+      },
+      "href": "https://api.spotify.com/v1/artists/7wyBxBXLVLaiF2jxHCpvTe",
+      "id": "7wyBxBXLVLaiF2jxHCpvTe",
+      "name": "Koop",
+      "type": "artist",
+      "uri": "spotify:artist:7wyBxBXLVLaiF2jxHCpvTe"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf"
+      },
+      "href": "https://api.spotify.com/v1/artists/34U611pEEfxLSRX3NIPcHf",
+      "id": "34U611pEEfxLSRX3NIPcHf",
+      "name": "Yukimi Nagano",
+      "type": "artist",
+      "uri": "spotify:artist:34U611pEEfxLSRX3NIPcHf"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 171360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SELEI0600602"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/45eCilC717Z0LRfK9m9qdC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/45eCilC717Z0LRfK9m9qdC",
+  "id": "45eCilC717Z0LRfK9m9qdC",
+  "is_local": false,
+  "name": "Come to Me",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/2db14f51923de9be2528f57420fe47cd84a28a5c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:45eCilC717Z0LRfK9m9qdC"
+}

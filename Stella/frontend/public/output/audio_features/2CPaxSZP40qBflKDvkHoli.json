@@ -1,0 +1,20 @@
+{
+  "danceability": 0.22,
+  "energy": 0.0618,
+  "key": 9,
+  "loudness": -20.438,
+  "mode": 1,
+  "speechiness": 0.0399,
+  "acousticness": 0.91,
+  "instrumentalness": 0.557,
+  "liveness": 0.114,
+  "valence": 0.0507,
+  "tempo": 111.561,
+  "type": "audio_features",
+  "id": "2CPaxSZP40qBflKDvkHoli",
+  "uri": "spotify:track:2CPaxSZP40qBflKDvkHoli",
+  "track_href": "https://api.spotify.com/v1/tracks/2CPaxSZP40qBflKDvkHoli",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CPaxSZP40qBflKDvkHoli",
+  "duration_ms": 316907,
+  "time_signature": 3
+}

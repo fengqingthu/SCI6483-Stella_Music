@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0zDqgJmDuaocA7TMvJX1d1"
+        },
+        "href": "https://api.spotify.com/v1/artists/0zDqgJmDuaocA7TMvJX1d1",
+        "id": "0zDqgJmDuaocA7TMvJX1d1",
+        "name": "Æther Realm",
+        "type": "artist",
+        "uri": "spotify:artist:0zDqgJmDuaocA7TMvJX1d1"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/54FL0kfsQE6DCsl37KPpoa"
+    },
+    "href": "https://api.spotify.com/v1/albums/54FL0kfsQE6DCsl37KPpoa",
+    "id": "54FL0kfsQE6DCsl37KPpoa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27318725e3e649d2ce2f6784a74",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0218725e3e649d2ce2f6784a74",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485118725e3e649d2ce2f6784a74",
+        "width": 64
+      }
+    ],
+    "name": "Redneck Vikings From Hell",
+    "release_date": "2020-05-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:54FL0kfsQE6DCsl37KPpoa"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0zDqgJmDuaocA7TMvJX1d1"
+      },
+      "href": "https://api.spotify.com/v1/artists/0zDqgJmDuaocA7TMvJX1d1",
+      "id": "0zDqgJmDuaocA7TMvJX1d1",
+      "name": "Æther Realm",
+      "type": "artist",
+      "uri": "spotify:artist:0zDqgJmDuaocA7TMvJX1d1"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 257660,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262087805"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2P7pzSzqYewq3DVM88IBpS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2P7pzSzqYewq3DVM88IBpS",
+  "id": "2P7pzSzqYewq3DVM88IBpS",
+  "is_local": false,
+  "name": "Guardian",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/8917fc002cdb1d6421a61d9011f1fdc26bc3c038?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2P7pzSzqYewq3DVM88IBpS"
+}

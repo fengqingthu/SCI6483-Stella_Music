@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LMHkT69H40YY2x8GHJiD6",
+        "id": "0LMHkT69H40YY2x8GHJiD6",
+        "name": "Indian Askin",
+        "type": "artist",
+        "uri": "spotify:artist:0LMHkT69H40YY2x8GHJiD6"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "FI",
+      "LU",
+      "NL",
+      "PL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5BOzym3dsgJ7q6kvmmQLNZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5BOzym3dsgJ7q6kvmmQLNZ",
+    "id": "5BOzym3dsgJ7q6kvmmQLNZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27333b36a287504aa8d56c2d700",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0233b36a287504aa8d56c2d700",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485133b36a287504aa8d56c2d700",
+        "width": 64
+      }
+    ],
+    "name": "Another Round",
+    "release_date": "2019-01-25",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5BOzym3dsgJ7q6kvmmQLNZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LMHkT69H40YY2x8GHJiD6",
+      "id": "0LMHkT69H40YY2x8GHJiD6",
+      "name": "Indian Askin",
+      "type": "artist",
+      "uri": "spotify:artist:0LMHkT69H40YY2x8GHJiD6"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "FI",
+    "LU",
+    "NL",
+    "PL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 240000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLK8M1800001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7e0CWTM4SxJzbTeWoExBsN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7e0CWTM4SxJzbTeWoExBsN",
+  "id": "7e0CWTM4SxJzbTeWoExBsN",
+  "is_local": false,
+  "name": "I Feel Something",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/be9108c79ce59ad0947cbe6c796d0fc0edc5c3b9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:7e0CWTM4SxJzbTeWoExBsN"
+}

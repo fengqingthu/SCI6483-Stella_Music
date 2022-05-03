@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/3MZIxeB762kFLJ8ceou6uJ",
+        "id": "3MZIxeB762kFLJ8ceou6uJ",
+        "name": "Trixie Whitley",
+        "type": "artist",
+        "uri": "spotify:artist:3MZIxeB762kFLJ8ceou6uJ"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1RGueAs8HGBOZbmsbc7K0E"
+    },
+    "href": "https://api.spotify.com/v1/albums/1RGueAs8HGBOZbmsbc7K0E",
+    "id": "1RGueAs8HGBOZbmsbc7K0E",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738eaec89ad7c4451be1f23bea",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028eaec89ad7c4451be1f23bea",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518eaec89ad7c4451be1f23bea",
+        "width": 64
+      }
+    ],
+    "name": "Porta Bohemica",
+    "release_date": "2015-10-23",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:1RGueAs8HGBOZbmsbc7K0E"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3MZIxeB762kFLJ8ceou6uJ",
+      "id": "3MZIxeB762kFLJ8ceou6uJ",
+      "name": "Trixie Whitley",
+      "type": "artist",
+      "uri": "spotify:artist:3MZIxeB762kFLJ8ceou6uJ"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 235106,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEN581500389"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/15iWg16EEwknEw1AmtPLWh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/15iWg16EEwknEw1AmtPLWh",
+  "id": "15iWg16EEwknEw1AmtPLWh",
+  "is_local": false,
+  "name": "Soft Spoken Words",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/a3a2c48553cfd8c1de24ee2df01520e87b292d28?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:15iWg16EEwknEw1AmtPLWh"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.594,
+  "energy": 0.481,
+  "key": 4,
+  "loudness": -14.483,
+  "mode": 0,
+  "speechiness": 0.047,
+  "acousticness": 0.385,
+  "instrumentalness": 0.845,
+  "liveness": 0.131,
+  "valence": 0.585,
+  "tempo": 109.941,
+  "type": "audio_features",
+  "id": "7rGEbcLvRsoehrdQ2LC50G",
+  "uri": "spotify:track:7rGEbcLvRsoehrdQ2LC50G",
+  "track_href": "https://api.spotify.com/v1/tracks/7rGEbcLvRsoehrdQ2LC50G",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rGEbcLvRsoehrdQ2LC50G",
+  "duration_ms": 322787,
+  "time_signature": 4
+}

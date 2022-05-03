@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        },
+        "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+        "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+        "name": "The Tallest Man On Earth",
+        "type": "artist",
+        "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+      }
+    ],
+    "available_markets": [
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/61oMNT6bRrZcObPaM9l8qX"
+    },
+    "href": "https://api.spotify.com/v1/albums/61oMNT6bRrZcObPaM9l8qX",
+    "id": "61oMNT6bRrZcObPaM9l8qX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735a00e4e64023c763b096ac19",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025a00e4e64023c763b096ac19",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515a00e4e64023c763b096ac19",
+        "width": 64
+      }
+    ],
+    "name": "Dark Bird Is Home",
+    "release_date": "2015-05-11",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:61oMNT6bRrZcObPaM9l8qX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+      },
+      "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+      "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+      "name": "The Tallest Man On Earth",
+      "type": "artist",
+      "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+    }
+  ],
+  "available_markets": [
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 304040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USJ5G1510010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5V9gfDOgpBmnC5AcOxQ2OO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5V9gfDOgpBmnC5AcOxQ2OO",
+  "id": "5V9gfDOgpBmnC5AcOxQ2OO",
+  "is_local": false,
+  "name": "Dark Bird Is Home",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/2b4e57e3206ed79f53677f91fb946d5db0727b4b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:5V9gfDOgpBmnC5AcOxQ2OO"
+}

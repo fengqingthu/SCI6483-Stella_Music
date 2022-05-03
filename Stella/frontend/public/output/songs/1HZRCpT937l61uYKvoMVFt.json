@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        "href": "https://api.spotify.com/v1/artists/5XTxV2ifoYkmNb13Gb6cKz",
+        "id": "5XTxV2ifoYkmNb13Gb6cKz",
+        "name": "Sash!",
+        "type": "artist",
+        "uri": "spotify:artist:5XTxV2ifoYkmNb13Gb6cKz"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6C7Kn9AMTZkRlDJSYomTh3"
+    },
+    "href": "https://api.spotify.com/v1/albums/6C7Kn9AMTZkRlDJSYomTh3",
+    "id": "6C7Kn9AMTZkRlDJSYomTh3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27358339303a39ffced8a06a1ff",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0258339303a39ffced8a06a1ff",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485158339303a39ffced8a06a1ff",
+        "width": 64
+      }
+    ],
+    "name": "Raindrops (Encore Une Fois Part II) (feat. Stunt)",
+    "release_date": "2008-06-21",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:6C7Kn9AMTZkRlDJSYomTh3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5XTxV2ifoYkmNb13Gb6cKz",
+      "id": "5XTxV2ifoYkmNb13Gb6cKz",
+      "name": "Sash!",
+      "type": "artist",
+      "uri": "spotify:artist:5XTxV2ifoYkmNb13Gb6cKz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2thOenzsesBQDJxkDkMUGI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2thOenzsesBQDJxkDkMUGI",
+      "id": "2thOenzsesBQDJxkDkMUGI",
+      "name": "Stunt",
+      "type": "artist",
+      "uri": "spotify:artist:2thOenzsesBQDJxkDkMUGI"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 207346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEU770800031"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1HZRCpT937l61uYKvoMVFt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1HZRCpT937l61uYKvoMVFt",
+  "id": "1HZRCpT937l61uYKvoMVFt",
+  "is_local": false,
+  "name": "Raindrops (Encore une fois, Pt. II) (feat. Stunt) - Fonzerelli Remix",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/79f8a9002224a025b3ad7eac4de60696e71fda38?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1HZRCpT937l61uYKvoMVFt"
+}

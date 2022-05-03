@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+        "id": "053q0ukIDRgzwTr4vNSwab",
+        "name": "Grimes",
+        "type": "artist",
+        "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+    },
+    "href": "https://api.spotify.com/v1/albums/3HED2IUaNSnbOe88a7ZdwM",
+    "id": "3HED2IUaNSnbOe88a7ZdwM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02550133f6d334ed152d75aa56",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851550133f6d334ed152d75aa56",
+        "width": 64
+      }
+    ],
+    "name": "Visions",
+    "release_date": "2012-02-21",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3HED2IUaNSnbOe88a7ZdwM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id": "053q0ukIDRgzwTr4vNSwab",
+      "name": "Grimes",
+      "type": "artist",
+      "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 260413,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CA21O1200008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6U47ju8uwyUcQHRI9pid3G",
+  "id": "6U47ju8uwyUcQHRI9pid3G",
+  "is_local": false,
+  "name": "Be a Body",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/96be5b56ea448e4e5a288a59fdcb6870340b0e24?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:6U47ju8uwyUcQHRI9pid3G"
+}

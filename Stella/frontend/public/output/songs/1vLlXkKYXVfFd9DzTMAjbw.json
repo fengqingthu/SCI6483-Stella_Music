@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5LpggKE15lP08VnsYZYI5j"
+        },
+        "href": "https://api.spotify.com/v1/artists/5LpggKE15lP08VnsYZYI5j",
+        "id": "5LpggKE15lP08VnsYZYI5j",
+        "name": "Vincent Niclo",
+        "type": "artist",
+        "uri": "spotify:artist:5LpggKE15lP08VnsYZYI5j"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4Eh8TchzgNXJcuH7a84vPT"
+    },
+    "href": "https://api.spotify.com/v1/albums/4Eh8TchzgNXJcuH7a84vPT",
+    "id": "4Eh8TchzgNXJcuH7a84vPT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739dc76de513dd467000bcaeec",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029dc76de513dd467000bcaeec",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519dc76de513dd467000bcaeec",
+        "width": 64
+      }
+    ],
+    "name": "10 ans déjà",
+    "release_date": "2021-11-26",
+    "release_date_precision": "day",
+    "total_tracks": 64,
+    "type": "album",
+    "uri": "spotify:album:4Eh8TchzgNXJcuH7a84vPT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5LpggKE15lP08VnsYZYI5j"
+      },
+      "href": "https://api.spotify.com/v1/artists/5LpggKE15lP08VnsYZYI5j",
+      "id": "5LpggKE15lP08VnsYZYI5j",
+      "name": "Vincent Niclo",
+      "type": "artist",
+      "uri": "spotify:artist:5LpggKE15lP08VnsYZYI5j"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11209145"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1vLlXkKYXVfFd9DzTMAjbw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1vLlXkKYXVfFd9DzTMAjbw",
+  "id": "1vLlXkKYXVfFd9DzTMAjbw",
+  "is_local": false,
+  "name": "Ameno",
+  "popularity": 19,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1vLlXkKYXVfFd9DzTMAjbw"
+}

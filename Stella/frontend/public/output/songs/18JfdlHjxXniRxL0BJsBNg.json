@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/3khg8RDB6nMuw34w1IHS6Y",
+        "id": "3khg8RDB6nMuw34w1IHS6Y",
+        "name": "Jónsi",
+        "type": "artist",
+        "uri": "spotify:artist:3khg8RDB6nMuw34w1IHS6Y"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "IS",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/11v4o5zILuOA8h564zwI5w"
+    },
+    "href": "https://api.spotify.com/v1/albums/11v4o5zILuOA8h564zwI5w",
+    "id": "11v4o5zILuOA8h564zwI5w",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b381e6f9135797afd526b10c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b381e6f9135797afd526b10c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b381e6f9135797afd526b10c",
+        "width": 64
+      }
+    ],
+    "name": "Go",
+    "release_date": "2010-04-02",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:11v4o5zILuOA8h564zwI5w"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/3khg8RDB6nMuw34w1IHS6Y",
+      "id": "3khg8RDB6nMuw34w1IHS6Y",
+      "name": "Jónsi",
+      "type": "artist",
+      "uri": "spotify:artist:3khg8RDB6nMuw34w1IHS6Y"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "IS",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 255346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKEE1000102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/18JfdlHjxXniRxL0BJsBNg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/18JfdlHjxXniRxL0BJsBNg",
+  "id": "18JfdlHjxXniRxL0BJsBNg",
+  "is_local": false,
+  "name": "Hengilás",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/f1e546c10f27c7a9714eb916deb0afe2a0626d54?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:18JfdlHjxXniRxL0BJsBNg"
+}

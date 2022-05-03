@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/52aKFP2BnAa28POINNExhE"
+        },
+        "href": "https://api.spotify.com/v1/artists/52aKFP2BnAa28POINNExhE",
+        "id": "52aKFP2BnAa28POINNExhE",
+        "name": "Rumahoy",
+        "type": "artist",
+        "uri": "spotify:artist:52aKFP2BnAa28POINNExhE"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/28GRgZ8Hcl2m2ZBUM7PfMJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/28GRgZ8Hcl2m2ZBUM7PfMJ",
+    "id": "28GRgZ8Hcl2m2ZBUM7PfMJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273df662597c250c2a8a2d41605",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02df662597c250c2a8a2d41605",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851df662597c250c2a8a2d41605",
+        "width": 64
+      }
+    ],
+    "name": "Time II: Party",
+    "release_date": "2020-07-17",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:28GRgZ8Hcl2m2ZBUM7PfMJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52aKFP2BnAa28POINNExhE"
+      },
+      "href": "https://api.spotify.com/v1/artists/52aKFP2BnAa28POINNExhE",
+      "id": "52aKFP2BnAa28POINNExhE",
+      "name": "Rumahoy",
+      "type": "artist",
+      "uri": "spotify:artist:52aKFP2BnAa28POINNExhE"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 237496,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262095705"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2eE1n6vwh5rP2uVwAH0ELC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2eE1n6vwh5rP2uVwAH0ELC",
+  "id": "2eE1n6vwh5rP2uVwAH0ELC",
+  "is_local": false,
+  "name": "Harambe, The Pirate Gorilla",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/f7d04a61279513489d00a822cb12c5521204ebe3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2eE1n6vwh5rP2uVwAH0ELC"
+}

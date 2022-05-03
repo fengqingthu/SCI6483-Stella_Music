@@ -1,0 +1,20 @@
+{
+  "danceability": 0.634,
+  "energy": 0.571,
+  "key": 0,
+  "loudness": -8.259,
+  "mode": 1,
+  "speechiness": 0.0299,
+  "acousticness": 0.421,
+  "instrumentalness": 0,
+  "liveness": 0.187,
+  "valence": 0.527,
+  "tempo": 99.803,
+  "type": "audio_features",
+  "id": "20abcpNIRjDmyFoAbFozil",
+  "uri": "spotify:track:20abcpNIRjDmyFoAbFozil",
+  "track_href": "https://api.spotify.com/v1/tracks/20abcpNIRjDmyFoAbFozil",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/20abcpNIRjDmyFoAbFozil",
+  "duration_ms": 201293,
+  "time_signature": 4
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2qDIR2WlcW3llkGqJWg9VJ",
+        "id": "2qDIR2WlcW3llkGqJWg9VJ",
+        "name": "Lolo Zouaï",
+        "type": "artist",
+        "uri": "spotify:artist:2qDIR2WlcW3llkGqJWg9VJ"
+      }
+    ],
+    "available_markets": [
+      "KR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2vYCOdlv9BYJLv1dL1sUNp"
+    },
+    "href": "https://api.spotify.com/v1/albums/2vYCOdlv9BYJLv1dL1sUNp",
+    "id": "2vYCOdlv9BYJLv1dL1sUNp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366feebe0c499f4bf7c57bc8c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266feebe0c499f4bf7c57bc8c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166feebe0c499f4bf7c57bc8c",
+        "width": 64
+      }
+    ],
+    "name": "Brooklyn Love",
+    "release_date": "2020-07-20",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2vYCOdlv9BYJLv1dL1sUNp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qDIR2WlcW3llkGqJWg9VJ",
+      "id": "2qDIR2WlcW3llkGqJWg9VJ",
+      "name": "Lolo Zouaï",
+      "type": "artist",
+      "uri": "spotify:artist:2qDIR2WlcW3llkGqJWg9VJ"
+    }
+  ],
+  "available_markets": [
+    "KR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 200280,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM24S1806401"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4uQs9PJxAfmbZab8D2eECl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4uQs9PJxAfmbZab8D2eECl",
+  "id": "4uQs9PJxAfmbZab8D2eECl",
+  "is_local": false,
+  "name": "Brooklyn Love",
+  "popularity": 7,
+  "preview_url": "https://p.scdn.co/mp3-preview/8442a5a4b8f93dfde0db6d5c797be0b6db1f8e69?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4uQs9PJxAfmbZab8D2eECl"
+}

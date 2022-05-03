@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        },
+        "href": "https://api.spotify.com/v1/artists/6JX35IQ1Yw84Yjzq2Y5p5i",
+        "id": "6JX35IQ1Yw84Yjzq2Y5p5i",
+        "name": "Braids",
+        "type": "artist",
+        "uri": "spotify:artist:6JX35IQ1Yw84Yjzq2Y5p5i"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Ui1jYUWPwvqmwiKBwXGqq"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Ui1jYUWPwvqmwiKBwXGqq",
+    "id": "5Ui1jYUWPwvqmwiKBwXGqq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d9a57575d5ebf32cb754c041",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d9a57575d5ebf32cb754c041",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d9a57575d5ebf32cb754c041",
+        "width": 64
+      }
+    ],
+    "name": "Deep in the Iris",
+    "release_date": "2015-04-28",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:5Ui1jYUWPwvqmwiKBwXGqq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+      },
+      "href": "https://api.spotify.com/v1/artists/6JX35IQ1Yw84Yjzq2Y5p5i",
+      "id": "6JX35IQ1Yw84Yjzq2Y5p5i",
+      "name": "Braids",
+      "type": "artist",
+      "uri": "spotify:artist:6JX35IQ1Yw84Yjzq2Y5p5i"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 300773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAF271503002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1UwqnvUW6tDKxV91BZUO7E"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1UwqnvUW6tDKxV91BZUO7E",
+  "id": "1UwqnvUW6tDKxV91BZUO7E",
+  "is_local": false,
+  "name": "Taste",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/3635b1986f046c2ef04dd7d58267ddc6ddbf0202?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1UwqnvUW6tDKxV91BZUO7E"
+}

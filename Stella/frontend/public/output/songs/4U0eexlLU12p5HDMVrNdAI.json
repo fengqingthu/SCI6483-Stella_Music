@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1YbjPApplrc6D9NtSlN4ly"
+    },
+    "href": "https://api.spotify.com/v1/albums/1YbjPApplrc6D9NtSlN4ly",
+    "id": "1YbjPApplrc6D9NtSlN4ly",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ce92a81c249446bd1833986a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ce92a81c249446bd1833986a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ce92a81c249446bd1833986a",
+        "width": 64
+      }
+    ],
+    "name": "Music From the Films of Sean Connery",
+    "release_date": "2006-06-06",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:1YbjPApplrc6D9NtSlN4ly"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+      "id": "2oQJQUIpJFFnfKvHJA0xBu",
+      "name": "The City of Prague Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 306920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC9700500"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4U0eexlLU12p5HDMVrNdAI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4U0eexlLU12p5HDMVrNdAI",
+  "id": "4U0eexlLU12p5HDMVrNdAI",
+  "is_local": false,
+  "name": "The Rock (From \"The Rock\")",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/61673dac2be3898d7ab3ee6ae9d15100dda7529b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:4U0eexlLU12p5HDMVrNdAI"
+}

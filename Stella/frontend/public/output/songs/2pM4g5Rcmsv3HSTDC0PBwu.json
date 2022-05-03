@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        },
+        "href": "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+        "id": "7lOJ7WXyopaxri0dbOiZkd",
+        "name": "Broken Social Scene",
+        "type": "artist",
+        "uri": "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5v5kO1pT4VIDPxUg0WayIS"
+    },
+    "href": "https://api.spotify.com/v1/albums/5v5kO1pT4VIDPxUg0WayIS",
+    "id": "5v5kO1pT4VIDPxUg0WayIS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736a2b63d7197ed884015b254a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026a2b63d7197ed884015b254a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516a2b63d7197ed884015b254a",
+        "width": 64
+      }
+    ],
+    "name": "You Forgot It In People",
+    "release_date": "2002-10-15",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5v5kO1pT4VIDPxUg0WayIS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+      },
+      "href": "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+      "id": "7lOJ7WXyopaxri0dbOiZkd",
+      "name": "Broken Social Scene",
+      "type": "artist",
+      "uri": "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 382240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAAA10200111"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2pM4g5Rcmsv3HSTDC0PBwu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2pM4g5Rcmsv3HSTDC0PBwu",
+  "id": "2pM4g5Rcmsv3HSTDC0PBwu",
+  "is_local": false,
+  "name": "Lover's Spit",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:2pM4g5Rcmsv3HSTDC0PBwu"
+}

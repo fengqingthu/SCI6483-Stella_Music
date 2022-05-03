@@ -1,0 +1,181 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        },
+        "href": "https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w",
+        "id": "3CjlHNtplJyTf9npxaPl5w",
+        "name": "CHVRCHES",
+        "type": "artist",
+        "uri": "spotify:artist:3CjlHNtplJyTf9npxaPl5w"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ePq1BqGXhzUxZE99pLQWd"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ePq1BqGXhzUxZE99pLQWd",
+    "id": "1ePq1BqGXhzUxZE99pLQWd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27379bbb543f7efc178d4087409",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0279bbb543f7efc178d4087409",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485179bbb543f7efc178d4087409",
+        "width": 64
+      }
+    ],
+    "name": "Leave A Trace (Goldroom Remix)",
+    "release_date": "2015-12-18",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1ePq1BqGXhzUxZE99pLQWd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+      },
+      "href": "https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w",
+      "id": "3CjlHNtplJyTf9npxaPl5w",
+      "name": "CHVRCHES",
+      "type": "artist",
+      "uri": "spotify:artist:3CjlHNtplJyTf9npxaPl5w"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl"
+      },
+      "href": "https://api.spotify.com/v1/artists/4eZebkMFU3xelF8mbZYXyl",
+      "id": "4eZebkMFU3xelF8mbZYXyl",
+      "name": "Goldroom",
+      "type": "artist",
+      "uri": "spotify:artist:4eZebkMFU3xelF8mbZYXyl"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 299062,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USYAH1500172"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4d18gysSNfLeEHoiugsn5E"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4d18gysSNfLeEHoiugsn5E",
+  "id": "4d18gysSNfLeEHoiugsn5E",
+  "is_local": false,
+  "name": "Leave A Trace - Goldroom Remix",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/0afe1601df6340297d520bca4b79a4bbb731728c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4d18gysSNfLeEHoiugsn5E"
+}

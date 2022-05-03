@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        },
+        "href": "https://api.spotify.com/v1/artists/115Iq0OjPxUUyWOIiF2pIR",
+        "id": "115Iq0OjPxUUyWOIiF2pIR",
+        "name": "Claude Nougaro",
+        "type": "artist",
+        "uri": "spotify:artist:115Iq0OjPxUUyWOIiF2pIR"
+      }
+    ],
+    "available_markets": [
+      "BE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/24XhCTvxrwMAwExWpY7lfP"
+    },
+    "href": "https://api.spotify.com/v1/albums/24XhCTvxrwMAwExWpY7lfP",
+    "id": "24XhCTvxrwMAwExWpY7lfP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27385f403f1978cf5f7901f7c51",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0285f403f1978cf5f7901f7c51",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485185f403f1978cf5f7901f7c51",
+        "width": 64
+      }
+    ],
+    "name": "Grand Angle Sur Nougaro",
+    "release_date": "1994-10-31",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:24XhCTvxrwMAwExWpY7lfP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+      },
+      "href": "https://api.spotify.com/v1/artists/115Iq0OjPxUUyWOIiF2pIR",
+      "id": "115Iq0OjPxUUyWOIiF2pIR",
+      "name": "Claude Nougaro",
+      "type": "artist",
+      "uri": "spotify:artist:115Iq0OjPxUUyWOIiF2pIR"
+    }
+  ],
+  "available_markets": [
+    "BE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ017800070"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Lai4aFPecrYou9FNAKA2N"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Lai4aFPecrYou9FNAKA2N",
+  "id": "3Lai4aFPecrYou9FNAKA2N",
+  "is_local": false,
+  "name": "Tu Verras",
+  "popularity": 22,
+  "preview_url": null,
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:3Lai4aFPecrYou9FNAKA2N"
+}

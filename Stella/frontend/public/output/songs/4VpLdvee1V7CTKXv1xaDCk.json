@@ -1,0 +1,121 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        },
+        "href": "https://api.spotify.com/v1/artists/1AbJ2cmwK400LSvdvBL5Jc",
+        "id": "1AbJ2cmwK400LSvdvBL5Jc",
+        "name": "Strawberry Guy",
+        "type": "artist",
+        "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo"
+    },
+    "href": "https://api.spotify.com/v1/albums/2f9WckhKSSRXLJ53QJUCRo",
+    "id": "2f9WckhKSSRXLJ53QJUCRo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27368c9ca32c856d3b47974c1ed",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0268c9ca32c856d3b47974c1ed",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485168c9ca32c856d3b47974c1ed",
+        "width": 64
+      }
+    ],
+    "name": "Sun Outside My Window",
+    "release_date": "2021-10-29",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2f9WckhKSSRXLJ53QJUCRo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+      },
+      "href": "https://api.spotify.com/v1/artists/1AbJ2cmwK400LSvdvBL5Jc",
+      "id": "1AbJ2cmwK400LSvdvBL5Jc",
+      "name": "Strawberry Guy",
+      "type": "artist",
+      "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 201226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBJGV2100407"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4VpLdvee1V7CTKXv1xaDCk",
+  "id": "4VpLdvee1V7CTKXv1xaDCk",
+  "is_local": false,
+  "name": "Sun Outside My Window",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/a51699c00e84f2918ed7381707d7cabf3e42d5d0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:4VpLdvee1V7CTKXv1xaDCk"
+}

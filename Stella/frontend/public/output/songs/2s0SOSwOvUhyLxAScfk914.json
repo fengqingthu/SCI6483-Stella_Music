@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3HR1xtIsUefdFnkI1XHgeA",
+        "id": "3HR1xtIsUefdFnkI1XHgeA",
+        "name": "The Dead South",
+        "type": "artist",
+        "uri": "spotify:artist:3HR1xtIsUefdFnkI1XHgeA"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/122hoBSgL0aLSnoHyyD93i"
+    },
+    "href": "https://api.spotify.com/v1/albums/122hoBSgL0aLSnoHyyD93i",
+    "id": "122hoBSgL0aLSnoHyyD93i",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e33cf479d323998755baafc3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e33cf479d323998755baafc3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e33cf479d323998755baafc3",
+        "width": 64
+      }
+    ],
+    "name": "Sugar & Joy",
+    "release_date": "2019-10-11",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:122hoBSgL0aLSnoHyyD93i"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3HR1xtIsUefdFnkI1XHgeA",
+      "id": "3HR1xtIsUefdFnkI1XHgeA",
+      "name": "The Dead South",
+      "type": "artist",
+      "uri": "spotify:artist:3HR1xtIsUefdFnkI1XHgeA"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 380146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CASB11912906"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2s0SOSwOvUhyLxAScfk914"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2s0SOSwOvUhyLxAScfk914",
+  "id": "2s0SOSwOvUhyLxAScfk914",
+  "is_local": false,
+  "name": "Broken Cowboy",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/e6ab456f714da0547531c441a65f1d1fe831b71c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2s0SOSwOvUhyLxAScfk914"
+}

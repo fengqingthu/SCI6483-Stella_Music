@@ -1,0 +1,147 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        },
+        "href": "https://api.spotify.com/v1/artists/0FI0kxP0BWurTz8cB8BBug",
+        "id": "0FI0kxP0BWurTz8cB8BBug",
+        "name": "Mark Knopfler",
+        "type": "artist",
+        "uri": "spotify:artist:0FI0kxP0BWurTz8cB8BBug"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "HK",
+      "HR",
+      "HU",
+      "IE",
+      "IL",
+      "IN",
+      "IT",
+      "LT",
+      "LV",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "SE",
+      "SG",
+      "SK",
+      "TH",
+      "TW",
+      "UA",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6fLhTUrZZ1kppTuFw2Jboa"
+    },
+    "href": "https://api.spotify.com/v1/albums/6fLhTUrZZ1kppTuFw2Jboa",
+    "id": "6fLhTUrZZ1kppTuFw2Jboa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d8154ad7ef24b6e83f1931c9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d8154ad7ef24b6e83f1931c9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d8154ad7ef24b6e83f1931c9",
+        "width": 64
+      }
+    ],
+    "name": "Music From Local Hero",
+    "release_date": "1983-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6fLhTUrZZ1kppTuFw2Jboa"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+      },
+      "href": "https://api.spotify.com/v1/artists/0FI0kxP0BWurTz8cB8BBug",
+      "id": "0FI0kxP0BWurTz8cB8BBug",
+      "name": "Mark Knopfler",
+      "type": "artist",
+      "uri": "spotify:artist:0FI0kxP0BWurTz8cB8BBug"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BE",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "HK",
+    "HR",
+    "HU",
+    "IE",
+    "IL",
+    "IN",
+    "IT",
+    "LT",
+    "LV",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "SE",
+    "SG",
+    "SK",
+    "TH",
+    "TW",
+    "UA",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF088300028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3y4PR76Jfpt1grXViXwWoh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3y4PR76Jfpt1grXViXwWoh",
+  "id": "3y4PR76Jfpt1grXViXwWoh",
+  "is_local": false,
+  "name": "Wild Theme",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/f509288760d208087504d3e236bfdd002f03b2e1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3y4PR76Jfpt1grXViXwWoh"
+}

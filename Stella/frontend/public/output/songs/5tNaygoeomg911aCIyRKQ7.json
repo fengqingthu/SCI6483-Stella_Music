@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0NKzd39Z5FDByzfTwqXq1c"
+        },
+        "href": "https://api.spotify.com/v1/artists/0NKzd39Z5FDByzfTwqXq1c",
+        "id": "0NKzd39Z5FDByzfTwqXq1c",
+        "name": "Kiuas",
+        "type": "artist",
+        "uri": "spotify:artist:0NKzd39Z5FDByzfTwqXq1c"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/66RaaFUNOKAOghcvXWBSjb"
+    },
+    "href": "https://api.spotify.com/v1/albums/66RaaFUNOKAOghcvXWBSjb",
+    "id": "66RaaFUNOKAOghcvXWBSjb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732b73a40ba32a7ccbdf85e24b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022b73a40ba32a7ccbdf85e24b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512b73a40ba32a7ccbdf85e24b",
+        "width": 64
+      }
+    ],
+    "name": "The Spirit of Ukko",
+    "release_date": "2007-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:66RaaFUNOKAOghcvXWBSjb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NKzd39Z5FDByzfTwqXq1c"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NKzd39Z5FDByzfTwqXq1c",
+      "id": "0NKzd39Z5FDByzfTwqXq1c",
+      "name": "Kiuas",
+      "type": "artist",
+      "uri": "spotify:artist:0NKzd39Z5FDByzfTwqXq1c"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 347826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FISFS0500061"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5tNaygoeomg911aCIyRKQ7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5tNaygoeomg911aCIyRKQ7",
+  "id": "5tNaygoeomg911aCIyRKQ7",
+  "is_local": false,
+  "name": "Warrior Soul",
+  "popularity": 10,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5tNaygoeomg911aCIyRKQ7"
+}

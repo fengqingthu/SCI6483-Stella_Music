@@ -1,0 +1,145 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1UQ5GQDdYPKgbIEn9sMiSg"
+        },
+        "href": "https://api.spotify.com/v1/artists/1UQ5GQDdYPKgbIEn9sMiSg",
+        "id": "1UQ5GQDdYPKgbIEn9sMiSg",
+        "name": "FC Kahuna",
+        "type": "artist",
+        "uri": "spotify:artist:1UQ5GQDdYPKgbIEn9sMiSg"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "BN",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "ES",
+      "GB",
+      "GR",
+      "GY",
+      "HK",
+      "ID",
+      "IE",
+      "IT",
+      "JP",
+      "KH",
+      "KR",
+      "LA",
+      "MO",
+      "MT",
+      "MY",
+      "PE",
+      "PH",
+      "PY",
+      "SG",
+      "SR",
+      "TH",
+      "TL",
+      "TW",
+      "UY",
+      "VE",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/61TdNnA9JCdW456MIRUlCl"
+    },
+    "href": "https://api.spotify.com/v1/albums/61TdNnA9JCdW456MIRUlCl",
+    "id": "61TdNnA9JCdW456MIRUlCl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27341e8216d5884599eed6c0bed",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0241e8216d5884599eed6c0bed",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485141e8216d5884599eed6c0bed",
+        "width": 64
+      }
+    ],
+    "name": "Machine Says Yes",
+    "release_date": "2002-04-08",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:61TdNnA9JCdW456MIRUlCl"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UQ5GQDdYPKgbIEn9sMiSg"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UQ5GQDdYPKgbIEn9sMiSg",
+      "id": "1UQ5GQDdYPKgbIEn9sMiSg",
+      "name": "FC Kahuna",
+      "type": "artist",
+      "uri": "spotify:artist:1UQ5GQDdYPKgbIEn9sMiSg"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BN",
+    "BO",
+    "BR",
+    "CL",
+    "CO",
+    "EC",
+    "ES",
+    "GB",
+    "GR",
+    "GY",
+    "HK",
+    "ID",
+    "IE",
+    "IT",
+    "JP",
+    "KH",
+    "KR",
+    "LA",
+    "MO",
+    "MT",
+    "MY",
+    "PE",
+    "PH",
+    "PY",
+    "SG",
+    "SR",
+    "TH",
+    "TL",
+    "TW",
+    "UY",
+    "VE",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 347266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBMQ0200191"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4zmVPgrLtG2qtNvii2JNyU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4zmVPgrLtG2qtNvii2JNyU",
+  "id": "4zmVPgrLtG2qtNvii2JNyU",
+  "is_local": false,
+  "name": "Glitterball",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/264c53c4bad1a4ee515ecf652e593542470ed66f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4zmVPgrLtG2qtNvii2JNyU"
+}

@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0fFBZCKgNcf8WQJfE9Rpos"
+    },
+    "href": "https://api.spotify.com/v1/albums/0fFBZCKgNcf8WQJfE9Rpos",
+    "id": "0fFBZCKgNcf8WQJfE9Rpos",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733ddf80fb25359e11d9fe0bfe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023ddf80fb25359e11d9fe0bfe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513ddf80fb25359e11d9fe0bfe",
+        "width": 64
+      }
+    ],
+    "name": "Reel Love - The Cinematic Romance Album",
+    "release_date": "2005-04-12",
+    "release_date_precision": "day",
+    "total_tracks": 30,
+    "type": "album",
+    "uri": "spotify:album:0fFBZCKgNcf8WQJfE9Rpos"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+      "id": "2oQJQUIpJFFnfKvHJA0xBu",
+      "name": "The City of Prague Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02O1TOTMkLrMCAE2fRNkKJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/02O1TOTMkLrMCAE2fRNkKJ",
+      "id": "02O1TOTMkLrMCAE2fRNkKJ",
+      "name": "Nic Raine",
+      "type": "artist",
+      "uri": "spotify:artist:02O1TOTMkLrMCAE2fRNkKJ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 2,
+  "duration_ms": 220133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0003274"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0XNj7NZHWLC8JlKXAMJG8p"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0XNj7NZHWLC8JlKXAMJG8p",
+  "id": "0XNj7NZHWLC8JlKXAMJG8p",
+  "is_local": false,
+  "name": "Unchained Melody (From \"Ghost\")",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/71716ddb7320d81a6f822d78e6f33852ad56cd61?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:0XNj7NZHWLC8JlKXAMJG8p"
+}

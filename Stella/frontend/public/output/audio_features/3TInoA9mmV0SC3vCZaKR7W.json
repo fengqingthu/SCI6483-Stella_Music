@@ -1,0 +1,20 @@
+{
+  "danceability": 0.481,
+  "energy": 0.554,
+  "key": 5,
+  "loudness": -8.488,
+  "mode": 1,
+  "speechiness": 0.0335,
+  "acousticness": 0.566,
+  "instrumentalness": 0.92,
+  "liveness": 0.11,
+  "valence": 0.0523,
+  "tempo": 130.101,
+  "type": "audio_features",
+  "id": "3TInoA9mmV0SC3vCZaKR7W",
+  "uri": "spotify:track:3TInoA9mmV0SC3vCZaKR7W",
+  "track_href": "https://api.spotify.com/v1/tracks/3TInoA9mmV0SC3vCZaKR7W",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3TInoA9mmV0SC3vCZaKR7W",
+  "duration_ms": 404400,
+  "time_signature": 3
+}

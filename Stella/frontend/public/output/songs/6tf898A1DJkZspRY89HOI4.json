@@ -1,0 +1,143 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4pyOzuuAajiixTAjYa0TFZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/4pyOzuuAajiixTAjYa0TFZ",
+        "id": "4pyOzuuAajiixTAjYa0TFZ",
+        "name": "Myriam Alter",
+        "type": "artist",
+        "uri": "spotify:artist:4pyOzuuAajiixTAjYa0TFZ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6ns8GaHRojHacUuPHM2rmT"
+    },
+    "href": "https://api.spotify.com/v1/albums/6ns8GaHRojHacUuPHM2rmT",
+    "id": "6ns8GaHRojHacUuPHM2rmT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27372197e603671873f7b4cd048",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0272197e603671873f7b4cd048",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485172197e603671873f7b4cd048",
+        "width": 64
+      }
+    ],
+    "name": "Crossways (feat. Luciano Biondini, John Ruocco, Michel Massot, Michel Bisceglia, Nic Thys & Lander Gyselinck)",
+    "release_date": "2015-10-02",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6ns8GaHRojHacUuPHM2rmT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4pyOzuuAajiixTAjYa0TFZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4pyOzuuAajiixTAjYa0TFZ",
+      "id": "4pyOzuuAajiixTAjYa0TFZ",
+      "name": "Myriam Alter",
+      "type": "artist",
+      "uri": "spotify:artist:4pyOzuuAajiixTAjYa0TFZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok"
+      },
+      "href": "https://api.spotify.com/v1/artists/6tyFjAhvbV2tt8urz1THok",
+      "id": "6tyFjAhvbV2tt8urz1THok",
+      "name": "John Ruocco",
+      "type": "artist",
+      "uri": "spotify:artist:6tyFjAhvbV2tt8urz1THok"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23ZPWktzOUwwIkYjGnSXvS"
+      },
+      "href": "https://api.spotify.com/v1/artists/23ZPWktzOUwwIkYjGnSXvS",
+      "id": "23ZPWktzOUwwIkYjGnSXvS",
+      "name": "Lander Gyselinck",
+      "type": "artist",
+      "uri": "spotify:artist:23ZPWktzOUwwIkYjGnSXvS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+      },
+      "href": "https://api.spotify.com/v1/artists/0AHji8QRcQS9bGeIFHA3D0",
+      "id": "0AHji8QRcQS9bGeIFHA3D0",
+      "name": "Luciano Biondini",
+      "type": "artist",
+      "uri": "spotify:artist:0AHji8QRcQS9bGeIFHA3D0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
+      },
+      "href": "https://api.spotify.com/v1/artists/5wKMe0NPv5nsl5dYRnCkiC",
+      "id": "5wKMe0NPv5nsl5dYRnCkiC",
+      "name": "Michel Bisceglia",
+      "type": "artist",
+      "uri": "spotify:artist:5wKMe0NPv5nsl5dYRnCkiC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XXG15h5IRTuFQuSGckL0P"
+      },
+      "href": "https://api.spotify.com/v1/artists/6XXG15h5IRTuFQuSGckL0P",
+      "id": "6XXG15h5IRTuFQuSGckL0P",
+      "name": "Michel Massot",
+      "type": "artist",
+      "uri": "spotify:artist:6XXG15h5IRTuFQuSGckL0P"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EO0AEYzcsOWlTvoA86SN0"
+      },
+      "href": "https://api.spotify.com/v1/artists/1EO0AEYzcsOWlTvoA86SN0",
+      "id": "1EO0AEYzcsOWlTvoA86SN0",
+      "name": "Nic Thys",
+      "type": "artist",
+      "uri": "spotify:artist:1EO0AEYzcsOWlTvoA86SN0"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 397960,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAJ221559234"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6tf898A1DJkZspRY89HOI4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6tf898A1DJkZspRY89HOI4",
+  "id": "6tf898A1DJkZspRY89HOI4",
+  "is_local": false,
+  "name": "Inviting You (feat. Luciano Biondini, John Ruocco, Michel Massot, Michel Bisceglia, Nic Thys & Lander Gyselinck)",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/36607021c84908bb5f545043884b100bb4a37f5c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6tf898A1DJkZspRY89HOI4"
+}

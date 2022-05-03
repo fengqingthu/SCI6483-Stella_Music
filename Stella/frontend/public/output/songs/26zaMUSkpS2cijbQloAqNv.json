@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Gaqw2nGyE7yM3rcRSzE3U",
+        "id": "3Gaqw2nGyE7yM3rcRSzE3U",
+        "name": "Yppah",
+        "type": "artist",
+        "uri": "spotify:artist:3Gaqw2nGyE7yM3rcRSzE3U"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3UuB9XbeO3rKWlp669fS3n"
+    },
+    "href": "https://api.spotify.com/v1/albums/3UuB9XbeO3rKWlp669fS3n",
+    "id": "3UuB9XbeO3rKWlp669fS3n",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733be64688822c52f25745a4de",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023be64688822c52f25745a4de",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513be64688822c52f25745a4de",
+        "width": 64
+      }
+    ],
+    "name": "Tiny Pause",
+    "release_date": "2015-10-14",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3UuB9XbeO3rKWlp669fS3n"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Gaqw2nGyE7yM3rcRSzE3U",
+      "id": "3Gaqw2nGyE7yM3rcRSzE3U",
+      "name": "Yppah",
+      "type": "artist",
+      "uri": "spotify:artist:3Gaqw2nGyE7yM3rcRSzE3U"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 265586,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFB1503906"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/26zaMUSkpS2cijbQloAqNv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/26zaMUSkpS2cijbQloAqNv",
+  "id": "26zaMUSkpS2cijbQloAqNv",
+  "is_local": false,
+  "name": "Bushmills",
+  "popularity": 4,
+  "preview_url": "https://p.scdn.co/mp3-preview/3dfdfdc44035b9b8adafe6edaeecc23f7285cc9c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:26zaMUSkpS2cijbQloAqNv"
+}

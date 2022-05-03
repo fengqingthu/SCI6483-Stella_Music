@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex"
+        },
+        "href": "https://api.spotify.com/v1/artists/5oyNl4KxsjkVfyvnwcl8ex",
+        "id": "5oyNl4KxsjkVfyvnwcl8ex",
+        "name": "François de Roubaix",
+        "type": "artist",
+        "uri": "spotify:artist:5oyNl4KxsjkVfyvnwcl8ex"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2VSdnRvIGKB2U7m5o6coIj"
+    },
+    "href": "https://api.spotify.com/v1/albums/2VSdnRvIGKB2U7m5o6coIj",
+    "id": "2VSdnRvIGKB2U7m5o6coIj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27396d9f100c217bdc91cbe03c8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0296d9f100c217bdc91cbe03c8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485196d9f100c217bdc91cbe03c8",
+        "width": 64
+      }
+    ],
+    "name": "Les Grandes Gueules-Le Vieux Fusil",
+    "release_date": "2003-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 24,
+    "type": "album",
+    "uri": "spotify:album:2VSdnRvIGKB2U7m5o6coIj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex"
+      },
+      "href": "https://api.spotify.com/v1/artists/5oyNl4KxsjkVfyvnwcl8ex",
+      "id": "5oyNl4KxsjkVfyvnwcl8ex",
+      "name": "François de Roubaix",
+      "type": "artist",
+      "uri": "spotify:artist:5oyNl4KxsjkVfyvnwcl8ex"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 170520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH1957580180"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/28jVgaivVLUXnBz2AaflyG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/28jVgaivVLUXnBz2AaflyG",
+  "id": "28jVgaivVLUXnBz2AaflyG",
+  "is_local": false,
+  "name": "Le Vieux Fusil Final - Bof Le Vieux Fusil",
+  "popularity": 16,
+  "preview_url": null,
+  "track_number": 21,
+  "type": "track",
+  "uri": "spotify:track:28jVgaivVLUXnBz2AaflyG"
+}

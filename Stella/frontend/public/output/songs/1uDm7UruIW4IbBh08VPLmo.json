@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yNluGAiPbYXLwlA9KspbG",
+        "id": "4yNluGAiPbYXLwlA9KspbG",
+        "name": "The Red Army Choir",
+        "type": "artist",
+        "uri": "spotify:artist:4yNluGAiPbYXLwlA9KspbG"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0qx8cJMt6Wluyc2dDQeAzz"
+    },
+    "href": "https://api.spotify.com/v1/albums/0qx8cJMt6Wluyc2dDQeAzz",
+    "id": "0qx8cJMt6Wluyc2dDQeAzz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e9409f13ee27b7b678dd6e3d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e9409f13ee27b7b678dd6e3d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e9409f13ee27b7b678dd6e3d",
+        "width": 64
+      }
+    ],
+    "name": "The Best Of The Red Army Choir",
+    "release_date": "2002-06-25",
+    "release_date_precision": "day",
+    "total_tracks": 32,
+    "type": "album",
+    "uri": "spotify:album:0qx8cJMt6Wluyc2dDQeAzz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4yNluGAiPbYXLwlA9KspbG",
+      "id": "4yNluGAiPbYXLwlA9KspbG",
+      "name": "The Red Army Choir",
+      "type": "artist",
+      "uri": "spotify:artist:4yNluGAiPbYXLwlA9KspbG"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 267786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0203794"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1uDm7UruIW4IbBh08VPLmo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1uDm7UruIW4IbBh08VPLmo",
+  "id": "1uDm7UruIW4IbBh08VPLmo",
+  "is_local": false,
+  "name": "Kalinka",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/626ecbe7ee89c3d3fc1939161898ebdba42942b6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1uDm7UruIW4IbBh08VPLmo"
+}

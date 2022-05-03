@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6pIRdCtSE5hLFfIfcTAicI",
+        "id": "6pIRdCtSE5hLFfIfcTAicI",
+        "name": "Delain",
+        "type": "artist",
+        "uri": "spotify:artist:6pIRdCtSE5hLFfIfcTAicI"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6YwVAOvk5yx5sOV8GEy0r2"
+    },
+    "href": "https://api.spotify.com/v1/albums/6YwVAOvk5yx5sOV8GEy0r2",
+    "id": "6YwVAOvk5yx5sOV8GEy0r2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273167be90d5d5cee9a7b07ceb0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02167be90d5d5cee9a7b07ceb0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851167be90d5d5cee9a7b07ceb0",
+        "width": 64
+      }
+    ],
+    "name": "Interlude",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6YwVAOvk5yx5sOV8GEy0r2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6pIRdCtSE5hLFfIfcTAicI",
+      "id": "6pIRdCtSE5hLFfIfcTAicI",
+      "name": "Delain",
+      "type": "artist",
+      "uri": "spotify:artist:6pIRdCtSE5hLFfIfcTAicI"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 222200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261348307"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0QbulON6GINYWKcR1xiy4c"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0QbulON6GINYWKcR1xiy4c",
+  "id": "0QbulON6GINYWKcR1xiy4c",
+  "is_local": false,
+  "name": "We Are The Others - New Ballad Version",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/15426144b0e2e503094d6f9a0da26ec280385e08?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:0QbulON6GINYWKcR1xiy4c"
+}

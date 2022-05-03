@@ -1,0 +1,20 @@
+{
+  "danceability": 0.696,
+  "energy": 0.71,
+  "key": 9,
+  "loudness": -7.832,
+  "mode": 1,
+  "speechiness": 0.0721,
+  "acousticness": 0.00275,
+  "instrumentalness": 0,
+  "liveness": 0.0998,
+  "valence": 0.878,
+  "tempo": 129.963,
+  "type": "audio_features",
+  "id": "6gP19WE3a58uwWKaGlaKuo",
+  "uri": "spotify:track:6gP19WE3a58uwWKaGlaKuo",
+  "track_href": "https://api.spotify.com/v1/tracks/6gP19WE3a58uwWKaGlaKuo",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gP19WE3a58uwWKaGlaKuo",
+  "duration_ms": 219880,
+  "time_signature": 4
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        },
+        "href": "https://api.spotify.com/v1/artists/6guTJsgPymDUVfqDJyz5UG",
+        "id": "6guTJsgPymDUVfqDJyz5UG",
+        "name": "Galaxie 500",
+        "type": "artist",
+        "uri": "spotify:artist:6guTJsgPymDUVfqDJyz5UG"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1yTW4t7s6EAFsxo99nAF6e"
+    },
+    "href": "https://api.spotify.com/v1/albums/1yTW4t7s6EAFsxo99nAF6e",
+    "id": "1yTW4t7s6EAFsxo99nAF6e",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f941f6991f1c1ad6354ec424",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f941f6991f1c1ad6354ec424",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f941f6991f1c1ad6354ec424",
+        "width": 64
+      }
+    ],
+    "name": "On Fire (Deluxe Edition)",
+    "release_date": "1989-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:1yTW4t7s6EAFsxo99nAF6e"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+      },
+      "href": "https://api.spotify.com/v1/artists/6guTJsgPymDUVfqDJyz5UG",
+      "id": "6guTJsgPymDUVfqDJyz5UG",
+      "name": "Galaxie 500",
+      "type": "artist",
+      "uri": "spotify:artist:6guTJsgPymDUVfqDJyz5UG"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 312386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL0900805"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6Zel4w4DstpwT9Burm5CT4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6Zel4w4DstpwT9Burm5CT4",
+  "id": "6Zel4w4DstpwT9Burm5CT4",
+  "is_local": false,
+  "name": "Isn't It A Pity",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/64ae466c474383444481b1ab4334d657eea96379?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:6Zel4w4DstpwT9Burm5CT4"
+}

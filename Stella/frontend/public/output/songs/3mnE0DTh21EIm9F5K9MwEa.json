@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tRSX1e4hJYjMNdl1TkINg"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tRSX1e4hJYjMNdl1TkINg",
+        "id": "4tRSX1e4hJYjMNdl1TkINg",
+        "name": "Schiller",
+        "type": "artist",
+        "uri": "spotify:artist:4tRSX1e4hJYjMNdl1TkINg"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0brwZLddcXtJJYcaw8SBXQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/0brwZLddcXtJJYcaw8SBXQ",
+    "id": "0brwZLddcXtJJYcaw8SBXQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273710ca177113f48933f4edcaf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02710ca177113f48933f4edcaf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851710ca177113f48933f4edcaf",
+        "width": 64
+      }
+    ],
+    "name": "Zeitreise - Das Beste von Schiller",
+    "release_date": "2016-12-16",
+    "release_date_precision": "day",
+    "total_tracks": 48,
+    "type": "album",
+    "uri": "spotify:album:0brwZLddcXtJJYcaw8SBXQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tRSX1e4hJYjMNdl1TkINg"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tRSX1e4hJYjMNdl1TkINg",
+      "id": "4tRSX1e4hJYjMNdl1TkINg",
+      "name": "Schiller",
+      "type": "artist",
+      "uri": "spotify:artist:4tRSX1e4hJYjMNdl1TkINg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UwMzRa2Ed9DqlA1izDsCC"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UwMzRa2Ed9DqlA1izDsCC",
+      "id": "1UwMzRa2Ed9DqlA1izDsCC",
+      "name": "Peter Heppner",
+      "type": "artist",
+      "uri": "spotify:artist:1UwMzRa2Ed9DqlA1izDsCC"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEUM71604471"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3mnE0DTh21EIm9F5K9MwEa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3mnE0DTh21EIm9F5K9MwEa",
+  "id": "3mnE0DTh21EIm9F5K9MwEa",
+  "is_local": false,
+  "name": "Leben...I Feel You",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/8a8a96f6414805546c5c17ee6eec11a60e2e7ed5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:3mnE0DTh21EIm9F5K9MwEa"
+}

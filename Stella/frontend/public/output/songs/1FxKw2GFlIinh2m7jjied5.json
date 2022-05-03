@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zB02lwP6L6ZH32nggQiJT",
+        "id": "6zB02lwP6L6ZH32nggQiJT",
+        "name": "They Might Be Giants",
+        "type": "artist",
+        "uri": "spotify:artist:6zB02lwP6L6ZH32nggQiJT"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2aZQBVva4VopWmzXj2uoKr"
+    },
+    "href": "https://api.spotify.com/v1/albums/2aZQBVva4VopWmzXj2uoKr",
+    "id": "2aZQBVva4VopWmzXj2uoKr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27335fda9059eac82c13096aefc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0235fda9059eac82c13096aefc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485135fda9059eac82c13096aefc",
+        "width": 64
+      }
+    ],
+    "name": "The Communists Have the Music",
+    "release_date": "2018-09-21",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:2aZQBVva4VopWmzXj2uoKr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+      },
+      "href": "https://api.spotify.com/v1/artists/6zB02lwP6L6ZH32nggQiJT",
+      "id": "6zB02lwP6L6ZH32nggQiJT",
+      "name": "They Might Be Giants",
+      "type": "artist",
+      "uri": "spotify:artist:6zB02lwP6L6ZH32nggQiJT"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 147666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USIR71800048"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1FxKw2GFlIinh2m7jjied5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1FxKw2GFlIinh2m7jjied5",
+  "id": "1FxKw2GFlIinh2m7jjied5",
+  "is_local": false,
+  "name": "The Communists Have the Music",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/bf3ac21e72ae5a05f782b8b0dad1ea039af86c54?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1FxKw2GFlIinh2m7jjied5"
+}

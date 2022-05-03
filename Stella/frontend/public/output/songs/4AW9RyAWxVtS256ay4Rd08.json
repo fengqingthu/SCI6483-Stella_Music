@@ -1,0 +1,159 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+        },
+        "href": "https://api.spotify.com/v1/artists/57b3sKD9pGilMb2QlMqArq",
+        "id": "57b3sKD9pGilMb2QlMqArq",
+        "name": "Hardcore Superstar",
+        "type": "artist",
+        "uri": "spotify:artist:57b3sKD9pGilMb2QlMqArq"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AZ",
+      "BD",
+      "BH",
+      "BN",
+      "BT",
+      "DK",
+      "FI",
+      "HK",
+      "ID",
+      "IN",
+      "IQ",
+      "IS",
+      "JO",
+      "JP",
+      "KH",
+      "KR",
+      "KW",
+      "LA",
+      "LB",
+      "LK",
+      "MN",
+      "MO",
+      "MV",
+      "MY",
+      "NO",
+      "NP",
+      "OM",
+      "PH",
+      "PK",
+      "PS",
+      "QA",
+      "SA",
+      "SE",
+      "SG",
+      "TG",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4raUhz4RLy0dmpCTM8EDZq"
+    },
+    "href": "https://api.spotify.com/v1/albums/4raUhz4RLy0dmpCTM8EDZq",
+    "id": "4raUhz4RLy0dmpCTM8EDZq",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27363581107cba18fab909af9db",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0263581107cba18fab909af9db",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485163581107cba18fab909af9db",
+        "width": 64
+      }
+    ],
+    "name": "Split Your Lip",
+    "release_date": "2010-11-23",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4raUhz4RLy0dmpCTM8EDZq"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+      },
+      "href": "https://api.spotify.com/v1/artists/57b3sKD9pGilMb2QlMqArq",
+      "id": "57b3sKD9pGilMb2QlMqArq",
+      "name": "Hardcore Superstar",
+      "type": "artist",
+      "uri": "spotify:artist:57b3sKD9pGilMb2QlMqArq"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AZ",
+    "BD",
+    "BH",
+    "BN",
+    "BT",
+    "DK",
+    "FI",
+    "HK",
+    "ID",
+    "IN",
+    "IQ",
+    "IS",
+    "JO",
+    "JP",
+    "KH",
+    "KR",
+    "KW",
+    "LA",
+    "LB",
+    "LK",
+    "MN",
+    "MO",
+    "MV",
+    "MY",
+    "NO",
+    "NP",
+    "OM",
+    "PH",
+    "PK",
+    "PS",
+    "QA",
+    "SA",
+    "SE",
+    "SG",
+    "TG",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 298066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVWR1000211"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4AW9RyAWxVtS256ay4Rd08"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4AW9RyAWxVtS256ay4Rd08",
+  "id": "4AW9RyAWxVtS256ay4Rd08",
+  "is_local": false,
+  "name": "Run to Your Mama",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/cec5b99e06247cb8ac57ed8d4faec0229e577656?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:4AW9RyAWxVtS256ay4Rd08"
+}

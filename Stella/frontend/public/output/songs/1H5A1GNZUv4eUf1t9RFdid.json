@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        "href": "https://api.spotify.com/v1/artists/4BoRxUdrcgbbq1rxJvvhg9",
+        "id": "4BoRxUdrcgbbq1rxJvvhg9",
+        "name": "Olivia Newton-John",
+        "type": "artist",
+        "uri": "spotify:artist:4BoRxUdrcgbbq1rxJvvhg9"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN"
+    },
+    "href": "https://api.spotify.com/v1/albums/5wR3bNU1ycW52RrkP4aAXN",
+    "id": "5wR3bNU1ycW52RrkP4aAXN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27392ba13060de52ac305208aca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0292ba13060de52ac305208aca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485192ba13060de52ac305208aca",
+        "width": 64
+      }
+    ],
+    "name": "20th Century Masters: The Millennium Collection: Best Of Olivia Newton-John",
+    "release_date": "2002-02-05",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5wR3bNU1ycW52RrkP4aAXN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BoRxUdrcgbbq1rxJvvhg9",
+      "id": "4BoRxUdrcgbbq1rxJvvhg9",
+      "name": "Olivia Newton-John",
+      "type": "artist",
+      "uri": "spotify:artist:4BoRxUdrcgbbq1rxJvvhg9"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 269306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMC18010313"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1H5A1GNZUv4eUf1t9RFdid"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1H5A1GNZUv4eUf1t9RFdid",
+  "id": "1H5A1GNZUv4eUf1t9RFdid",
+  "is_local": false,
+  "name": "Magic",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:1H5A1GNZUv4eUf1t9RFdid"
+}

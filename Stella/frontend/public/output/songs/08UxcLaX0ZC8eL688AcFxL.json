@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        },
+        "href": "https://api.spotify.com/v1/artists/6bGcpvHbRHg8s0wiNyIZK1",
+        "id": "6bGcpvHbRHg8s0wiNyIZK1",
+        "name": "Kula Shaker",
+        "type": "artist",
+        "uri": "spotify:artist:6bGcpvHbRHg8s0wiNyIZK1"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5EhOwB4KC8jbz4qezlLll7"
+    },
+    "href": "https://api.spotify.com/v1/albums/5EhOwB4KC8jbz4qezlLll7",
+    "id": "5EhOwB4KC8jbz4qezlLll7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735a37c9f4e3220e40e7990dc2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025a37c9f4e3220e40e7990dc2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515a37c9f4e3220e40e7990dc2",
+        "width": 64
+      }
+    ],
+    "name": "Pilgrim's Progress",
+    "release_date": "2010-06-16",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:5EhOwB4KC8jbz4qezlLll7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+      },
+      "href": "https://api.spotify.com/v1/artists/6bGcpvHbRHg8s0wiNyIZK1",
+      "id": "6bGcpvHbRHg8s0wiNyIZK1",
+      "name": "Kula Shaker",
+      "type": "artist",
+      "uri": "spotify:artist:6bGcpvHbRHg8s0wiNyIZK1"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB4QP1010003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/08UxcLaX0ZC8eL688AcFxL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/08UxcLaX0ZC8eL688AcFxL",
+  "id": "08UxcLaX0ZC8eL688AcFxL",
+  "is_local": false,
+  "name": "Peter Pan R.I.P.",
+  "popularity": 5,
+  "preview_url": "https://p.scdn.co/mp3-preview/27ead41cbf14d70336773bff3710ebfbdb9905a1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:08UxcLaX0ZC8eL688AcFxL"
+}

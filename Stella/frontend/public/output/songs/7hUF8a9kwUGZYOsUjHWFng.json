@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2xGCGoulmU85qYdpb2Z4xx",
+        "id": "2xGCGoulmU85qYdpb2Z4xx",
+        "name": "Elliot Moss",
+        "type": "artist",
+        "uri": "spotify:artist:2xGCGoulmU85qYdpb2Z4xx"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1eof4cGkxFyezmByQsj9xw"
+    },
+    "href": "https://api.spotify.com/v1/albums/1eof4cGkxFyezmByQsj9xw",
+    "id": "1eof4cGkxFyezmByQsj9xw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273be04eaf21db72c0c8098e8c0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02be04eaf21db72c0c8098e8c0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851be04eaf21db72c0c8098e8c0",
+        "width": 64
+      }
+    ],
+    "name": "Highspeeds",
+    "release_date": "2015-04-24",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:1eof4cGkxFyezmByQsj9xw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xGCGoulmU85qYdpb2Z4xx",
+      "id": "2xGCGoulmU85qYdpb2Z4xx",
+      "name": "Elliot Moss",
+      "type": "artist",
+      "uri": "spotify:artist:2xGCGoulmU85qYdpb2Z4xx"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 202333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMES51350015"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7hUF8a9kwUGZYOsUjHWFng"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7hUF8a9kwUGZYOsUjHWFng",
+  "id": "7hUF8a9kwUGZYOsUjHWFng",
+  "is_local": false,
+  "name": "Highspeeds",
+  "popularity": 9,
+  "preview_url": "https://p.scdn.co/mp3-preview/2ee6ad6bb61ab9d381794848ecdaf90121d6875d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7hUF8a9kwUGZYOsUjHWFng"
+}

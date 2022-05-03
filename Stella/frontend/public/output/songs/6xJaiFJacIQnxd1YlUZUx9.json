@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/3a9AG5fMqAqrXkeiwYtarJ",
+        "id": "3a9AG5fMqAqrXkeiwYtarJ",
+        "name": "Ozark Henry",
+        "type": "artist",
+        "uri": "spotify:artist:3a9AG5fMqAqrXkeiwYtarJ"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "CZ",
+      "DE",
+      "HU",
+      "IT",
+      "LU",
+      "NL",
+      "PL",
+      "RO",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/14NZkavixnhxYAdoMtEdlz"
+    },
+    "href": "https://api.spotify.com/v1/albums/14NZkavixnhxYAdoMtEdlz",
+    "id": "14NZkavixnhxYAdoMtEdlz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f18f4f19294945b7aed45bcd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f18f4f19294945b7aed45bcd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f18f4f19294945b7aed45bcd",
+        "width": 64
+      }
+    ],
+    "name": "Hvelreki",
+    "release_date": "2010-10-29",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:14NZkavixnhxYAdoMtEdlz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3a9AG5fMqAqrXkeiwYtarJ",
+      "id": "3a9AG5fMqAqrXkeiwYtarJ",
+      "name": "Ozark Henry",
+      "type": "artist",
+      "uri": "spotify:artist:3a9AG5fMqAqrXkeiwYtarJ"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "CZ",
+    "DE",
+    "HU",
+    "IT",
+    "LU",
+    "NL",
+    "PL",
+    "RO",
+    "SK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEP701000002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6xJaiFJacIQnxd1YlUZUx9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6xJaiFJacIQnxd1YlUZUx9",
+  "id": "6xJaiFJacIQnxd1YlUZUx9",
+  "is_local": false,
+  "name": "This One's For You (Album Version)",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/de496b1ff48a4ad3ff61400dc1d88612be49d20e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6xJaiFJacIQnxd1YlUZUx9"
+}

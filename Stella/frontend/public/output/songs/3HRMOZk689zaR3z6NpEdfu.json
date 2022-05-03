@@ -1,0 +1,183 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2aAHdB5HweT3mFcRzm0swc",
+        "id": "2aAHdB5HweT3mFcRzm0swc",
+        "name": "Glenn Miller",
+        "type": "artist",
+        "uri": "spotify:artist:2aAHdB5HweT3mFcRzm0swc"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CA",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/18kzjnho7L1upI6b2tJJXE"
+    },
+    "href": "https://api.spotify.com/v1/albums/18kzjnho7L1upI6b2tJJXE",
+    "id": "18kzjnho7L1upI6b2tJJXE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a87aa1de3861b1a933a7c90c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a87aa1de3861b1a933a7c90c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a87aa1de3861b1a933a7c90c",
+        "width": 64
+      }
+    ],
+    "name": "In the Mood",
+    "release_date": "1939-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:18kzjnho7L1upI6b2tJJXE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+      },
+      "href": "https://api.spotify.com/v1/artists/2aAHdB5HweT3mFcRzm0swc",
+      "id": "2aAHdB5HweT3mFcRzm0swc",
+      "name": "Glenn Miller",
+      "type": "artist",
+      "uri": "spotify:artist:2aAHdB5HweT3mFcRzm0swc"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CA",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "JP",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 204240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR14F3900280"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3HRMOZk689zaR3z6NpEdfu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3HRMOZk689zaR3z6NpEdfu",
+  "id": "3HRMOZk689zaR3z6NpEdfu",
+  "is_local": false,
+  "name": "Moonlight Serenade - 2005 Remastered Version",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/8eedc46bf234752fb416013c7ff605e56b015985?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3HRMOZk689zaR3z6NpEdfu"
+}

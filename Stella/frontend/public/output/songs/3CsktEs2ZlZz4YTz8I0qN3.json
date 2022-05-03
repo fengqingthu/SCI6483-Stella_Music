@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        "href": "https://api.spotify.com/v1/artists/2fBURuq7FrlH6z5F92mpOl",
+        "id": "2fBURuq7FrlH6z5F92mpOl",
+        "name": "Digitalism",
+        "type": "artist",
+        "uri": "spotify:artist:2fBURuq7FrlH6z5F92mpOl"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1HZ0YDGuJ8Jhkew0cyvC1y"
+    },
+    "href": "https://api.spotify.com/v1/albums/1HZ0YDGuJ8Jhkew0cyvC1y",
+    "id": "1HZ0YDGuJ8Jhkew0cyvC1y",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739fe387ceb15dde5642978e6b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029fe387ceb15dde5642978e6b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519fe387ceb15dde5642978e6b",
+        "width": 64
+      }
+    ],
+    "name": "Blitz",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:1HZ0YDGuJ8Jhkew0cyvC1y"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+      },
+      "href": "https://api.spotify.com/v1/artists/2fBURuq7FrlH6z5F92mpOl",
+      "id": "2fBURuq7FrlH6z5F92mpOl",
+      "name": "Digitalism",
+      "type": "artist",
+      "uri": "spotify:artist:2fBURuq7FrlH6z5F92mpOl"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 256083,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRU701000105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3CsktEs2ZlZz4YTz8I0qN3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3CsktEs2ZlZz4YTz8I0qN3",
+  "id": "3CsktEs2ZlZz4YTz8I0qN3",
+  "is_local": false,
+  "name": "Blitz",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/4777def7af1db1f640bb5438299794ce27690772?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3CsktEs2ZlZz4YTz8I0qN3"
+}

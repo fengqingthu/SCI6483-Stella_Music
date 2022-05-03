@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        },
+        "href": "https://api.spotify.com/v1/artists/0KydPQPUUoTNhmiHKOg5Er",
+        "id": "0KydPQPUUoTNhmiHKOg5Er",
+        "name": "Neon Indian",
+        "type": "artist",
+        "uri": "spotify:artist:0KydPQPUUoTNhmiHKOg5Er"
+      }
+    ],
+    "available_markets": [
+      "MX"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4CVzybHMHvaYu9WjTLtxdG"
+    },
+    "href": "https://api.spotify.com/v1/albums/4CVzybHMHvaYu9WjTLtxdG",
+    "id": "4CVzybHMHvaYu9WjTLtxdG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c8b96db5f5d216c59025ebb6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c8b96db5f5d216c59025ebb6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c8b96db5f5d216c59025ebb6",
+        "width": 64
+      }
+    ],
+    "name": "Vega Intl. Night School",
+    "release_date": "2015-09-16",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:4CVzybHMHvaYu9WjTLtxdG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+      },
+      "href": "https://api.spotify.com/v1/artists/0KydPQPUUoTNhmiHKOg5Er",
+      "id": "0KydPQPUUoTNhmiHKOg5Er",
+      "name": "Neon Indian",
+      "type": "artist",
+      "uri": "spotify:artist:0KydPQPUUoTNhmiHKOg5Er"
+    }
+  ],
+  "available_markets": [
+    "MX"
+  ],
+  "disc_number": 1,
+  "duration_ms": 315595,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQE91500102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6R5IJskX21mvhlvQFDKq9u"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6R5IJskX21mvhlvQFDKq9u",
+  "id": "6R5IJskX21mvhlvQFDKq9u",
+  "is_local": false,
+  "name": "Slumlord",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/591aa4b67a2bd273b4a365e1c5058e3404f86b8d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:6R5IJskX21mvhlvQFDKq9u"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Uk1GyijF6fSfX4mWq5bfR",
+        "id": "1Uk1GyijF6fSfX4mWq5bfR",
+        "name": "Samia",
+        "type": "artist",
+        "uri": "spotify:artist:1Uk1GyijF6fSfX4mWq5bfR"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3mreobGzuqYw5lVcUaAlG2"
+    },
+    "href": "https://api.spotify.com/v1/albums/3mreobGzuqYw5lVcUaAlG2",
+    "id": "3mreobGzuqYw5lVcUaAlG2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739d3116ab6c2fe85ea631f6bb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029d3116ab6c2fe85ea631f6bb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519d3116ab6c2fe85ea631f6bb",
+        "width": 64
+      }
+    ],
+    "name": "The Baby",
+    "release_date": "2020-08-28",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3mreobGzuqYw5lVcUaAlG2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Uk1GyijF6fSfX4mWq5bfR",
+      "id": "1Uk1GyijF6fSfX4mWq5bfR",
+      "name": "Samia",
+      "type": "artist",
+      "uri": "spotify:artist:1Uk1GyijF6fSfX4mWq5bfR"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 269720,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QM5BK1900325"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5d1AGB455kWMjmtOQLx7Pg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5d1AGB455kWMjmtOQLx7Pg",
+  "id": "5d1AGB455kWMjmtOQLx7Pg",
+  "is_local": false,
+  "name": "Pool",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/6a8bf0408db5e99bdd46e377778e814f10d85a1b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5d1AGB455kWMjmtOQLx7Pg"
+}

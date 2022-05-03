@@ -1,0 +1,153 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+        },
+        "href": "https://api.spotify.com/v1/artists/12OSqKGORygb2C6H36qKuj",
+        "id": "12OSqKGORygb2C6H36qKuj",
+        "name": "Olivia Ruiz",
+        "type": "artist",
+        "uri": "spotify:artist:12OSqKGORygb2C6H36qKuj"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DE",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IL",
+      "IS",
+      "KR",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "MY",
+      "NO",
+      "PH",
+      "PK",
+      "PT",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "TR",
+      "TW",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1b8saucUT2qXRcSFeDCHHJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/1b8saucUT2qXRcSFeDCHHJ",
+    "id": "1b8saucUT2qXRcSFeDCHHJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397bb0d64414ba7abd53d6d3e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297bb0d64414ba7abd53d6d3e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197bb0d64414ba7abd53d6d3e",
+        "width": 64
+      }
+    ],
+    "name": "Miss Météores",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:1b8saucUT2qXRcSFeDCHHJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+      },
+      "href": "https://api.spotify.com/v1/artists/12OSqKGORygb2C6H36qKuj",
+      "id": "12OSqKGORygb2C6H36qKuj",
+      "name": "Olivia Ruiz",
+      "type": "artist",
+      "uri": "spotify:artist:12OSqKGORygb2C6H36qKuj"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "DE",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IL",
+    "IS",
+    "KR",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "MY",
+    "NO",
+    "PH",
+    "PK",
+    "PT",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "TR",
+    "TW",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 151346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM70900091"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4M1eeHxv7Sdq3O3tHdo7jp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4M1eeHxv7Sdq3O3tHdo7jp",
+  "id": "4M1eeHxv7Sdq3O3tHdo7jp",
+  "is_local": false,
+  "name": "Elle panique",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4M1eeHxv7Sdq3O3tHdo7jp"
+}

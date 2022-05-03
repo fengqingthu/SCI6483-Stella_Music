@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Ct54gNxKnYLnXk9HhviMI",
+        "id": "2Ct54gNxKnYLnXk9HhviMI",
+        "name": "Feuerschwanz",
+        "type": "artist",
+        "uri": "spotify:artist:2Ct54gNxKnYLnXk9HhviMI"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1qqJGBKga1WW9rvr1n7tEy"
+    },
+    "href": "https://api.spotify.com/v1/albums/1qqJGBKga1WW9rvr1n7tEy",
+    "id": "1qqJGBKga1WW9rvr1n7tEy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27319afe679f4c48704e44fff60",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0219afe679f4c48704e44fff60",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485119afe679f4c48704e44fff60",
+        "width": 64
+      }
+    ],
+    "name": "Das Elfte Gebot (Deluxe Version)",
+    "release_date": "2020-06-26",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:1qqJGBKga1WW9rvr1n7tEy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Ct54gNxKnYLnXk9HhviMI",
+      "id": "2Ct54gNxKnYLnXk9HhviMI",
+      "name": "Feuerschwanz",
+      "type": "artist",
+      "uri": "spotify:artist:2Ct54gNxKnYLnXk9HhviMI"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 2,
+  "duration_ms": 296040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262092315"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5RJEDRneFqwXEMjEDkIjmY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5RJEDRneFqwXEMjEDkIjmY",
+  "id": "5RJEDRneFqwXEMjEDkIjmY",
+  "is_local": false,
+  "name": "I See Fire",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/4716d89f6e9eb8b090c9c18150a7bbeb604c9535?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5RJEDRneFqwXEMjEDkIjmY"
+}

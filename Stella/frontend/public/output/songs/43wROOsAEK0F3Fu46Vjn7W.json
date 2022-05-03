@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Q2ya2vGeOhQ9CaF9wWNP6",
+        "id": "3Q2ya2vGeOhQ9CaF9wWNP6",
+        "name": "Shane Filan",
+        "type": "artist",
+        "uri": "spotify:artist:3Q2ya2vGeOhQ9CaF9wWNP6"
+      }
+    ],
+    "available_markets": [
+      "BN",
+      "HK",
+      "ID",
+      "IN",
+      "KH",
+      "KR",
+      "LA",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Qj1C7N6Hr3iMmYkGwHd11"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Qj1C7N6Hr3iMmYkGwHd11",
+    "id": "3Qj1C7N6Hr3iMmYkGwHd11",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a99659e2d0345eabe8c4fbb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a99659e2d0345eabe8c4fbb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a99659e2d0345eabe8c4fbb",
+        "width": 64
+      }
+    ],
+    "name": "Love Always",
+    "release_date": "2017-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3Qj1C7N6Hr3iMmYkGwHd11"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Q2ya2vGeOhQ9CaF9wWNP6",
+      "id": "3Q2ya2vGeOhQ9CaF9wWNP6",
+      "name": "Shane Filan",
+      "type": "artist",
+      "uri": "spotify:artist:3Q2ya2vGeOhQ9CaF9wWNP6"
+    }
+  ],
+  "available_markets": [
+    "BN",
+    "HK",
+    "ID",
+    "IN",
+    "KH",
+    "KR",
+    "LA",
+    "MY",
+    "PH",
+    "SG",
+    "TH",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232039,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "UKHAU1700027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/43wROOsAEK0F3Fu46Vjn7W"
+  },
+  "href": "https://api.spotify.com/v1/tracks/43wROOsAEK0F3Fu46Vjn7W",
+  "id": "43wROOsAEK0F3Fu46Vjn7W",
+  "is_local": false,
+  "name": "Beautiful In White",
+  "popularity": 65,
+  "preview_url": "https://p.scdn.co/mp3-preview/58b56d36f6809b1379e944bca44306830c7c6295?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:43wROOsAEK0F3Fu46Vjn7W"
+}

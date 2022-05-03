@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH"
+        },
+        "href": "https://api.spotify.com/v1/artists/2KB6LGMBaOYYYdvvgyptFH",
+        "id": "2KB6LGMBaOYYYdvvgyptFH",
+        "name": "Utah Saints",
+        "type": "artist",
+        "uri": "spotify:artist:2KB6LGMBaOYYYdvvgyptFH"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4angTz6gHKqltiarHMpGpN"
+    },
+    "href": "https://api.spotify.com/v1/albums/4angTz6gHKqltiarHMpGpN",
+    "id": "4angTz6gHKqltiarHMpGpN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cb94b62d3d2d582be527b5a9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cb94b62d3d2d582be527b5a9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cb94b62d3d2d582be527b5a9",
+        "width": 64
+      }
+    ],
+    "name": "Something Good '08 (Remixes)",
+    "release_date": "2008-03-14",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:4angTz6gHKqltiarHMpGpN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KB6LGMBaOYYYdvvgyptFH",
+      "id": "2KB6LGMBaOYYYdvvgyptFH",
+      "name": "Utah Saints",
+      "type": "artist",
+      "uri": "spotify:artist:2KB6LGMBaOYYYdvvgyptFH"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 155625,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEN0701333"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1Jyx9dQR4caK11Ao1C9aqn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1Jyx9dQR4caK11Ao1C9aqn",
+  "id": "1Jyx9dQR4caK11Ao1C9aqn",
+  "is_local": false,
+  "name": "Something Good '08 - Radio Edit",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1Jyx9dQR4caK11Ao1C9aqn"
+}

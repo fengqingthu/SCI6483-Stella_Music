@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7"
+        },
+        "href": "https://api.spotify.com/v1/artists/1s25YudYTrIRBOSsj917K7",
+        "id": "1s25YudYTrIRBOSsj917K7",
+        "name": "One Desire",
+        "type": "artist",
+        "uri": "spotify:artist:1s25YudYTrIRBOSsj917K7"
+      }
+    ],
+    "available_markets": [
+      "HK",
+      "ID",
+      "KR",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "TW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/79plAR663IeElF0MBiZ3vD"
+    },
+    "href": "https://api.spotify.com/v1/albums/79plAR663IeElF0MBiZ3vD",
+    "id": "79plAR663IeElF0MBiZ3vD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739d8844ef24698acee33422a4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029d8844ef24698acee33422a4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519d8844ef24698acee33422a4",
+        "width": 64
+      }
+    ],
+    "name": "Midnight Empire (Japan Edition)",
+    "release_date": "2020-05-20",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:79plAR663IeElF0MBiZ3vD"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1s25YudYTrIRBOSsj917K7",
+      "id": "1s25YudYTrIRBOSsj917K7",
+      "name": "One Desire",
+      "type": "artist",
+      "uri": "spotify:artist:1s25YudYTrIRBOSsj917K7"
+    }
+  ],
+  "available_markets": [
+    "HK",
+    "ID",
+    "KR",
+    "MY",
+    "PH",
+    "SG",
+    "TH",
+    "TW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 325158,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITG272000511"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/43bONLF1iCmaEwcSBzNQZz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/43bONLF1iCmaEwcSBzNQZz",
+  "id": "43bONLF1iCmaEwcSBzNQZz",
+  "is_local": false,
+  "name": "After You're Gone",
+  "popularity": 2,
+  "preview_url": "https://p.scdn.co/mp3-preview/04accc720efd3f9067a1e9991eeab44dbd2829f0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:43bONLF1iCmaEwcSBzNQZz"
+}

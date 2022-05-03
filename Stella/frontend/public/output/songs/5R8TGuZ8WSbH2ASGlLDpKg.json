@@ -1,0 +1,163 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        },
+        "href": "https://api.spotify.com/v1/artists/6T08mUIMB32dtqq5ryxQZ3",
+        "id": "6T08mUIMB32dtqq5ryxQZ3",
+        "name": "Izïa",
+        "type": "artist",
+        "uri": "spotify:artist:6T08mUIMB32dtqq5ryxQZ3"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "BE",
+      "BH",
+      "CH",
+      "CI",
+      "CM",
+      "DE",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IL",
+      "IS",
+      "JO",
+      "KR",
+      "LB",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "MY",
+      "NO",
+      "OM",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "QA",
+      "RW",
+      "SA",
+      "SE",
+      "TN",
+      "TR",
+      "TW",
+      "US",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm"
+    },
+    "href": "https://api.spotify.com/v1/albums/6qZt3k8Y9XXtrAS1Vp6LKm",
+    "id": "6qZt3k8Y9XXtrAS1Vp6LKm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737705d1d10c2d7f3ebd36e08f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027705d1d10c2d7f3ebd36e08f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517705d1d10c2d7f3ebd36e08f",
+        "width": 64
+      }
+    ],
+    "name": "Izia",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6qZt3k8Y9XXtrAS1Vp6LKm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+      },
+      "href": "https://api.spotify.com/v1/artists/6T08mUIMB32dtqq5ryxQZ3",
+      "id": "6T08mUIMB32dtqq5ryxQZ3",
+      "name": "Izïa",
+      "type": "artist",
+      "uri": "spotify:artist:6T08mUIMB32dtqq5ryxQZ3"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "BE",
+    "BH",
+    "CH",
+    "CI",
+    "CM",
+    "DE",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IL",
+    "IS",
+    "JO",
+    "KR",
+    "LB",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "MY",
+    "NO",
+    "OM",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "QA",
+    "RW",
+    "SA",
+    "SE",
+    "TN",
+    "TR",
+    "TW",
+    "US",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 231066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM70803934"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5R8TGuZ8WSbH2ASGlLDpKg",
+  "id": "5R8TGuZ8WSbH2ASGlLDpKg",
+  "is_local": false,
+  "name": "Let Me Alone",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5R8TGuZ8WSbH2ASGlLDpKg"
+}

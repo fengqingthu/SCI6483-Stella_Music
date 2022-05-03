@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT"
+        },
+        "href": "https://api.spotify.com/v1/artists/0pF1TxZmwCJ3gGpkBQwdtT",
+        "id": "0pF1TxZmwCJ3gGpkBQwdtT",
+        "name": "Gabriel Rios",
+        "type": "artist",
+        "uri": "spotify:artist:0pF1TxZmwCJ3gGpkBQwdtT"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "JP",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2VaiLJvGxTllSvRLINsFdr"
+    },
+    "href": "https://api.spotify.com/v1/albums/2VaiLJvGxTllSvRLINsFdr",
+    "id": "2VaiLJvGxTllSvRLINsFdr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cd9d5518e2ff45c371797c0b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cd9d5518e2ff45c371797c0b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cd9d5518e2ff45c371797c0b",
+        "width": 64
+      }
+    ],
+    "name": "This Marauder's Midnight (Deluxe Version)",
+    "release_date": "2014-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:2VaiLJvGxTllSvRLINsFdr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT"
+      },
+      "href": "https://api.spotify.com/v1/artists/0pF1TxZmwCJ3gGpkBQwdtT",
+      "id": "0pF1TxZmwCJ3gGpkBQwdtT",
+      "name": "Gabriel Rios",
+      "type": "artist",
+      "uri": "spotify:artist:0pF1TxZmwCJ3gGpkBQwdtT"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "JP",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191160,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEBA51300007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/38FhlSnRc1NmEzNHPaJgNC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/38FhlSnRc1NmEzNHPaJgNC",
+  "id": "38FhlSnRc1NmEzNHPaJgNC",
+  "is_local": false,
+  "name": "Song no.7",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/38bd82c583e3d7918196ee66123f10bcf90b4efe?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:38FhlSnRc1NmEzNHPaJgNC"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+        },
+        "href": "https://api.spotify.com/v1/artists/4R073T3AVJKqAsbzLmLW9u",
+        "id": "4R073T3AVJKqAsbzLmLW9u",
+        "name": "John Maus",
+        "type": "artist",
+        "uri": "spotify:artist:4R073T3AVJKqAsbzLmLW9u"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5jWyIjhRUcVGIVV9elHdJw"
+    },
+    "href": "https://api.spotify.com/v1/albums/5jWyIjhRUcVGIVV9elHdJw",
+    "id": "5jWyIjhRUcVGIVV9elHdJw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736e5db07108829eecc6325024",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026e5db07108829eecc6325024",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516e5db07108829eecc6325024",
+        "width": 64
+      }
+    ],
+    "name": "A Collection Of Rarities And Previously Unreleased Material",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:5jWyIjhRUcVGIVV9elHdJw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+      },
+      "href": "https://api.spotify.com/v1/artists/4R073T3AVJKqAsbzLmLW9u",
+      "id": "4R073T3AVJKqAsbzLmLW9u",
+      "name": "John Maus",
+      "type": "artist",
+      "uri": "spotify:artist:4R073T3AVJKqAsbzLmLW9u"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 193013,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL1200174"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Wxg6dsfIYPa8dWgj7BNEN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Wxg6dsfIYPa8dWgj7BNEN",
+  "id": "3Wxg6dsfIYPa8dWgj7BNEN",
+  "is_local": false,
+  "name": "Bennington",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/d3ce9b4ad016e9dbea00ffcc0faa6f76caf97057?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:3Wxg6dsfIYPa8dWgj7BNEN"
+}

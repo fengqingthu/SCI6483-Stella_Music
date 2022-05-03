@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+        "id": "6v8FB84lnmJs434UJf2Mrm",
+        "name": "Neil Young",
+        "type": "artist",
+        "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oi7g8NUnlLh5tJvg2y5e3",
+        "id": "0oi7g8NUnlLh5tJvg2y5e3",
+        "name": "Crazy Horse",
+        "type": "artist",
+        "uri": "spotify:artist:0oi7g8NUnlLh5tJvg2y5e3"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/2QqocFdpBkxOBLcIRo6UuJ",
+    "id": "2QqocFdpBkxOBLcIRo6UuJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d8c9e9a42a436cb5718382c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d8c9e9a42a436cb5718382c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d8c9e9a42a436cb5718382c",
+        "width": 64
+      }
+    ],
+    "name": "Rust Never Sleeps",
+    "release_date": "1979-06-27",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:2QqocFdpBkxOBLcIRo6UuJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+      },
+      "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+      "id": "6v8FB84lnmJs434UJf2Mrm",
+      "name": "Neil Young",
+      "type": "artist",
+      "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+      },
+      "href": "https://api.spotify.com/v1/artists/0oi7g8NUnlLh5tJvg2y5e3",
+      "id": "0oi7g8NUnlLh5tJvg2y5e3",
+      "name": "Crazy Horse",
+      "type": "artist",
+      "uri": "spotify:artist:0oi7g8NUnlLh5tJvg2y5e3"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 227705,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRE11600817"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6VltRkmJbCTqgKrTHk4Ulw",
+  "id": "6VltRkmJbCTqgKrTHk4Ulw",
+  "is_local": false,
+  "name": "My My, Hey Hey (Out of the Blue) - 2016 Remaster",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6VltRkmJbCTqgKrTHk4Ulw"
+}

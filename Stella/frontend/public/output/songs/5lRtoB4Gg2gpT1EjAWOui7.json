@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        "href": "https://api.spotify.com/v1/artists/2vm8GdHyrJh2O2MfbQFYG0",
+        "id": "2vm8GdHyrJh2O2MfbQFYG0",
+        "name": "Ingrid Michaelson",
+        "type": "artist",
+        "uri": "spotify:artist:2vm8GdHyrJh2O2MfbQFYG0"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3gvxrEcMswdK7Idgd4CSYM"
+    },
+    "href": "https://api.spotify.com/v1/albums/3gvxrEcMswdK7Idgd4CSYM",
+    "id": "3gvxrEcMswdK7Idgd4CSYM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273293b610f775059e19fb68264",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02293b610f775059e19fb68264",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851293b610f775059e19fb68264",
+        "width": 64
+      }
+    ],
+    "name": "Lights Out",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:3gvxrEcMswdK7Idgd4CSYM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+      },
+      "href": "https://api.spotify.com/v1/artists/2vm8GdHyrJh2O2MfbQFYG0",
+      "id": "2vm8GdHyrJh2O2MfbQFYG0",
+      "name": "Ingrid Michaelson",
+      "type": "artist",
+      "uri": "spotify:artist:2vm8GdHyrJh2O2MfbQFYG0"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVT31400002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5lRtoB4Gg2gpT1EjAWOui7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5lRtoB4Gg2gpT1EjAWOui7",
+  "id": "5lRtoB4Gg2gpT1EjAWOui7",
+  "is_local": false,
+  "name": "Girls Chase Boys",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5lRtoB4Gg2gpT1EjAWOui7"
+}

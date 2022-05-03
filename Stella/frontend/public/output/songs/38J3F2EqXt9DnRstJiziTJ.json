@@ -1,0 +1,229 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+        "id": "7y97mc3bZRFXzT2szRM4L4",
+        "name": "Frédéric Chopin",
+        "type": "artist",
+        "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        },
+        "href": "https://api.spotify.com/v1/artists/2VIdKQmRHnWofsR4odfFOh",
+        "id": "2VIdKQmRHnWofsR4odfFOh",
+        "name": "Maurizio Pollini",
+        "type": "artist",
+        "uri": "spotify:artist:2VIdKQmRHnWofsR4odfFOh"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        },
+        "href": "https://api.spotify.com/v1/artists/20iZXzMb8LoWXOeca32i82",
+        "id": "20iZXzMb8LoWXOeca32i82",
+        "name": "Vladimir Ashkenazy",
+        "type": "artist",
+        "uri": "spotify:artist:20iZXzMb8LoWXOeca32i82"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        "href": "https://api.spotify.com/v1/artists/1YZhNFBxkEB5UKTgMDvot4",
+        "id": "1YZhNFBxkEB5UKTgMDvot4",
+        "name": "Lang Lang",
+        "type": "artist",
+        "uri": "spotify:artist:1YZhNFBxkEB5UKTgMDvot4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4hBgCK8FyJ5bV36ZZLB56X",
+        "id": "4hBgCK8FyJ5bV36ZZLB56X",
+        "name": "Sviatoslav Richter",
+        "type": "artist",
+        "uri": "spotify:artist:4hBgCK8FyJ5bV36ZZLB56X"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AR",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BE",
+      "BR",
+      "BY",
+      "CA",
+      "CH",
+      "CO",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HK",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "JP",
+      "KG",
+      "KZ",
+      "LT",
+      "LU",
+      "LV",
+      "ME",
+      "MK",
+      "MX",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RS",
+      "SE",
+      "SG",
+      "SI",
+      "SK",
+      "TJ",
+      "UA",
+      "US",
+      "UZ",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+    },
+    "href": "https://api.spotify.com/v1/albums/25zJUmKQ80G1phTiXe8Tif",
+    "id": "25zJUmKQ80G1phTiXe8Tif",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273caac8c099471da75753c5c18",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02caac8c099471da75753c5c18",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851caac8c099471da75753c5c18",
+        "width": 64
+      }
+    ],
+    "name": "Chopin Gold",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 32,
+    "type": "album",
+    "uri": "spotify:album:25zJUmKQ80G1phTiXe8Tif"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+      },
+      "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+      "id": "7y97mc3bZRFXzT2szRM4L4",
+      "name": "Frédéric Chopin",
+      "type": "artist",
+      "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VkQgzGZUmazUc7ouT5S79",
+      "id": "0VkQgzGZUmazUc7ouT5S79",
+      "name": "Hélène Grimaud",
+      "type": "artist",
+      "uri": "spotify:artist:0VkQgzGZUmazUc7ouT5S79"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AR",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BE",
+    "BR",
+    "BY",
+    "CA",
+    "CH",
+    "CO",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HK",
+    "HR",
+    "HU",
+    "IE",
+    "IT",
+    "JP",
+    "KG",
+    "KZ",
+    "LT",
+    "LU",
+    "LV",
+    "ME",
+    "MK",
+    "MX",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RS",
+    "SE",
+    "SG",
+    "SI",
+    "SK",
+    "TJ",
+    "UA",
+    "US",
+    "UZ",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 292546,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEN960401030"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/38J3F2EqXt9DnRstJiziTJ",
+  "id": "38J3F2EqXt9DnRstJiziTJ",
+  "is_local": false,
+  "name": "Berceuse in D Flat Major, Op. 57",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:38J3F2EqXt9DnRstJiziTJ"
+}

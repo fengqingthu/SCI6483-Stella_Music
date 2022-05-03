@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Gd8RSDb6TeGyFOqHvn2FO"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Gd8RSDb6TeGyFOqHvn2FO",
+        "id": "2Gd8RSDb6TeGyFOqHvn2FO",
+        "name": "Alan Titchmarsh",
+        "type": "artist",
+        "uri": "spotify:artist:2Gd8RSDb6TeGyFOqHvn2FO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4rUMZjDiYilkBk8vc5WMZC",
+        "id": "4rUMZjDiYilkBk8vc5WMZC",
+        "name": "Debbie Wiseman",
+        "type": "artist",
+        "uri": "spotify:artist:4rUMZjDiYilkBk8vc5WMZC"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0f2RrNT6YDhW7E80cPmiXP"
+    },
+    "href": "https://api.spotify.com/v1/albums/0f2RrNT6YDhW7E80cPmiXP",
+    "id": "0f2RrNT6YDhW7E80cPmiXP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27344cc5c1f61701552ac16a72a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0244cc5c1f61701552ac16a72a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485144cc5c1f61701552ac16a72a",
+        "width": 64
+      }
+    ],
+    "name": "The Glorious Garden",
+    "release_date": "2018-03-02",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:0f2RrNT6YDhW7E80cPmiXP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC"
+      },
+      "href": "https://api.spotify.com/v1/artists/4rUMZjDiYilkBk8vc5WMZC",
+      "id": "4rUMZjDiYilkBk8vc5WMZC",
+      "name": "Debbie Wiseman",
+      "type": "artist",
+      "uri": "spotify:artist:4rUMZjDiYilkBk8vc5WMZC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi"
+      },
+      "href": "https://api.spotify.com/v1/artists/58n1bNWH1HPQmx5R9uJ7Gi",
+      "id": "58n1bNWH1HPQmx5R9uJ7Gi",
+      "name": "National Symphony Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:58n1bNWH1HPQmx5R9uJ7Gi"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219280,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBPGU1800020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/13r0gkxZNjFte61vj1ewEQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/13r0gkxZNjFte61vj1ewEQ",
+  "id": "13r0gkxZNjFte61vj1ewEQ",
+  "is_local": false,
+  "name": "Myrtle",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 20,
+  "type": "track",
+  "uri": "spotify:track:13r0gkxZNjFte61vj1ewEQ"
+}

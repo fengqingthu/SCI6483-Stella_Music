@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+        },
+        "href": "https://api.spotify.com/v1/artists/0krXCIkthz13P8o0v2tksH",
+        "id": "0krXCIkthz13P8o0v2tksH",
+        "name": "Ensiferum",
+        "type": "artist",
+        "uri": "spotify:artist:0krXCIkthz13P8o0v2tksH"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AU",
+      "BE",
+      "BG",
+      "BH",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "IL",
+      "IS",
+      "JO",
+      "JP",
+      "KR",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PT",
+      "QA",
+      "SA",
+      "SE",
+      "SK",
+      "TN",
+      "TR",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3V0YJ9xh2ZV1aAnTzM0Ir6"
+    },
+    "href": "https://api.spotify.com/v1/albums/3V0YJ9xh2ZV1aAnTzM0Ir6",
+    "id": "3V0YJ9xh2ZV1aAnTzM0Ir6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f84da4d3bbb3512b049fe709",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f84da4d3bbb3512b049fe709",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f84da4d3bbb3512b049fe709",
+        "width": 64
+      }
+    ],
+    "name": "One More Magic Potion",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:3V0YJ9xh2ZV1aAnTzM0Ir6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+      },
+      "href": "https://api.spotify.com/v1/artists/0krXCIkthz13P8o0v2tksH",
+      "id": "0krXCIkthz13P8o0v2tksH",
+      "name": "Ensiferum",
+      "type": "artist",
+      "uri": "spotify:artist:0krXCIkthz13P8o0v2tksH"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AU",
+    "BE",
+    "BG",
+    "BH",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IL",
+    "IS",
+    "JO",
+    "JP",
+    "KR",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PT",
+    "QA",
+    "SA",
+    "SE",
+    "SK",
+    "TN",
+    "TR",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 273893,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FISFS0600272"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6zUEgBFX3pNskxw6HRLqeo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6zUEgBFX3pNskxw6HRLqeo",
+  "id": "6zUEgBFX3pNskxw6HRLqeo",
+  "is_local": false,
+  "name": "Lady In Black - Single Version",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/7608187e4a64de141841e007c82dd3c80bf6913a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6zUEgBFX3pNskxw6HRLqeo"
+}

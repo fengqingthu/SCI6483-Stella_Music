@@ -1,0 +1,161 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        "href": "https://api.spotify.com/v1/artists/602DnpaSXJB4b9DZrvxbDc",
+        "id": "602DnpaSXJB4b9DZrvxbDc",
+        "name": "Peggy Lee",
+        "type": "artist",
+        "uri": "spotify:artist:602DnpaSXJB4b9DZrvxbDc"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AM",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7"
+    },
+    "href": "https://api.spotify.com/v1/albums/2dKw7DRG9yxRdn0v02p8q7",
+    "id": "2dKw7DRG9yxRdn0v02p8q7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273678b5fe0ca763b22db7957c4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02678b5fe0ca763b22db7957c4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851678b5fe0ca763b22db7957c4",
+        "width": 64
+      }
+    ],
+    "name": "Peggy Lee - The Great American Songbook",
+    "release_date": "2011-12-06",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:2dKw7DRG9yxRdn0v02p8q7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+      },
+      "href": "https://api.spotify.com/v1/artists/602DnpaSXJB4b9DZrvxbDc",
+      "id": "602DnpaSXJB4b9DZrvxbDc",
+      "name": "Peggy Lee",
+      "type": "artist",
+      "uri": "spotify:artist:602DnpaSXJB4b9DZrvxbDc"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AM",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 193720,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBHQC0548320"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1oUUEvFBplfRbVwMkp8v8Z",
+  "id": "1oUUEvFBplfRbVwMkp8v8Z",
+  "is_local": false,
+  "name": "On the Sunny Side of the Street",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:1oUUEvFBplfRbVwMkp8v8Z"
+}

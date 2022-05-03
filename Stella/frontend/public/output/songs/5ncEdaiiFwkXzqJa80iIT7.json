@@ -1,0 +1,153 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        "href": "https://api.spotify.com/v1/artists/04aQfpx1U1WQEJkrvGs4ig",
+        "id": "04aQfpx1U1WQEJkrvGs4ig",
+        "name": "Dalida",
+        "type": "artist",
+        "uri": "spotify:artist:04aQfpx1U1WQEJkrvGs4ig"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "BE",
+      "BH",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CR",
+      "CZ",
+      "DE",
+      "EE",
+      "EG",
+      "FI",
+      "FR",
+      "GN",
+      "HK",
+      "IL",
+      "JO",
+      "LB",
+      "LT",
+      "LV",
+      "MX",
+      "MY",
+      "NO",
+      "OM",
+      "PH",
+      "PK",
+      "QA",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "US",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1PEp2qHqMLlo2wQtrB45JK"
+    },
+    "href": "https://api.spotify.com/v1/albums/1PEp2qHqMLlo2wQtrB45JK",
+    "id": "1PEp2qHqMLlo2wQtrB45JK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273845a3d3a87fe1cbf4c03cd46",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02845a3d3a87fe1cbf4c03cd46",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851845a3d3a87fe1cbf4c03cd46",
+        "width": 64
+      }
+    ],
+    "name": "Escales Autour Du Monde",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:1PEp2qHqMLlo2wQtrB45JK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+      },
+      "href": "https://api.spotify.com/v1/artists/04aQfpx1U1WQEJkrvGs4ig",
+      "id": "04aQfpx1U1WQEJkrvGs4ig",
+      "name": "Dalida",
+      "type": "artist",
+      "uri": "spotify:artist:04aQfpx1U1WQEJkrvGs4ig"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "BE",
+    "BH",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CR",
+    "CZ",
+    "DE",
+    "EE",
+    "EG",
+    "FI",
+    "FR",
+    "GN",
+    "HK",
+    "IL",
+    "JO",
+    "LB",
+    "LT",
+    "LV",
+    "MX",
+    "MY",
+    "NO",
+    "OM",
+    "PH",
+    "PK",
+    "QA",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "US",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 204733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ016601780"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5ncEdaiiFwkXzqJa80iIT7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5ncEdaiiFwkXzqJa80iIT7",
+  "id": "5ncEdaiiFwkXzqJa80iIT7",
+  "is_local": false,
+  "name": "Bang Bang",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5ncEdaiiFwkXzqJa80iIT7"
+}

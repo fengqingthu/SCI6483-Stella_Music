@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wnrdpW8B0rNCtX5uOSIVL"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wnrdpW8B0rNCtX5uOSIVL",
+        "id": "1wnrdpW8B0rNCtX5uOSIVL",
+        "name": "Coyote Kisses",
+        "type": "artist",
+        "uri": "spotify:artist:1wnrdpW8B0rNCtX5uOSIVL"
+      }
+    ],
+    "available_markets": [
+      "BD",
+      "BT",
+      "ES",
+      "ID",
+      "IN",
+      "KR",
+      "LK",
+      "MV",
+      "NP",
+      "SG",
+      "TL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/06NrA0D5CrhE3N6Gi2z2TF"
+    },
+    "href": "https://api.spotify.com/v1/albums/06NrA0D5CrhE3N6Gi2z2TF",
+    "id": "06NrA0D5CrhE3N6Gi2z2TF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27320b765e866118c6436303f57",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0220b765e866118c6436303f57",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485120b765e866118c6436303f57",
+        "width": 64
+      }
+    ],
+    "name": "Illusion",
+    "release_date": "2015-08-03",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:06NrA0D5CrhE3N6Gi2z2TF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1wnrdpW8B0rNCtX5uOSIVL"
+      },
+      "href": "https://api.spotify.com/v1/artists/1wnrdpW8B0rNCtX5uOSIVL",
+      "id": "1wnrdpW8B0rNCtX5uOSIVL",
+      "name": "Coyote Kisses",
+      "type": "artist",
+      "uri": "spotify:artist:1wnrdpW8B0rNCtX5uOSIVL"
+    }
+  ],
+  "available_markets": [
+    "BD",
+    "BT",
+    "ES",
+    "ID",
+    "IN",
+    "KR",
+    "LK",
+    "MV",
+    "NP",
+    "SG",
+    "TL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 216521,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUS11600395"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/799SwQcryp2ThI5h2Zzfq8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/799SwQcryp2ThI5h2Zzfq8",
+  "id": "799SwQcryp2ThI5h2Zzfq8",
+  "is_local": false,
+  "name": "Illusion",
+  "popularity": 2,
+  "preview_url": "https://p.scdn.co/mp3-preview/238c212385059d8b7ad131fe6b13ca96d089ed62?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:799SwQcryp2ThI5h2Zzfq8"
+}

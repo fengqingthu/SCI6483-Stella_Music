@@ -1,0 +1,20 @@
+{
+  "danceability": 0.252,
+  "energy": 0.313,
+  "key": 10,
+  "loudness": -13.572,
+  "mode": 1,
+  "speechiness": 0.0271,
+  "acousticness": 0.785,
+  "instrumentalness": 0.92,
+  "liveness": 0.158,
+  "valence": 0.155,
+  "tempo": 88.452,
+  "type": "audio_features",
+  "id": "15PzFANO74hiGLoJqAsBbR",
+  "uri": "spotify:track:15PzFANO74hiGLoJqAsBbR",
+  "track_href": "https://api.spotify.com/v1/tracks/15PzFANO74hiGLoJqAsBbR",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/15PzFANO74hiGLoJqAsBbR",
+  "duration_ms": 307307,
+  "time_signature": 3
+}

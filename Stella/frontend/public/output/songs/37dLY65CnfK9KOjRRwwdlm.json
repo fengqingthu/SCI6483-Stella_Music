@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/05tPwlpXpLFDlHIErC7bW9"
+        },
+        "href": "https://api.spotify.com/v1/artists/05tPwlpXpLFDlHIErC7bW9",
+        "id": "05tPwlpXpLFDlHIErC7bW9",
+        "name": "Jehro",
+        "type": "artist",
+        "uri": "spotify:artist:05tPwlpXpLFDlHIErC7bW9"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AT",
+      "BE",
+      "CH",
+      "DE",
+      "ES",
+      "FR",
+      "IT",
+      "MC",
+      "PL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0JKU2IQFtM6JKID7CmnlOK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0JKU2IQFtM6JKID7CmnlOK",
+    "id": "0JKU2IQFtM6JKID7CmnlOK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739ed67ae61b488330f5d1cbe5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029ed67ae61b488330f5d1cbe5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519ed67ae61b488330f5d1cbe5",
+        "width": 64
+      }
+    ],
+    "name": "Jehro",
+    "release_date": "2007-02-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0JKU2IQFtM6JKID7CmnlOK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05tPwlpXpLFDlHIErC7bW9"
+      },
+      "href": "https://api.spotify.com/v1/artists/05tPwlpXpLFDlHIErC7bW9",
+      "id": "05tPwlpXpLFDlHIErC7bW9",
+      "name": "Jehro",
+      "type": "artist",
+      "uri": "spotify:artist:05tPwlpXpLFDlHIErC7bW9"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "CH",
+    "DE",
+    "ES",
+    "FR",
+    "IT",
+    "MC",
+    "PL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR90U0500005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/37dLY65CnfK9KOjRRwwdlm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/37dLY65CnfK9KOjRRwwdlm",
+  "id": "37dLY65CnfK9KOjRRwwdlm",
+  "is_local": false,
+  "name": "Continuando",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:37dLY65CnfK9KOjRRwwdlm"
+}

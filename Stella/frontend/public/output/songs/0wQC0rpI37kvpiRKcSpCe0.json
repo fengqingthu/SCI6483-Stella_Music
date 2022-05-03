@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        "href": "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+        "id": "6oBm8HB0yfrIc9IHbxs6in",
+        "name": "Lykke Li",
+        "type": "artist",
+        "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6zBW3pmU291VbFHq4EdU8C"
+    },
+    "href": "https://api.spotify.com/v1/albums/6zBW3pmU291VbFHq4EdU8C",
+    "id": "6zBW3pmU291VbFHq4EdU8C",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731395b8b9e9fb3f8d7039f77d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021395b8b9e9fb3f8d7039f77d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511395b8b9e9fb3f8d7039f77d",
+        "width": 64
+      }
+    ],
+    "name": "Youth Novels",
+    "release_date": "2008-01-28",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6zBW3pmU291VbFHq4EdU8C"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+      },
+      "href": "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+      "id": "6oBm8HB0yfrIc9IHbxs6in",
+      "name": "Lykke Li",
+      "type": "artist",
+      "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 253026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVUM0800401"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0wQC0rpI37kvpiRKcSpCe0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0wQC0rpI37kvpiRKcSpCe0",
+  "id": "0wQC0rpI37kvpiRKcSpCe0",
+  "is_local": false,
+  "name": "Tonight",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:0wQC0rpI37kvpiRKcSpCe0"
+}

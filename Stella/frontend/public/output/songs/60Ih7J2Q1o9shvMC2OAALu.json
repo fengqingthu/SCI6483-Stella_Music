@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+        "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+        "name": "The Wombats",
+        "type": "artist",
+        "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+    },
+    "href": "https://api.spotify.com/v1/albums/03403404Rwa4suo4nzYyUY",
+    "id": "03403404Rwa4suo4nzYyUY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27364e27be28006c90422c11587",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0264e27be28006c90422c11587",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485164e27be28006c90422c11587",
+        "width": 64
+      }
+    ],
+    "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+    "release_date": "2007-07-09",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:03403404Rwa4suo4nzYyUY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+      "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+      "name": "The Wombats",
+      "type": "artist",
+      "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBFTG0300132"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/60Ih7J2Q1o9shvMC2OAALu",
+  "id": "60Ih7J2Q1o9shvMC2OAALu",
+  "is_local": false,
+  "name": "Let's Dance to Joy Division",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/3db01a6bdf19d3e1a0fade0e4f7a0f4da535aaa1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:60Ih7J2Q1o9shvMC2OAALu"
+}

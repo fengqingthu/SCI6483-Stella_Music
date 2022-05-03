@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Dw9w3jnmr58ocgxiwITcq",
+        "id": "3Dw9w3jnmr58ocgxiwITcq",
+        "name": "Rone",
+        "type": "artist",
+        "uri": "spotify:artist:3Dw9w3jnmr58ocgxiwITcq"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/68vkdRiAyHhwUvzM7cUMej"
+    },
+    "href": "https://api.spotify.com/v1/albums/68vkdRiAyHhwUvzM7cUMej",
+    "id": "68vkdRiAyHhwUvzM7cUMej",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730676758cf1f521b60f178274",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020676758cf1f521b60f178274",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510676758cf1f521b60f178274",
+        "width": 64
+      }
+    ],
+    "name": "Tohu Bohu",
+    "release_date": "2012-10-15",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:68vkdRiAyHhwUvzM7cUMej"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Dw9w3jnmr58ocgxiwITcq",
+      "id": "3Dw9w3jnmr58ocgxiwITcq",
+      "name": "Rone",
+      "type": "artist",
+      "uri": "spotify:artist:3Dw9w3jnmr58ocgxiwITcq"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 265250,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRT091200049"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/609ztq0z70ty0fFR3KUuJl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/609ztq0z70ty0fFR3KUuJl",
+  "id": "609ztq0z70ty0fFR3KUuJl",
+  "is_local": false,
+  "name": "Bye Bye Macadam",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/586d94f6eed901a61360dcffb4575dc3ee50efe9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:609ztq0z70ty0fFR3KUuJl"
+}

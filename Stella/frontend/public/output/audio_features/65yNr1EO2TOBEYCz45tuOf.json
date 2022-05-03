@@ -1,0 +1,20 @@
+{
+  "danceability": 0.435,
+  "energy": 0.975,
+  "key": 9,
+  "loudness": -4.361,
+  "mode": 0,
+  "speechiness": 0.0546,
+  "acousticness": 0.000946,
+  "instrumentalness": 0.071,
+  "liveness": 0.176,
+  "valence": 0.322,
+  "tempo": 102.48,
+  "type": "audio_features",
+  "id": "65yNr1EO2TOBEYCz45tuOf",
+  "uri": "spotify:track:65yNr1EO2TOBEYCz45tuOf",
+  "track_href": "https://api.spotify.com/v1/tracks/65yNr1EO2TOBEYCz45tuOf",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/65yNr1EO2TOBEYCz45tuOf",
+  "duration_ms": 175507,
+  "time_signature": 4
+}

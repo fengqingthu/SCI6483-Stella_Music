@@ -1,0 +1,163 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Wn5yNX8MOiIP3ln3oVp97"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Wn5yNX8MOiIP3ln3oVp97",
+        "id": "3Wn5yNX8MOiIP3ln3oVp97",
+        "name": "Nadia Sirota",
+        "type": "artist",
+        "uri": "spotify:artist:3Wn5yNX8MOiIP3ln3oVp97"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3GLUltc6jKzHxMHemXnYRw"
+    },
+    "href": "https://api.spotify.com/v1/albums/3GLUltc6jKzHxMHemXnYRw",
+    "id": "3GLUltc6jKzHxMHemXnYRw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732b481f29d50b2b0a284d0bb1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022b481f29d50b2b0a284d0bb1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512b481f29d50b2b0a284d0bb1",
+        "width": 64
+      }
+    ],
+    "name": "Nadia Sirota: Baroque",
+    "release_date": "2013-03-18",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:3GLUltc6jKzHxMHemXnYRw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+      },
+      "href": "https://api.spotify.com/v1/artists/2vObsQCPsbVfkqHlQOu2zc",
+      "id": "2vObsQCPsbVfkqHlQOu2zc",
+      "name": "Nico Muhly",
+      "type": "artist",
+      "uri": "spotify:artist:2vObsQCPsbVfkqHlQOu2zc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Wn5yNX8MOiIP3ln3oVp97"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Wn5yNX8MOiIP3ln3oVp97",
+      "id": "3Wn5yNX8MOiIP3ln3oVp97",
+      "name": "Nadia Sirota",
+      "type": "artist",
+      "uri": "spotify:artist:3Wn5yNX8MOiIP3ln3oVp97"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VCjlBPsXgs5YMMFDWw6nA"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VCjlBPsXgs5YMMFDWw6nA",
+      "id": "1VCjlBPsXgs5YMMFDWw6nA",
+      "name": "Paul Evans",
+      "type": "artist",
+      "uri": "spotify:artist:1VCjlBPsXgs5YMMFDWw6nA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/61O7PTMoyars8V5kcaYov4"
+      },
+      "href": "https://api.spotify.com/v1/artists/61O7PTMoyars8V5kcaYov4",
+      "id": "61O7PTMoyars8V5kcaYov4",
+      "name": "Missy Mazzoli",
+      "type": "artist",
+      "uri": "spotify:artist:61O7PTMoyars8V5kcaYov4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2UWEYphdFL39QM1jhXA527"
+      },
+      "href": "https://api.spotify.com/v1/artists/2UWEYphdFL39QM1jhXA527",
+      "id": "2UWEYphdFL39QM1jhXA527",
+      "name": "Paul Corley",
+      "type": "artist",
+      "uri": "spotify:artist:2UWEYphdFL39QM1jhXA527"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4aFXwGxCEd4fSBcXE7N3V5"
+      },
+      "href": "https://api.spotify.com/v1/artists/4aFXwGxCEd4fSBcXE7N3V5",
+      "id": "4aFXwGxCEd4fSBcXE7N3V5",
+      "name": "James McVinnie",
+      "type": "artist",
+      "uri": "spotify:artist:4aFXwGxCEd4fSBcXE7N3V5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
+      },
+      "href": "https://api.spotify.com/v1/artists/5kUBSTaVz7OFpuyHDSbQon",
+      "id": "5kUBSTaVz7OFpuyHDSbQon",
+      "name": "Daníel Bjarnason",
+      "type": "artist",
+      "uri": "spotify:artist:5kUBSTaVz7OFpuyHDSbQon"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BBAL4FJKn99P0MC65nIB7"
+      },
+      "href": "https://api.spotify.com/v1/artists/3BBAL4FJKn99P0MC65nIB7",
+      "id": "3BBAL4FJKn99P0MC65nIB7",
+      "name": "Frank Aarnink",
+      "type": "artist",
+      "uri": "spotify:artist:3BBAL4FJKn99P0MC65nIB7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5AVGx9Dhw7OLeJ5at3Y19f"
+      },
+      "href": "https://api.spotify.com/v1/artists/5AVGx9Dhw7OLeJ5at3Y19f",
+      "id": "5AVGx9Dhw7OLeJ5at3Y19f",
+      "name": "Valgeir Sigurðsson",
+      "type": "artist",
+      "uri": "spotify:artist:5AVGx9Dhw7OLeJ5at3Y19f"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 303388,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ISW211300104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2LhRrWfxTV6ZW1XAOb2OGa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2LhRrWfxTV6ZW1XAOb2OGa",
+  "id": "2LhRrWfxTV6ZW1XAOb2OGa",
+  "is_local": false,
+  "name": "Etude No. 3: Etude 3",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/b851b4614a2965d817e9641ac9d0de17faf93724?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:2LhRrWfxTV6ZW1XAOb2OGa"
+}

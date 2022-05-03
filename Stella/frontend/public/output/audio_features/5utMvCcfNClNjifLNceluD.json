@@ -1,0 +1,20 @@
+{
+  "danceability": 0.307,
+  "energy": 0.0912,
+  "key": 7,
+  "loudness": -26.458,
+  "mode": 1,
+  "speechiness": 0.0365,
+  "acousticness": 0.874,
+  "instrumentalness": 0.743,
+  "liveness": 0.244,
+  "valence": 0.197,
+  "tempo": 98.246,
+  "type": "audio_features",
+  "id": "5utMvCcfNClNjifLNceluD",
+  "uri": "spotify:track:5utMvCcfNClNjifLNceluD",
+  "track_href": "https://api.spotify.com/v1/tracks/5utMvCcfNClNjifLNceluD",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5utMvCcfNClNjifLNceluD",
+  "duration_ms": 184085,
+  "time_signature": 3
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RXsHRCnva6BsZ12SSAzcz",
+        "id": "2RXsHRCnva6BsZ12SSAzcz",
+        "name": "Joséphine Baker",
+        "type": "artist",
+        "uri": "spotify:artist:2RXsHRCnva6BsZ12SSAzcz"
+      }
+    ],
+    "available_markets": [
+      "FR",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5DGBIxdlqBREv2HbGICqM6"
+    },
+    "href": "https://api.spotify.com/v1/albums/5DGBIxdlqBREv2HbGICqM6",
+    "id": "5DGBIxdlqBREv2HbGICqM6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27386662c3275e8c0e999ee0217",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0286662c3275e8c0e999ee0217",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485186662c3275e8c0e999ee0217",
+        "width": 64
+      }
+    ],
+    "name": "Collection disques Pathe",
+    "release_date": "1997",
+    "release_date_precision": "year",
+    "total_tracks": 36,
+    "type": "album",
+    "uri": "spotify:album:5DGBIxdlqBREv2HbGICqM6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2RXsHRCnva6BsZ12SSAzcz",
+      "id": "2RXsHRCnva6BsZ12SSAzcz",
+      "name": "Joséphine Baker",
+      "type": "artist",
+      "uri": "spotify:artist:2RXsHRCnva6BsZ12SSAzcz"
+    }
+  ],
+  "available_markets": [
+    "FR",
+    "US"
+  ],
+  "disc_number": 2,
+  "duration_ms": 147733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ113655308"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7stpeZplK3IUyiIFBE9UIU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7stpeZplK3IUyiIFBE9UIU",
+  "id": "7stpeZplK3IUyiIFBE9UIU",
+  "is_local": false,
+  "name": "La conga Blicoti",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/8ca9a484a077ecc54b9d3186b97b937233ea5dfd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:7stpeZplK3IUyiIFBE9UIU"
+}

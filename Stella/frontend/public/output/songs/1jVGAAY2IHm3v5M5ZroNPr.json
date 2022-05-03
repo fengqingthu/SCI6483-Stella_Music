@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3pAf5z8D1nb5Jz297lyY1o"
+        },
+        "href": "https://api.spotify.com/v1/artists/3pAf5z8D1nb5Jz297lyY1o",
+        "id": "3pAf5z8D1nb5Jz297lyY1o",
+        "name": "Lesley Barber",
+        "type": "artist",
+        "uri": "spotify:artist:3pAf5z8D1nb5Jz297lyY1o"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CA",
+      "DZ",
+      "FR",
+      "LU",
+      "MA",
+      "MC",
+      "MX",
+      "NL",
+      "TN",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0vmSmECBk7Afebs0KTJggM"
+    },
+    "href": "https://api.spotify.com/v1/albums/0vmSmECBk7Afebs0KTJggM",
+    "id": "0vmSmECBk7Afebs0KTJggM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733f094bf7d34c758de1eda5f4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023f094bf7d34c758de1eda5f4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513f094bf7d34c758de1eda5f4",
+        "width": 64
+      }
+    ],
+    "name": "Manchester by the Sea (Original Motion Picture Soundtrack)",
+    "release_date": "2016-11-18",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:0vmSmECBk7Afebs0KTJggM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3PfJE6ebCbCHeuqO4BfNeA",
+      "id": "3PfJE6ebCbCHeuqO4BfNeA",
+      "name": "London Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3PfJE6ebCbCHeuqO4BfNeA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CA",
+    "DZ",
+    "FR",
+    "LU",
+    "MA",
+    "MC",
+    "MX",
+    "NL",
+    "TN",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 514577,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWDL9750027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1jVGAAY2IHm3v5M5ZroNPr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1jVGAAY2IHm3v5M5ZroNPr",
+  "id": "1jVGAAY2IHm3v5M5ZroNPr",
+  "is_local": false,
+  "name": "Adagio Per Archi E Organo In Sol Minore",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/003bf21807d5319d70c868d3d3af3af53226ed54?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:1jVGAAY2IHm3v5M5ZroNPr"
+}

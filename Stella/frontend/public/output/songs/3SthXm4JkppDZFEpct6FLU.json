@@ -1,0 +1,173 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ztBFCBEL7OtjdAt98RnD4",
+        "id": "5ztBFCBEL7OtjdAt98RnD4",
+        "name": "Fat White Family",
+        "type": "artist",
+        "uri": "spotify:artist:5ztBFCBEL7OtjdAt98RnD4"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/27ArWip3TiWO8p3P6chISH"
+    },
+    "href": "https://api.spotify.com/v1/albums/27ArWip3TiWO8p3P6chISH",
+    "id": "27ArWip3TiWO8p3P6chISH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bd44a4ce2e8cd20308e25081",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bd44a4ce2e8cd20308e25081",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bd44a4ce2e8cd20308e25081",
+        "width": 64
+      }
+    ],
+    "name": "Touch The Leather",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:27ArWip3TiWO8p3P6chISH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ztBFCBEL7OtjdAt98RnD4",
+      "id": "5ztBFCBEL7OtjdAt98RnD4",
+      "name": "Fat White Family",
+      "type": "artist",
+      "uri": "spotify:artist:5ztBFCBEL7OtjdAt98RnD4"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211751,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71400452"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3SthXm4JkppDZFEpct6FLU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3SthXm4JkppDZFEpct6FLU",
+  "id": "3SthXm4JkppDZFEpct6FLU",
+  "is_local": false,
+  "name": "Touch The Leather",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/c83f133514ac17b9202062545b59adf243a3895c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3SthXm4JkppDZFEpct6FLU"
+}

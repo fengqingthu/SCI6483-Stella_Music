@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        },
+        "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin",
+        "id": "3dBVyJ7JuOMt4GE9607Qin",
+        "name": "T. Rex",
+        "type": "artist",
+        "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
+    },
+    "href": "https://api.spotify.com/v1/albums/5aEVv5sSzit1hQVF5ASVKO",
+    "id": "5aEVv5sSzit1hQVF5ASVKO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ecf037f406a2a56c561c2f40",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ecf037f406a2a56c561c2f40",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ecf037f406a2a56c561c2f40",
+        "width": 64
+      }
+    ],
+    "name": "Dandy In The Underworld",
+    "release_date": "1977-03-11",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5aEVv5sSzit1hQVF5ASVKO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin",
+      "id": "3dBVyJ7JuOMt4GE9607Qin",
+      "name": "T. Rex",
+      "type": "artist",
+      "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 135666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USFP71124805"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7dc8lqKS2P4Zq59g0yThvH",
+  "id": "7dc8lqKS2P4Zq59g0yThvH",
+  "is_local": false,
+  "name": "I Love To Boogie",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:7dc8lqKS2P4Zq59g0yThvH"
+}

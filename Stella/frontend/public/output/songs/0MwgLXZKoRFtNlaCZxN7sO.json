@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6gpCBsCNiMt5MO5sW0sexm"
+        },
+        "href": "https://api.spotify.com/v1/artists/6gpCBsCNiMt5MO5sW0sexm",
+        "id": "6gpCBsCNiMt5MO5sW0sexm",
+        "name": "Elli Medeiros",
+        "type": "artist",
+        "uri": "spotify:artist:6gpCBsCNiMt5MO5sW0sexm"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "CR",
+      "FR",
+      "LU",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2tnKQOQfzdyn4UO3CVr2lP"
+    },
+    "href": "https://api.spotify.com/v1/albums/2tnKQOQfzdyn4UO3CVr2lP",
+    "id": "2tnKQOQfzdyn4UO3CVr2lP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273527283df0635abccc21cc0ff",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02527283df0635abccc21cc0ff",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851527283df0635abccc21cc0ff",
+        "width": 64
+      }
+    ],
+    "name": "Bom Bom",
+    "release_date": "1987-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2tnKQOQfzdyn4UO3CVr2lP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6gpCBsCNiMt5MO5sW0sexm"
+      },
+      "href": "https://api.spotify.com/v1/artists/6gpCBsCNiMt5MO5sW0sexm",
+      "id": "6gpCBsCNiMt5MO5sW0sexm",
+      "name": "Elli Medeiros",
+      "type": "artist",
+      "uri": "spotify:artist:6gpCBsCNiMt5MO5sW0sexm"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "CR",
+    "FR",
+    "LU",
+    "MX",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 249973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ018701830"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0MwgLXZKoRFtNlaCZxN7sO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0MwgLXZKoRFtNlaCZxN7sO",
+  "id": "0MwgLXZKoRFtNlaCZxN7sO",
+  "is_local": false,
+  "name": "A Bailar Calypso",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0MwgLXZKoRFtNlaCZxN7sO"
+}

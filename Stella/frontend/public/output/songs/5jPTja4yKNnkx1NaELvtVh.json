@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4MAvEYtgY8yNljGP697n4F"
+        },
+        "href": "https://api.spotify.com/v1/artists/4MAvEYtgY8yNljGP697n4F",
+        "id": "4MAvEYtgY8yNljGP697n4F",
+        "name": "In Extremo",
+        "type": "artist",
+        "uri": "spotify:artist:4MAvEYtgY8yNljGP697n4F"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "GR",
+      "MX",
+      "NL",
+      "RO"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0aylUIOv05J1KxKGIV45uQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/0aylUIOv05J1KxKGIV45uQ",
+    "id": "0aylUIOv05J1KxKGIV45uQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cbcfa0249408af884109bf5a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cbcfa0249408af884109bf5a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cbcfa0249408af884109bf5a",
+        "width": 64
+      }
+    ],
+    "name": "Sängerkrieg",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:0aylUIOv05J1KxKGIV45uQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4MAvEYtgY8yNljGP697n4F"
+      },
+      "href": "https://api.spotify.com/v1/artists/4MAvEYtgY8yNljGP697n4F",
+      "id": "4MAvEYtgY8yNljGP697n4F",
+      "name": "In Extremo",
+      "type": "artist",
+      "uri": "spotify:artist:4MAvEYtgY8yNljGP697n4F"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEUM70802216"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5jPTja4yKNnkx1NaELvtVh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5jPTja4yKNnkx1NaELvtVh",
+  "id": "5jPTja4yKNnkx1NaELvtVh",
+  "is_local": false,
+  "name": "Frei zu sein",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5jPTja4yKNnkx1NaELvtVh"
+}

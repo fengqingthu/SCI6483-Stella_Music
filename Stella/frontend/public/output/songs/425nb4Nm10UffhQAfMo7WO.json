@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TNiKyCX2oCvdo1sTgHcRw",
+        "id": "4TNiKyCX2oCvdo1sTgHcRw",
+        "name": "Barbara",
+        "type": "artist",
+        "uri": "spotify:artist:4TNiKyCX2oCvdo1sTgHcRw"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5pSf0PrHOToUraYpN1pqdO"
+    },
+    "href": "https://api.spotify.com/v1/albums/5pSf0PrHOToUraYpN1pqdO",
+    "id": "5pSf0PrHOToUraYpN1pqdO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731c63f5403044af56f5338fbf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021c63f5403044af56f5338fbf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511c63f5403044af56f5338fbf",
+        "width": 64
+      }
+    ],
+    "name": "Barbara - N°2",
+    "release_date": "1999-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5pSf0PrHOToUraYpN1pqdO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4TNiKyCX2oCvdo1sTgHcRw",
+      "id": "4TNiKyCX2oCvdo1sTgHcRw",
+      "name": "Barbara",
+      "type": "artist",
+      "uri": "spotify:artist:4TNiKyCX2oCvdo1sTgHcRw"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 194706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ036502400"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/425nb4Nm10UffhQAfMo7WO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/425nb4Nm10UffhQAfMo7WO",
+  "id": "425nb4Nm10UffhQAfMo7WO",
+  "is_local": false,
+  "name": "La solitude",
+  "popularity": 15,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:425nb4Nm10UffhQAfMo7WO"
+}

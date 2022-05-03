@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3CIRif6ZAedT7kZSPvj2A4",
+        "id": "3CIRif6ZAedT7kZSPvj2A4",
+        "name": "She & Him",
+        "type": "artist",
+        "uri": "spotify:artist:3CIRif6ZAedT7kZSPvj2A4"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/606zbd3MwNz9wzUQXIMWm8"
+    },
+    "href": "https://api.spotify.com/v1/albums/606zbd3MwNz9wzUQXIMWm8",
+    "id": "606zbd3MwNz9wzUQXIMWm8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273771d5f12b2ef54a00e51cdca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02771d5f12b2ef54a00e51cdca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851771d5f12b2ef54a00e51cdca",
+        "width": 64
+      }
+    ],
+    "name": "Volume One",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:606zbd3MwNz9wzUQXIMWm8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3CIRif6ZAedT7kZSPvj2A4",
+      "id": "3CIRif6ZAedT7kZSPvj2A4",
+      "name": "She & Him",
+      "type": "artist",
+      "uri": "spotify:artist:3CIRif6ZAedT7kZSPvj2A4"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 152546,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMRG0832402"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7jq5CsMV3pITWCs729i4dS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7jq5CsMV3pITWCs729i4dS",
+  "id": "7jq5CsMV3pITWCs729i4dS",
+  "is_local": false,
+  "name": "Why Do You Let Me Stay Here?",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/7c587ba501183df3bc9b6d7ad0f41a0740af8f91?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7jq5CsMV3pITWCs729i4dS"
+}

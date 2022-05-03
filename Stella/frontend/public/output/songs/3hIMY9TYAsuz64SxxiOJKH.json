@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6msJKphD3VXZPItnztefdH",
+        "id": "6msJKphD3VXZPItnztefdH",
+        "name": "Stateless",
+        "type": "artist",
+        "uri": "spotify:artist:6msJKphD3VXZPItnztefdH"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2hSfXPO6RRnIkhLIW72ECP"
+    },
+    "href": "https://api.spotify.com/v1/albums/2hSfXPO6RRnIkhLIW72ECP",
+    "id": "2hSfXPO6RRnIkhLIW72ECP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b5cd07604468e634d1ac3022",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b5cd07604468e634d1ac3022",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b5cd07604468e634d1ac3022",
+        "width": 64
+      }
+    ],
+    "name": "Bloodstream EP",
+    "release_date": "2005-07-03",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:2hSfXPO6RRnIkhLIW72ECP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6msJKphD3VXZPItnztefdH",
+      "id": "6msJKphD3VXZPItnztefdH",
+      "name": "Stateless",
+      "type": "artist",
+      "uri": "spotify:artist:6msJKphD3VXZPItnztefdH"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 358537,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAYE0501069"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3hIMY9TYAsuz64SxxiOJKH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3hIMY9TYAsuz64SxxiOJKH",
+  "id": "3hIMY9TYAsuz64SxxiOJKH",
+  "is_local": false,
+  "name": "Inscape",
+  "popularity": 5,
+  "preview_url": "https://p.scdn.co/mp3-preview/fd08fef5d5f46227bd0afe6ae67f157a45b31947?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3hIMY9TYAsuz64SxxiOJKH"
+}

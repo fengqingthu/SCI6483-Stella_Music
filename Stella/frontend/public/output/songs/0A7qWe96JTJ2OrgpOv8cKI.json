@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7JZGn3cCxwdRIoudPO1kNL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7JZGn3cCxwdRIoudPO1kNL",
+        "id": "7JZGn3cCxwdRIoudPO1kNL",
+        "name": "John Gary",
+        "type": "artist",
+        "uri": "spotify:artist:7JZGn3cCxwdRIoudPO1kNL"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0u7kQNmWUemNrPg7J0fR4h"
+    },
+    "href": "https://api.spotify.com/v1/albums/0u7kQNmWUemNrPg7J0fR4h",
+    "id": "0u7kQNmWUemNrPg7J0fR4h",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ddf2ee6335df15be492af2f6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ddf2ee6335df15be492af2f6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ddf2ee6335df15be492af2f6",
+        "width": 64
+      }
+    ],
+    "name": "Catch a Rising Star",
+    "release_date": "1963-12-31",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0u7kQNmWUemNrPg7J0fR4h"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7JZGn3cCxwdRIoudPO1kNL"
+      },
+      "href": "https://api.spotify.com/v1/artists/7JZGn3cCxwdRIoudPO1kNL",
+      "id": "7JZGn3cCxwdRIoudPO1kNL",
+      "name": "John Gary",
+      "type": "artist",
+      "uri": "spotify:artist:7JZGn3cCxwdRIoudPO1kNL"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 177840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRC16304049"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0A7qWe96JTJ2OrgpOv8cKI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0A7qWe96JTJ2OrgpOv8cKI",
+  "id": "0A7qWe96JTJ2OrgpOv8cKI",
+  "is_local": false,
+  "name": "Once Upon a Time",
+  "popularity": 17,
+  "preview_url": "https://p.scdn.co/mp3-preview/76b9ec7765aa98b80434445ddf1a0c3abf2d83cc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0A7qWe96JTJ2OrgpOv8cKI"
+}

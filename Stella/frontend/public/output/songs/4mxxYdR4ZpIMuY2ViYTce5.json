@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3huVQoEWdqUTvlYpFVUHcF",
+        "id": "3huVQoEWdqUTvlYpFVUHcF",
+        "name": "Original Soundtrack",
+        "type": "artist",
+        "uri": "spotify:artist:3huVQoEWdqUTvlYpFVUHcF"
+      }
+    ],
+    "available_markets": [
+      "BD",
+      "BN",
+      "BT",
+      "FM",
+      "HK",
+      "ID",
+      "IN",
+      "KH",
+      "KR",
+      "LA",
+      "LK",
+      "MO",
+      "MV",
+      "MY",
+      "NP",
+      "PH",
+      "PK",
+      "SG",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1XN3M1lowRiMKy68Fh784w"
+    },
+    "href": "https://api.spotify.com/v1/albums/1XN3M1lowRiMKy68Fh784w",
+    "id": "1XN3M1lowRiMKy68Fh784w",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cfcd82a8c07d9f3eae221e3a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cfcd82a8c07d9f3eae221e3a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cfcd82a8c07d9f3eae221e3a",
+        "width": 64
+      }
+    ],
+    "name": "Rocky IV",
+    "release_date": "1985-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1XN3M1lowRiMKy68Fh784w"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Q2nBzXfyXGIEf8KpHqeHn"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Q2nBzXfyXGIEf8KpHqeHn",
+      "id": "5Q2nBzXfyXGIEf8KpHqeHn",
+      "name": "Vince DiCola",
+      "type": "artist",
+      "uri": "spotify:artist:5Q2nBzXfyXGIEf8KpHqeHn"
+    }
+  ],
+  "available_markets": [
+    "BD",
+    "BN",
+    "BT",
+    "FM",
+    "HK",
+    "ID",
+    "IN",
+    "KH",
+    "KR",
+    "LA",
+    "LK",
+    "MO",
+    "MV",
+    "MY",
+    "NP",
+    "PH",
+    "PK",
+    "SG",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 220760,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVR10200064"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4mxxYdR4ZpIMuY2ViYTce5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4mxxYdR4ZpIMuY2ViYTce5",
+  "id": "4mxxYdR4ZpIMuY2ViYTce5",
+  "is_local": false,
+  "name": "Training Montage - From \"Rocky IV\" Soundtrack",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/e22041038c955cd2b25ffa9500779e7adc4c9a14?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:4mxxYdR4ZpIMuY2ViYTce5"
+}

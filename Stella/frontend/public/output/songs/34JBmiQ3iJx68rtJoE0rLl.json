@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        },
+        "href": "https://api.spotify.com/v1/artists/20bAxKr0YrCvceZeLqs37e",
+        "id": "20bAxKr0YrCvceZeLqs37e",
+        "name": "Nomy",
+        "type": "artist",
+        "uri": "spotify:artist:20bAxKr0YrCvceZeLqs37e"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/720vftPF0WPeCWObcArbcL"
+    },
+    "href": "https://api.spotify.com/v1/albums/720vftPF0WPeCWObcArbcL",
+    "id": "720vftPF0WPeCWObcArbcL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cf56946bbbca230f43908ec6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cf56946bbbca230f43908ec6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cf56946bbbca230f43908ec6",
+        "width": 64
+      }
+    ],
+    "name": "Das Wunderland",
+    "release_date": "2022-03-25",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:720vftPF0WPeCWObcArbcL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+      },
+      "href": "https://api.spotify.com/v1/artists/20bAxKr0YrCvceZeLqs37e",
+      "id": "20bAxKr0YrCvceZeLqs37e",
+      "name": "Nomy",
+      "type": "artist",
+      "uri": "spotify:artist:20bAxKr0YrCvceZeLqs37e"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 204782,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEYOK2207573"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/34JBmiQ3iJx68rtJoE0rLl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/34JBmiQ3iJx68rtJoE0rLl",
+  "id": "34JBmiQ3iJx68rtJoE0rLl",
+  "is_local": false,
+  "name": "Das Wunderland",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:34JBmiQ3iJx68rtJoE0rLl"
+}

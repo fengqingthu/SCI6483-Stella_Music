@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
+        },
+        "href": "https://api.spotify.com/v1/artists/69NjLU6rit8q9XEjL50BOj",
+        "id": "69NjLU6rit8q9XEjL50BOj",
+        "name": "Mint Royale",
+        "type": "artist",
+        "uri": "spotify:artist:69NjLU6rit8q9XEjL50BOj"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3uxqs8PymCNK7Ono2oEbOE"
+    },
+    "href": "https://api.spotify.com/v1/albums/3uxqs8PymCNK7Ono2oEbOE",
+    "id": "3uxqs8PymCNK7Ono2oEbOE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d82b918d6787b25b2ced156",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d82b918d6787b25b2ced156",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d82b918d6787b25b2ced156",
+        "width": 64
+      }
+    ],
+    "name": "See You In The Morning",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3uxqs8PymCNK7Ono2oEbOE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
+      },
+      "href": "https://api.spotify.com/v1/artists/69NjLU6rit8q9XEjL50BOj",
+      "id": "69NjLU6rit8q9XEjL50BOj",
+      "name": "Mint Royale",
+      "type": "artist",
+      "uri": "spotify:artist:69NjLU6rit8q9XEjL50BOj"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 208800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCLV0505610"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1pI17A7xKAgakVnt1CVGbG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1pI17A7xKAgakVnt1CVGbG",
+  "id": "1pI17A7xKAgakVnt1CVGbG",
+  "is_local": false,
+  "name": "Singin' In The Rain",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/b8d645c64d859583b65ffc7d4cb4b2f4c9709074?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1pI17A7xKAgakVnt1CVGbG"
+}

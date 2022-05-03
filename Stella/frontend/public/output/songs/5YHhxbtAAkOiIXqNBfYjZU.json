@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+        "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+        "name": "The Wombats",
+        "type": "artist",
+        "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+    },
+    "href": "https://api.spotify.com/v1/albums/03403404Rwa4suo4nzYyUY",
+    "id": "03403404Rwa4suo4nzYyUY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27364e27be28006c90422c11587",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0264e27be28006c90422c11587",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485164e27be28006c90422c11587",
+        "width": 64
+      }
+    ],
+    "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+    "release_date": "2007-07-09",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:03403404Rwa4suo4nzYyUY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+      "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+      "name": "The Wombats",
+      "type": "artist",
+      "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBFTG0300127"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5YHhxbtAAkOiIXqNBfYjZU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5YHhxbtAAkOiIXqNBfYjZU",
+  "id": "5YHhxbtAAkOiIXqNBfYjZU",
+  "is_local": false,
+  "name": "Moving to New York",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/952b5ef0e3a76cac54a5a6a8665a3db19c1795bc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5YHhxbtAAkOiIXqNBfYjZU"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Y10boYzeuFCJ4Qgp53w6o",
+        "id": "3Y10boYzeuFCJ4Qgp53w6o",
+        "name": "Scissor Sisters",
+        "type": "artist",
+        "uri": "spotify:artist:3Y10boYzeuFCJ4Qgp53w6o"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
+    },
+    "href": "https://api.spotify.com/v1/albums/65Fllu4vQdZQOh6id0YwIM",
+    "id": "65Fllu4vQdZQOh6id0YwIM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b2f399095db85823ab3d231e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b2f399095db85823ab3d231e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b2f399095db85823ab3d231e",
+        "width": 64
+      }
+    ],
+    "name": "Scissor Sisters",
+    "release_date": "2004-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:65Fllu4vQdZQOh6id0YwIM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Y10boYzeuFCJ4Qgp53w6o",
+      "id": "3Y10boYzeuFCJ4Qgp53w6o",
+      "name": "Scissor Sisters",
+      "type": "artist",
+      "uri": "spotify:artist:3Y10boYzeuFCJ4Qgp53w6o"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 271906,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAKW0300860"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0LAfANg75hYiV1IAEP3vY6",
+  "id": "0LAfANg75hYiV1IAEP3vY6",
+  "is_local": false,
+  "name": "Take Your Mama",
+  "popularity": 55,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0LAfANg75hYiV1IAEP3vY6"
+}

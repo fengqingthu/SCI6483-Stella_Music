@@ -1,0 +1,153 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12LdOpXPkvTuU6nauFBh41"
+        },
+        "href": "https://api.spotify.com/v1/artists/12LdOpXPkvTuU6nauFBh41",
+        "id": "12LdOpXPkvTuU6nauFBh41",
+        "name": "Maurice André",
+        "type": "artist",
+        "uri": "spotify:artist:12LdOpXPkvTuU6nauFBh41"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6NhgzCjo9m59zWw4S2ktkA"
+    },
+    "href": "https://api.spotify.com/v1/albums/6NhgzCjo9m59zWw4S2ktkA",
+    "id": "6NhgzCjo9m59zWw4S2ktkA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f1eb0988cc02d309490712f0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f1eb0988cc02d309490712f0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f1eb0988cc02d309490712f0",
+        "width": 64
+      }
+    ],
+    "name": "Trumpet Concertos",
+    "release_date": "1998",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6NhgzCjo9m59zWw4S2ktkA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zCaQxjl110XTrm4LQ1CxY",
+      "id": "5zCaQxjl110XTrm4LQ1CxY",
+      "name": "Herbert von Karajan",
+      "type": "artist",
+      "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+      "id": "6uRJnvQ3f8whVnmeoecv5Z",
+      "name": "Berliner Philharmoniker",
+      "type": "artist",
+      "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12LdOpXPkvTuU6nauFBh41"
+      },
+      "href": "https://api.spotify.com/v1/artists/12LdOpXPkvTuU6nauFBh41",
+      "id": "12LdOpXPkvTuU6nauFBh41",
+      "name": "Maurice André",
+      "type": "artist",
+      "uri": "spotify:artist:12LdOpXPkvTuU6nauFBh41"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IT",
+    "LT",
+    "LU",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAYC9801089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2oVIz6v5qLQuSdBhATIGfQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2oVIz6v5qLQuSdBhATIGfQ",
+  "id": "2oVIz6v5qLQuSdBhATIGfQ",
+  "is_local": false,
+  "name": "Trumpet Concerto in E Flat (1998 - Remaster): III. Rondo (Allegro molto)",
+  "popularity": 5,
+  "preview_url": "https://p.scdn.co/mp3-preview/7d13b36a065c4f71cd9cab27340371e8f15bbbed?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2oVIz6v5qLQuSdBhATIGfQ"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2pH3wEn4eYlMMIIQyKPbVR",
+        "id": "2pH3wEn4eYlMMIIQyKPbVR",
+        "name": "DragonForce",
+        "type": "artist",
+        "uri": "spotify:artist:2pH3wEn4eYlMMIIQyKPbVR"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7irmnfmfi6h2njvG9EdBrM"
+    },
+    "href": "https://api.spotify.com/v1/albums/7irmnfmfi6h2njvG9EdBrM",
+    "id": "7irmnfmfi6h2njvG9EdBrM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273229f132702470af1740b7bf4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02229f132702470af1740b7bf4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851229f132702470af1740b7bf4",
+        "width": 64
+      }
+    ],
+    "name": "The Power Within (Special Edition)",
+    "release_date": "2012-04-17",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:7irmnfmfi6h2njvG9EdBrM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+      },
+      "href": "https://api.spotify.com/v1/artists/2pH3wEn4eYlMMIIQyKPbVR",
+      "id": "2pH3wEn4eYlMMIIQyKPbVR",
+      "name": "DragonForce",
+      "type": "artist",
+      "uri": "spotify:artist:2pH3wEn4eYlMMIIQyKPbVR"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 316146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB4421200002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Xevyftg9SENov82JYXlYQ",
+  "id": "5Xevyftg9SENov82JYXlYQ",
+  "is_local": false,
+  "name": "Cry Thunder",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/84750db32dcb57b414208b79ffd42e750538a50e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5Xevyftg9SENov82JYXlYQ"
+}

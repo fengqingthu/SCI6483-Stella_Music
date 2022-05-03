@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mcNCn1qbZUQ3J9KHapUxj",
+        "id": "2mcNCn1qbZUQ3J9KHapUxj",
+        "name": "The Dø",
+        "type": "artist",
+        "uri": "spotify:artist:2mcNCn1qbZUQ3J9KHapUxj"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/285PWg9pdxDrfRr7ktOJEt"
+    },
+    "href": "https://api.spotify.com/v1/albums/285PWg9pdxDrfRr7ktOJEt",
+    "id": "285PWg9pdxDrfRr7ktOJEt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ea986a5fb66f56156112fb54",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ea986a5fb66f56156112fb54",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ea986a5fb66f56156112fb54",
+        "width": 64
+      }
+    ],
+    "name": "Shake Shook Shaken (Deluxe)",
+    "release_date": "2015-12-11",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:285PWg9pdxDrfRr7ktOJEt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+      },
+      "href": "https://api.spotify.com/v1/artists/2mcNCn1qbZUQ3J9KHapUxj",
+      "id": "2mcNCn1qbZUQ3J9KHapUxj",
+      "name": "The Dø",
+      "type": "artist",
+      "uri": "spotify:artist:2mcNCn1qbZUQ3J9KHapUxj"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 169586,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR2MH1500008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1zgL7TINqDO6QXeUUh6pTv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1zgL7TINqDO6QXeUUh6pTv",
+  "id": "1zgL7TINqDO6QXeUUh6pTv",
+  "is_local": false,
+  "name": "Only Takes A Night",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/7aa533f9d63606c14c406231038f14faeb9d4039?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:1zgL7TINqDO6QXeUUh6pTv"
+}

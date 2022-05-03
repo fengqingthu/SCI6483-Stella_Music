@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+        "id": "3IKV7o6WPphDB7cCWXaG3E",
+        "name": "Isaac Hayes",
+        "type": "artist",
+        "uri": "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "CZ",
+      "DE",
+      "DK",
+      "FI",
+      "FR",
+      "HK",
+      "HR",
+      "HU",
+      "IE",
+      "IN",
+      "IT",
+      "LT",
+      "LV",
+      "MY",
+      "NL",
+      "NZ",
+      "PT",
+      "SE",
+      "SG",
+      "SK",
+      "TH",
+      "TW",
+      "UA",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1j496jCO9zjMNMhBSTRCaZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/1j496jCO9zjMNMhBSTRCaZ",
+    "id": "1j496jCO9zjMNMhBSTRCaZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e784aaaba89dff90adf479d9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e784aaaba89dff90adf479d9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e784aaaba89dff90adf479d9",
+        "width": 64
+      }
+    ],
+    "name": "Ultimate Isaac Hayes - Can You Dig It? (International Version)",
+    "release_date": "2006-05-16",
+    "release_date_precision": "day",
+    "total_tracks": 32,
+    "type": "album",
+    "uri": "spotify:album:1j496jCO9zjMNMhBSTRCaZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+      "id": "3IKV7o6WPphDB7cCWXaG3E",
+      "name": "Isaac Hayes",
+      "type": "artist",
+      "uri": "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BE",
+    "CZ",
+    "DE",
+    "DK",
+    "FI",
+    "FR",
+    "HK",
+    "HR",
+    "HU",
+    "IE",
+    "IN",
+    "IT",
+    "LT",
+    "LV",
+    "MY",
+    "NL",
+    "NZ",
+    "PT",
+    "SE",
+    "SG",
+    "SK",
+    "TH",
+    "TW",
+    "UA",
+    "ZA"
+  ],
+  "disc_number": 2,
+  "duration_ms": 165400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USFI87400007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/20wsyOBewHFZXJdV75vt9K"
+  },
+  "href": "https://api.spotify.com/v1/tracks/20wsyOBewHFZXJdV75vt9K",
+  "id": "20wsyOBewHFZXJdV75vt9K",
+  "is_local": false,
+  "name": "Run Fay Run",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:20wsyOBewHFZXJdV75vt9K"
+}

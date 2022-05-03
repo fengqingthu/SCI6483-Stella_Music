@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Jotu5LupekFt00kZZZ7C6",
+        "id": "7Jotu5LupekFt00kZZZ7C6",
+        "name": "Hayley Westenra",
+        "type": "artist",
+        "uri": "spotify:artist:7Jotu5LupekFt00kZZZ7C6"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0wyWeyjQOfQrpFWmz9BmQ4"
+    },
+    "href": "https://api.spotify.com/v1/albums/0wyWeyjQOfQrpFWmz9BmQ4",
+    "id": "0wyWeyjQOfQrpFWmz9BmQ4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733c0e9942140abaec806861a6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023c0e9942140abaec806861a6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513c0e9942140abaec806861a6",
+        "width": 64
+      }
+    ],
+    "name": "Odyssey",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0wyWeyjQOfQrpFWmz9BmQ4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Jotu5LupekFt00kZZZ7C6",
+      "id": "7Jotu5LupekFt00kZZZ7C6",
+      "name": "Hayley Westenra",
+      "type": "artist",
+      "uri": "spotify:artist:7Jotu5LupekFt00kZZZ7C6"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221213,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBBA0540340"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5vG1QiAJFoT7oYYHRKobKO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5vG1QiAJFoT7oYYHRKobKO",
+  "id": "5vG1QiAJFoT7oYYHRKobKO",
+  "is_local": false,
+  "name": "Both Sides Now",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5vG1QiAJFoT7oYYHRKobKO"
+}

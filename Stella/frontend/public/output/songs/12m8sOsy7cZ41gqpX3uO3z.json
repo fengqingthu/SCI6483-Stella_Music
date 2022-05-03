@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ld45E426cWmpNVKMX413P"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ld45E426cWmpNVKMX413P",
+        "id": "6ld45E426cWmpNVKMX413P",
+        "name": "Musette",
+        "type": "artist",
+        "uri": "spotify:artist:6ld45E426cWmpNVKMX413P"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0RvNM8BGBipzpTLO7ehHge"
+    },
+    "href": "https://api.spotify.com/v1/albums/0RvNM8BGBipzpTLO7ehHge",
+    "id": "0RvNM8BGBipzpTLO7ehHge",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273de6358c57e75485dc25df839",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02de6358c57e75485dc25df839",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851de6358c57e75485dc25df839",
+        "width": 64
+      }
+    ],
+    "name": "Drape Me In Velvet",
+    "release_date": "2012-01-22",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0RvNM8BGBipzpTLO7ehHge"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ld45E426cWmpNVKMX413P"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ld45E426cWmpNVKMX413P",
+      "id": "6ld45E426cWmpNVKMX413P",
+      "name": "Musette",
+      "type": "artist",
+      "uri": "spotify:artist:6ld45E426cWmpNVKMX413P"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 244306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWQN1100301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/12m8sOsy7cZ41gqpX3uO3z"
+  },
+  "href": "https://api.spotify.com/v1/tracks/12m8sOsy7cZ41gqpX3uO3z",
+  "id": "12m8sOsy7cZ41gqpX3uO3z",
+  "is_local": false,
+  "name": "CouCou Anne",
+  "popularity": 1,
+  "preview_url": "https://p.scdn.co/mp3-preview/855cc39404dae1de34eb0a2faa52507a4a237783?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:12m8sOsy7cZ41gqpX3uO3z"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0zGRuj0aQ3mM6i2dQoO8h0",
+        "id": "0zGRuj0aQ3mM6i2dQoO8h0",
+        "name": "Mid-Air Thief",
+        "type": "artist",
+        "uri": "spotify:artist:0zGRuj0aQ3mM6i2dQoO8h0"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/30GLI7rML79EOipZqLXwBu"
+    },
+    "href": "https://api.spotify.com/v1/albums/30GLI7rML79EOipZqLXwBu",
+    "id": "30GLI7rML79EOipZqLXwBu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e7763b8bf7d481588899d422",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e7763b8bf7d481588899d422",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e7763b8bf7d481588899d422",
+        "width": 64
+      }
+    ],
+    "name": "Crumbling",
+    "release_date": "2018-12-04",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:30GLI7rML79EOipZqLXwBu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0"
+      },
+      "href": "https://api.spotify.com/v1/artists/0zGRuj0aQ3mM6i2dQoO8h0",
+      "id": "0zGRuj0aQ3mM6i2dQoO8h0",
+      "name": "Mid-Air Thief",
+      "type": "artist",
+      "uri": "spotify:artist:0zGRuj0aQ3mM6i2dQoO8h0"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 281243,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "KRMIM1807725"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7szZZdxzhAn8DKTk3kEyma"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7szZZdxzhAn8DKTk3kEyma",
+  "id": "7szZZdxzhAn8DKTk3kEyma",
+  "is_local": false,
+  "name": "なぜ?",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/30d3b55a47356a868a610f973a10618452727348?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7szZZdxzhAn8DKTk3kEyma"
+}

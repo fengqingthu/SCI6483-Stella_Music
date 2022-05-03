@@ -1,0 +1,149 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        "href": "https://api.spotify.com/v1/artists/1FmxE030Xe2H8Bn9bdv6Pd",
+        "id": "1FmxE030Xe2H8Bn9bdv6Pd",
+        "name": "Vanessa Paradis",
+        "type": "artist",
+        "uri": "spotify:artist:1FmxE030Xe2H8Bn9bdv6Pd"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IS",
+      "KR",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "MY",
+      "NO",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "RW",
+      "SE",
+      "SK",
+      "TN",
+      "TR",
+      "TW",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3LW0UWJl70NjcnbGSDUwxg"
+    },
+    "href": "https://api.spotify.com/v1/albums/3LW0UWJl70NjcnbGSDUwxg",
+    "id": "3LW0UWJl70NjcnbGSDUwxg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397a76ab89238cb0fde7d0379",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297a76ab89238cb0fde7d0379",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197a76ab89238cb0fde7d0379",
+        "width": 64
+      }
+    ],
+    "name": "Vanessa Paradis Best of",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 34,
+    "type": "album",
+    "uri": "spotify:album:3LW0UWJl70NjcnbGSDUwxg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FmxE030Xe2H8Bn9bdv6Pd",
+      "id": "1FmxE030Xe2H8Bn9bdv6Pd",
+      "name": "Vanessa Paradis",
+      "type": "artist",
+      "uri": "spotify:artist:1FmxE030Xe2H8Bn9bdv6Pd"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IS",
+    "KR",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "MY",
+    "NO",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "RW",
+    "SE",
+    "SK",
+    "TN",
+    "TR",
+    "TW",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 158560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM70901261"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0iaEhpSUULxrFX8fqEkYkD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0iaEhpSUULxrFX8fqEkYkD",
+  "id": "0iaEhpSUULxrFX8fqEkYkD",
+  "is_local": false,
+  "name": "Il y a",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0iaEhpSUULxrFX8fqEkYkD"
+}

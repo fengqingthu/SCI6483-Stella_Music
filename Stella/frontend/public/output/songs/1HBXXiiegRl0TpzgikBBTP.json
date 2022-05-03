@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        },
+        "href": "https://api.spotify.com/v1/artists/1S0vL284jxZYKtZQ2jsQ2X",
+        "id": "1S0vL284jxZYKtZQ2jsQ2X",
+        "name": "Melody's Echo Chamber",
+        "type": "artist",
+        "uri": "spotify:artist:1S0vL284jxZYKtZQ2jsQ2X"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "JP",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
+    },
+    "href": "https://api.spotify.com/v1/albums/0jolpH4eoj3kSEVg9mvZXr",
+    "id": "0jolpH4eoj3kSEVg9mvZXr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273036351cd8dac00d8ab82c730",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02036351cd8dac00d8ab82c730",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851036351cd8dac00d8ab82c730",
+        "width": 64
+      }
+    ],
+    "name": "Bon Voyage",
+    "release_date": "2018-06-15",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:0jolpH4eoj3kSEVg9mvZXr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+      },
+      "href": "https://api.spotify.com/v1/artists/1S0vL284jxZYKtZQ2jsQ2X",
+      "id": "1S0vL284jxZYKtZQ2jsQ2X",
+      "name": "Melody's Echo Chamber",
+      "type": "artist",
+      "uri": "spotify:artist:1S0vL284jxZYKtZQ2jsQ2X"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "JP",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 286680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEL1700749"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1HBXXiiegRl0TpzgikBBTP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1HBXXiiegRl0TpzgikBBTP",
+  "id": "1HBXXiiegRl0TpzgikBBTP",
+  "is_local": false,
+  "name": "Shirim",
+  "popularity": 51,
+  "preview_url": "https://p.scdn.co/mp3-preview/b2a83bf5b0405dbb4c479bfb37db63a9550f19af?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:1HBXXiiegRl0TpzgikBBTP"
+}

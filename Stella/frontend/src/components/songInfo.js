@@ -2,7 +2,9 @@ import React,{useEffect,useState} from 'react';
 import { Html } from '@react-three/drei';
 
 export const GetSongInfo=({id})=>{
-    const[initialState,setInitialState]=useState({album:{name:"",artists:[]}});
+    
+    const[initialState,setInitialState]=useState({album:{name:"",artists:[]},external_urls:{uri:""}});
+    
     useEffect(()=>{
         fetch("/song/"+id).then(res=>{
             if(res.ok){
@@ -11,12 +13,14 @@ export const GetSongInfo=({id})=>{
         }).then(jsonResponse=>setInitialState(jsonResponse))
     },[id]
     )
+    // console.log(initialState)
     return (
-    <>
-    <p>Song:{initialState.name}</p>
+    <div className="overlay">
+    <p >Song:{initialState.name}</p>
     <p>Album:{initialState.album.name}</p>
     <p>Artist:{initialState.album.artists.map((e,i)=><li key={i}>{e.name}</li>)}</p>
-    </>);
+    <p>Uri:{initialState.uri}</p>
+    </div>);
 }
 
 
@@ -34,4 +38,17 @@ export const GetSongTag=({id})=>{
     <Html>
         {initialState.name}
     </Html>);
+}
+
+export const GetSongUri=({id})=>{
+    const[initialState,setInitialState]=useState({});
+    useEffect(()=>{
+        fetch("/song/"+id).then(res=>{
+            if(res.ok){
+                return res.json()
+            }
+        }).then(jsonResponse=>setInitialState(jsonResponse))
+    }
+    )
+    return (initialState.uri);
 }

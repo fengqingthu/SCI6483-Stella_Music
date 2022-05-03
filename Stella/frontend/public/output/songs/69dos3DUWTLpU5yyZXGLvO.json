@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Lg3FGwBxOGuefqekQzRUf",
+        "id": "3Lg3FGwBxOGuefqekQzRUf",
+        "name": "Jason Isbell and the 400 Unit",
+        "type": "artist",
+        "uri": "spotify:artist:3Lg3FGwBxOGuefqekQzRUf"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6trLBy4hEMLGAzvnwdjb2i"
+    },
+    "href": "https://api.spotify.com/v1/albums/6trLBy4hEMLGAzvnwdjb2i",
+    "id": "6trLBy4hEMLGAzvnwdjb2i",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734d230d15b2a0e9182bf311fc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024d230d15b2a0e9182bf311fc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514d230d15b2a0e9182bf311fc",
+        "width": 64
+      }
+    ],
+    "name": "The Nashville Sound",
+    "release_date": "2017-06-16",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6trLBy4hEMLGAzvnwdjb2i"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Lg3FGwBxOGuefqekQzRUf",
+      "id": "3Lg3FGwBxOGuefqekQzRUf",
+      "name": "Jason Isbell and the 400 Unit",
+      "type": "artist",
+      "uri": "spotify:artist:3Lg3FGwBxOGuefqekQzRUf"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215563,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMHBS1700005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/69dos3DUWTLpU5yyZXGLvO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/69dos3DUWTLpU5yyZXGLvO",
+  "id": "69dos3DUWTLpU5yyZXGLvO",
+  "is_local": false,
+  "name": "If We Were Vampires",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/2919d2ee6cc461636e5ca1523ae8330e33f6db86?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:69dos3DUWTLpU5yyZXGLvO"
+}

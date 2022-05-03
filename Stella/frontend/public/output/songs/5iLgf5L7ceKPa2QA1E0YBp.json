@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+        },
+        "href": "https://api.spotify.com/v1/artists/62r8B0snN5IPw8SwCJTEXR",
+        "id": "62r8B0snN5IPw8SwCJTEXR",
+        "name": "Brother Dege",
+        "type": "artist",
+        "uri": "spotify:artist:62r8B0snN5IPw8SwCJTEXR"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "DE",
+      "ES",
+      "FR",
+      "IT",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3SDGWQe1QrIFZeZRMfeYZp"
+    },
+    "href": "https://api.spotify.com/v1/albums/3SDGWQe1QrIFZeZRMfeYZp",
+    "id": "3SDGWQe1QrIFZeZRMfeYZp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d83ac32822e50f55f12e1803",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d83ac32822e50f55f12e1803",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d83ac32822e50f55f12e1803",
+        "width": 64
+      }
+    ],
+    "name": "Farmer's Almanac",
+    "release_date": "2018-04-27",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3SDGWQe1QrIFZeZRMfeYZp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+      },
+      "href": "https://api.spotify.com/v1/artists/62r8B0snN5IPw8SwCJTEXR",
+      "id": "62r8B0snN5IPw8SwCJTEXR",
+      "name": "Brother Dege",
+      "type": "artist",
+      "uri": "spotify:artist:62r8B0snN5IPw8SwCJTEXR"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "DE",
+    "ES",
+    "FR",
+    "IT",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM9BZ1800005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5iLgf5L7ceKPa2QA1E0YBp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5iLgf5L7ceKPa2QA1E0YBp",
+  "id": "5iLgf5L7ceKPa2QA1E0YBp",
+  "is_local": false,
+  "name": "Bastard's Blues",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/9c8337b2303fd2918116f45ff0c368131496fbd0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5iLgf5L7ceKPa2QA1E0YBp"
+}

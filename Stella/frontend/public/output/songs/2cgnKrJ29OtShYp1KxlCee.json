@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2rks5olHZCNWoRW1IV3w99"
+        },
+        "href": "https://api.spotify.com/v1/artists/2rks5olHZCNWoRW1IV3w99",
+        "id": "2rks5olHZCNWoRW1IV3w99",
+        "name": "Hint",
+        "type": "artist",
+        "uri": "spotify:artist:2rks5olHZCNWoRW1IV3w99"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/10GVkf9USbg9TQEcbwacUg"
+    },
+    "href": "https://api.spotify.com/v1/albums/10GVkf9USbg9TQEcbwacUg",
+    "id": "10GVkf9USbg9TQEcbwacUg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273df0d676ae406721855a5338d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02df0d676ae406721855a5338d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851df0d676ae406721855a5338d",
+        "width": 64
+      }
+    ],
+    "name": "Portakabin Fever",
+    "release_date": "2003-04-22",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:10GVkf9USbg9TQEcbwacUg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2rks5olHZCNWoRW1IV3w99"
+      },
+      "href": "https://api.spotify.com/v1/artists/2rks5olHZCNWoRW1IV3w99",
+      "id": "2rks5olHZCNWoRW1IV3w99",
+      "name": "Hint",
+      "type": "artist",
+      "uri": "spotify:artist:2rks5olHZCNWoRW1IV3w99"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 354280,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFB0304002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2cgnKrJ29OtShYp1KxlCee"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2cgnKrJ29OtShYp1KxlCee",
+  "id": "2cgnKrJ29OtShYp1KxlCee",
+  "is_local": false,
+  "name": "Words to That Effect",
+  "popularity": 0,
+  "preview_url": "https://p.scdn.co/mp3-preview/d0323505bdee4ee1de77ffc078935f9f757e188d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2cgnKrJ29OtShYp1KxlCee"
+}

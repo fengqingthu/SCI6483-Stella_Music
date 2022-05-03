@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        },
+        "href": "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+        "id": "0utS63XytOEVN1EtzWhJpG",
+        "name": "The Radio Dept.",
+        "type": "artist",
+        "uri": "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "HK",
+      "IS",
+      "NO",
+      "SE",
+      "TW",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC"
+    },
+    "href": "https://api.spotify.com/v1/albums/4qkV5iPkYOzXBveXuFIRQC",
+    "id": "4qkV5iPkYOzXBveXuFIRQC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273168f60e2314742369190ca5b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02168f60e2314742369190ca5b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851168f60e2314742369190ca5b",
+        "width": 64
+      }
+    ],
+    "name": "Lesser Matters",
+    "release_date": "2003-03-04",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4qkV5iPkYOzXBveXuFIRQC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+      },
+      "href": "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+      "id": "0utS63XytOEVN1EtzWhJpG",
+      "name": "The Radio Dept.",
+      "type": "artist",
+      "uri": "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "HK",
+    "IS",
+    "NO",
+    "SE",
+    "TW",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 267306,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVMM0206010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2MBBUtjJkV6UW7lLAi56XS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2MBBUtjJkV6UW7lLAi56XS",
+  "id": "2MBBUtjJkV6UW7lLAi56XS",
+  "is_local": false,
+  "name": "Strange Things Will Happen",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/e72dae86d2188ae1abadb89e796135711df3d8e8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:2MBBUtjJkV6UW7lLAi56XS"
+}

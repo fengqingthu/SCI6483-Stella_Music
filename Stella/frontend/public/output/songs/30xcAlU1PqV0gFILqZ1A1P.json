@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4p3vsVeyQh9bCHmAccRDL0"
+    },
+    "href": "https://api.spotify.com/v1/albums/4p3vsVeyQh9bCHmAccRDL0",
+    "id": "4p3vsVeyQh9bCHmAccRDL0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a283d440beee38bcc65cf89",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a283d440beee38bcc65cf89",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a283d440beee38bcc65cf89",
+        "width": 64
+      }
+    ],
+    "name": "John Wick (Original Motion Picture Soundtrack)",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:4p3vsVeyQh9bCHmAccRDL0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KrXlzpSX4wWvJ2555FWLv",
+      "id": "2KrXlzpSX4wWvJ2555FWLv",
+      "name": "Le Castle Vania",
+      "type": "artist",
+      "uri": "spotify:artist:2KrXlzpSX4wWvJ2555FWLv"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191397,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3M51430918"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/30xcAlU1PqV0gFILqZ1A1P"
+  },
+  "href": "https://api.spotify.com/v1/tracks/30xcAlU1PqV0gFILqZ1A1P",
+  "id": "30xcAlU1PqV0gFILqZ1A1P",
+  "is_local": false,
+  "name": "Shots Fired",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:30xcAlU1PqV0gFILqZ1A1P"
+}

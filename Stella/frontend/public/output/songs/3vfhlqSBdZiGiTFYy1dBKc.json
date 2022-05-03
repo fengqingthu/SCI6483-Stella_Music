@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        "href": "https://api.spotify.com/v1/artists/4b99uGDv75xD1n2QHuPRDN",
+        "id": "4b99uGDv75xD1n2QHuPRDN",
+        "name": "Jessy Lanza",
+        "type": "artist",
+        "uri": "spotify:artist:4b99uGDv75xD1n2QHuPRDN"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2WOwRUbpymB1b6ozT7lZVf"
+    },
+    "href": "https://api.spotify.com/v1/albums/2WOwRUbpymB1b6ozT7lZVf",
+    "id": "2WOwRUbpymB1b6ozT7lZVf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273241585d151a0e6a06f7d80ca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02241585d151a0e6a06f7d80ca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851241585d151a0e6a06f7d80ca",
+        "width": 64
+      }
+    ],
+    "name": "All The Time",
+    "release_date": "2020-07-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2WOwRUbpymB1b6ozT7lZVf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+      },
+      "href": "https://api.spotify.com/v1/artists/4b99uGDv75xD1n2QHuPRDN",
+      "id": "4b99uGDv75xD1n2QHuPRDN",
+      "name": "Jessy Lanza",
+      "type": "artist",
+      "uri": "spotify:artist:4b99uGDv75xD1n2QHuPRDN"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 269320,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBLZC2000002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3vfhlqSBdZiGiTFYy1dBKc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3vfhlqSBdZiGiTFYy1dBKc",
+  "id": "3vfhlqSBdZiGiTFYy1dBKc",
+  "is_local": false,
+  "name": "Lick In Heaven",
+  "popularity": 6,
+  "preview_url": "https://p.scdn.co/mp3-preview/0cdb4c7929d08ac79b4ecdf47906e4dcc8650fff?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3vfhlqSBdZiGiTFYy1dBKc"
+}

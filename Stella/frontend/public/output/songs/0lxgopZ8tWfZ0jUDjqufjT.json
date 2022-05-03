@@ -1,0 +1,273 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+        },
+        "href": "https://api.spotify.com/v1/artists/3BbwO46TU61EPYFcC9l9Lq",
+        "id": "3BbwO46TU61EPYFcC9l9Lq",
+        "name": "Rolando Villazón",
+        "type": "artist",
+        "uri": "spotify:artist:3BbwO46TU61EPYFcC9l9Lq"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AR",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BE",
+      "BN",
+      "BO",
+      "BR",
+      "BY",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EG",
+      "FJ",
+      "FR",
+      "GB",
+      "GT",
+      "HK",
+      "HN",
+      "HR",
+      "HU",
+      "ID",
+      "IS",
+      "IT",
+      "JP",
+      "KG",
+      "KH",
+      "KR",
+      "KZ",
+      "LA",
+      "LK",
+      "LU",
+      "ME",
+      "MK",
+      "MO",
+      "MU",
+      "MX",
+      "MY",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PY",
+      "RS",
+      "SA",
+      "SE",
+      "SG",
+      "SI",
+      "SV",
+      "TH",
+      "TJ",
+      "TN",
+      "TR",
+      "TW",
+      "UA",
+      "UZ",
+      "VE",
+      "VN",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/44xIqtdrKw9BaORHWiFqbb"
+    },
+    "href": "https://api.spotify.com/v1/albums/44xIqtdrKw9BaORHWiFqbb",
+    "id": "44xIqtdrKw9BaORHWiFqbb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737b2ae12f4aa388c821956c6a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027b2ae12f4aa388c821956c6a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517b2ae12f4aa388c821956c6a",
+        "width": 64
+      }
+    ],
+    "name": "La Strada - Songs From The Movies",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:44xIqtdrKw9BaORHWiFqbb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3BbwO46TU61EPYFcC9l9Lq",
+      "id": "3BbwO46TU61EPYFcC9l9Lq",
+      "name": "Rolando Villazón",
+      "type": "artist",
+      "uri": "spotify:artist:3BbwO46TU61EPYFcC9l9Lq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wGXuNZZfbksWxpsnMNAR0"
+      },
+      "href": "https://api.spotify.com/v1/artists/6wGXuNZZfbksWxpsnMNAR0",
+      "id": "6wGXuNZZfbksWxpsnMNAR0",
+      "name": "Ian Stephenson",
+      "type": "artist",
+      "uri": "spotify:artist:6wGXuNZZfbksWxpsnMNAR0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+      "id": "2oQJQUIpJFFnfKvHJA0xBu",
+      "name": "The City of Prague Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO"
+      },
+      "href": "https://api.spotify.com/v1/artists/4oKiOJ0qPP6TFCv6ebRFKO",
+      "id": "4oKiOJ0qPP6TFCv6ebRFKO",
+      "name": "Nicholas Dodd",
+      "type": "artist",
+      "uri": "spotify:artist:4oKiOJ0qPP6TFCv6ebRFKO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12WCXE6DlRcCn2rEShNepL"
+      },
+      "href": "https://api.spotify.com/v1/artists/12WCXE6DlRcCn2rEShNepL",
+      "id": "12WCXE6DlRcCn2rEShNepL",
+      "name": "Simon Franglen",
+      "type": "artist",
+      "uri": "spotify:artist:12WCXE6DlRcCn2rEShNepL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0O1edtPV3lOZJjZgprkU5l"
+      },
+      "href": "https://api.spotify.com/v1/artists/0O1edtPV3lOZJjZgprkU5l",
+      "id": "0O1edtPV3lOZJjZgprkU5l",
+      "name": "Steven Baker",
+      "type": "artist",
+      "uri": "spotify:artist:0O1edtPV3lOZJjZgprkU5l"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AR",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BE",
+    "BN",
+    "BO",
+    "BR",
+    "BY",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "DE",
+    "DK",
+    "DO",
+    "EC",
+    "EG",
+    "FJ",
+    "FR",
+    "GB",
+    "GT",
+    "HK",
+    "HN",
+    "HR",
+    "HU",
+    "ID",
+    "IS",
+    "IT",
+    "JP",
+    "KG",
+    "KH",
+    "KR",
+    "KZ",
+    "LA",
+    "LK",
+    "LU",
+    "ME",
+    "MK",
+    "MO",
+    "MU",
+    "MX",
+    "MY",
+    "NG",
+    "NI",
+    "NL",
+    "NO",
+    "NZ",
+    "PA",
+    "PE",
+    "PH",
+    "PL",
+    "PY",
+    "RS",
+    "SA",
+    "SE",
+    "SG",
+    "SI",
+    "SV",
+    "TH",
+    "TJ",
+    "TN",
+    "TR",
+    "TW",
+    "UA",
+    "UZ",
+    "VE",
+    "VN",
+    "XK",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEN961100160"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0lxgopZ8tWfZ0jUDjqufjT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0lxgopZ8tWfZ0jUDjqufjT",
+  "id": "0lxgopZ8tWfZ0jUDjqufjT",
+  "is_local": false,
+  "name": "Windmills Of Your Mind",
+  "popularity": 5,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:0lxgopZ8tWfZ0jUDjqufjT"
+}

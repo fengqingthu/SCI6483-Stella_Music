@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+        "id": "6xrCU6zdcSTsG2hLrojpmI",
+        "name": "José González",
+        "type": "artist",
+        "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6kh3CnAbwUudUhZmH6ACRt"
+    },
+    "href": "https://api.spotify.com/v1/albums/6kh3CnAbwUudUhZmH6ACRt",
+    "id": "6kh3CnAbwUudUhZmH6ACRt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b746f162c97d38e8d04d9ead",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b746f162c97d38e8d04d9ead",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b746f162c97d38e8d04d9ead",
+        "width": 64
+      }
+    ],
+    "name": "This Is How We Walk On The Moon",
+    "release_date": "2014-10-21",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6kh3CnAbwUudUhZmH6ACRt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+      "id": "6xrCU6zdcSTsG2hLrojpmI",
+      "name": "José González",
+      "type": "artist",
+      "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 306078,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USY1R1439101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0IY6RqIVuJYYdANru7ujDH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0IY6RqIVuJYYdANru7ujDH",
+  "id": "0IY6RqIVuJYYdANru7ujDH",
+  "is_local": false,
+  "name": "This Is How We Walk On The Moon",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/36a49bd49f507e8b9f752abf627d5359f884e0f9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0IY6RqIVuJYYdANru7ujDH"
+}

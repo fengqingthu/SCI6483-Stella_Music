@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3rbOOc4VJ3BFxQXKppOuQP",
+        "id": "3rbOOc4VJ3BFxQXKppOuQP",
+        "name": "Jeanne Moreau",
+        "type": "artist",
+        "uri": "spotify:artist:3rbOOc4VJ3BFxQXKppOuQP"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2TwEKmxIH0eBTxJ1osjS8S"
+    },
+    "href": "https://api.spotify.com/v1/albums/2TwEKmxIH0eBTxJ1osjS8S",
+    "id": "2TwEKmxIH0eBTxJ1osjS8S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736bd884fb1c21b08943270886",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026bd884fb1c21b08943270886",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516bd884fb1c21b08943270886",
+        "width": 64
+      }
+    ],
+    "name": "The Immortal Jeanne Moreau",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 24,
+    "type": "album",
+    "uri": "spotify:album:2TwEKmxIH0eBTxJ1osjS8S"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3rbOOc4VJ3BFxQXKppOuQP",
+      "id": "3rbOOc4VJ3BFxQXKppOuQP",
+      "name": "Jeanne Moreau",
+      "type": "artist",
+      "uri": "spotify:artist:3rbOOc4VJ3BFxQXKppOuQP"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 206733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ256610116"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/541Ofc74DPNlNxcXkt9adW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/541Ofc74DPNlNxcXkt9adW",
+  "id": "541Ofc74DPNlNxcXkt9adW",
+  "is_local": false,
+  "name": "Jamais je ne t'ai dit que je t'aimerai toujours",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/fca1dd1ce87ce0377d83d241b432b4c25a30294c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:541Ofc74DPNlNxcXkt9adW"
+}

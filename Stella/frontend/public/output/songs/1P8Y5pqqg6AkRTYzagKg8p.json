@@ -1,0 +1,197 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BH",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IL",
+      "IQ",
+      "IS",
+      "IT",
+      "JO",
+      "KW",
+      "LB",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "OM",
+      "PL",
+      "PT",
+      "QA",
+      "RO",
+      "RS",
+      "SA",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1wyCH6L34iaN2uhsybbkAF"
+    },
+    "href": "https://api.spotify.com/v1/albums/1wyCH6L34iaN2uhsybbkAF",
+    "id": "1wyCH6L34iaN2uhsybbkAF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736408aac1f247373e29bee6be",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026408aac1f247373e29bee6be",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516408aac1f247373e29bee6be",
+        "width": 64
+      }
+    ],
+    "name": "Con Air Original Soundtrack",
+    "release_date": "1997-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:1wyCH6L34iaN2uhsybbkAF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23ukNzhMiRiYgORi3n3RJq"
+      },
+      "href": "https://api.spotify.com/v1/artists/23ukNzhMiRiYgORi3n3RJq",
+      "id": "23ukNzhMiRiYgORi3n3RJq",
+      "name": "Trevor Rabin",
+      "type": "artist",
+      "uri": "spotify:artist:23ukNzhMiRiYgORi3n3RJq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3"
+      },
+      "href": "https://api.spotify.com/v1/artists/4pVaQcaBqbvk0ucB4r65e3",
+      "id": "4pVaQcaBqbvk0ucB4r65e3",
+      "name": "Mark Mancina",
+      "type": "artist",
+      "uri": "spotify:artist:4pVaQcaBqbvk0ucB4r65e3"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BH",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IL",
+    "IQ",
+    "IS",
+    "IT",
+    "JO",
+    "KW",
+    "LB",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "OM",
+    "PL",
+    "PT",
+    "QA",
+    "RO",
+    "RS",
+    "SA",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 94826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USHR19709901"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1P8Y5pqqg6AkRTYzagKg8p"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1P8Y5pqqg6AkRTYzagKg8p",
+  "id": "1P8Y5pqqg6AkRTYzagKg8p",
+  "is_local": false,
+  "name": "Con Air Theme",
+  "popularity": 16,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1P8Y5pqqg6AkRTYzagKg8p"
+}

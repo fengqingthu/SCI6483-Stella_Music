@@ -1,0 +1,20 @@
+{
+  "danceability": 0.626,
+  "energy": 0.564,
+  "key": 0,
+  "loudness": -7.422,
+  "mode": 0,
+  "speechiness": 0.0503,
+  "acousticness": 0.0851,
+  "instrumentalness": 0.348,
+  "liveness": 0.217,
+  "valence": 0.78,
+  "tempo": 195.985,
+  "type": "audio_features",
+  "id": "3ZPlIHGLp21LDDeq20Q42W",
+  "uri": "spotify:track:3ZPlIHGLp21LDDeq20Q42W",
+  "track_href": "https://api.spotify.com/v1/tracks/3ZPlIHGLp21LDDeq20Q42W",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZPlIHGLp21LDDeq20Q42W",
+  "duration_ms": 180080,
+  "time_signature": 4
+}

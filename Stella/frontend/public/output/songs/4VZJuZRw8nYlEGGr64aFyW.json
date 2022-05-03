@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7jzDkV54gHUBIffc4vRvBA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7jzDkV54gHUBIffc4vRvBA",
+        "id": "7jzDkV54gHUBIffc4vRvBA",
+        "name": "Lazee",
+        "type": "artist",
+        "uri": "spotify:artist:7jzDkV54gHUBIffc4vRvBA"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0loqzBxsk16xcMjF4SgyZe"
+    },
+    "href": "https://api.spotify.com/v1/albums/0loqzBxsk16xcMjF4SgyZe",
+    "id": "0loqzBxsk16xcMjF4SgyZe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273df892981f7d516ae9f5aa31d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02df892981f7d516ae9f5aa31d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851df892981f7d516ae9f5aa31d",
+        "width": 64
+      }
+    ],
+    "name": "Do It",
+    "release_date": "2010-05-31",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0loqzBxsk16xcMjF4SgyZe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jzDkV54gHUBIffc4vRvBA"
+      },
+      "href": "https://api.spotify.com/v1/artists/7jzDkV54gHUBIffc4vRvBA",
+      "id": "7jzDkV54gHUBIffc4vRvBA",
+      "name": "Lazee",
+      "type": "artist",
+      "uri": "spotify:artist:7jzDkV54gHUBIffc4vRvBA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+      },
+      "href": "https://api.spotify.com/v1/artists/37GUqxafAvAKGMZbXCUnmr",
+      "id": "37GUqxafAvAKGMZbXCUnmr",
+      "name": "Mohombi",
+      "type": "artist",
+      "uri": "spotify:artist:37GUqxafAvAKGMZbXCUnmr"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 208998,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEYQD1000201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4VZJuZRw8nYlEGGr64aFyW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4VZJuZRw8nYlEGGr64aFyW",
+  "id": "4VZJuZRw8nYlEGGr64aFyW",
+  "is_local": false,
+  "name": "Do It (feat. Mohombi)",
+  "popularity": 22,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4VZJuZRw8nYlEGGr64aFyW"
+}

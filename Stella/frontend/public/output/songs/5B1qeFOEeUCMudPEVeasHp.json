@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+        "id": "053q0ukIDRgzwTr4vNSwab",
+        "name": "Grimes",
+        "type": "artist",
+        "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5OKalQQmeRzxR9YIWsrbzL"
+    },
+    "href": "https://api.spotify.com/v1/albums/5OKalQQmeRzxR9YIWsrbzL",
+    "id": "5OKalQQmeRzxR9YIWsrbzL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738ba1a93bd50f98d5f4c48a35",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028ba1a93bd50f98d5f4c48a35",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518ba1a93bd50f98d5f4c48a35",
+        "width": 64
+      }
+    ],
+    "name": "Delete Forever",
+    "release_date": "2020-02-12",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5OKalQQmeRzxR9YIWsrbzL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id": "053q0ukIDRgzwTr4vNSwab",
+      "name": "Grimes",
+      "type": "artist",
+      "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 237493,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBAFL1900405"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5B1qeFOEeUCMudPEVeasHp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5B1qeFOEeUCMudPEVeasHp",
+  "id": "5B1qeFOEeUCMudPEVeasHp",
+  "is_local": false,
+  "name": "Delete Forever",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/760cee6b773541691348e54b6203290342f1023a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5B1qeFOEeUCMudPEVeasHp"
+}

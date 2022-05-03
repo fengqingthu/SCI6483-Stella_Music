@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "name": "The Spaceman: Chaos",
+        "type": "artist",
+        "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5GXae8mwSvFgLy3pZdijQo"
+    },
+    "href": "https://api.spotify.com/v1/albums/5GXae8mwSvFgLy3pZdijQo",
+    "id": "5GXae8mwSvFgLy3pZdijQo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f6a65f6be43f578f55bc8f1e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f6a65f6be43f578f55bc8f1e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f6a65f6be43f578f55bc8f1e",
+        "width": 64
+      }
+    ],
+    "name": "Delirious Songs",
+    "release_date": "2016-12-08",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:5GXae8mwSvFgLy3pZdijQo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "name": "The Spaceman: Chaos",
+      "type": "artist",
+      "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/21UEe3czwoXiWQ9by7yXgG"
+      },
+      "href": "https://api.spotify.com/v1/artists/21UEe3czwoXiWQ9by7yXgG",
+      "id": "21UEe3czwoXiWQ9by7yXgG",
+      "name": "Nono",
+      "type": "artist",
+      "uri": "spotify:artist:21UEe3czwoXiWQ9by7yXgG"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 255524,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QZ4JJ1655859"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/42yADiUh6srrutXIRo7rMp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/42yADiUh6srrutXIRo7rMp",
+  "id": "42yADiUh6srrutXIRo7rMp",
+  "is_local": false,
+  "name": "WHY SO Delirious",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:42yADiUh6srrutXIRo7rMp"
+}

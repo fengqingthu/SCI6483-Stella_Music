@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TJB3EE2efClsYIDQ8V2Jk",
+        "id": "0TJB3EE2efClsYIDQ8V2Jk",
+        "name": "Elbow",
+        "type": "artist",
+        "uri": "spotify:artist:0TJB3EE2efClsYIDQ8V2Jk"
+      }
+    ],
+    "available_markets": [
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7x21YJ5VtgrN6AfWaIuZRM"
+    },
+    "href": "https://api.spotify.com/v1/albums/7x21YJ5VtgrN6AfWaIuZRM",
+    "id": "7x21YJ5VtgrN6AfWaIuZRM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732253d03249f93d28ff49014d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022253d03249f93d28ff49014d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512253d03249f93d28ff49014d",
+        "width": 64
+      }
+    ],
+    "name": "build a rocket boys! (dutch festival edition)",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:7x21YJ5VtgrN6AfWaIuZRM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+      },
+      "href": "https://api.spotify.com/v1/artists/0TJB3EE2efClsYIDQ8V2Jk",
+      "id": "0TJB3EE2efClsYIDQ8V2Jk",
+      "name": "Elbow",
+      "type": "artist",
+      "uri": "spotify:artist:0TJB3EE2efClsYIDQ8V2Jk"
+    }
+  ],
+  "available_markets": [
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 366200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71031107"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0hY82Rdf8woq4p5m0ZvfJZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0hY82Rdf8woq4p5m0ZvfJZ",
+  "id": "0hY82Rdf8woq4p5m0ZvfJZ",
+  "is_local": false,
+  "name": "lippy kids",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0hY82Rdf8woq4p5m0ZvfJZ"
+}

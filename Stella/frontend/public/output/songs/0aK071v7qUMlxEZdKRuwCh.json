@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au"
+        },
+        "href": "https://api.spotify.com/v1/artists/7qlh1IM1XMeQXA9ukp59au",
+        "id": "7qlh1IM1XMeQXA9ukp59au",
+        "name": "Plan B",
+        "type": "artist",
+        "uri": "spotify:artist:7qlh1IM1XMeQXA9ukp59au"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "BO",
+      "BR",
+      "BZ",
+      "CL",
+      "CO",
+      "CR",
+      "DO",
+      "EC",
+      "ES",
+      "GB",
+      "GT",
+      "GY",
+      "HN",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SG",
+      "SR",
+      "SV",
+      "UY",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4XElL183BhmG3dc6kkXW1S"
+    },
+    "href": "https://api.spotify.com/v1/albums/4XElL183BhmG3dc6kkXW1S",
+    "id": "4XElL183BhmG3dc6kkXW1S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ba2c2fbb9388514e6725cf5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027ba2c2fbb9388514e6725cf5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517ba2c2fbb9388514e6725cf5",
+        "width": 64
+      }
+    ],
+    "name": "Who Needs Actions When You Got Words",
+    "release_date": "2006-06-26",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:4XElL183BhmG3dc6kkXW1S"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au"
+      },
+      "href": "https://api.spotify.com/v1/artists/7qlh1IM1XMeQXA9ukp59au",
+      "id": "7qlh1IM1XMeQXA9ukp59au",
+      "name": "Plan B",
+      "type": "artist",
+      "uri": "spotify:artist:7qlh1IM1XMeQXA9ukp59au"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BO",
+    "BR",
+    "BZ",
+    "CL",
+    "CO",
+    "CR",
+    "DO",
+    "EC",
+    "ES",
+    "GB",
+    "GT",
+    "GY",
+    "HN",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SG",
+    "SR",
+    "SV",
+    "UY",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226133,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBFFS0600186"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0aK071v7qUMlxEZdKRuwCh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0aK071v7qUMlxEZdKRuwCh",
+  "id": "0aK071v7qUMlxEZdKRuwCh",
+  "is_local": false,
+  "name": "Charmaine",
+  "popularity": 48,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:0aK071v7qUMlxEZdKRuwCh"
+}

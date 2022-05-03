@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        },
+        "href": "https://api.spotify.com/v1/artists/2EO56JK4txid1Pss9GVbOL",
+        "id": "2EO56JK4txid1Pss9GVbOL",
+        "name": "Stars",
+        "type": "artist",
+        "uri": "spotify:artist:2EO56JK4txid1Pss9GVbOL"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw"
+    },
+    "href": "https://api.spotify.com/v1/albums/6CYTAXBPYJ43irABGOJmIw",
+    "id": "6CYTAXBPYJ43irABGOJmIw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27356988c31bc674fc9cd441def",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0256988c31bc674fc9cd441def",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485156988c31bc674fc9cd441def",
+        "width": 64
+      }
+    ],
+    "name": "Set Yourself On Fire",
+    "release_date": "2004-09-14",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6CYTAXBPYJ43irABGOJmIw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+      },
+      "href": "https://api.spotify.com/v1/artists/2EO56JK4txid1Pss9GVbOL",
+      "id": "2EO56JK4txid1Pss9GVbOL",
+      "name": "Stars",
+      "type": "artist",
+      "uri": "spotify:artist:2EO56JK4txid1Pss9GVbOL"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 256053,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAAA10400901"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6XGKlssGb3oE9IUCvjLthd",
+  "id": "6XGKlssGb3oE9IUCvjLthd",
+  "is_local": false,
+  "name": "Your Ex-Lover Is Dead",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6XGKlssGb3oE9IUCvjLthd"
+}

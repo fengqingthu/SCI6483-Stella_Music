@@ -1,0 +1,185 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+        "id": "7K3zpFXBvPcvzhj7zlGJdO",
+        "name": "Crystal Castles",
+        "type": "artist",
+        "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT"
+    },
+    "href": "https://api.spotify.com/v1/albums/3LnVvIeiLCngvwEnbdxwCT",
+    "id": "3LnVvIeiLCngvwEnbdxwCT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e58f83c489e88a6d0e3a31e1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e58f83c489e88a6d0e3a31e1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e58f83c489e88a6d0e3a31e1",
+        "width": 64
+      }
+    ],
+    "name": "Crystal Castles",
+    "release_date": "2008-03-16",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:3LnVvIeiLCngvwEnbdxwCT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+      },
+      "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+      "id": "7K3zpFXBvPcvzhj7zlGJdO",
+      "name": "Crystal Castles",
+      "type": "artist",
+      "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+      },
+      "href": "https://api.spotify.com/v1/artists/6FfjnGXMhxSsJTuGLWBDth",
+      "id": "6FfjnGXMhxSsJTuGLWBDth",
+      "name": "HEALTH",
+      "type": "artist",
+      "uri": "spotify:artist:6FfjnGXMhxSsJTuGLWBDth"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 258453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBRQQ0700001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7dxQFzp8zZzgDkaYEXQZIv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7dxQFzp8zZzgDkaYEXQZIv",
+  "id": "7dxQFzp8zZzgDkaYEXQZIv",
+  "is_local": false,
+  "name": "Crimewave",
+  "popularity": 59,
+  "preview_url": "https://p.scdn.co/mp3-preview/a2e662347eb1f77ca89edcdfea237ba2738386cf?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7dxQFzp8zZzgDkaYEXQZIv"
+}

@@ -1,0 +1,175 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT"
+        },
+        "href": "https://api.spotify.com/v1/artists/6rnbB5fuUuCSsspvFsxIpT",
+        "id": "6rnbB5fuUuCSsspvFsxIpT",
+        "name": "Cloud Nothings",
+        "type": "artist",
+        "uri": "spotify:artist:6rnbB5fuUuCSsspvFsxIpT"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5WXkhXajktSjUJxN2S50qo"
+    },
+    "href": "https://api.spotify.com/v1/albums/5WXkhXajktSjUJxN2S50qo",
+    "id": "5WXkhXajktSjUJxN2S50qo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bc83535dd797ff3b21d3a665",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bc83535dd797ff3b21d3a665",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bc83535dd797ff3b21d3a665",
+        "width": 64
+      }
+    ],
+    "name": "Attack on Memory",
+    "release_date": "2011-01-27",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:5WXkhXajktSjUJxN2S50qo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT"
+      },
+      "href": "https://api.spotify.com/v1/artists/6rnbB5fuUuCSsspvFsxIpT",
+      "id": "6rnbB5fuUuCSsspvFsxIpT",
+      "name": "Cloud Nothings",
+      "type": "artist",
+      "uri": "spotify:artist:6rnbB5fuUuCSsspvFsxIpT"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 166800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US22N1207004"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1CuYdDDDUEoskL117qpVho"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1CuYdDDDUEoskL117qpVho",
+  "id": "1CuYdDDDUEoskL117qpVho",
+  "is_local": false,
+  "name": "Stay Useless",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/9b3b48b14e6feb12f639181c9b46160ee26f762c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:1CuYdDDDUEoskL117qpVho"
+}

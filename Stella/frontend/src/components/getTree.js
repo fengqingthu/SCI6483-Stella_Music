@@ -5,9 +5,11 @@ export const Tree=()=>{
     useEffect(()=>{
         fetch("/tree/4WmB04GBqS4xPMYN9dHgBw/9,3,1").then(res=>{
             if(res.ok){
+                // setInitialState();
                 return res.json()
             }
         }).then(jsonResponse=>setInitialState(jsonResponse))
     },[])
+    
     return(initialState)
 }

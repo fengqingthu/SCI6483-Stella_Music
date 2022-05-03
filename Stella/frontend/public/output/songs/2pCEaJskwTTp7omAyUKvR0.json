@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG"
+        },
+        "href": "https://api.spotify.com/v1/artists/7vCJSBATlld5vDKTH87tpG",
+        "id": "7vCJSBATlld5vDKTH87tpG",
+        "name": "Revolting Cocks",
+        "type": "artist",
+        "uri": "spotify:artist:7vCJSBATlld5vDKTH87tpG"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC"
+    },
+    "href": "https://api.spotify.com/v1/albums/4tK8thYb8QtoE73oH4UzJC",
+    "id": "4tK8thYb8QtoE73oH4UzJC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366a21740fb275965014ab27e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266a21740fb275965014ab27e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166a21740fb275965014ab27e",
+        "width": 64
+      }
+    ],
+    "name": "Linger Ficken' Good...And Other Barnyard Oddities",
+    "release_date": "1993-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4tK8thYb8QtoE73oH4UzJC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7vCJSBATlld5vDKTH87tpG",
+      "id": "7vCJSBATlld5vDKTH87tpG",
+      "name": "Revolting Cocks",
+      "type": "artist",
+      "uri": "spotify:artist:7vCJSBATlld5vDKTH87tpG"
+    }
+  ],
+  "available_markets": [
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 337226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRE10101904"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2pCEaJskwTTp7omAyUKvR0",
+  "id": "2pCEaJskwTTp7omAyUKvR0",
+  "is_local": false,
+  "name": "Da Ya Think I'm Sexy?",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/b9d9ff2c43453dd5ce13589fd12347d002313199?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2pCEaJskwTTp7omAyUKvR0"
+}

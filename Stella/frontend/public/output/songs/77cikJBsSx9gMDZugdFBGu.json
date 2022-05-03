@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66i5ls7fovMhNt3IkZuWx8"
+        },
+        "href": "https://api.spotify.com/v1/artists/66i5ls7fovMhNt3IkZuWx8",
+        "id": "66i5ls7fovMhNt3IkZuWx8",
+        "name": "Deathlike Silence",
+        "type": "artist",
+        "uri": "spotify:artist:66i5ls7fovMhNt3IkZuWx8"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5h0PmnawmeCKdwccLjV1TI"
+    },
+    "href": "https://api.spotify.com/v1/albums/5h0PmnawmeCKdwccLjV1TI",
+    "id": "5h0PmnawmeCKdwccLjV1TI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27314d839ace87b3daee3c55846",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0214d839ace87b3daee3c55846",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485114d839ace87b3daee3c55846",
+        "width": 64
+      }
+    ],
+    "name": "Saturday Night Evil (UK Edition)",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5h0PmnawmeCKdwccLjV1TI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66i5ls7fovMhNt3IkZuWx8"
+      },
+      "href": "https://api.spotify.com/v1/artists/66i5ls7fovMhNt3IkZuWx8",
+      "id": "66i5ls7fovMhNt3IkZuWx8",
+      "name": "Deathlike Silence",
+      "type": "artist",
+      "uri": "spotify:artist:66i5ls7fovMhNt3IkZuWx8"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 225573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FIUM70801846"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/77cikJBsSx9gMDZugdFBGu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/77cikJBsSx9gMDZugdFBGu",
+  "id": "77cikJBsSx9gMDZugdFBGu",
+  "is_local": false,
+  "name": "Moonlight Shadow",
+  "popularity": 8,
+  "preview_url": "https://p.scdn.co/mp3-preview/b475b31d00123762493e108efc7c3ab733ad2f82?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:77cikJBsSx9gMDZugdFBGu"
+}

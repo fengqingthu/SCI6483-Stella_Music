@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+        "id": "1xUhNgw4eJDZfvumIpcz1B",
+        "name": "Children Of Bodom",
+        "type": "artist",
+        "uri": "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6IXxByE7VDkdxBlWRdqU5I"
+    },
+    "href": "https://api.spotify.com/v1/albums/6IXxByE7VDkdxBlWRdqU5I",
+    "id": "6IXxByE7VDkdxBlWRdqU5I",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fb1fcd5efb6e00b9b838b285",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fb1fcd5efb6e00b9b838b285",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fb1fcd5efb6e00b9b838b285",
+        "width": 64
+      }
+    ],
+    "name": "Skeletons in the Closet (US Edition)",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:6IXxByE7VDkdxBlWRdqU5I"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+      },
+      "href": "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+      "id": "1xUhNgw4eJDZfvumIpcz1B",
+      "name": "Children Of Bodom",
+      "type": "artist",
+      "uri": "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 200200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FISFS0500164"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/67n85Tkfd2SdkGphp0ludO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/67n85Tkfd2SdkGphp0ludO",
+  "id": "67n85Tkfd2SdkGphp0ludO",
+  "is_local": false,
+  "name": "Oops!...I Did It Again",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:67n85Tkfd2SdkGphp0ludO"
+}

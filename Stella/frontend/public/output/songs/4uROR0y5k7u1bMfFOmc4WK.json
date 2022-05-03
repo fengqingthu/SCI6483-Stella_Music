@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        },
+        "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+        "id": "56ZTgzPBDge0OvCGgMO3OY",
+        "name": "Beach House",
+        "type": "artist",
+        "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO"
+    },
+    "href": "https://api.spotify.com/v1/albums/4WbFCzKALujxRNeoeLS5zO",
+    "id": "4WbFCzKALujxRNeoeLS5zO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733a742e77f706953b88daaf52",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023a742e77f706953b88daaf52",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513a742e77f706953b88daaf52",
+        "width": 64
+      }
+    ],
+    "name": "Thank Your Lucky Stars",
+    "release_date": "2015-10-16",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:4WbFCzKALujxRNeoeLS5zO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+      },
+      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+      "id": "56ZTgzPBDge0OvCGgMO3OY",
+      "name": "Beach House",
+      "type": "artist",
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 253936,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSUB1514209"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4uROR0y5k7u1bMfFOmc4WK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4uROR0y5k7u1bMfFOmc4WK",
+  "id": "4uROR0y5k7u1bMfFOmc4WK",
+  "is_local": false,
+  "name": "Somewhere Tonight",
+  "popularity": 51,
+  "preview_url": "https://p.scdn.co/mp3-preview/1dcd0f39be9c792d9c231b64b988cd4549359e65?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:4uROR0y5k7u1bMfFOmc4WK"
+}

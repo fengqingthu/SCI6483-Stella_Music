@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12TNXxHqXaIwJjgd6C9O4X"
+        },
+        "href": "https://api.spotify.com/v1/artists/12TNXxHqXaIwJjgd6C9O4X",
+        "id": "12TNXxHqXaIwJjgd6C9O4X",
+        "name": "Carel Kraayenhof",
+        "type": "artist",
+        "uri": "spotify:artist:12TNXxHqXaIwJjgd6C9O4X"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7K9rY0vnCo2sVFZsA8p8Wu"
+    },
+    "href": "https://api.spotify.com/v1/albums/7K9rY0vnCo2sVFZsA8p8Wu",
+    "id": "7K9rY0vnCo2sVFZsA8p8Wu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738c2e70a36cd44537e200e3d4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028c2e70a36cd44537e200e3d4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518c2e70a36cd44537e200e3d4",
+        "width": 64
+      }
+    ],
+    "name": "¡Fuerza!",
+    "release_date": "2012-07-20",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7K9rY0vnCo2sVFZsA8p8Wu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12TNXxHqXaIwJjgd6C9O4X"
+      },
+      "href": "https://api.spotify.com/v1/artists/12TNXxHqXaIwJjgd6C9O4X",
+      "id": "12TNXxHqXaIwJjgd6C9O4X",
+      "name": "Carel Kraayenhof",
+      "type": "artist",
+      "uri": "spotify:artist:12TNXxHqXaIwJjgd6C9O4X"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 416893,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLKM81200026"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2FP07Dx08HolaDLrB4sF8e"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2FP07Dx08HolaDLrB4sF8e",
+  "id": "2FP07Dx08HolaDLrB4sF8e",
+  "is_local": false,
+  "name": "Adiós Nonino",
+  "popularity": 12,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:2FP07Dx08HolaDLrB4sF8e"
+}

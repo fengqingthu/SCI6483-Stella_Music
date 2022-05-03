@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        },
+        "href": "https://api.spotify.com/v1/artists/2K13AVg3bFpHSxDM1vJ0qA",
+        "id": "2K13AVg3bFpHSxDM1vJ0qA",
+        "name": "CSS",
+        "type": "artist",
+        "uri": "spotify:artist:2K13AVg3bFpHSxDM1vJ0qA"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CL",
+      "CO",
+      "CR",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "KN",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "UY",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7cZIQQfNkws673ITooWWtB"
+    },
+    "href": "https://api.spotify.com/v1/albums/7cZIQQfNkws673ITooWWtB",
+    "id": "7cZIQQfNkws673ITooWWtB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e72639fd1f457aa40e89e294",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e72639fd1f457aa40e89e294",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e72639fd1f457aa40e89e294",
+        "width": 64
+      }
+    ],
+    "name": "Cansei de Ser Sexy",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:7cZIQQfNkws673ITooWWtB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2K13AVg3bFpHSxDM1vJ0qA",
+      "id": "2K13AVg3bFpHSxDM1vJ0qA",
+      "name": "CSS",
+      "type": "artist",
+      "uri": "spotify:artist:2K13AVg3bFpHSxDM1vJ0qA"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CL",
+    "CO",
+    "CR",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "KN",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "UY",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BRTPA0500488"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Saph7uUNru1EJnGsd646L"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Saph7uUNru1EJnGsd646L",
+  "id": "4Saph7uUNru1EJnGsd646L",
+  "is_local": false,
+  "name": "Let's Make Love and Listen Death from Above",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/b5fa6d0652ca5d8dcf5f44c90300a070bd07f272?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4Saph7uUNru1EJnGsd646L"
+}

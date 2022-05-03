@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Zv18Cta5DagtTKdgvSGuM"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Zv18Cta5DagtTKdgvSGuM",
+        "id": "4Zv18Cta5DagtTKdgvSGuM",
+        "name": "Glen Hansard & Marketa Irglova",
+        "type": "artist",
+        "uri": "spotify:artist:4Zv18Cta5DagtTKdgvSGuM"
+      }
+    ],
+    "available_markets": [
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0aL7FNtoMDkOrvaGPXgbdK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0aL7FNtoMDkOrvaGPXgbdK",
+    "id": "0aL7FNtoMDkOrvaGPXgbdK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b5cc43004e5707b613bbb6ce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b5cc43004e5707b613bbb6ce",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b5cc43004e5707b613bbb6ce",
+        "width": 64
+      }
+    ],
+    "name": "The Swell Season",
+    "release_date": "2006-05-05",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0aL7FNtoMDkOrvaGPXgbdK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Zv18Cta5DagtTKdgvSGuM"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Zv18Cta5DagtTKdgvSGuM",
+      "id": "4Zv18Cta5DagtTKdgvSGuM",
+      "name": "Glen Hansard & Marketa Irglova",
+      "type": "artist",
+      "uri": "spotify:artist:4Zv18Cta5DagtTKdgvSGuM"
+    }
+  ],
+  "available_markets": [
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 282626,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "IEABQ0600011"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4okdnHaaJNchn7LBeCwFWD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4okdnHaaJNchn7LBeCwFWD",
+  "id": "4okdnHaaJNchn7LBeCwFWD",
+  "is_local": false,
+  "name": "The Moon",
+  "popularity": 6,
+  "preview_url": "https://p.scdn.co/mp3-preview/bf0e8d39581ea44f4b642b44c82835db83800baa?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:4okdnHaaJNchn7LBeCwFWD"
+}

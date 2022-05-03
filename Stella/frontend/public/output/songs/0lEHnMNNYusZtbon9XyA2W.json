@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        },
+        "href": "https://api.spotify.com/v1/artists/1hCkSJcXREhrodeIHQdav8",
+        "id": "1hCkSJcXREhrodeIHQdav8",
+        "name": "Ramin Djawadi",
+        "type": "artist",
+        "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk"
+    },
+    "href": "https://api.spotify.com/v1/albums/0gJWChOVkVRgZCK09irLOk",
+    "id": "0gJWChOVkVRgZCK09irLOk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023d2dc1ad7bc94f4f431a2e14",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513d2dc1ad7bc94f4f431a2e14",
+        "width": 64
+      }
+    ],
+    "name": "Pacific Rim (Soundtrack from Warner Bros. Pictures and Legendary Pictures)",
+    "release_date": "2013-07-23",
+    "release_date_precision": "day",
+    "total_tracks": 26,
+    "type": "album",
+    "uri": "spotify:album:0gJWChOVkVRgZCK09irLOk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hCkSJcXREhrodeIHQdav8",
+      "id": "1hCkSJcXREhrodeIHQdav8",
+      "name": "Ramin Djawadi",
+      "type": "artist",
+      "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+      },
+      "href": "https://api.spotify.com/v1/artists/74NBPbyyftqJ4SpDZ4c1Ed",
+      "id": "74NBPbyyftqJ4SpDZ4c1Ed",
+      "name": "Tom Morello",
+      "type": "artist",
+      "uri": "spotify:artist:74NBPbyyftqJ4SpDZ4c1Ed"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 295426,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNLR1300401"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0lEHnMNNYusZtbon9XyA2W",
+  "id": "0lEHnMNNYusZtbon9XyA2W",
+  "is_local": false,
+  "name": "Pacific Rim (feat. Tom Morello)",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/5fe9ac6f297c51a51306106e2be186bc76eddc2b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0lEHnMNNYusZtbon9XyA2W"
+}

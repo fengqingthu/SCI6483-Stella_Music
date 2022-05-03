@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        },
+        "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl",
+        "id": "3zunDAtRDg7kflREzWAhxl",
+        "name": "Eels",
+        "type": "artist",
+        "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5qbb1FBWnws45S6eMUvo2D"
+    },
+    "href": "https://api.spotify.com/v1/albums/5qbb1FBWnws45S6eMUvo2D",
+    "id": "5qbb1FBWnws45S6eMUvo2D",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f2a5d3d1138b20af5f816480",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f2a5d3d1138b20af5f816480",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f2a5d3d1138b20af5f816480",
+        "width": 64
+      }
+    ],
+    "name": "Hombre Lobo",
+    "release_date": "2009-06-02",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5qbb1FBWnws45S6eMUvo2D"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl",
+      "id": "3zunDAtRDg7kflREzWAhxl",
+      "name": "Eels",
+      "type": "artist",
+      "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 264666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVR90953707"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5atcNk0VJ42eev7JZ44uJr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5atcNk0VJ42eev7JZ44uJr",
+  "id": "5atcNk0VJ42eev7JZ44uJr",
+  "is_local": false,
+  "name": "Fresh Blood",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/067d1109c2f7336c7aa5f7f43a67ffa4e3dbbfbc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:5atcNk0VJ42eev7JZ44uJr"
+}

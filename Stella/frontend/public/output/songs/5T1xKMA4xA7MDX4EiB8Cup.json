@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GQboECxDT1xqPPWC30p7v",
+        "id": "3GQboECxDT1xqPPWC30p7v",
+        "name": "Charlotte Day Wilson",
+        "type": "artist",
+        "uri": "spotify:artist:3GQboECxDT1xqPPWC30p7v"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT"
+    },
+    "href": "https://api.spotify.com/v1/albums/1OzNHYZsbugdZIvC4cv1IT",
+    "id": "1OzNHYZsbugdZIvC4cv1IT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c9e6b55aac438dce3dc5688a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c9e6b55aac438dce3dc5688a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c9e6b55aac438dce3dc5688a",
+        "width": 64
+      }
+    ],
+    "name": "Work",
+    "release_date": "2016-04-14",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1OzNHYZsbugdZIvC4cv1IT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+      },
+      "href": "https://api.spotify.com/v1/artists/3GQboECxDT1xqPPWC30p7v",
+      "id": "3GQboECxDT1xqPPWC30p7v",
+      "name": "Charlotte Day Wilson",
+      "type": "artist",
+      "uri": "spotify:artist:3GQboECxDT1xqPPWC30p7v"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 224481,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAK471601701"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5T1xKMA4xA7MDX4EiB8Cup",
+  "id": "5T1xKMA4xA7MDX4EiB8Cup",
+  "is_local": false,
+  "name": "Work",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/0f5b2101e3ad7ac6f22a19b60a5c53e920831e57?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5T1xKMA4xA7MDX4EiB8Cup"
+}

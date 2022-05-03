@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+        },
+        "href": "https://api.spotify.com/v1/artists/6tkhw6PSVw7b2M7h5fLBLE",
+        "id": "6tkhw6PSVw7b2M7h5fLBLE",
+        "name": "Cyhra",
+        "type": "artist",
+        "uri": "spotify:artist:6tkhw6PSVw7b2M7h5fLBLE"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2hGiMmIodxrO9w9B38GEjT"
+    },
+    "href": "https://api.spotify.com/v1/albums/2hGiMmIodxrO9w9B38GEjT",
+    "id": "2hGiMmIodxrO9w9B38GEjT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734923d909c23871cfe012ab48",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024923d909c23871cfe012ab48",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514923d909c23871cfe012ab48",
+        "width": 64
+      }
+    ],
+    "name": "Letters To Myself",
+    "release_date": "2017-10-20",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:2hGiMmIodxrO9w9B38GEjT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+      },
+      "href": "https://api.spotify.com/v1/artists/6tkhw6PSVw7b2M7h5fLBLE",
+      "id": "6tkhw6PSVw7b2M7h5fLBLE",
+      "name": "Cyhra",
+      "type": "artist",
+      "uri": "spotify:artist:6tkhw6PSVw7b2M7h5fLBLE"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 213966,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FIUM71700271"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1GS9cXp8t9nhQF7dgICSeM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1GS9cXp8t9nhQF7dgICSeM",
+  "id": "1GS9cXp8t9nhQF7dgICSeM",
+  "is_local": false,
+  "name": "Forever",
+  "popularity": 2,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:1GS9cXp8t9nhQF7dgICSeM"
+}

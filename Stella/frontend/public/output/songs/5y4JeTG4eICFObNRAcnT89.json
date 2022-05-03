@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6uEw3tFC2WPXqKIFDeI5VK"
+        },
+        "href": "https://api.spotify.com/v1/artists/6uEw3tFC2WPXqKIFDeI5VK",
+        "id": "6uEw3tFC2WPXqKIFDeI5VK",
+        "name": "Keedz",
+        "type": "artist",
+        "uri": "spotify:artist:6uEw3tFC2WPXqKIFDeI5VK"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6nGD4LmiPVbVjCzhBnj5pD"
+    },
+    "href": "https://api.spotify.com/v1/albums/6nGD4LmiPVbVjCzhBnj5pD",
+    "id": "6nGD4LmiPVbVjCzhBnj5pD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273416dcebdf6ca8f2f420e8171",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02416dcebdf6ca8f2f420e8171",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851416dcebdf6ca8f2f420e8171",
+        "width": 64
+      }
+    ],
+    "name": "Stand On The Word",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6nGD4LmiPVbVjCzhBnj5pD"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6uEw3tFC2WPXqKIFDeI5VK"
+      },
+      "href": "https://api.spotify.com/v1/artists/6uEw3tFC2WPXqKIFDeI5VK",
+      "id": "6uEw3tFC2WPXqKIFDeI5VK",
+      "name": "Keedz",
+      "type": "artist",
+      "uri": "spotify:artist:6uEw3tFC2WPXqKIFDeI5VK"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 226506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRODU0800032"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5y4JeTG4eICFObNRAcnT89"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5y4JeTG4eICFObNRAcnT89",
+  "id": "5y4JeTG4eICFObNRAcnT89",
+  "is_local": false,
+  "name": "Made In The Water",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:5y4JeTG4eICFObNRAcnT89"
+}

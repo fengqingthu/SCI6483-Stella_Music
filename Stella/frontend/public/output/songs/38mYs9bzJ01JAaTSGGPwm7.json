@@ -1,0 +1,131 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oJ3WVkGXRBtRC0YaqMKxU",
+        "id": "4oJ3WVkGXRBtRC0YaqMKxU",
+        "name": "Niagara",
+        "type": "artist",
+        "uri": "spotify:artist:4oJ3WVkGXRBtRC0YaqMKxU"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "EE",
+      "FI",
+      "FR",
+      "GB",
+      "GN",
+      "HK",
+      "LT",
+      "LU",
+      "LV",
+      "MY",
+      "NL",
+      "NO",
+      "PH",
+      "PK",
+      "RW",
+      "SE",
+      "SG",
+      "SK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5eACg7cS4UJ8Ks1ET7Q1L3"
+    },
+    "href": "https://api.spotify.com/v1/albums/5eACg7cS4UJ8Ks1ET7Q1L3",
+    "id": "5eACg7cS4UJ8Ks1ET7Q1L3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273586c4807d4ba51619051285e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02586c4807d4ba51619051285e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851586c4807d4ba51619051285e",
+        "width": 64
+      }
+    ],
+    "name": "Religion",
+    "release_date": "1990-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5eACg7cS4UJ8Ks1ET7Q1L3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU"
+      },
+      "href": "https://api.spotify.com/v1/artists/4oJ3WVkGXRBtRC0YaqMKxU",
+      "id": "4oJ3WVkGXRBtRC0YaqMKxU",
+      "name": "Niagara",
+      "type": "artist",
+      "uri": "spotify:artist:4oJ3WVkGXRBtRC0YaqMKxU"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "EE",
+    "FI",
+    "FR",
+    "GB",
+    "GN",
+    "HK",
+    "LT",
+    "LU",
+    "LV",
+    "MY",
+    "NL",
+    "NO",
+    "PH",
+    "PK",
+    "RW",
+    "SE",
+    "SG",
+    "SK",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ029000550"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/38mYs9bzJ01JAaTSGGPwm7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/38mYs9bzJ01JAaTSGGPwm7",
+  "id": "38mYs9bzJ01JAaTSGGPwm7",
+  "is_local": false,
+  "name": "Pendant que les champs brûlent",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:38mYs9bzJ01JAaTSGGPwm7"
+}

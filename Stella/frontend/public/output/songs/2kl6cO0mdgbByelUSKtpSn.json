@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        },
+        "href": "https://api.spotify.com/v1/artists/7f0OLhGgBMX9fUjm1dcPip",
+        "id": "7f0OLhGgBMX9fUjm1dcPip",
+        "name": "Alice Merton",
+        "type": "artist",
+        "uri": "spotify:artist:7f0OLhGgBMX9fUjm1dcPip"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "TR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2EwVWNkKtyjQwDInp6FmKJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/2EwVWNkKtyjQwDInp6FmKJ",
+    "id": "2EwVWNkKtyjQwDInp6FmKJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6b982d520742d1b41a3ebfa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6b982d520742d1b41a3ebfa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d6b982d520742d1b41a3ebfa",
+        "width": 64
+      }
+    ],
+    "name": "MINT",
+    "release_date": "2019-01-18",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2EwVWNkKtyjQwDInp6FmKJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+      },
+      "href": "https://api.spotify.com/v1/artists/7f0OLhGgBMX9fUjm1dcPip",
+      "id": "7f0OLhGgBMX9fUjm1dcPip",
+      "name": "Alice Merton",
+      "type": "artist",
+      "uri": "spotify:artist:7f0OLhGgBMX9fUjm1dcPip"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "TR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 194773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEVQ71800001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2kl6cO0mdgbByelUSKtpSn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2kl6cO0mdgbByelUSKtpSn",
+  "id": "2kl6cO0mdgbByelUSKtpSn",
+  "is_local": false,
+  "name": "Lash Out",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/27c9d6ad60d5ee641982b439306dc2f61e1a63bf?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2kl6cO0mdgbByelUSKtpSn"
+}

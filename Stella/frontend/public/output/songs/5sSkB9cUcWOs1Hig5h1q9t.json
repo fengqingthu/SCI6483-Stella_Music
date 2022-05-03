@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        "href": "https://api.spotify.com/v1/artists/5GxyeQagayzZOg4UwffQlD",
+        "id": "5GxyeQagayzZOg4UwffQlD",
+        "name": "Chicane",
+        "type": "artist",
+        "uri": "spotify:artist:5GxyeQagayzZOg4UwffQlD"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6KJOlb41tFJRz27V3jkq9g"
+    },
+    "href": "https://api.spotify.com/v1/albums/6KJOlb41tFJRz27V3jkq9g",
+    "id": "6KJOlb41tFJRz27V3jkq9g",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27396cae2d037afc6b7ebf64f88",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0296cae2d037afc6b7ebf64f88",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485196cae2d037afc6b7ebf64f88",
+        "width": 64
+      }
+    ],
+    "name": "Stoned In Love",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:6KJOlb41tFJRz27V3jkq9g"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+      },
+      "href": "https://api.spotify.com/v1/artists/5GxyeQagayzZOg4UwffQlD",
+      "id": "5GxyeQagayzZOg4UwffQlD",
+      "name": "Chicane",
+      "type": "artist",
+      "uri": "spotify:artist:5GxyeQagayzZOg4UwffQlD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+      },
+      "href": "https://api.spotify.com/v1/artists/1T0wRBO0CK0vK8ouUMqEl5",
+      "id": "1T0wRBO0CK0vK8ouUMqEl5",
+      "name": "Tom Jones",
+      "type": "artist",
+      "uri": "spotify:artist:1T0wRBO0CK0vK8ouUMqEl5"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218720,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70600890"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5sSkB9cUcWOs1Hig5h1q9t"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5sSkB9cUcWOs1Hig5h1q9t",
+  "id": "5sSkB9cUcWOs1Hig5h1q9t",
+  "is_local": false,
+  "name": "Stoned In Love - Radio Edit",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/5da4b717417e68fc3ec922a61aceafb2c25f0690?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5sSkB9cUcWOs1Hig5h1q9t"
+}

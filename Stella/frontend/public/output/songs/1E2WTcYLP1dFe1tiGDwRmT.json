@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Qp56T7n950O3EGMsSl81D",
+        "id": "1Qp56T7n950O3EGMsSl81D",
+        "name": "Ghost",
+        "type": "artist",
+        "uri": "spotify:artist:1Qp56T7n950O3EGMsSl81D"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+    },
+    "href": "https://api.spotify.com/v1/albums/1KMfjy6MmPorahRjxhTnxm",
+    "id": "1KMfjy6MmPorahRjxhTnxm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dd712ef33296be4dd442d425",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dd712ef33296be4dd442d425",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dd712ef33296be4dd442d425",
+        "width": 64
+      }
+    ],
+    "name": "Prequelle",
+    "release_date": "2018-06-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1KMfjy6MmPorahRjxhTnxm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Qp56T7n950O3EGMsSl81D",
+      "id": "1Qp56T7n950O3EGMsSl81D",
+      "name": "Ghost",
+      "type": "artist",
+      "uri": "spotify:artist:1Qp56T7n950O3EGMsSl81D"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219720,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USC4R1802355"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1E2WTcYLP1dFe1tiGDwRmT",
+  "id": "1E2WTcYLP1dFe1tiGDwRmT",
+  "is_local": false,
+  "name": "Dance Macabre",
+  "popularity": 59,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:1E2WTcYLP1dFe1tiGDwRmT"
+}

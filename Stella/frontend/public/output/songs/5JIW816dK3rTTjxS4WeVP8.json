@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TNiKyCX2oCvdo1sTgHcRw",
+        "id": "4TNiKyCX2oCvdo1sTgHcRw",
+        "name": "Barbara",
+        "type": "artist",
+        "uri": "spotify:artist:4TNiKyCX2oCvdo1sTgHcRw"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0sBa6mRIfK3LgMAInUM50j"
+    },
+    "href": "https://api.spotify.com/v1/albums/0sBa6mRIfK3LgMAInUM50j",
+    "id": "0sBa6mRIfK3LgMAInUM50j",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731a065c02cd87672ebc7e5bf1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021a065c02cd87672ebc7e5bf1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511a065c02cd87672ebc7e5bf1",
+        "width": 64
+      }
+    ],
+    "name": "Ma Plus Belle Histoire D'Amour... C'Est Vous",
+    "release_date": "1992-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:0sBa6mRIfK3LgMAInUM50j"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4TNiKyCX2oCvdo1sTgHcRw",
+      "id": "4TNiKyCX2oCvdo1sTgHcRw",
+      "name": "Barbara",
+      "type": "artist",
+      "uri": "spotify:artist:4TNiKyCX2oCvdo1sTgHcRw"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 173680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ080900469"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5JIW816dK3rTTjxS4WeVP8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5JIW816dK3rTTjxS4WeVP8",
+  "id": "5JIW816dK3rTTjxS4WeVP8",
+  "is_local": false,
+  "name": "Dis, quand reviendras-tu ?",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/1e1531762b986fb9e65a0a45562abf2131c731bb?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:5JIW816dK3rTTjxS4WeVP8"
+}

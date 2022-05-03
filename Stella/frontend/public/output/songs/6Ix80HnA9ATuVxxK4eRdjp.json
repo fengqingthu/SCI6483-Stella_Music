@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        },
+        "href": "https://api.spotify.com/v1/artists/6swnqiL41Bd4gO2fnAXXrf",
+        "id": "6swnqiL41Bd4gO2fnAXXrf",
+        "name": "Beyond The Black",
+        "type": "artist",
+        "uri": "spotify:artist:6swnqiL41Bd4gO2fnAXXrf"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6k9EAwItlPnro8t3YHIVs7"
+    },
+    "href": "https://api.spotify.com/v1/albums/6k9EAwItlPnro8t3YHIVs7",
+    "id": "6k9EAwItlPnro8t3YHIVs7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273541ad6a7b813e50bbee0c0e8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02541ad6a7b813e50bbee0c0e8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851541ad6a7b813e50bbee0c0e8",
+        "width": 64
+      }
+    ],
+    "name": "Songs Of Love And Death",
+    "release_date": "2015-02-13",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6k9EAwItlPnro8t3YHIVs7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+      },
+      "href": "https://api.spotify.com/v1/artists/6swnqiL41Bd4gO2fnAXXrf",
+      "id": "6swnqiL41Bd4gO2fnAXXrf",
+      "name": "Beyond The Black",
+      "type": "artist",
+      "uri": "spotify:artist:6swnqiL41Bd4gO2fnAXXrf"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 255120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEUM71404089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6Ix80HnA9ATuVxxK4eRdjp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6Ix80HnA9ATuVxxK4eRdjp",
+  "id": "6Ix80HnA9ATuVxxK4eRdjp",
+  "is_local": false,
+  "name": "Songs Of Love And Death",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/d35616724c230d9202cd2be9a33401e8038d713b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6Ix80HnA9ATuVxxK4eRdjp"
+}

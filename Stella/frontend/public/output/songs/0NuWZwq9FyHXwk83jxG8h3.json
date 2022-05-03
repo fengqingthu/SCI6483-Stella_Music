@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jQgWQKirZ7IKDGN8fRtdA"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jQgWQKirZ7IKDGN8fRtdA",
+        "id": "6jQgWQKirZ7IKDGN8fRtdA",
+        "name": "Månegarm",
+        "type": "artist",
+        "uri": "spotify:artist:6jQgWQKirZ7IKDGN8fRtdA"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1VPZSMwIXiPuXo6fpM6GTc"
+    },
+    "href": "https://api.spotify.com/v1/albums/1VPZSMwIXiPuXo6fpM6GTc",
+    "id": "1VPZSMwIXiPuXo6fpM6GTc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273023f6e319dd512deabb1110d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02023f6e319dd512deabb1110d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851023f6e319dd512deabb1110d",
+        "width": 64
+      }
+    ],
+    "name": "Manegarm",
+    "release_date": "2015-11-20",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1VPZSMwIXiPuXo6fpM6GTc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jQgWQKirZ7IKDGN8fRtdA"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jQgWQKirZ7IKDGN8fRtdA",
+      "id": "6jQgWQKirZ7IKDGN8fRtdA",
+      "name": "Månegarm",
+      "type": "artist",
+      "uri": "spotify:artist:6jQgWQKirZ7IKDGN8fRtdA"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261563404"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0NuWZwq9FyHXwk83jxG8h3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0NuWZwq9FyHXwk83jxG8h3",
+  "id": "0NuWZwq9FyHXwk83jxG8h3",
+  "is_local": false,
+  "name": "Blot",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/57ac811818433aa9aa8312c71605214e85d98c98?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0NuWZwq9FyHXwk83jxG8h3"
+}

@@ -1,0 +1,127 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        },
+        "href": "https://api.spotify.com/v1/artists/4M84umUNRbZy1mJleyyRM9",
+        "id": "4M84umUNRbZy1mJleyyRM9",
+        "name": "Vitalic",
+        "type": "artist",
+        "uri": "spotify:artist:4M84umUNRbZy1mJleyyRM9"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AT",
+      "AU",
+      "BE",
+      "CH",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "LU",
+      "MC",
+      "NL",
+      "NO",
+      "PT",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Wb2fs8rdUkhHqfEqKPprt"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Wb2fs8rdUkhHqfEqKPprt",
+    "id": "6Wb2fs8rdUkhHqfEqKPprt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734cdb1f047da18b8f9776f26b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024cdb1f047da18b8f9776f26b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514cdb1f047da18b8f9776f26b",
+        "width": 64
+      }
+    ],
+    "name": "Voyager",
+    "release_date": "2017-01-20",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6Wb2fs8rdUkhHqfEqKPprt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+      },
+      "href": "https://api.spotify.com/v1/artists/4M84umUNRbZy1mJleyyRM9",
+      "id": "4M84umUNRbZy1mJleyyRM9",
+      "name": "Vitalic",
+      "type": "artist",
+      "uri": "spotify:artist:4M84umUNRbZy1mJleyyRM9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7laYyocrIxSHYPjzqlUak8"
+      },
+      "href": "https://api.spotify.com/v1/artists/7laYyocrIxSHYPjzqlUak8",
+      "id": "7laYyocrIxSHYPjzqlUak8",
+      "name": "Mark Kerr",
+      "type": "artist",
+      "uri": "spotify:artist:7laYyocrIxSHYPjzqlUak8"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "AU",
+    "BE",
+    "CH",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "IE",
+    "IT",
+    "LU",
+    "MC",
+    "NL",
+    "NO",
+    "PT",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 278880,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRU661610105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1g9Bz5zn7YW1MFm8PEAg2f"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1g9Bz5zn7YW1MFm8PEAg2f",
+  "id": "1g9Bz5zn7YW1MFm8PEAg2f",
+  "is_local": false,
+  "name": "Use It Or Lose It",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/c120f34f984cbd981b3091f4a9a2fe279a3940c6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1g9Bz5zn7YW1MFm8PEAg2f"
+}

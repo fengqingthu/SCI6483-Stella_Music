@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3AHFDfqhSqPBecjQDIOIJA",
+        "id": "3AHFDfqhSqPBecjQDIOIJA",
+        "name": "U.S. Girls",
+        "type": "artist",
+        "uri": "spotify:artist:3AHFDfqhSqPBecjQDIOIJA"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3NaBTnzFcmFsjEfluKhJ1Y"
+    },
+    "href": "https://api.spotify.com/v1/albums/3NaBTnzFcmFsjEfluKhJ1Y",
+    "id": "3NaBTnzFcmFsjEfluKhJ1Y",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27340b4a15ebe92ca2e35c40ea3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0240b4a15ebe92ca2e35c40ea3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485140b4a15ebe92ca2e35c40ea3",
+        "width": 64
+      }
+    ],
+    "name": "In A Poem Unlimited",
+    "release_date": "2018-02-16",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3NaBTnzFcmFsjEfluKhJ1Y"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3AHFDfqhSqPBecjQDIOIJA",
+      "id": "3AHFDfqhSqPBecjQDIOIJA",
+      "name": "U.S. Girls",
+      "type": "artist",
+      "uri": "spotify:artist:3AHFDfqhSqPBecjQDIOIJA"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 189840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFL1700328"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2FYXcVtGjxcqrsjQoqisS4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2FYXcVtGjxcqrsjQoqisS4",
+  "id": "2FYXcVtGjxcqrsjQoqisS4",
+  "is_local": false,
+  "name": "Rosebud",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/3ade5f7be1833649b08d044a83ea9af5e07e5cff?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2FYXcVtGjxcqrsjQoqisS4"
+}

@@ -1,0 +1,179 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/7H55rcKCfwqkyDFH9wpKM6",
+        "id": "7H55rcKCfwqkyDFH9wpKM6",
+        "name": "Christina Perri",
+        "type": "artist",
+        "uri": "spotify:artist:7H55rcKCfwqkyDFH9wpKM6"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BN",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "HK",
+      "HN",
+      "HT",
+      "ID",
+      "IN",
+      "JM",
+      "KH",
+      "KN",
+      "KR",
+      "LA",
+      "LC",
+      "MO",
+      "MX",
+      "MY",
+      "NI",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PY",
+      "SE",
+      "SG",
+      "SV",
+      "TH",
+      "TL",
+      "TT",
+      "TW",
+      "US",
+      "UY",
+      "VC",
+      "VE",
+      "VN",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
+    },
+    "href": "https://api.spotify.com/v1/albums/15yvc643iYfQtb6zh9NEJo",
+    "id": "15yvc643iYfQtb6zh9NEJo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733dea4a2ccd58ad1f8e4dbb03",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023dea4a2ccd58ad1f8e4dbb03",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513dea4a2ccd58ad1f8e4dbb03",
+        "width": 64
+      }
+    ],
+    "name": "A Thousand Years",
+    "release_date": "2011-10-18",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:15yvc643iYfQtb6zh9NEJo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7H55rcKCfwqkyDFH9wpKM6",
+      "id": "7H55rcKCfwqkyDFH9wpKM6",
+      "name": "Christina Perri",
+      "type": "artist",
+      "uri": "spotify:artist:7H55rcKCfwqkyDFH9wpKM6"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BN",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "HK",
+    "HN",
+    "HT",
+    "ID",
+    "IN",
+    "JM",
+    "KH",
+    "KN",
+    "KR",
+    "LA",
+    "LC",
+    "MO",
+    "MX",
+    "MY",
+    "NI",
+    "NZ",
+    "PA",
+    "PE",
+    "PH",
+    "PY",
+    "SE",
+    "SG",
+    "SV",
+    "TH",
+    "TL",
+    "TT",
+    "TW",
+    "US",
+    "UY",
+    "VC",
+    "VE",
+    "VN",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 285120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USAT21102141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6lanRgr6wXibZr8KgzXxBl",
+  "id": "6lanRgr6wXibZr8KgzXxBl",
+  "is_local": false,
+  "name": "A Thousand Years",
+  "popularity": 78,
+  "preview_url": "https://p.scdn.co/mp3-preview/3479f40bde60a8bf162d2ce1ede0edc75c0006c4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl"
+}

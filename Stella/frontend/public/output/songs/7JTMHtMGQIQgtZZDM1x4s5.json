@@ -1,0 +1,121 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        },
+        "href": "https://api.spotify.com/v1/artists/7fnMav7xXJwwjbyWbSjF4C",
+        "id": "7fnMav7xXJwwjbyWbSjF4C",
+        "name": "Gia Margaret",
+        "type": "artist",
+        "uri": "spotify:artist:7fnMav7xXJwwjbyWbSjF4C"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6qy3kKRePcyju3SxF34kOh"
+    },
+    "href": "https://api.spotify.com/v1/albums/6qy3kKRePcyju3SxF34kOh",
+    "id": "6qy3kKRePcyju3SxF34kOh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f3d77e91681d74407064d36d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f3d77e91681d74407064d36d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f3d77e91681d74407064d36d",
+        "width": 64
+      }
+    ],
+    "name": "There's Always Glimmer",
+    "release_date": "2018-07-27",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6qy3kKRePcyju3SxF34kOh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+      },
+      "href": "https://api.spotify.com/v1/artists/7fnMav7xXJwwjbyWbSjF4C",
+      "id": "7fnMav7xXJwwjbyWbSjF4C",
+      "name": "Gia Margaret",
+      "type": "artist",
+      "uri": "spotify:artist:7fnMav7xXJwwjbyWbSjF4C"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 227423,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USHM21877358"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7JTMHtMGQIQgtZZDM1x4s5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7JTMHtMGQIQgtZZDM1x4s5",
+  "id": "7JTMHtMGQIQgtZZDM1x4s5",
+  "is_local": false,
+  "name": "Birthday",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/1d574e3895e97b3b268cfd112d4fd7b53e0111fc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7JTMHtMGQIQgtZZDM1x4s5"
+}

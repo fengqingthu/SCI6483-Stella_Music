@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        },
+        "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+        "id": "57ylwQTnFnIhJh4nu4rxCs",
+        "name": "In Flames",
+        "type": "artist",
+        "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+      }
+    ],
+    "available_markets": [
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/06yfpcNmffdp132tSibhgo"
+    },
+    "href": "https://api.spotify.com/v1/albums/06yfpcNmffdp132tSibhgo",
+    "id": "06yfpcNmffdp132tSibhgo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273044426c0a49f991c698275ef",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02044426c0a49f991c698275ef",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851044426c0a49f991c698275ef",
+        "width": 64
+      }
+    ],
+    "name": "Sounds Of A Playground Fading",
+    "release_date": "2011-06-15",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:06yfpcNmffdp132tSibhgo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+      },
+      "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+      "id": "57ylwQTnFnIhJh4nu4rxCs",
+      "name": "In Flames",
+      "type": "artist",
+      "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+    }
+  ],
+  "available_markets": [
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 209800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SE2P71100102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2GoBwSF9xk6aSt6jGpCxvk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2GoBwSF9xk6aSt6jGpCxvk",
+  "id": "2GoBwSF9xk6aSt6jGpCxvk",
+  "is_local": false,
+  "name": "Deliver Us",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/103f3e4e3eb403bcc0194f073f4112aa683dc627?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2GoBwSF9xk6aSt6jGpCxvk"
+}

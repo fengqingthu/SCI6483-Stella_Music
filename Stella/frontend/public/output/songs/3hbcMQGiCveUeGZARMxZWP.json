@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zYJziKktyqWwmoAWXrShP",
+        "id": "5zYJziKktyqWwmoAWXrShP",
+        "name": "Modestep",
+        "type": "artist",
+        "uri": "spotify:artist:5zYJziKktyqWwmoAWXrShP"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "CH",
+      "DE",
+      "IE",
+      "IT",
+      "LU",
+      "NL",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/24TpXO4wm4toW0mU2vKfMA"
+    },
+    "href": "https://api.spotify.com/v1/albums/24TpXO4wm4toW0mU2vKfMA",
+    "id": "24TpXO4wm4toW0mU2vKfMA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273abf05c37661559a5a4a445f9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02abf05c37661559a5a4a445f9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851abf05c37661559a5a4a445f9",
+        "width": 64
+      }
+    ],
+    "name": "London Road",
+    "release_date": "2015-05-22",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:24TpXO4wm4toW0mU2vKfMA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zYJziKktyqWwmoAWXrShP",
+      "id": "5zYJziKktyqWwmoAWXrShP",
+      "name": "Modestep",
+      "type": "artist",
+      "uri": "spotify:artist:5zYJziKktyqWwmoAWXrShP"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BE",
+    "CH",
+    "DE",
+    "IE",
+    "IT",
+    "LU",
+    "NL",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 274246,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQY51530107"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3hbcMQGiCveUeGZARMxZWP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3hbcMQGiCveUeGZARMxZWP",
+  "id": "3hbcMQGiCveUeGZARMxZWP",
+  "is_local": false,
+  "name": "Machines",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/68bb964379ec3859736f4d492285906ad52dd506?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3hbcMQGiCveUeGZARMxZWP"
+}

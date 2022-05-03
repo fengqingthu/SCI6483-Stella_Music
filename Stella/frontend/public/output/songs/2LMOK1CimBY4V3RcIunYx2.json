@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        },
+        "href": "https://api.spotify.com/v1/artists/6KWcxMWVNVIYbdOQyJtsSy",
+        "id": "6KWcxMWVNVIYbdOQyJtsSy",
+        "name": "The Platters",
+        "type": "artist",
+        "uri": "spotify:artist:6KWcxMWVNVIYbdOQyJtsSy"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3IWV7NOK8i4fQF0opXk9Wv"
+    },
+    "href": "https://api.spotify.com/v1/albums/3IWV7NOK8i4fQF0opXk9Wv",
+    "id": "3IWV7NOK8i4fQF0opXk9Wv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732f290407eda95c02b7b9c1e2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022f290407eda95c02b7b9c1e2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512f290407eda95c02b7b9c1e2",
+        "width": 64
+      }
+    ],
+    "name": "All Time Greats",
+    "release_date": "2019-11-15",
+    "release_date_precision": "day",
+    "total_tracks": 40,
+    "type": "album",
+    "uri": "spotify:album:3IWV7NOK8i4fQF0opXk9Wv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+      },
+      "href": "https://api.spotify.com/v1/artists/6KWcxMWVNVIYbdOQyJtsSy",
+      "id": "6KWcxMWVNVIYbdOQyJtsSy",
+      "name": "The Platters",
+      "type": "artist",
+      "uri": "spotify:artist:6KWcxMWVNVIYbdOQyJtsSy"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 2,
+  "duration_ms": 157120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USPR38605201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2LMOK1CimBY4V3RcIunYx2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2LMOK1CimBY4V3RcIunYx2",
+  "id": "2LMOK1CimBY4V3RcIunYx2",
+  "is_local": false,
+  "name": "Only You (And You Alone) - Single Version",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2LMOK1CimBY4V3RcIunYx2"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4PoYwGOztIrPpBfRIlMSxP",
+        "id": "4PoYwGOztIrPpBfRIlMSxP",
+        "name": "Soil",
+        "type": "artist",
+        "uri": "spotify:artist:4PoYwGOztIrPpBfRIlMSxP"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5tvQbj6e1LF8P67EOURmyg"
+    },
+    "href": "https://api.spotify.com/v1/albums/5tvQbj6e1LF8P67EOURmyg",
+    "id": "5tvQbj6e1LF8P67EOURmyg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273183ee1900f4da9381aebc3e7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02183ee1900f4da9381aebc3e7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851183ee1900f4da9381aebc3e7",
+        "width": 64
+      }
+    ],
+    "name": "Scars",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5tvQbj6e1LF8P67EOURmyg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PoYwGOztIrPpBfRIlMSxP",
+      "id": "4PoYwGOztIrPpBfRIlMSxP",
+      "name": "Soil",
+      "type": "artist",
+      "uri": "spotify:artist:4PoYwGOztIrPpBfRIlMSxP"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 196440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USJAY0100076"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4R1xeug6JLyWwVp0APzwdN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4R1xeug6JLyWwVp0APzwdN",
+  "id": "4R1xeug6JLyWwVp0APzwdN",
+  "is_local": false,
+  "name": "Halo",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/5771b9f973c7bde65fe5040362136e8ee8f6c7af?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4R1xeug6JLyWwVp0APzwdN"
+}

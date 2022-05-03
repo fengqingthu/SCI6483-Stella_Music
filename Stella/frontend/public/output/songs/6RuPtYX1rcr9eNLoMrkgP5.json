@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        },
+        "href": "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+        "id": "46CitWgnWrvF9t70C2p1Me",
+        "name": "Daughter",
+        "type": "artist",
+        "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4Z3D0Kl6k3dGZDutN5JFfv"
+    },
+    "href": "https://api.spotify.com/v1/albums/4Z3D0Kl6k3dGZDutN5JFfv",
+    "id": "4Z3D0Kl6k3dGZDutN5JFfv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ab8a1905173e56147cf26c9c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ab8a1905173e56147cf26c9c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ab8a1905173e56147cf26c9c",
+        "width": 64
+      }
+    ],
+    "name": "Spotify Sessions",
+    "release_date": "2013-07-29",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:4Z3D0Kl6k3dGZDutN5JFfv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+      },
+      "href": "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+      "id": "46CitWgnWrvF9t70C2p1Me",
+      "name": "Daughter",
+      "type": "artist",
+      "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 244280,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USYAH1300154"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6RuPtYX1rcr9eNLoMrkgP5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6RuPtYX1rcr9eNLoMrkgP5",
+  "id": "6RuPtYX1rcr9eNLoMrkgP5",
+  "is_local": false,
+  "name": "Youth",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/02df84c8a4bc2ecaaa22d12a02e14a61404b2c91?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6RuPtYX1rcr9eNLoMrkgP5"
+}

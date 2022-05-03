@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5FXMcILCOMjljRTV6cLoiE",
+        "id": "5FXMcILCOMjljRTV6cLoiE",
+        "name": "Sirenia",
+        "type": "artist",
+        "uri": "spotify:artist:5FXMcILCOMjljRTV6cLoiE"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2YQNG4UNPgGmdPXB8kSnSc"
+    },
+    "href": "https://api.spotify.com/v1/albums/2YQNG4UNPgGmdPXB8kSnSc",
+    "id": "2YQNG4UNPgGmdPXB8kSnSc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27382411c17f4359cb4b15820f7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0282411c17f4359cb4b15820f7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485182411c17f4359cb4b15820f7",
+        "width": 64
+      }
+    ],
+    "name": "Riddles, Ruins & Revelations",
+    "release_date": "2021-02-12",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2YQNG4UNPgGmdPXB8kSnSc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FXMcILCOMjljRTV6cLoiE",
+      "id": "5FXMcILCOMjljRTV6cLoiE",
+      "name": "Sirenia",
+      "type": "artist",
+      "uri": "spotify:artist:5FXMcILCOMjljRTV6cLoiE"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 258564,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262195011"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6k4vaOep0EELZgVinOzDVL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6k4vaOep0EELZgVinOzDVL",
+  "id": "6k4vaOep0EELZgVinOzDVL",
+  "is_local": false,
+  "name": "Voyage Voyage - Bonus Track",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/fc11090162bc64548173d5dc8979ce380b6826f1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:6k4vaOep0EELZgVinOzDVL"
+}

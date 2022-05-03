@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oeUpvxWsC8bWS6SnpU8b9",
+        "id": "0oeUpvxWsC8bWS6SnpU8b9",
+        "name": "The Naked And Famous",
+        "type": "artist",
+        "uri": "spotify:artist:0oeUpvxWsC8bWS6SnpU8b9"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0DChiaJ1bTZ30eOS46O1ir"
+    },
+    "href": "https://api.spotify.com/v1/albums/0DChiaJ1bTZ30eOS46O1ir",
+    "id": "0DChiaJ1bTZ30eOS46O1ir",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d495bb7d1d9eb98b5f2b09f7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d495bb7d1d9eb98b5f2b09f7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d495bb7d1d9eb98b5f2b09f7",
+        "width": 64
+      }
+    ],
+    "name": "Blinding Lights",
+    "release_date": "2020-04-22",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0DChiaJ1bTZ30eOS46O1ir"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+      },
+      "href": "https://api.spotify.com/v1/artists/0oeUpvxWsC8bWS6SnpU8b9",
+      "id": "0oeUpvxWsC8bWS6SnpU8b9",
+      "name": "The Naked And Famous",
+      "type": "artist",
+      "uri": "spotify:artist:0oeUpvxWsC8bWS6SnpU8b9"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 187333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKPL2095916"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2QPXufo1DAgMB3Xpk01Hy5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2QPXufo1DAgMB3Xpk01Hy5",
+  "id": "2QPXufo1DAgMB3Xpk01Hy5",
+  "is_local": false,
+  "name": "Blinding Lights",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/631156eb621b331ded80fe122129b87df994326b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2QPXufo1DAgMB3Xpk01Hy5"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4bdaMKNYS8bLvgfmYNCW70"
+    },
+    "href": "https://api.spotify.com/v1/albums/4bdaMKNYS8bLvgfmYNCW70",
+    "id": "4bdaMKNYS8bLvgfmYNCW70",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27311bff1c03040a25e979e8d15",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0211bff1c03040a25e979e8d15",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485111bff1c03040a25e979e8d15",
+        "width": 64
+      }
+    ],
+    "name": "Paint Your Wagon (Music From The Soundtrack)",
+    "release_date": "1977-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:4bdaMKNYS8bLvgfmYNCW70"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7GbjN1ab1LJcJV2JOhTqBK"
+      },
+      "href": "https://api.spotify.com/v1/artists/7GbjN1ab1LJcJV2JOhTqBK",
+      "id": "7GbjN1ab1LJcJV2JOhTqBK",
+      "name": "Lee Marvin",
+      "type": "artist",
+      "uri": "spotify:artist:7GbjN1ab1LJcJV2JOhTqBK"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 268506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMC10346434"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0YvkE6ZQ7Pe0BHZ2gCqlIn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0YvkE6ZQ7Pe0BHZ2gCqlIn",
+  "id": "0YvkE6ZQ7Pe0BHZ2gCqlIn",
+  "is_local": false,
+  "name": "Wand'rin' Star",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:0YvkE6ZQ7Pe0BHZ2gCqlIn"
+}

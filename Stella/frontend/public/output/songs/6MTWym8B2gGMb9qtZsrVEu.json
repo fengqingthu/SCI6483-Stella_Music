@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oJM3iJjMdzgsd4z5VHQvw",
+        "id": "0oJM3iJjMdzgsd4z5VHQvw",
+        "name": "Professor Green",
+        "type": "artist",
+        "uri": "spotify:artist:0oJM3iJjMdzgsd4z5VHQvw"
+      }
+    ],
+    "available_markets": [
+      "BS",
+      "GB",
+      "IE",
+      "SB",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6qO1EJyUU3L0NOxGZdMoDi"
+    },
+    "href": "https://api.spotify.com/v1/albums/6qO1EJyUU3L0NOxGZdMoDi",
+    "id": "6qO1EJyUU3L0NOxGZdMoDi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ee72387f7fc741ba45d21d03",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ee72387f7fc741ba45d21d03",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ee72387f7fc741ba45d21d03",
+        "width": 64
+      }
+    ],
+    "name": "Alive Till I'm Dead",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6qO1EJyUU3L0NOxGZdMoDi"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw"
+      },
+      "href": "https://api.spotify.com/v1/artists/0oJM3iJjMdzgsd4z5VHQvw",
+      "id": "0oJM3iJjMdzgsd4z5VHQvw",
+      "name": "Professor Green",
+      "type": "artist",
+      "uri": "spotify:artist:0oJM3iJjMdzgsd4z5VHQvw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ukgrNYk51TkMQr0f2Br4Q",
+      "id": "0ukgrNYk51TkMQr0f2Br4Q",
+      "name": "Maverick Sabre",
+      "type": "artist",
+      "uri": "spotify:artist:0ukgrNYk51TkMQr0f2Br4Q"
+    }
+  ],
+  "available_markets": [
+    "BS",
+    "GB",
+    "IE",
+    "SB",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 193111,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBAAA1000169"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6MTWym8B2gGMb9qtZsrVEu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6MTWym8B2gGMb9qtZsrVEu",
+  "id": "6MTWym8B2gGMb9qtZsrVEu",
+  "is_local": false,
+  "name": "Jungle",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:6MTWym8B2gGMb9qtZsrVEu"
+}

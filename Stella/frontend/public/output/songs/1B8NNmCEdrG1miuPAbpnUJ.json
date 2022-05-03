@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OpqU68JpZlzvjAJj3B2Da",
+        "id": "3OpqU68JpZlzvjAJj3B2Da",
+        "name": "Alestorm",
+        "type": "artist",
+        "uri": "spotify:artist:3OpqU68JpZlzvjAJj3B2Da"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4FLKKdPt8Ze7gHbs5c93RK"
+    },
+    "href": "https://api.spotify.com/v1/albums/4FLKKdPt8Ze7gHbs5c93RK",
+    "id": "4FLKKdPt8Ze7gHbs5c93RK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fea623adc8819999dfd3fa9d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fea623adc8819999dfd3fa9d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fea623adc8819999dfd3fa9d",
+        "width": 64
+      }
+    ],
+    "name": "Back Through Time",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4FLKKdPt8Ze7gHbs5c93RK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+      },
+      "href": "https://api.spotify.com/v1/artists/3OpqU68JpZlzvjAJj3B2Da",
+      "id": "3OpqU68JpZlzvjAJj3B2Da",
+      "name": "Alestorm",
+      "type": "artist",
+      "uri": "spotify:artist:3OpqU68JpZlzvjAJj3B2Da"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261137202"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1B8NNmCEdrG1miuPAbpnUJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1B8NNmCEdrG1miuPAbpnUJ",
+  "id": "1B8NNmCEdrG1miuPAbpnUJ",
+  "is_local": false,
+  "name": "Shipwrecked",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/629d7bdc347597edfdd754ec8bc6758a95d19b1c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1B8NNmCEdrG1miuPAbpnUJ"
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+        "id": "2FXC3k01G6Gw61bmprjgqS",
+        "name": "Hozier",
+        "type": "artist",
+        "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/4Pv7m8D82A1Xun7xNCKZjJ",
+    "id": "4Pv7m8D82A1Xun7xNCKZjJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024ca68d59a4a29c856a4a39c2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514ca68d59a4a29c856a4a39c2",
+        "width": 64
+      }
+    ],
+    "name": "Hozier (Expanded Edition)",
+    "release_date": "2014-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:4Pv7m8D82A1Xun7xNCKZjJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+      },
+      "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+      "id": "2FXC3k01G6Gw61bmprjgqS",
+      "name": "Hozier",
+      "type": "artist",
+      "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 331400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM11405457"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Pkn31exSVgFbfDAH961QC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Pkn31exSVgFbfDAH961QC",
+  "id": "5Pkn31exSVgFbfDAH961QC",
+  "is_local": false,
+  "name": "In the Woods Somewhere",
+  "popularity": 53,
+  "preview_url": "https://p.scdn.co/mp3-preview/86b3b41c92ff1254b57716c8864be1f0a74dfee7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:5Pkn31exSVgFbfDAH961QC"
+}

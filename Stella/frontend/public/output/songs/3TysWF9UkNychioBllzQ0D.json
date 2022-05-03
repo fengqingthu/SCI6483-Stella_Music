@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+        },
+        "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+        "id": "7zDtfSB0AOZWhpuAHZIOw5",
+        "name": "Candlemass",
+        "type": "artist",
+        "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6EumQq6sUmiEqUozPrF7rb"
+    },
+    "href": "https://api.spotify.com/v1/albums/6EumQq6sUmiEqUozPrF7rb",
+    "id": "6EumQq6sUmiEqUozPrF7rb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27303068188920bdd81973e7ba0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0203068188920bdd81973e7ba0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485103068188920bdd81973e7ba0",
+        "width": 64
+      }
+    ],
+    "name": "The Pendulum",
+    "release_date": "2020-01-31",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6EumQq6sUmiEqUozPrF7rb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+      },
+      "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+      "id": "7zDtfSB0AOZWhpuAHZIOw5",
+      "name": "Candlemass",
+      "type": "artist",
+      "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 299293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262093201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3TysWF9UkNychioBllzQ0D"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3TysWF9UkNychioBllzQ0D",
+  "id": "3TysWF9UkNychioBllzQ0D",
+  "is_local": false,
+  "name": "The Pendulum",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/f27df4903bc80b5ab83dad15b934713c34071f3d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3TysWF9UkNychioBllzQ0D"
+}

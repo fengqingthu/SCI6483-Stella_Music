@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        },
+        "href": "https://api.spotify.com/v1/artists/65Tmt9uAPTYGl1ZhsOeEJ6",
+        "id": "65Tmt9uAPTYGl1ZhsOeEJ6",
+        "name": "HAEVN",
+        "type": "artist",
+        "uri": "spotify:artist:65Tmt9uAPTYGl1ZhsOeEJ6"
+      }
+    ],
+    "available_markets": [
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3O566wiW97oPoP3QzSYF7P"
+    },
+    "href": "https://api.spotify.com/v1/albums/3O566wiW97oPoP3QzSYF7P",
+    "id": "3O566wiW97oPoP3QzSYF7P",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27348203e11e59cdd8404fda817",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0248203e11e59cdd8404fda817",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485148203e11e59cdd8404fda817",
+        "width": 64
+      }
+    ],
+    "name": "Eyes Closed",
+    "release_date": "2018-05-25",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:3O566wiW97oPoP3QzSYF7P"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+      },
+      "href": "https://api.spotify.com/v1/artists/65Tmt9uAPTYGl1ZhsOeEJ6",
+      "id": "65Tmt9uAPTYGl1ZhsOeEJ6",
+      "name": "HAEVN",
+      "type": "artist",
+      "uri": "spotify:artist:65Tmt9uAPTYGl1ZhsOeEJ6"
+    }
+  ],
+  "available_markets": [
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 190266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLP7E1800002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7ir5B8HuezPkWvR5MlGVQK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7ir5B8HuezPkWvR5MlGVQK",
+  "id": "7ir5B8HuezPkWvR5MlGVQK",
+  "is_local": false,
+  "name": "Back In The Water",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/aabe8007d81edb7f7db1fb7495a0a0eece757de5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:7ir5B8HuezPkWvR5MlGVQK"
+}

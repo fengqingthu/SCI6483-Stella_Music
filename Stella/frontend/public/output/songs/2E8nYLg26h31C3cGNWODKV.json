@@ -1,0 +1,121 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gHcu2JoaXJ0mV4aNPCd7N",
+        "id": "4gHcu2JoaXJ0mV4aNPCd7N",
+        "name": "Benny Sings",
+        "type": "artist",
+        "uri": "spotify:artist:4gHcu2JoaXJ0mV4aNPCd7N"
+      }
+    ],
+    "available_markets": [
+      "BD",
+      "BN",
+      "BT",
+      "HK",
+      "ID",
+      "IN",
+      "KH",
+      "KR",
+      "LA",
+      "LK",
+      "MN",
+      "MO",
+      "MY",
+      "NP",
+      "PH",
+      "PK",
+      "SG",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6m9VV9JIrMfacsRJ61rPD4"
+    },
+    "href": "https://api.spotify.com/v1/albums/6m9VV9JIrMfacsRJ61rPD4",
+    "id": "6m9VV9JIrMfacsRJ61rPD4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736cbc9dd126a83b509f02f213",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026cbc9dd126a83b509f02f213",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516cbc9dd126a83b509f02f213",
+        "width": 64
+      }
+    ],
+    "name": "Music",
+    "release_date": "2021-04-07",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6m9VV9JIrMfacsRJ61rPD4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gHcu2JoaXJ0mV4aNPCd7N",
+      "id": "4gHcu2JoaXJ0mV4aNPCd7N",
+      "name": "Benny Sings",
+      "type": "artist",
+      "uri": "spotify:artist:4gHcu2JoaXJ0mV4aNPCd7N"
+    }
+  ],
+  "available_markets": [
+    "BD",
+    "BN",
+    "BT",
+    "HK",
+    "ID",
+    "IN",
+    "KH",
+    "KR",
+    "LA",
+    "LK",
+    "MN",
+    "MO",
+    "MY",
+    "NP",
+    "PH",
+    "PK",
+    "SG",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 171746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLX5C2000001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2E8nYLg26h31C3cGNWODKV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2E8nYLg26h31C3cGNWODKV",
+  "id": "2E8nYLg26h31C3cGNWODKV",
+  "is_local": false,
+  "name": "Sunny Afternoon",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/bfec4aa01a4673ffb3de50f393309ebbb9ec87a5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2E8nYLg26h31C3cGNWODKV"
+}

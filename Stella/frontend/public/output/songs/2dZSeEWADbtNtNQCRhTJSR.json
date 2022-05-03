@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        },
+        "href": "https://api.spotify.com/v1/artists/5556RAgwP70PnXbaUTGNbR",
+        "id": "5556RAgwP70PnXbaUTGNbR",
+        "name": "Combichrist",
+        "type": "artist",
+        "uri": "spotify:artist:5556RAgwP70PnXbaUTGNbR"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4LixabMBShUfOE5rxOqFCh"
+    },
+    "href": "https://api.spotify.com/v1/albums/4LixabMBShUfOE5rxOqFCh",
+    "id": "4LixabMBShUfOE5rxOqFCh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273003208104242a9f77a70a414",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02003208104242a9f77a70a414",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851003208104242a9f77a70a414",
+        "width": 64
+      }
+    ],
+    "name": "We Love You (Deluxe Edition)",
+    "release_date": "2014-03-21",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:4LixabMBShUfOE5rxOqFCh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5556RAgwP70PnXbaUTGNbR",
+      "id": "5556RAgwP70PnXbaUTGNbR",
+      "name": "Combichrist",
+      "type": "artist",
+      "uri": "spotify:artist:5556RAgwP70PnXbaUTGNbR"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 252694,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEBZ71400097"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2dZSeEWADbtNtNQCRhTJSR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2dZSeEWADbtNtNQCRhTJSR",
+  "id": "2dZSeEWADbtNtNQCRhTJSR",
+  "is_local": false,
+  "name": "Maggots at the Party",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/d32607eb81bec434c5bf38bdd225b918b20a4ae5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2dZSeEWADbtNtNQCRhTJSR"
+}

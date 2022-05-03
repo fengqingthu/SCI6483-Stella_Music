@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1llzvQ4m3FTJJ9ujYKLLA3"
+        },
+        "href": "https://api.spotify.com/v1/artists/1llzvQ4m3FTJJ9ujYKLLA3",
+        "id": "1llzvQ4m3FTJJ9ujYKLLA3",
+        "name": "Jet Harris",
+        "type": "artist",
+        "uri": "spotify:artist:1llzvQ4m3FTJJ9ujYKLLA3"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ckk2xESTjd0CZhAyhlRaS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ckk2xESTjd0CZhAyhlRaS",
+        "id": "4ckk2xESTjd0CZhAyhlRaS",
+        "name": "Tony Meehan",
+        "type": "artist",
+        "uri": "spotify:artist:4ckk2xESTjd0CZhAyhlRaS"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/66Jd2s8gUQyklT8aqFIdI4"
+    },
+    "href": "https://api.spotify.com/v1/albums/66Jd2s8gUQyklT8aqFIdI4",
+    "id": "66Jd2s8gUQyklT8aqFIdI4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fd18e2aac9a0199f94de5fbc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fd18e2aac9a0199f94de5fbc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fd18e2aac9a0199f94de5fbc",
+        "width": 64
+      }
+    ],
+    "name": "Diamonds & Other Gems",
+    "release_date": "1989-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:66Jd2s8gUQyklT8aqFIdI4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1llzvQ4m3FTJJ9ujYKLLA3"
+      },
+      "href": "https://api.spotify.com/v1/artists/1llzvQ4m3FTJJ9ujYKLLA3",
+      "id": "1llzvQ4m3FTJJ9ujYKLLA3",
+      "name": "Jet Harris",
+      "type": "artist",
+      "uri": "spotify:artist:1llzvQ4m3FTJJ9ujYKLLA3"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 146133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF076200420"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6xBzkXu3Ieuw44ihOUxwUJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6xBzkXu3Ieuw44ihOUxwUJ",
+  "id": "6xBzkXu3Ieuw44ihOUxwUJ",
+  "is_local": false,
+  "name": "Chills And Fever",
+  "popularity": 4,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:6xBzkXu3Ieuw44ihOUxwUJ"
+}

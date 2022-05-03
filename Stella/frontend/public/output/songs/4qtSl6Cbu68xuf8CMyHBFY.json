@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id": "3gd8FJtBJtkRxdfbTu19U2",
+        "name": "Mumford & Sons",
+        "type": "artist",
+        "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7KqrcrbzYY9lKmIEnTIppe"
+    },
+    "href": "https://api.spotify.com/v1/albums/7KqrcrbzYY9lKmIEnTIppe",
+    "id": "7KqrcrbzYY9lKmIEnTIppe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b8978d93181bf6dd0067140e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b8978d93181bf6dd0067140e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b8978d93181bf6dd0067140e",
+        "width": 64
+      }
+    ],
+    "name": "Wilder Mind",
+    "release_date": "2015-05-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7KqrcrbzYY9lKmIEnTIppe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id": "3gd8FJtBJtkRxdfbTu19U2",
+      "name": "Mumford & Sons",
+      "type": "artist",
+      "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71500539"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4qtSl6Cbu68xuf8CMyHBFY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4qtSl6Cbu68xuf8CMyHBFY",
+  "id": "4qtSl6Cbu68xuf8CMyHBFY",
+  "is_local": false,
+  "name": "The Wolf",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/36a45a899ea131efc5cd8cfefc3a48485d39050b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4qtSl6Cbu68xuf8CMyHBFY"
+}

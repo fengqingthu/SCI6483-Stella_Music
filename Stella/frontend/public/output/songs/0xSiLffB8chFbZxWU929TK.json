@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+        },
+        "href": "https://api.spotify.com/v1/artists/0tfnDOJ5a2ib3mHAI4qGyD",
+        "id": "0tfnDOJ5a2ib3mHAI4qGyD",
+        "name": "The Dreadnoughts",
+        "type": "artist",
+        "uri": "spotify:artist:0tfnDOJ5a2ib3mHAI4qGyD"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6USXCdKuC6VosxTDmi5PvN"
+    },
+    "href": "https://api.spotify.com/v1/albums/6USXCdKuC6VosxTDmi5PvN",
+    "id": "6USXCdKuC6VosxTDmi5PvN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b37722a9a979e598957c3028",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b37722a9a979e598957c3028",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b37722a9a979e598957c3028",
+        "width": 64
+      }
+    ],
+    "name": "Polka's Not Dead",
+    "release_date": "2010-09-28",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6USXCdKuC6VosxTDmi5PvN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+      },
+      "href": "https://api.spotify.com/v1/artists/0tfnDOJ5a2ib3mHAI4qGyD",
+      "id": "0tfnDOJ5a2ib3mHAI4qGyD",
+      "name": "The Dreadnoughts",
+      "type": "artist",
+      "uri": "spotify:artist:0tfnDOJ5a2ib3mHAI4qGyD"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 119653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CASE11000104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0xSiLffB8chFbZxWU929TK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0xSiLffB8chFbZxWU929TK",
+  "id": "0xSiLffB8chFbZxWU929TK",
+  "is_local": false,
+  "name": "Randy Dandy-Oh",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/f31e056e40661f1b973ca1201582c3ff69b4eca2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0xSiLffB8chFbZxWU929TK"
+}

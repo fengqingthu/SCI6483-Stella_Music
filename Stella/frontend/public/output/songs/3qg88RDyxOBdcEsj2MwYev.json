@@ -1,0 +1,161 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Nks3cFWU2a7rooAlFQYgn",
+        "id": "0Nks3cFWU2a7rooAlFQYgn",
+        "name": "Cesária Evora",
+        "type": "artist",
+        "uri": "spotify:artist:0Nks3cFWU2a7rooAlFQYgn"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AM",
+      "AZ",
+      "BE",
+      "BG",
+      "BH",
+      "BY",
+      "CH",
+      "CZ",
+      "DK",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GE",
+      "GR",
+      "HU",
+      "IL",
+      "IS",
+      "IT",
+      "JO",
+      "KG",
+      "KW",
+      "KZ",
+      "LB",
+      "LU",
+      "LY",
+      "MC",
+      "MD",
+      "NO",
+      "OM",
+      "PL",
+      "QA",
+      "RO",
+      "SA",
+      "SE",
+      "SM",
+      "TJ",
+      "UA",
+      "UZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6dsEBPGX9bvFnZIYhH5ipF"
+    },
+    "href": "https://api.spotify.com/v1/albums/6dsEBPGX9bvFnZIYhH5ipF",
+    "id": "6dsEBPGX9bvFnZIYhH5ipF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273807daa469eba6c6bcf84920b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02807daa469eba6c6bcf84920b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851807daa469eba6c6bcf84920b",
+        "width": 64
+      }
+    ],
+    "name": "Mãe Carinhosa",
+    "release_date": "2013-03-04",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6dsEBPGX9bvFnZIYhH5ipF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Nks3cFWU2a7rooAlFQYgn",
+      "id": "0Nks3cFWU2a7rooAlFQYgn",
+      "name": "Cesária Evora",
+      "type": "artist",
+      "uri": "spotify:artist:0Nks3cFWU2a7rooAlFQYgn"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AM",
+    "AZ",
+    "BE",
+    "BG",
+    "BH",
+    "BY",
+    "CH",
+    "CZ",
+    "DK",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GE",
+    "GR",
+    "HU",
+    "IL",
+    "IS",
+    "IT",
+    "JO",
+    "KG",
+    "KW",
+    "KZ",
+    "LB",
+    "LU",
+    "LY",
+    "MC",
+    "MD",
+    "NO",
+    "OM",
+    "PL",
+    "QA",
+    "RO",
+    "SA",
+    "SE",
+    "SM",
+    "TJ",
+    "UA",
+    "UZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 301213,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRX620300170"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3qg88RDyxOBdcEsj2MwYev"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3qg88RDyxOBdcEsj2MwYev",
+  "id": "3qg88RDyxOBdcEsj2MwYev",
+  "is_local": false,
+  "name": "Sentimento",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/75ec2651ae6a7ad90fd2375d219d2489ac343fd1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3qg88RDyxOBdcEsj2MwYev"
+}

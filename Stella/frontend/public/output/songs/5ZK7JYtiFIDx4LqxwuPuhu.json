@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id": "3gd8FJtBJtkRxdfbTu19U2",
+        "name": "Mumford & Sons",
+        "type": "artist",
+        "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "GB",
+      "IE",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9"
+    },
+    "href": "https://api.spotify.com/v1/albums/1c2Ee269Rj9w8wn8s3qQu9",
+    "id": "1c2Ee269Rj9w8wn8s3qQu9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ff8fd758310f8dcd96e99a43",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ff8fd758310f8dcd96e99a43",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ff8fd758310f8dcd96e99a43",
+        "width": 64
+      }
+    ],
+    "name": "Sigh No More",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1c2Ee269Rj9w8wn8s3qQu9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id": "3gd8FJtBJtkRxdfbTu19U2",
+      "name": "Mumford & Sons",
+      "type": "artist",
+      "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "GB",
+    "IE",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 254186,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70909078"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5ZK7JYtiFIDx4LqxwuPuhu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5ZK7JYtiFIDx4LqxwuPuhu",
+  "id": "5ZK7JYtiFIDx4LqxwuPuhu",
+  "is_local": false,
+  "name": "White Blank Page",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/3307ae3dd126fa10466b3d5d9bf038e2885d4047?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5ZK7JYtiFIDx4LqxwuPuhu"
+}

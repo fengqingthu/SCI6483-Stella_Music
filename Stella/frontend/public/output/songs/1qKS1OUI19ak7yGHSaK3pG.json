@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CnhqfjUG0qzsru0SMuhrk",
+        "id": "2CnhqfjUG0qzsru0SMuhrk",
+        "name": "Title Fight",
+        "type": "artist",
+        "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7BgO44hMvtIxWYCTpslQUb"
+    },
+    "href": "https://api.spotify.com/v1/albums/7BgO44hMvtIxWYCTpslQUb",
+    "id": "7BgO44hMvtIxWYCTpslQUb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273651bc1303e0c02998961fc81",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02651bc1303e0c02998961fc81",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851651bc1303e0c02998961fc81",
+        "width": 64
+      }
+    ],
+    "name": "Floral Green",
+    "release_date": "2012",
+    "release_date_precision": "year",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7BgO44hMvtIxWYCTpslQUb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CnhqfjUG0qzsru0SMuhrk",
+      "id": "2CnhqfjUG0qzsru0SMuhrk",
+      "name": "Title Fight",
+      "type": "artist",
+      "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 239546,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA6G1250905"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1qKS1OUI19ak7yGHSaK3pG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1qKS1OUI19ak7yGHSaK3pG",
+  "id": "1qKS1OUI19ak7yGHSaK3pG",
+  "is_local": false,
+  "name": "Head In The Ceiling Fan",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/e4da258b07ea812cd3a2c1e1ae901c92e7bb2879?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1qKS1OUI19ak7yGHSaK3pG"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        },
+        "href": "https://api.spotify.com/v1/artists/12fRkVfO2fUsz1QHgDAG3g",
+        "id": "12fRkVfO2fUsz1QHgDAG3g",
+        "name": "Julia Jacklin",
+        "type": "artist",
+        "uri": "spotify:artist:12fRkVfO2fUsz1QHgDAG3g"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz"
+    },
+    "href": "https://api.spotify.com/v1/albums/0GdoJHiw5DpePwcIfPOPHz",
+    "id": "0GdoJHiw5DpePwcIfPOPHz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738dd8e17232f70d45c83aa4cd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028dd8e17232f70d45c83aa4cd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518dd8e17232f70d45c83aa4cd",
+        "width": 64
+      }
+    ],
+    "name": "Someday (triple j Like A Version)",
+    "release_date": "2019-07-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0GdoJHiw5DpePwcIfPOPHz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+      },
+      "href": "https://api.spotify.com/v1/artists/12fRkVfO2fUsz1QHgDAG3g",
+      "id": "12fRkVfO2fUsz1QHgDAG3g",
+      "name": "Julia Jacklin",
+      "type": "artist",
+      "uri": "spotify:artist:12fRkVfO2fUsz1QHgDAG3g"
+    }
+  ],
+  "available_markets": [
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 264908,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUAB01700819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2CxLla7i6lur02aOVMHPMK",
+  "id": "2CxLla7i6lur02aOVMHPMK",
+  "is_local": false,
+  "name": "Someday - triple j Like A Version",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/a59cf77a8d453507edb00f10d65371dffb959054?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2CxLla7i6lur02aOVMHPMK"
+}

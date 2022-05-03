@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        },
+        "href": "https://api.spotify.com/v1/artists/25tMQOrIU4LlUo6Sv8v5SE",
+        "id": "25tMQOrIU4LlUo6Sv8v5SE",
+        "name": "Gavin James",
+        "type": "artist",
+        "uri": "spotify:artist:25tMQOrIU4LlUo6Sv8v5SE"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IL",
+      "IS",
+      "IT",
+      "KG",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MK",
+      "MN",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TJ",
+      "TR",
+      "UA",
+      "UZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4mKjjWsfgvktvQXBd4SXfV"
+    },
+    "href": "https://api.spotify.com/v1/albums/4mKjjWsfgvktvQXBd4SXfV",
+    "id": "4mKjjWsfgvktvQXBd4SXfV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737549e5095c6d7fead41e84c6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027549e5095c6d7fead41e84c6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517549e5095c6d7fead41e84c6",
+        "width": 64
+      }
+    ],
+    "name": "The Book of Love",
+    "release_date": "2017-07-14",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:4mKjjWsfgvktvQXBd4SXfV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+      },
+      "href": "https://api.spotify.com/v1/artists/25tMQOrIU4LlUo6Sv8v5SE",
+      "id": "25tMQOrIU4LlUo6Sv8v5SE",
+      "name": "Gavin James",
+      "type": "artist",
+      "uri": "spotify:artist:25tMQOrIU4LlUo6Sv8v5SE"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IL",
+    "IS",
+    "IT",
+    "KG",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MK",
+    "MN",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TJ",
+    "TR",
+    "UA",
+    "UZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195426,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB45A1500062"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3ve2MJbizM0AWWwGuBFb0o"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3ve2MJbizM0AWWwGuBFb0o",
+  "id": "3ve2MJbizM0AWWwGuBFb0o",
+  "is_local": false,
+  "name": "The Book of Love - EP Version",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3ve2MJbizM0AWWwGuBFb0o"
+}

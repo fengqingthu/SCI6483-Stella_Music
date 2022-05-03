@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6AmG7SNdlV9boPZ7dFVnLY"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AmG7SNdlV9boPZ7dFVnLY",
+        "id": "6AmG7SNdlV9boPZ7dFVnLY",
+        "name": "Charlie Chaplin",
+        "type": "artist",
+        "uri": "spotify:artist:6AmG7SNdlV9boPZ7dFVnLY"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "BO",
+      "CL",
+      "CO",
+      "EC",
+      "ES",
+      "GY",
+      "MX",
+      "PE",
+      "PY",
+      "SR",
+      "UY",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/10HZdkJvzIsDPgdsapovVT"
+    },
+    "href": "https://api.spotify.com/v1/albums/10HZdkJvzIsDPgdsapovVT",
+    "id": "10HZdkJvzIsDPgdsapovVT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b882132270e9ea01a8d03f58",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b882132270e9ea01a8d03f58",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b882132270e9ea01a8d03f58",
+        "width": 64
+      }
+    ],
+    "name": "Candilejas (Banda Sonora Original)",
+    "release_date": "1952",
+    "release_date_precision": "year",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:10HZdkJvzIsDPgdsapovVT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6AmG7SNdlV9boPZ7dFVnLY"
+      },
+      "href": "https://api.spotify.com/v1/artists/6AmG7SNdlV9boPZ7dFVnLY",
+      "id": "6AmG7SNdlV9boPZ7dFVnLY",
+      "name": "Charlie Chaplin",
+      "type": "artist",
+      "uri": "spotify:artist:6AmG7SNdlV9boPZ7dFVnLY"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BO",
+    "CL",
+    "CO",
+    "EC",
+    "ES",
+    "GY",
+    "MX",
+    "PE",
+    "PY",
+    "SR",
+    "UY",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 119819,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W15200068"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0tf6KWV6322XcaAYvHTlSF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0tf6KWV6322XcaAYvHTlSF",
+  "id": "0tf6KWV6322XcaAYvHTlSF",
+  "is_local": false,
+  "name": "Limelight Opening / Terry's Theme (Eternally) / Hurdy Gurdy Waltz",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/4479137b52f80bc1167b1c244ff4c262100cbbc6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0tf6KWV6322XcaAYvHTlSF"
+}

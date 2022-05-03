@@ -1,0 +1,163 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/48oNDvKRqviSFzow0ZXHXa"
+        },
+        "href": "https://api.spotify.com/v1/artists/48oNDvKRqviSFzow0ZXHXa",
+        "id": "48oNDvKRqviSFzow0ZXHXa",
+        "name": "Chris Whitley",
+        "type": "artist",
+        "uri": "spotify:artist:48oNDvKRqviSFzow0ZXHXa"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BD",
+      "BE",
+      "BN",
+      "BT",
+      "CH",
+      "DE",
+      "DK",
+      "DZ",
+      "ES",
+      "FM",
+      "FR",
+      "HK",
+      "ID",
+      "IN",
+      "IS",
+      "IT",
+      "KH",
+      "KR",
+      "LA",
+      "LI",
+      "LK",
+      "LU",
+      "MA",
+      "MC",
+      "MO",
+      "MT",
+      "MV",
+      "MY",
+      "NL",
+      "NO",
+      "NP",
+      "PH",
+      "PK",
+      "SE",
+      "SG",
+      "SM",
+      "TH",
+      "TL",
+      "TN",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0dS0zKlfHzyBRZuRm90yf5"
+    },
+    "href": "https://api.spotify.com/v1/albums/0dS0zKlfHzyBRZuRm90yf5",
+    "id": "0dS0zKlfHzyBRZuRm90yf5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735878799b9bfee9e8ddb8596d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025878799b9bfee9e8ddb8596d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515878799b9bfee9e8ddb8596d",
+        "width": 64
+      }
+    ],
+    "name": "Living With The Law",
+    "release_date": "1991-06-18",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:0dS0zKlfHzyBRZuRm90yf5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48oNDvKRqviSFzow0ZXHXa"
+      },
+      "href": "https://api.spotify.com/v1/artists/48oNDvKRqviSFzow0ZXHXa",
+      "id": "48oNDvKRqviSFzow0ZXHXa",
+      "name": "Chris Whitley",
+      "type": "artist",
+      "uri": "spotify:artist:48oNDvKRqviSFzow0ZXHXa"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BD",
+    "BE",
+    "BN",
+    "BT",
+    "CH",
+    "DE",
+    "DK",
+    "DZ",
+    "ES",
+    "FM",
+    "FR",
+    "HK",
+    "ID",
+    "IN",
+    "IS",
+    "IT",
+    "KH",
+    "KR",
+    "LA",
+    "LI",
+    "LK",
+    "LU",
+    "MA",
+    "MC",
+    "MO",
+    "MT",
+    "MV",
+    "MY",
+    "NL",
+    "NO",
+    "NP",
+    "PH",
+    "PK",
+    "SE",
+    "SG",
+    "SM",
+    "TH",
+    "TL",
+    "TN",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 285493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM19100523"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2R3PPb82o2uXgX3ai8mgWd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2R3PPb82o2uXgX3ai8mgWd",
+  "id": "2R3PPb82o2uXgX3ai8mgWd",
+  "is_local": false,
+  "name": "Big Sky Country",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/929833c3164ff563ae0f0bd706aa9e673cdadbe5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2R3PPb82o2uXgX3ai8mgWd"
+}

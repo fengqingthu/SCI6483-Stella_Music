@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        },
+        "href": "https://api.spotify.com/v1/artists/5HFkc3t0HYETL4JeEbDB1v",
+        "id": "5HFkc3t0HYETL4JeEbDB1v",
+        "name": "Powerwolf",
+        "type": "artist",
+        "uri": "spotify:artist:5HFkc3t0HYETL4JeEbDB1v"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7LsdebeJY3nWqPwvgkguDP"
+    },
+    "href": "https://api.spotify.com/v1/albums/7LsdebeJY3nWqPwvgkguDP",
+    "id": "7LsdebeJY3nWqPwvgkguDP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b82425a5ba70bf60baf90505",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b82425a5ba70bf60baf90505",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b82425a5ba70bf60baf90505",
+        "width": 64
+      }
+    ],
+    "name": "Preachers Of The Night (Deluxe Edition)",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:7LsdebeJY3nWqPwvgkguDP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HFkc3t0HYETL4JeEbDB1v",
+      "id": "5HFkc3t0HYETL4JeEbDB1v",
+      "name": "Powerwolf",
+      "type": "artist",
+      "uri": "spotify:artist:5HFkc3t0HYETL4JeEbDB1v"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261349207"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1xxJxYD1fWbrUZiA9W0oHV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1xxJxYD1fWbrUZiA9W0oHV",
+  "id": "1xxJxYD1fWbrUZiA9W0oHV",
+  "is_local": false,
+  "name": "In The Name Of God (Deus Vult)",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/953afc71d23f78ea7164579bb90e6af15d3f334d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:1xxJxYD1fWbrUZiA9W0oHV"
+}

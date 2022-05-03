@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2IXhOm4qChRxmy2sPi5Nzr"
+    },
+    "href": "https://api.spotify.com/v1/albums/2IXhOm4qChRxmy2sPi5Nzr",
+    "id": "2IXhOm4qChRxmy2sPi5Nzr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27350218c33dec3b813d6b80e37",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0250218c33dec3b813d6b80e37",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485150218c33dec3b813d6b80e37",
+        "width": 64
+      }
+    ],
+    "name": "Saturday Night Lotion",
+    "release_date": "2005-06-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:2IXhOm4qChRxmy2sPi5Nzr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51aUBRyCUpTVuRCdyfOStV"
+      },
+      "href": "https://api.spotify.com/v1/artists/51aUBRyCUpTVuRCdyfOStV",
+      "id": "51aUBRyCUpTVuRCdyfOStV",
+      "name": "Soul Of Man",
+      "type": "artist",
+      "uri": "spotify:artist:51aUBRyCUpTVuRCdyfOStV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7eaVMWpGsH60ucIuRAItZk"
+      },
+      "href": "https://api.spotify.com/v1/artists/7eaVMWpGsH60ucIuRAItZk",
+      "id": "7eaVMWpGsH60ucIuRAItZk",
+      "name": "Salty Acapella",
+      "type": "artist",
+      "uri": "spotify:artist:7eaVMWpGsH60ucIuRAItZk"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 285866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBFEK0500178"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/68GdMbG0buHdEDzLQUmZg0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/68GdMbG0buHdEDzLQUmZg0",
+  "id": "68GdMbG0buHdEDzLQUmZg0",
+  "is_local": false,
+  "name": "Foxy Moron (feat. Salty Acapella)",
+  "popularity": 13,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:68GdMbG0buHdEDzLQUmZg0"
+}

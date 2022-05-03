@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        },
+        "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+        "id": "56ZTgzPBDge0OvCGgMO3OY",
+        "name": "Beach House",
+        "type": "artist",
+        "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6w84G1JaQPqbf8RzS48tPf"
+    },
+    "href": "https://api.spotify.com/v1/albums/6w84G1JaQPqbf8RzS48tPf",
+    "id": "6w84G1JaQPqbf8RzS48tPf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27363708725a5d461fef1fd27e4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0263708725a5d461fef1fd27e4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485163708725a5d461fef1fd27e4",
+        "width": 64
+      }
+    ],
+    "name": "Bloom",
+    "release_date": "2012-05-11",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6w84G1JaQPqbf8RzS48tPf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+      },
+      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+      "id": "56ZTgzPBDge0OvCGgMO3OY",
+      "name": "Beach House",
+      "type": "artist",
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 258653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUVB01200001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5bNrxsBY7GaovXZ8gfbLfn",
+  "id": "5bNrxsBY7GaovXZ8gfbLfn",
+  "is_local": false,
+  "name": "Myth",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/aec47eae7bb242c4b7b19c66fc1d07d71ca38dc6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5bNrxsBY7GaovXZ8gfbLfn"
+}

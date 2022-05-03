@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bBAqNfQpi9M5s3uz6Dwcb"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bBAqNfQpi9M5s3uz6Dwcb",
+        "id": "7bBAqNfQpi9M5s3uz6Dwcb",
+        "name": "Grand Blanc",
+        "type": "artist",
+        "uri": "spotify:artist:7bBAqNfQpi9M5s3uz6Dwcb"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0aBViuhyddyHPzjNZwxy4L"
+    },
+    "href": "https://api.spotify.com/v1/albums/0aBViuhyddyHPzjNZwxy4L",
+    "id": "0aBViuhyddyHPzjNZwxy4L",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b775f8b6618eba62eb38a8ca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b775f8b6618eba62eb38a8ca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b775f8b6618eba62eb38a8ca",
+        "width": 64
+      }
+    ],
+    "name": "Ailleurs",
+    "release_date": "2018-02-16",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:0aBViuhyddyHPzjNZwxy4L"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bBAqNfQpi9M5s3uz6Dwcb"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bBAqNfQpi9M5s3uz6Dwcb",
+      "id": "7bBAqNfQpi9M5s3uz6Dwcb",
+      "name": "Grand Blanc",
+      "type": "artist",
+      "uri": "spotify:artist:7bBAqNfQpi9M5s3uz6Dwcb"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 596920,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRPI61800020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5LY2bzz5XpXiTEQ6MOzcnv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5LY2bzz5XpXiTEQ6MOzcnv",
+  "id": "5LY2bzz5XpXiTEQ6MOzcnv",
+  "is_local": false,
+  "name": "Ailleurs",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/0143dacb3b3f4b47edb10112fca180b15968372a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5LY2bzz5XpXiTEQ6MOzcnv"
+}

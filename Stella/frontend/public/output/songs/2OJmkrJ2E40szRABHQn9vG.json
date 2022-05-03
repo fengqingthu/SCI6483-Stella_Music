@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2TXpVEw5FbzDh93tLoDm0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/2TXpVEw5FbzDh93tLoDm0i",
+        "id": "2TXpVEw5FbzDh93tLoDm0i",
+        "name": "Big Black Delta",
+        "type": "artist",
+        "uri": "spotify:artist:2TXpVEw5FbzDh93tLoDm0i"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7gsCty4Dtn6qkrg8zRpxk5"
+    },
+    "href": "https://api.spotify.com/v1/albums/7gsCty4Dtn6qkrg8zRpxk5",
+    "id": "7gsCty4Dtn6qkrg8zRpxk5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273344e55d8f6f491dad14354cb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02344e55d8f6f491dad14354cb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851344e55d8f6f491dad14354cb",
+        "width": 64
+      }
+    ],
+    "name": "Big Black Delta",
+    "release_date": "2013-04-26",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:7gsCty4Dtn6qkrg8zRpxk5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2TXpVEw5FbzDh93tLoDm0i"
+      },
+      "href": "https://api.spotify.com/v1/artists/2TXpVEw5FbzDh93tLoDm0i",
+      "id": "2TXpVEw5FbzDh93tLoDm0i",
+      "name": "Big Black Delta",
+      "type": "artist",
+      "uri": "spotify:artist:2TXpVEw5FbzDh93tLoDm0i"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 265746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBN41300003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2OJmkrJ2E40szRABHQn9vG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2OJmkrJ2E40szRABHQn9vG",
+  "id": "2OJmkrJ2E40szRABHQn9vG",
+  "is_local": false,
+  "name": "Huggin' & Kissin'",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/cc4d43bd7302817ee0554a24a94cdec9085fbdef?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2OJmkrJ2E40szRABHQn9vG"
+}

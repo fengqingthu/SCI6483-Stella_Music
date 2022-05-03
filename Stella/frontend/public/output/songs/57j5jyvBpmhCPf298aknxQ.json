@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        },
+        "href": "https://api.spotify.com/v1/artists/62Jwsvqi7hW8TR9rAcfBXY",
+        "id": "62Jwsvqi7hW8TR9rAcfBXY",
+        "name": "Grandbrothers",
+        "type": "artist",
+        "uri": "spotify:artist:62Jwsvqi7hW8TR9rAcfBXY"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6gAskiIZ9GssgsbbRqeeWe"
+    },
+    "href": "https://api.spotify.com/v1/albums/6gAskiIZ9GssgsbbRqeeWe",
+    "id": "6gAskiIZ9GssgsbbRqeeWe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734d2f69b229ca2ded3e726b2f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024d2f69b229ca2ded3e726b2f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514d2f69b229ca2ded3e726b2f",
+        "width": 64
+      }
+    ],
+    "name": "Bloodflow",
+    "release_date": "2019-10-24",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:6gAskiIZ9GssgsbbRqeeWe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+      },
+      "href": "https://api.spotify.com/v1/artists/62Jwsvqi7hW8TR9rAcfBXY",
+      "id": "62Jwsvqi7hW8TR9rAcfBXY",
+      "name": "Grandbrothers",
+      "type": "artist",
+      "uri": "spotify:artist:62Jwsvqi7hW8TR9rAcfBXY"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 220074,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DED621700305"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/57j5jyvBpmhCPf298aknxQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/57j5jyvBpmhCPf298aknxQ",
+  "id": "57j5jyvBpmhCPf298aknxQ",
+  "is_local": false,
+  "name": "Bloodflow - Edit",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/96fdfb89512779ec5f9c4e8aa1e91f0ecb4f9a17?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:57j5jyvBpmhCPf298aknxQ"
+}

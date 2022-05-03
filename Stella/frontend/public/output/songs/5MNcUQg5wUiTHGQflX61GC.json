@@ -1,0 +1,151 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QIHd0B2VIKlmLyoq4lUr7",
+        "id": "2QIHd0B2VIKlmLyoq4lUr7",
+        "name": "Alela Diane",
+        "type": "artist",
+        "uri": "spotify:artist:2QIHd0B2VIKlmLyoq4lUr7"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "JP",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb"
+    },
+    "href": "https://api.spotify.com/v1/albums/4cbZ94wBTQCvivwA7VxKdb",
+    "id": "4cbZ94wBTQCvivwA7VxKdb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a4c305d20ca75c5377e22dc3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a4c305d20ca75c5377e22dc3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a4c305d20ca75c5377e22dc3",
+        "width": 64
+      }
+    ],
+    "name": "The Pirate's Gospel",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4cbZ94wBTQCvivwA7VxKdb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+      },
+      "href": "https://api.spotify.com/v1/artists/2QIHd0B2VIKlmLyoq4lUr7",
+      "id": "2QIHd0B2VIKlmLyoq4lUr7",
+      "name": "Alela Diane",
+      "type": "artist",
+      "uri": "spotify:artist:2QIHd0B2VIKlmLyoq4lUr7"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "JP",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 161146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMFMG1454890"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5MNcUQg5wUiTHGQflX61GC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5MNcUQg5wUiTHGQflX61GC",
+  "id": "5MNcUQg5wUiTHGQflX61GC",
+  "is_local": false,
+  "name": "Tired Feet",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/a0fd4095ef118a90be9fde7b16da23f556d7c480?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5MNcUQg5wUiTHGQflX61GC"
+}

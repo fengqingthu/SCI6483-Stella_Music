@@ -1,0 +1,121 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        },
+        "href": "https://api.spotify.com/v1/artists/12fRkVfO2fUsz1QHgDAG3g",
+        "id": "12fRkVfO2fUsz1QHgDAG3g",
+        "name": "Julia Jacklin",
+        "type": "artist",
+        "uri": "spotify:artist:12fRkVfO2fUsz1QHgDAG3g"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
+    },
+    "href": "https://api.spotify.com/v1/albums/4u3aIyQbywYaxgF7TcXuIu",
+    "id": "4u3aIyQbywYaxgF7TcXuIu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732fca2b6f420ec6044327ec2d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022fca2b6f420ec6044327ec2d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512fca2b6f420ec6044327ec2d",
+        "width": 64
+      }
+    ],
+    "name": "Crushing",
+    "release_date": "2019-02-22",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4u3aIyQbywYaxgF7TcXuIu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+      },
+      "href": "https://api.spotify.com/v1/artists/12fRkVfO2fUsz1QHgDAG3g",
+      "id": "12fRkVfO2fUsz1QHgDAG3g",
+      "name": "Julia Jacklin",
+      "type": "artist",
+      "uri": "spotify:artist:12fRkVfO2fUsz1QHgDAG3g"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 307613,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKZV1800115"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0xhHw3EIyZ05mboRXpJWxs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0xhHw3EIyZ05mboRXpJWxs",
+  "id": "0xhHw3EIyZ05mboRXpJWxs",
+  "is_local": false,
+  "name": "Body",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/0c0903eeb405ca95cf20148e8fcef3989053d41a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0xhHw3EIyZ05mboRXpJWxs"
+}

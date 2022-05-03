@@ -1,0 +1,20 @@
+{
+  "danceability": 0.725,
+  "energy": 0.694,
+  "key": 7,
+  "loudness": -9.327,
+  "mode": 1,
+  "speechiness": 0.142,
+  "acousticness": 0.119,
+  "instrumentalness": 0.848,
+  "liveness": 0.314,
+  "valence": 0.625,
+  "tempo": 102.561,
+  "type": "audio_features",
+  "id": "1QV7vZhZdVjfxMYRIVBoff",
+  "uri": "spotify:track:1QV7vZhZdVjfxMYRIVBoff",
+  "track_href": "https://api.spotify.com/v1/tracks/1QV7vZhZdVjfxMYRIVBoff",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/1QV7vZhZdVjfxMYRIVBoff",
+  "duration_ms": 132747,
+  "time_signature": 4
+}

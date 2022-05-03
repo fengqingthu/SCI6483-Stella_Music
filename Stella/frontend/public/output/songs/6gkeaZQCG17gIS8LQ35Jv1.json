@@ -1,0 +1,119 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LGXGjnPkLPQRrsMW1y6h3"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LGXGjnPkLPQRrsMW1y6h3",
+        "id": "0LGXGjnPkLPQRrsMW1y6h3",
+        "name": "Trailerhead",
+        "type": "artist",
+        "uri": "spotify:artist:0LGXGjnPkLPQRrsMW1y6h3"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6lXZoAuAAhNVbU4EzEEaUe"
+    },
+    "href": "https://api.spotify.com/v1/albums/6lXZoAuAAhNVbU4EzEEaUe",
+    "id": "6lXZoAuAAhNVbU4EzEEaUe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737f775dd61b55e1bbb8345b66",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027f775dd61b55e1bbb8345b66",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517f775dd61b55e1bbb8345b66",
+        "width": 64
+      }
+    ],
+    "name": "Saga",
+    "release_date": "2010-07-20",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6lXZoAuAAhNVbU4EzEEaUe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LGXGjnPkLPQRrsMW1y6h3"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LGXGjnPkLPQRrsMW1y6h3",
+      "id": "0LGXGjnPkLPQRrsMW1y6h3",
+      "name": "Trailerhead",
+      "type": "artist",
+      "uri": "spotify:artist:0LGXGjnPkLPQRrsMW1y6h3"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 181093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US4R31007415"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6gkeaZQCG17gIS8LQ35Jv1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6gkeaZQCG17gIS8LQ35Jv1",
+  "id": "6gkeaZQCG17gIS8LQ35Jv1",
+  "is_local": false,
+  "name": "Darkness On The Edge Of Power",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/3148d6004be0ee6acfd43c3d2d7868a9fc249eb7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:6gkeaZQCG17gIS8LQ35Jv1"
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        },
+        "href": "https://api.spotify.com/v1/artists/3gX7V7VCwOBz90t62hQHMw",
+        "id": "3gX7V7VCwOBz90t62hQHMw",
+        "name": "Axelle Red",
+        "type": "artist",
+        "uri": "spotify:artist:3gX7V7VCwOBz90t62hQHMw"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/234acAWYuswCusQLIANfq8"
+    },
+    "href": "https://api.spotify.com/v1/albums/234acAWYuswCusQLIANfq8",
+    "id": "234acAWYuswCusQLIANfq8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732688aee04ce88709613634dd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022688aee04ce88709613634dd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512688aee04ce88709613634dd",
+        "width": 64
+      }
+    ],
+    "name": "Toujours moi",
+    "release_date": "1999-03-29",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:234acAWYuswCusQLIANfq8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gX7V7VCwOBz90t62hQHMw",
+      "id": "3gX7V7VCwOBz90t62hQHMw",
+      "name": "Axelle Red",
+      "type": "artist",
+      "uri": "spotify:artist:3gX7V7VCwOBz90t62hQHMw"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEV019900027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5zEoRcE8rT3EyINgyeXgvy"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5zEoRcE8rT3EyINgyeXgvy",
+  "id": "5zEoRcE8rT3EyINgyeXgvy",
+  "is_local": false,
+  "name": "Parce que c'est toi",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/0884ae3b3ac21550b0d27c8fd814754c009c0a03?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5zEoRcE8rT3EyINgyeXgvy"
+}

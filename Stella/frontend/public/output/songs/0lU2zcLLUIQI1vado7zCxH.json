@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "name": "The Spaceman: Chaos",
+        "type": "artist",
+        "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/15QLU1K32B3u3VyWZwUhRj"
+    },
+    "href": "https://api.spotify.com/v1/albums/15QLU1K32B3u3VyWZwUhRj",
+    "id": "15QLU1K32B3u3VyWZwUhRj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b9a471d90cc65117fcd25b8c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b9a471d90cc65117fcd25b8c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b9a471d90cc65117fcd25b8c",
+        "width": 64
+      }
+    ],
+    "name": "Noob Toobers",
+    "release_date": "2014-07-04",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:15QLU1K32B3u3VyWZwUhRj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "name": "The Spaceman: Chaos",
+      "type": "artist",
+      "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 208932,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QMEU31408281"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0lU2zcLLUIQI1vado7zCxH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0lU2zcLLUIQI1vado7zCxH",
+  "id": "0lU2zcLLUIQI1vado7zCxH",
+  "is_local": false,
+  "name": "I Am Wildcat",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:0lU2zcLLUIQI1vado7zCxH"
+}

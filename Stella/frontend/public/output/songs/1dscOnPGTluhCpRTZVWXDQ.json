@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        },
+        "href": "https://api.spotify.com/v1/artists/5kmPNusdo1mCTyz4u1uEGm",
+        "id": "5kmPNusdo1mCTyz4u1uEGm",
+        "name": "Mountain Man",
+        "type": "artist",
+        "uri": "spotify:artist:5kmPNusdo1mCTyz4u1uEGm"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Na6liT9LxsHuugIM0XhEU"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Na6liT9LxsHuugIM0XhEU",
+    "id": "3Na6liT9LxsHuugIM0XhEU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27387ce2e64f2718780a45a69cb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0287ce2e64f2718780a45a69cb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485187ce2e64f2718780a45a69cb",
+        "width": 64
+      }
+    ],
+    "name": "Made The Harbor",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3Na6liT9LxsHuugIM0XhEU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+      },
+      "href": "https://api.spotify.com/v1/artists/5kmPNusdo1mCTyz4u1uEGm",
+      "id": "5kmPNusdo1mCTyz4u1uEGm",
+      "name": "Mountain Man",
+      "type": "artist",
+      "uri": "spotify:artist:5kmPNusdo1mCTyz4u1uEGm"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 130199,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBRP1024602"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1dscOnPGTluhCpRTZVWXDQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1dscOnPGTluhCpRTZVWXDQ",
+  "id": "1dscOnPGTluhCpRTZVWXDQ",
+  "is_local": false,
+  "name": "Animal Tracks",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/a71727781a2963140752ff2a3cd7902120c5287c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1dscOnPGTluhCpRTZVWXDQ"
+}

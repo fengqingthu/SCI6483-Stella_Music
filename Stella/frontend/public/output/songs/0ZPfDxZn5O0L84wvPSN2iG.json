@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ",
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "type": "artist",
+        "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "JP",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2"
+    },
+    "href": "https://api.spotify.com/v1/albums/3KVeczHxWg5YFKb0gS62f2",
+    "id": "3KVeczHxWg5YFKb0gS62f2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273474301b91976f6310bbe90a1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02474301b91976f6310bbe90a1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851474301b91976f6310bbe90a1",
+        "width": 64
+      }
+    ],
+    "name": "Halcyon Days",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:3KVeczHxWg5YFKb0gS62f2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ",
+      "id": "0X2BH1fck6amBIoJhDVmmJ",
+      "name": "Ellie Goulding",
+      "type": "artist",
+      "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "JP",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 154435,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71304067"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ZPfDxZn5O0L84wvPSN2iG",
+  "id": "0ZPfDxZn5O0L84wvPSN2iG",
+  "is_local": false,
+  "name": "How Long Will I Love You - Bonus Track",
+  "popularity": 59,
+  "preview_url": null,
+  "track_number": 20,
+  "type": "track",
+  "uri": "spotify:track:0ZPfDxZn5O0L84wvPSN2iG"
+}

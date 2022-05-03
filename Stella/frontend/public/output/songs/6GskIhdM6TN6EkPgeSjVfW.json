@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        },
+        "href": "https://api.spotify.com/v1/artists/3z6Gk257P9jNcZbBXJNX5i",
+        "id": "3z6Gk257P9jNcZbBXJNX5i",
+        "name": "Regina Spektor",
+        "type": "artist",
+        "uri": "spotify:artist:3z6Gk257P9jNcZbBXJNX5i"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ssMZRCnobXKQXjQ2R5A5a",
+    "id": "0ssMZRCnobXKQXjQ2R5A5a",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737fd2d3669c086850c0f766e8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027fd2d3669c086850c0f766e8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517fd2d3669c086850c0f766e8",
+        "width": 64
+      }
+    ],
+    "name": "Begin to Hope (Special Edition)",
+    "release_date": "2006-06-13",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:0ssMZRCnobXKQXjQ2R5A5a"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+      },
+      "href": "https://api.spotify.com/v1/artists/3z6Gk257P9jNcZbBXJNX5i",
+      "id": "3z6Gk257P9jNcZbBXJNX5i",
+      "name": "Regina Spektor",
+      "type": "artist",
+      "uri": "spotify:artist:3z6Gk257P9jNcZbBXJNX5i"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWB10600587"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6GskIhdM6TN6EkPgeSjVfW",
+  "id": "6GskIhdM6TN6EkPgeSjVfW",
+  "is_local": false,
+  "name": "Fidelity",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/bde26371886a0058d4e9e79ce85f1ee9cf08f13b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6GskIhdM6TN6EkPgeSjVfW"
+}

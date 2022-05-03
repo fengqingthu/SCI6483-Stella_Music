@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+        },
+        "href": "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+        "id": "46CuxapoPjUfIOiXdNq7qM",
+        "name": "Oh Land",
+        "type": "artist",
+        "uri": "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1h8bfkhOqZicLIe8Fzyy4Q"
+    },
+    "href": "https://api.spotify.com/v1/albums/1h8bfkhOqZicLIe8Fzyy4Q",
+    "id": "1h8bfkhOqZicLIe8Fzyy4Q",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738c41ac8af6fb6f119fa38c6d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028c41ac8af6fb6f119fa38c6d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518c41ac8af6fb6f119fa38c6d",
+        "width": 64
+      }
+    ],
+    "name": "Earth Sick",
+    "release_date": "2015-07-16",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:1h8bfkhOqZicLIe8Fzyy4Q"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+      },
+      "href": "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+      "id": "46CuxapoPjUfIOiXdNq7qM",
+      "name": "Oh Land",
+      "type": "artist",
+      "uri": "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 212839,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DK4L31400101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3fJJi2GE0lYPVU4YIL1DJm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3fJJi2GE0lYPVU4YIL1DJm",
+  "id": "3fJJi2GE0lYPVU4YIL1DJm",
+  "is_local": false,
+  "name": "Head Up High",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/c02fac025b7679325f3c1db8b236c37553f53100?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3fJJi2GE0lYPVU4YIL1DJm"
+}

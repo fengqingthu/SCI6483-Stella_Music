@@ -1,0 +1,133 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mSdzR53wTsiokwyE8BJkl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mSdzR53wTsiokwyE8BJkl",
+        "id": "1mSdzR53wTsiokwyE8BJkl",
+        "name": "Sean Callery",
+        "type": "artist",
+        "uri": "spotify:artist:1mSdzR53wTsiokwyE8BJkl"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IS",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "PL",
+      "PT",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6lGv5COzbSQ0wZd68VAREW"
+    },
+    "href": "https://api.spotify.com/v1/albums/6lGv5COzbSQ0wZd68VAREW",
+    "id": "6lGv5COzbSQ0wZd68VAREW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273615ebf406b6f3b13a7a5ea3d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02615ebf406b6f3b13a7a5ea3d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851615ebf406b6f3b13a7a5ea3d",
+        "width": 64
+      }
+    ],
+    "name": "24 (Original Television Soundtrack)",
+    "release_date": "2004",
+    "release_date_precision": "year",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:6lGv5COzbSQ0wZd68VAREW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1mSdzR53wTsiokwyE8BJkl"
+      },
+      "href": "https://api.spotify.com/v1/artists/1mSdzR53wTsiokwyE8BJkl",
+      "id": "1mSdzR53wTsiokwyE8BJkl",
+      "name": "Sean Callery",
+      "type": "artist",
+      "uri": "spotify:artist:1mSdzR53wTsiokwyE8BJkl"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "BG",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IS",
+    "IT",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "PL",
+    "PT",
+    "SE",
+    "SI",
+    "SK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 279440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USFM90400086"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/758R5AwfFV4FBriIeWquXe"
+  },
+  "href": "https://api.spotify.com/v1/tracks/758R5AwfFV4FBriIeWquXe",
+  "id": "758R5AwfFV4FBriIeWquXe",
+  "is_local": false,
+  "name": "'24' Theme",
+  "popularity": 15,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:758R5AwfFV4FBriIeWquXe"
+}

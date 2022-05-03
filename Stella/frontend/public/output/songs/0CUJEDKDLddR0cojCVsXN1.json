@@ -1,0 +1,61 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/17Zu03OgBVxgLxWmRUyNOJ",
+        "id": "17Zu03OgBVxgLxWmRUyNOJ",
+        "name": "Knxwledge",
+        "type": "artist",
+        "uri": "spotify:artist:17Zu03OgBVxgLxWmRUyNOJ"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/05csBMeliOTrGhti6tq1W2"
+    },
+    "href": "https://api.spotify.com/v1/albums/05csBMeliOTrGhti6tq1W2",
+    "id": "05csBMeliOTrGhti6tq1W2",
+    "images": [],
+    "name": "Meek, Vol. 6",
+    "release_date": "2020-04-06",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:05csBMeliOTrGhti6tq1W2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/17Zu03OgBVxgLxWmRUyNOJ",
+      "id": "17Zu03OgBVxgLxWmRUyNOJ",
+      "name": "Knxwledge",
+      "type": "artist",
+      "uri": "spotify:artist:17Zu03OgBVxgLxWmRUyNOJ"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 131996,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QZHN62028604"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0CUJEDKDLddR0cojCVsXN1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0CUJEDKDLddR0cojCVsXN1",
+  "id": "0CUJEDKDLddR0cojCVsXN1",
+  "is_local": false,
+  "name": "Sameolemeek",
+  "popularity": 22,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0CUJEDKDLddR0cojCVsXN1"
+}

@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/388Jc5WX2TxTOgGwXidDM7"
+        },
+        "href": "https://api.spotify.com/v1/artists/388Jc5WX2TxTOgGwXidDM7",
+        "id": "388Jc5WX2TxTOgGwXidDM7",
+        "name": "Schandmaul",
+        "type": "artist",
+        "uri": "spotify:artist:388Jc5WX2TxTOgGwXidDM7"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2043UTiwPSzd8wxVCL9MfB"
+    },
+    "href": "https://api.spotify.com/v1/albums/2043UTiwPSzd8wxVCL9MfB",
+    "id": "2043UTiwPSzd8wxVCL9MfB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738e556e5ef07a6c5d1683260d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028e556e5ef07a6c5d1683260d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518e556e5ef07a6c5d1683260d",
+        "width": 64
+      }
+    ],
+    "name": "Unendlich (Re-Edition)",
+    "release_date": "2015-04-10",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:2043UTiwPSzd8wxVCL9MfB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/388Jc5WX2TxTOgGwXidDM7"
+      },
+      "href": "https://api.spotify.com/v1/artists/388Jc5WX2TxTOgGwXidDM7",
+      "id": "388Jc5WX2TxTOgGwXidDM7",
+      "name": "Schandmaul",
+      "type": "artist",
+      "uri": "spotify:artist:388Jc5WX2TxTOgGwXidDM7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5CkFJud4IpUsCJzFV7wbbq"
+      },
+      "href": "https://api.spotify.com/v1/artists/5CkFJud4IpUsCJzFV7wbbq",
+      "id": "5CkFJud4IpUsCJzFV7wbbq",
+      "name": "Die echten wahren Helden",
+      "type": "artist",
+      "uri": "spotify:artist:5CkFJud4IpUsCJzFV7wbbq"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 252520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEUM71500587"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6dMMdTgB1LcJVV3tDuET29"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6dMMdTgB1LcJVV3tDuET29",
+  "id": "6dMMdTgB1LcJVV3tDuET29",
+  "is_local": false,
+  "name": "Ein echter wahrer Held (Single Version / Bonus Track) [Schandmaul und die echten wahren Helden]",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:6dMMdTgB1LcJVV3tDuET29"
+}

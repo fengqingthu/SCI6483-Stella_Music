@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+        "id": "3IVrpJxHeUFoYP4H6bxg57",
+        "name": "Kadebostany",
+        "type": "artist",
+        "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+      }
+    ],
+    "available_markets": [
+      "BG",
+      "RO"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4OCdG1nNmsBDSVf7yPDT7C"
+    },
+    "href": "https://api.spotify.com/v1/albums/4OCdG1nNmsBDSVf7yPDT7C",
+    "id": "4OCdG1nNmsBDSVf7yPDT7C",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27342e8f889e15411bc1c35e339",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0242e8f889e15411bc1c35e339",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485142e8f889e15411bc1c35e339",
+        "width": 64
+      }
+    ],
+    "name": "Pop Collection",
+    "release_date": "2013",
+    "release_date_precision": "year",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4OCdG1nNmsBDSVf7yPDT7C"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+      "id": "3IVrpJxHeUFoYP4H6bxg57",
+      "name": "Kadebostany",
+      "type": "artist",
+      "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+    }
+  ],
+  "available_markets": [
+    "BG",
+    "RO"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226487,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH5481300139"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1DAuvUaLHsj1mWzq89UkrI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1DAuvUaLHsj1mWzq89UkrI",
+  "id": "1DAuvUaLHsj1mWzq89UkrI",
+  "is_local": false,
+  "name": "Castle in the Snow - Radio Edit",
+  "popularity": 17,
+  "preview_url": "https://p.scdn.co/mp3-preview/fe0f5a1890b106b694a204e59bb99a91cc6e0914?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1DAuvUaLHsj1mWzq89UkrI"
+}

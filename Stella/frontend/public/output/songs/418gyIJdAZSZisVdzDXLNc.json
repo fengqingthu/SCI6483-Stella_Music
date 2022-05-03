@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+        },
+        "href": "https://api.spotify.com/v1/artists/4nlqDmbzFzbNITaqjJv7D7",
+        "id": "4nlqDmbzFzbNITaqjJv7D7",
+        "name": "The Sundays",
+        "type": "artist",
+        "uri": "spotify:artist:4nlqDmbzFzbNITaqjJv7D7"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J"
+    },
+    "href": "https://api.spotify.com/v1/albums/2MyaP2JXodfEY2Lh7YLa5J",
+    "id": "2MyaP2JXodfEY2Lh7YLa5J",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735daa7512284b0d5ba09beec1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025daa7512284b0d5ba09beec1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515daa7512284b0d5ba09beec1",
+        "width": 64
+      }
+    ],
+    "name": "Blind",
+    "release_date": "1992-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:2MyaP2JXodfEY2Lh7YLa5J"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nlqDmbzFzbNITaqjJv7D7",
+      "id": "4nlqDmbzFzbNITaqjJv7D7",
+      "name": "The Sundays",
+      "type": "artist",
+      "uri": "spotify:artist:4nlqDmbzFzbNITaqjJv7D7"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 285573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USGF19947912"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/418gyIJdAZSZisVdzDXLNc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/418gyIJdAZSZisVdzDXLNc",
+  "id": "418gyIJdAZSZisVdzDXLNc",
+  "is_local": false,
+  "name": "Wild Horses",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:418gyIJdAZSZisVdzDXLNc"
+}

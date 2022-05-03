@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+        "id": "053q0ukIDRgzwTr4vNSwab",
+        "name": "Grimes",
+        "type": "artist",
+        "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5CQbuEmt9rY7yS2xPiXxw7"
+    },
+    "href": "https://api.spotify.com/v1/albums/5CQbuEmt9rY7yS2xPiXxw7",
+    "id": "5CQbuEmt9rY7yS2xPiXxw7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27339be5d35af9eda1162c1a82e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0239be5d35af9eda1162c1a82e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485139be5d35af9eda1162c1a82e",
+        "width": 64
+      }
+    ],
+    "name": "Miss Anthropocene (Rave Edition)",
+    "release_date": "2021-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5CQbuEmt9rY7yS2xPiXxw7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id": "053q0ukIDRgzwTr4vNSwab",
+      "name": "Grimes",
+      "type": "artist",
+      "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+      },
+      "href": "https://api.spotify.com/v1/artists/0y42IQBDFigO5mmEd1bGQG",
+      "id": "0y42IQBDFigO5mmEd1bGQG",
+      "name": "i_o",
+      "type": "artist",
+      "uri": "spotify:artist:0y42IQBDFigO5mmEd1bGQG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4aKdmOXdUKX07HVd3sGgzw",
+      "id": "4aKdmOXdUKX07HVd3sGgzw",
+      "name": "Rezz",
+      "type": "artist",
+      "uri": "spotify:artist:4aKdmOXdUKX07HVd3sGgzw"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195300,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFL2000476"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2mbVvE2E1soxXeUDmR2M0E"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2mbVvE2E1soxXeUDmR2M0E",
+  "id": "2mbVvE2E1soxXeUDmR2M0E",
+  "is_local": false,
+  "name": "Violence - REZZ Remix",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/f143d0ceec2c4c03b97191fd5e7b79b621798026?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:2mbVvE2E1soxXeUDmR2M0E"
+}

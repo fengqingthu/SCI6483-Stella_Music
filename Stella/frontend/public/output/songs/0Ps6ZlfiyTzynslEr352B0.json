@@ -1,0 +1,149 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/420YC216vQuRC7wa6dZjYL"
+        },
+        "href": "https://api.spotify.com/v1/artists/420YC216vQuRC7wa6dZjYL",
+        "id": "420YC216vQuRC7wa6dZjYL",
+        "name": "Jena Lee",
+        "type": "artist",
+        "uri": "spotify:artist:420YC216vQuRC7wa6dZjYL"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DE",
+      "EE",
+      "EG",
+      "FI",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IL",
+      "KR",
+      "LK",
+      "LT",
+      "LV",
+      "MY",
+      "NO",
+      "PH",
+      "PK",
+      "PT",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "TR",
+      "TW",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6WPFYJiv2OyeXhqn339uNV"
+    },
+    "href": "https://api.spotify.com/v1/albums/6WPFYJiv2OyeXhqn339uNV",
+    "id": "6WPFYJiv2OyeXhqn339uNV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f703605c4c232850bcddf9ac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f703605c4c232850bcddf9ac",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f703605c4c232850bcddf9ac",
+        "width": 64
+      }
+    ],
+    "name": "Vous Remercier",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6WPFYJiv2OyeXhqn339uNV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/420YC216vQuRC7wa6dZjYL"
+      },
+      "href": "https://api.spotify.com/v1/artists/420YC216vQuRC7wa6dZjYL",
+      "id": "420YC216vQuRC7wa6dZjYL",
+      "name": "Jena Lee",
+      "type": "artist",
+      "uri": "spotify:artist:420YC216vQuRC7wa6dZjYL"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "DE",
+    "EE",
+    "EG",
+    "FI",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IL",
+    "KR",
+    "LK",
+    "LT",
+    "LV",
+    "MY",
+    "NO",
+    "PH",
+    "PK",
+    "PT",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "TR",
+    "TW",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM70900452"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Ps6ZlfiyTzynslEr352B0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Ps6ZlfiyTzynslEr352B0",
+  "id": "0Ps6ZlfiyTzynslEr352B0",
+  "is_local": false,
+  "name": "J'aimerais tellement",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0Ps6ZlfiyTzynslEr352B0"
+}

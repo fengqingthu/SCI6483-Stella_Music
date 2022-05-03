@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VNWuGf8SMVU2AerpdhMbP",
+        "id": "0VNWuGf8SMVU2AerpdhMbP",
+        "name": "The Black Angels",
+        "type": "artist",
+        "uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5tjV4UpiPUxbvseyMehg60"
+    },
+    "href": "https://api.spotify.com/v1/albums/5tjV4UpiPUxbvseyMehg60",
+    "id": "5tjV4UpiPUxbvseyMehg60",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d3315861193e17d1bad562d0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d3315861193e17d1bad562d0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d3315861193e17d1bad562d0",
+        "width": 64
+      }
+    ],
+    "name": "Passover",
+    "release_date": "2002-04-10",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5tjV4UpiPUxbvseyMehg60"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VNWuGf8SMVU2AerpdhMbP",
+      "id": "0VNWuGf8SMVU2AerpdhMbP",
+      "name": "The Black Angels",
+      "type": "artist",
+      "uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 272600,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USDEA0601805"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3EhkqSCdwnuxYeF35YFqDG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3EhkqSCdwnuxYeF35YFqDG",
+  "id": "3EhkqSCdwnuxYeF35YFqDG",
+  "is_local": false,
+  "name": "Black Greese",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/b702a13c861dfaa5d20d8ad74effb34882826754?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:3EhkqSCdwnuxYeF35YFqDG"
+}

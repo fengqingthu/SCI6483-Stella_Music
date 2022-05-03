@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4XquDVA8pkg5Lx91No1JxB",
+        "id": "4XquDVA8pkg5Lx91No1JxB",
+        "name": "Brittany Howard",
+        "type": "artist",
+        "uri": "spotify:artist:4XquDVA8pkg5Lx91No1JxB"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
+    },
+    "href": "https://api.spotify.com/v1/albums/5FwiNeZyBHQXH1ppbXqxe0",
+    "id": "5FwiNeZyBHQXH1ppbXqxe0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27332caae08ed1b1ee50296f6da",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0232caae08ed1b1ee50296f6da",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485132caae08ed1b1ee50296f6da",
+        "width": 64
+      }
+    ],
+    "name": "Jaime (Reimagined)",
+    "release_date": "2021-07-23",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5FwiNeZyBHQXH1ppbXqxe0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+      },
+      "href": "https://api.spotify.com/v1/artists/4XquDVA8pkg5Lx91No1JxB",
+      "id": "4XquDVA8pkg5Lx91No1JxB",
+      "name": "Brittany Howard",
+      "type": "artist",
+      "uri": "spotify:artist:4XquDVA8pkg5Lx91No1JxB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+      },
+      "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+      "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+      "name": "Childish Gambino",
+      "type": "artist",
+      "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USATO2000423"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6LmNmPxViPRou1YAvyg1OS",
+  "id": "6LmNmPxViPRou1YAvyg1OS",
+  "is_local": false,
+  "name": "Stay High - Childish Gambino Version",
+  "popularity": 53,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6LmNmPxViPRou1YAvyg1OS"
+}

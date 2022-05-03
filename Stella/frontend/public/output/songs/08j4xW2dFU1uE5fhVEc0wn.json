@@ -1,0 +1,183 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BF",
+      "BH",
+      "BJ",
+      "BR",
+      "CG",
+      "CH",
+      "DE",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IQ",
+      "IT",
+      "JO",
+      "JP",
+      "KW",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MG",
+      "ML",
+      "MU",
+      "MX",
+      "NE",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "QA",
+      "SA",
+      "SE",
+      "SN",
+      "TD",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+    },
+    "href": "https://api.spotify.com/v1/albums/3JOFv28xH21bzQdFuf4Y5F",
+    "id": "3JOFv28xH21bzQdFuf4Y5F",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d455da779888e6869f0747fa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d455da779888e6869f0747fa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d455da779888e6869f0747fa",
+        "width": 64
+      }
+    ],
+    "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3JOFv28xH21bzQdFuf4Y5F"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
+      },
+      "href": "https://api.spotify.com/v1/artists/491v9k5NTGBGanwqPNSkuS",
+      "id": "491v9k5NTGBGanwqPNSkuS",
+      "name": "Goran Bregović",
+      "type": "artist",
+      "uri": "spotify:artist:491v9k5NTGBGanwqPNSkuS"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AT",
+    "AU",
+    "BE",
+    "BF",
+    "BH",
+    "BJ",
+    "BR",
+    "CG",
+    "CH",
+    "DE",
+    "DK",
+    "DZ",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "IE",
+    "IQ",
+    "IT",
+    "JO",
+    "JP",
+    "KW",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "MC",
+    "MG",
+    "ML",
+    "MU",
+    "MX",
+    "NE",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "QA",
+    "SA",
+    "SE",
+    "SN",
+    "TD",
+    "TN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 182453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ039270100"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/08j4xW2dFU1uE5fhVEc0wn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/08j4xW2dFU1uE5fhVEc0wn",
+  "id": "08j4xW2dFU1uE5fhVEc0wn",
+  "is_local": false,
+  "name": "Gypsy Reggae - \"Arizona Dream\" Original Motion Picture Soundtrack",
+  "popularity": 23,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:08j4xW2dFU1uE5fhVEc0wn"
+}

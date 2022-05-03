@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        "href": "https://api.spotify.com/v1/artists/0lgENJQUkqkDbpsTYEayOr",
+        "id": "0lgENJQUkqkDbpsTYEayOr",
+        "name": "JUNNY",
+        "type": "artist",
+        "uri": "spotify:artist:0lgENJQUkqkDbpsTYEayOr"
+      }
+    ],
+    "available_markets": [
+      "KR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5cyloHgY9OpySB56K8p9L7"
+    },
+    "href": "https://api.spotify.com/v1/albums/5cyloHgY9OpySB56K8p9L7",
+    "id": "5cyloHgY9OpySB56K8p9L7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733addbf7a83f03ea15b82dea1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023addbf7a83f03ea15b82dea1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513addbf7a83f03ea15b82dea1",
+        "width": 64
+      }
+    ],
+    "name": "Thank You",
+    "release_date": "2018-12-20",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5cyloHgY9OpySB56K8p9L7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+      },
+      "href": "https://api.spotify.com/v1/artists/0lgENJQUkqkDbpsTYEayOr",
+      "id": "0lgENJQUkqkDbpsTYEayOr",
+      "name": "JUNNY",
+      "type": "artist",
+      "uri": "spotify:artist:0lgENJQUkqkDbpsTYEayOr"
+    }
+  ],
+  "available_markets": [
+    "KR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 180047,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "KRA381802289"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0I6T2uhtIRdG29HXkNYXK3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0I6T2uhtIRdG29HXkNYXK3",
+  "id": "0I6T2uhtIRdG29HXkNYXK3",
+  "is_local": false,
+  "name": "Thank You",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/3481487e43465b9d508d22619804ac9ee6b8d307?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0I6T2uhtIRdG29HXkNYXK3"
+}

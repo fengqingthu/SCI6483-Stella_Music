@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        },
+        "href": "https://api.spotify.com/v1/artists/1NPnXlXdEfr5ZxhEDsFevM",
+        "id": "1NPnXlXdEfr5ZxhEDsFevM",
+        "name": "Raphaël",
+        "type": "artist",
+        "uri": "spotify:artist:1NPnXlXdEfr5ZxhEDsFevM"
+      }
+    ],
+    "available_markets": [
+      "ES"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/78H2n5KJOkPfNgYa1ClI4u"
+    },
+    "href": "https://api.spotify.com/v1/albums/78H2n5KJOkPfNgYa1ClI4u",
+    "id": "78H2n5KJOkPfNgYa1ClI4u",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273abd7352df6b14dcf9e99c038",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02abd7352df6b14dcf9e99c038",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851abd7352df6b14dcf9e99c038",
+        "width": 64
+      }
+    ],
+    "name": "caravana",
+    "release_date": "2005",
+    "release_date_precision": "year",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:78H2n5KJOkPfNgYa1ClI4u"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+      },
+      "href": "https://api.spotify.com/v1/artists/1NPnXlXdEfr5ZxhEDsFevM",
+      "id": "1NPnXlXdEfr5ZxhEDsFevM",
+      "name": "Raphaël",
+      "type": "artist",
+      "uri": "spotify:artist:1NPnXlXdEfr5ZxhEDsFevM"
+    }
+  ],
+  "available_markets": [
+    "ES"
+  ],
+  "disc_number": 1,
+  "duration_ms": 213173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ110400586"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2SDuRG0Me3y8JKqNMKz5aG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2SDuRG0Me3y8JKqNMKz5aG",
+  "id": "2SDuRG0Me3y8JKqNMKz5aG",
+  "is_local": false,
+  "name": "Caravane",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/716c7ee233b234e4122cf19d9cd3b4be1028d0ce?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2SDuRG0Me3y8JKqNMKz5aG"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd"
+        },
+        "href": "https://api.spotify.com/v1/artists/0tOrKkXIn3VYyVHFEPG6Xd",
+        "id": "0tOrKkXIn3VYyVHFEPG6Xd",
+        "name": "Galimatias",
+        "type": "artist",
+        "uri": "spotify:artist:0tOrKkXIn3VYyVHFEPG6Xd"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2l4Ut0AVr0VrLW1kxXog4w"
+    },
+    "href": "https://api.spotify.com/v1/albums/2l4Ut0AVr0VrLW1kxXog4w",
+    "id": "2l4Ut0AVr0VrLW1kxXog4w",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736b2a15f364b92b616d1f0683",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026b2a15f364b92b616d1f0683",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516b2a15f364b92b616d1f0683",
+        "width": 64
+      }
+    ],
+    "name": "Young Chimera EP",
+    "release_date": "2013-05-02",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:2l4Ut0AVr0VrLW1kxXog4w"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd"
+      },
+      "href": "https://api.spotify.com/v1/artists/0tOrKkXIn3VYyVHFEPG6Xd",
+      "id": "0tOrKkXIn3VYyVHFEPG6Xd",
+      "name": "Galimatias",
+      "type": "artist",
+      "uri": "spotify:artist:0tOrKkXIn3VYyVHFEPG6Xd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0jh1CDvIxLRaYKmJ5RrNYk"
+      },
+      "href": "https://api.spotify.com/v1/artists/0jh1CDvIxLRaYKmJ5RrNYk",
+      "id": "0jh1CDvIxLRaYKmJ5RrNYk",
+      "name": "Soundtale",
+      "type": "artist",
+      "uri": "spotify:artist:0jh1CDvIxLRaYKmJ5RrNYk"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 271229,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCABN1384591"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/14B167k77sMItWJCaK0FBA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/14B167k77sMItWJCaK0FBA",
+  "id": "14B167k77sMItWJCaK0FBA",
+  "is_local": false,
+  "name": "Lakeside Blu (feat. Soundtale)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:14B167k77sMItWJCaK0FBA"
+}

@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI"
+    },
+    "href": "https://api.spotify.com/v1/albums/1Kg7AyuyIMTfD6geg9VghI",
+    "id": "1Kg7AyuyIMTfD6geg9VghI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02687e8a165b272440a68a480f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851687e8a165b272440a68a480f",
+        "width": 64
+      }
+    ],
+    "name": "Moulin Rouge",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:1Kg7AyuyIMTfD6geg9VghI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ExYzTb7raTAfsXPtiI5vq",
+      "id": "0ExYzTb7raTAfsXPtiI5vq",
+      "name": "Nicole Kidman",
+      "type": "artist",
+      "uri": "spotify:artist:0ExYzTb7raTAfsXPtiI5vq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1oXljO0beNoNJTw2WIOddz"
+      },
+      "href": "https://api.spotify.com/v1/artists/1oXljO0beNoNJTw2WIOddz",
+      "id": "1oXljO0beNoNJTw2WIOddz",
+      "name": "Jim Broadbent",
+      "type": "artist",
+      "uri": "spotify:artist:1oXljO0beNoNJTw2WIOddz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IijbqbcmIkvvqqofgODyx"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IijbqbcmIkvvqqofgODyx",
+      "id": "3IijbqbcmIkvvqqofgODyx",
+      "name": "Lara Mulcahy",
+      "type": "artist",
+      "uri": "spotify:artist:3IijbqbcmIkvvqqofgODyx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UNPlS7zdAoURBKW0lUEHj"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UNPlS7zdAoURBKW0lUEHj",
+      "id": "1UNPlS7zdAoURBKW0lUEHj",
+      "name": "Caroline O'Connor",
+      "type": "artist",
+      "uri": "spotify:artist:1UNPlS7zdAoURBKW0lUEHj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0iBj3R0Cwl6roWXRlsT8IA"
+      },
+      "href": "https://api.spotify.com/v1/artists/0iBj3R0Cwl6roWXRlsT8IA",
+      "id": "0iBj3R0Cwl6roWXRlsT8IA",
+      "name": "Natalie Mendoza",
+      "type": "artist",
+      "uri": "spotify:artist:0iBj3R0Cwl6roWXRlsT8IA"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 172400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USIR10110325"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4FZrqQWEFsIFatLZH4IDLg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4FZrqQWEFsIFatLZH4IDLg",
+  "id": "4FZrqQWEFsIFatLZH4IDLg",
+  "is_local": false,
+  "name": "Sparkling Diamonds - From \"Moulin Rouge\" Soundtrack",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4FZrqQWEFsIFatLZH4IDLg"
+}

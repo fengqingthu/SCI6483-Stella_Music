@@ -1,0 +1,185 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AG",
+      "AR",
+      "BB",
+      "BH",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "EG",
+      "GB",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "IE",
+      "IQ",
+      "JM",
+      "JO",
+      "JP",
+      "KN",
+      "KW",
+      "LB",
+      "LC",
+      "LY",
+      "MX",
+      "NI",
+      "OM",
+      "PA",
+      "PE",
+      "PS",
+      "PY",
+      "QA",
+      "SA",
+      "SR",
+      "SV",
+      "TT",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5TI5SRLYZyS9R9tYEkrB1O"
+    },
+    "href": "https://api.spotify.com/v1/albums/5TI5SRLYZyS9R9tYEkrB1O",
+    "id": "5TI5SRLYZyS9R9tYEkrB1O",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273aceae595a3d106a4337d7695",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02aceae595a3d106a4337d7695",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851aceae595a3d106a4337d7695",
+        "width": 64
+      }
+    ],
+    "name": "Classic FM At The Movies",
+    "release_date": "2006-05-20",
+    "release_date_precision": "day",
+    "total_tracks": 40,
+    "type": "album",
+    "uri": "spotify:album:5TI5SRLYZyS9R9tYEkrB1O"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+      },
+      "href": "https://api.spotify.com/v1/artists/0MvSBMGRQJY3mRwIbJsqF1",
+      "id": "0MvSBMGRQJY3mRwIbJsqF1",
+      "name": "Royal Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:0MvSBMGRQJY3mRwIbJsqF1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk"
+      },
+      "href": "https://api.spotify.com/v1/artists/5V7l2e1oLF7oSzpvdaDenk",
+      "id": "5V7l2e1oLF7oSzpvdaDenk",
+      "name": "Paul Bateman",
+      "type": "artist",
+      "uri": "spotify:artist:5V7l2e1oLF7oSzpvdaDenk"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AG",
+    "AR",
+    "BB",
+    "BH",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "EG",
+    "GB",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "IE",
+    "IQ",
+    "JM",
+    "JO",
+    "JP",
+    "KN",
+    "KW",
+    "LB",
+    "LC",
+    "LY",
+    "MX",
+    "NI",
+    "OM",
+    "PA",
+    "PE",
+    "PS",
+    "PY",
+    "QA",
+    "SA",
+    "SR",
+    "SV",
+    "TT",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 2,
+  "duration_ms": 348906,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBARL0701152"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5X5x6oRSCHtHEz28ncMVd5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5X5x6oRSCHtHEz28ncMVd5",
+  "id": "5X5x6oRSCHtHEz28ncMVd5",
+  "is_local": false,
+  "name": "The Balcony Scene (From \"Romeo and Juliet\")",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/7810a9da8f4d0790176f113134577a7f42b80c01?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:5X5x6oRSCHtHEz28ncMVd5"
+}

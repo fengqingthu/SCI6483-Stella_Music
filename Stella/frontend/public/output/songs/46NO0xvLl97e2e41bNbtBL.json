@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06"
+        },
+        "href": "https://api.spotify.com/v1/artists/0gDsjq3Se2YgMBdiJ88j06",
+        "id": "0gDsjq3Se2YgMBdiJ88j06",
+        "name": "Jocelyn Pook",
+        "type": "artist",
+        "uri": "spotify:artist:0gDsjq3Se2YgMBdiJ88j06"
+      }
+    ],
+    "available_markets": [
+      "ES",
+      "PT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3hqB2Oo6cz7qRH2qYwkIa4"
+    },
+    "href": "https://api.spotify.com/v1/albums/3hqB2Oo6cz7qRH2qYwkIa4",
+    "id": "3hqB2Oo6cz7qRH2qYwkIa4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6e67d8a24fc2d27290b889c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6e67d8a24fc2d27290b889c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d6e67d8a24fc2d27290b889c",
+        "width": 64
+      }
+    ],
+    "name": "Habitación en Roma (BSO)",
+    "release_date": "2010-04-26",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:3hqB2Oo6cz7qRH2qYwkIa4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06"
+      },
+      "href": "https://api.spotify.com/v1/artists/0gDsjq3Se2YgMBdiJ88j06",
+      "id": "0gDsjq3Se2YgMBdiJ88j06",
+      "name": "Jocelyn Pook",
+      "type": "artist",
+      "uri": "spotify:artist:0gDsjq3Se2YgMBdiJ88j06"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+      },
+      "href": "https://api.spotify.com/v1/artists/47wB3vlOd130dM3k5fADQw",
+      "id": "47wB3vlOd130dM3k5fADQw",
+      "name": "Russian Red",
+      "type": "artist",
+      "uri": "spotify:artist:47wB3vlOd130dM3k5fADQw"
+    }
+  ],
+  "available_markets": [
+    "ES",
+    "PT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 239080,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ES7731002092"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/46NO0xvLl97e2e41bNbtBL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/46NO0xvLl97e2e41bNbtBL",
+  "id": "46NO0xvLl97e2e41bNbtBL",
+  "is_local": false,
+  "name": "Loving Strangers",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/f3a0ee4feb362e5c392d9fb3f8a73c106af6b1d5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:46NO0xvLl97e2e41bNbtBL"
+}

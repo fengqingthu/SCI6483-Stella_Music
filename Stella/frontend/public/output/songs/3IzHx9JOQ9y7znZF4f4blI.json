@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tvKz56Tr39bkhcQUTO0Xr",
+        "id": "4tvKz56Tr39bkhcQUTO0Xr",
+        "name": "Angus & Julia Stone",
+        "type": "artist",
+        "uri": "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3KOvkNwe3m9OLwJWVgJl03"
+    },
+    "href": "https://api.spotify.com/v1/albums/3KOvkNwe3m9OLwJWVgJl03",
+    "id": "3KOvkNwe3m9OLwJWVgJl03",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27348847eedac1029343431f977",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0248847eedac1029343431f977",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485148847eedac1029343431f977",
+        "width": 64
+      }
+    ],
+    "name": "Big Jet Plane",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:3KOvkNwe3m9OLwJWVgJl03"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tvKz56Tr39bkhcQUTO0Xr",
+      "id": "4tvKz56Tr39bkhcQUTO0Xr",
+      "name": "Angus & Julia Stone",
+      "type": "artist",
+      "uri": "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 222645,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUAP11000003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3IzHx9JOQ9y7znZF4f4blI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3IzHx9JOQ9y7znZF4f4blI",
+  "id": "3IzHx9JOQ9y7znZF4f4blI",
+  "is_local": false,
+  "name": "Big Jet Plane",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/c3eaded25c8237b092ada11a03183ed3b80ef0ab?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3IzHx9JOQ9y7znZF4f4blI"
+}

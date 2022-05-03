@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2VOh9yGko83tLOsBUC2G1y"
+        },
+        "href": "https://api.spotify.com/v1/artists/2VOh9yGko83tLOsBUC2G1y",
+        "id": "2VOh9yGko83tLOsBUC2G1y",
+        "name": "Jim's Big Ego",
+        "type": "artist",
+        "uri": "spotify:artist:2VOh9yGko83tLOsBUC2G1y"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/63kQMmy0XQXELubobXSC3k"
+    },
+    "href": "https://api.spotify.com/v1/albums/63kQMmy0XQXELubobXSC3k",
+    "id": "63kQMmy0XQXELubobXSC3k",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273da1bbf6a922483f072c4ece8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02da1bbf6a922483f072c4ece8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851da1bbf6a922483f072c4ece8",
+        "width": 64
+      }
+    ],
+    "name": "They're Everywhere!",
+    "release_date": "2003-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:63kQMmy0XQXELubobXSC3k"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2VOh9yGko83tLOsBUC2G1y"
+      },
+      "href": "https://api.spotify.com/v1/artists/2VOh9yGko83tLOsBUC2G1y",
+      "id": "2VOh9yGko83tLOsBUC2G1y",
+      "name": "Jim's Big Ego",
+      "type": "artist",
+      "uri": "spotify:artist:2VOh9yGko83tLOsBUC2G1y"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 254146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ushm80497847"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7wJh3OpwJIvGG1COIkMoRf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7wJh3OpwJIvGG1COIkMoRf",
+  "id": "7wJh3OpwJIvGG1COIkMoRf",
+  "is_local": false,
+  "name": "The Ballad of Barry Allen",
+  "popularity": 7,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:7wJh3OpwJIvGG1COIkMoRf"
+}

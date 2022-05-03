@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vw8nqsMRW93XuZpXOcOHD"
+        },
+        "href": "https://api.spotify.com/v1/artists/4vw8nqsMRW93XuZpXOcOHD",
+        "id": "4vw8nqsMRW93XuZpXOcOHD",
+        "name": "J. Frank Wilson & The Cavaliers",
+        "type": "artist",
+        "uri": "spotify:artist:4vw8nqsMRW93XuZpXOcOHD"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0qrPlKaPd0GK18AhJK6aCB"
+    },
+    "href": "https://api.spotify.com/v1/albums/0qrPlKaPd0GK18AhJK6aCB",
+    "id": "0qrPlKaPd0GK18AhJK6aCB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27375f3f2ed6744ef5dc973d8d5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0275f3f2ed6744ef5dc973d8d5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485175f3f2ed6744ef5dc973d8d5",
+        "width": 64
+      }
+    ],
+    "name": "Last Kiss-the Definitive Collection",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:0qrPlKaPd0GK18AhJK6aCB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4vw8nqsMRW93XuZpXOcOHD"
+      },
+      "href": "https://api.spotify.com/v1/artists/4vw8nqsMRW93XuZpXOcOHD",
+      "id": "4vw8nqsMRW93XuZpXOcOHD",
+      "name": "J. Frank Wilson & The Cavaliers",
+      "type": "artist",
+      "uri": "spotify:artist:4vw8nqsMRW93XuZpXOcOHD"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 126053,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "uscgj0940326"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/08PU83iuGpSgKmiKiipmR9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/08PU83iuGpSgKmiKiipmR9",
+  "id": "08PU83iuGpSgKmiKiipmR9",
+  "is_local": false,
+  "name": "He'll Learn About Her",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:08PU83iuGpSgKmiKiipmR9"
+}

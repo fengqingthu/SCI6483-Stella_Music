@@ -1,0 +1,183 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DtSOCXYU6o4EV0K1NgIKq",
+        "id": "3DtSOCXYU6o4EV0K1NgIKq",
+        "name": "Art Tatum",
+        "type": "artist",
+        "uri": "spotify:artist:3DtSOCXYU6o4EV0K1NgIKq"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CA",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "KZ",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1eFGDdAsrFtezplobx4ywk"
+    },
+    "href": "https://api.spotify.com/v1/albums/1eFGDdAsrFtezplobx4ywk",
+    "id": "1eFGDdAsrFtezplobx4ywk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273221cbebeb6669d9b092e617a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02221cbebeb6669d9b092e617a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851221cbebeb6669d9b092e617a",
+        "width": 64
+      }
+    ],
+    "name": "Over the Rainbow",
+    "release_date": "1954-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:1eFGDdAsrFtezplobx4ywk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3DtSOCXYU6o4EV0K1NgIKq",
+      "id": "3DtSOCXYU6o4EV0K1NgIKq",
+      "name": "Art Tatum",
+      "type": "artist",
+      "uri": "spotify:artist:3DtSOCXYU6o4EV0K1NgIKq"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CA",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "JP",
+    "KZ",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 168973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR14F4900480"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6vonIvHGkZRY5wq8jNlWsi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6vonIvHGkZRY5wq8jNlWsi",
+  "id": "6vonIvHGkZRY5wq8jNlWsi",
+  "is_local": false,
+  "name": "Blue Skies - 2000 Remastered Version",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 17,
+  "type": "track",
+  "uri": "spotify:track:6vonIvHGkZRY5wq8jNlWsi"
+}

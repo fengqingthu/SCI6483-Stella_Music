@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        },
+        "href": "https://api.spotify.com/v1/artists/3mp5zzEz1qTq7X5a2yOS2B",
+        "id": "3mp5zzEz1qTq7X5a2yOS2B",
+        "name": "Swingrowers",
+        "type": "artist",
+        "uri": "spotify:artist:3mp5zzEz1qTq7X5a2yOS2B"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0Ik1nCIoMZdp9xPXpB3ePs"
+    },
+    "href": "https://api.spotify.com/v1/albums/0Ik1nCIoMZdp9xPXpB3ePs",
+    "id": "0Ik1nCIoMZdp9xPXpB3ePs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730d97eeca56505d205c9cf741",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020d97eeca56505d205c9cf741",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510d97eeca56505d205c9cf741",
+        "width": 64
+      }
+    ],
+    "name": "Hits & Remixes",
+    "release_date": "2017-07-26",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0Ik1nCIoMZdp9xPXpB3ePs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+      },
+      "href": "https://api.spotify.com/v1/artists/3mp5zzEz1qTq7X5a2yOS2B",
+      "id": "3mp5zzEz1qTq7X5a2yOS2B",
+      "name": "Swingrowers",
+      "type": "artist",
+      "uri": "spotify:artist:3mp5zzEz1qTq7X5a2yOS2B"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 237786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBJCN1405102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/55iSpQ0560cXSDXSZyKLSD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/55iSpQ0560cXSDXSZyKLSD",
+  "id": "55iSpQ0560cXSDXSZyKLSD",
+  "is_local": false,
+  "name": "Mr. Sandman",
+  "popularity": 7,
+  "preview_url": "https://p.scdn.co/mp3-preview/2009236a70774e906a7e65cbb1e1dc89db55a539?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:55iSpQ0560cXSDXSZyKLSD"
+}

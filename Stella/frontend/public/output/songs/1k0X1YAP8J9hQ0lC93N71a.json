@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+        "id": "6Tyzp9KzpiZ04DABQoedps",
+        "name": "Little Dragon",
+        "type": "artist",
+        "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/30IYNZBjrCEcRb5MRwUm9b"
+    },
+    "href": "https://api.spotify.com/v1/albums/30IYNZBjrCEcRb5MRwUm9b",
+    "id": "30IYNZBjrCEcRb5MRwUm9b",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738e2103fd3b4a39c8c23f5590",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028e2103fd3b4a39c8c23f5590",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518e2103fd3b4a39c8c23f5590",
+        "width": 64
+      }
+    ],
+    "name": "Season High",
+    "release_date": "2017-04-14",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:30IYNZBjrCEcRb5MRwUm9b"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+      "id": "6Tyzp9KzpiZ04DABQoedps",
+      "name": "Little Dragon",
+      "type": "artist",
+      "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 256973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USC4R1702068"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1k0X1YAP8J9hQ0lC93N71a"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1k0X1YAP8J9hQ0lC93N71a",
+  "id": "1k0X1YAP8J9hQ0lC93N71a",
+  "is_local": false,
+  "name": "High",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1k0X1YAP8J9hQ0lC93N71a"
+}

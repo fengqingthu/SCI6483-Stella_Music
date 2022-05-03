@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6euPnGzBlDysAC5ecVguNZ",
+        "id": "6euPnGzBlDysAC5ecVguNZ",
+        "name": "M. Pokora",
+        "type": "artist",
+        "uri": "spotify:artist:6euPnGzBlDysAC5ecVguNZ"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
+    },
+    "href": "https://api.spotify.com/v1/albums/4SGj2EwogAMqiN2imHvJSb",
+    "id": "4SGj2EwogAMqiN2imHvJSb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27301fa32176a328f328afd597b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0201fa32176a328f328afd597b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485101fa32176a328f328afd597b",
+        "width": 64
+      }
+    ],
+    "name": "PYRAMIDE",
+    "release_date": "2019-04-12",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:4SGj2EwogAMqiN2imHvJSb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6euPnGzBlDysAC5ecVguNZ",
+      "id": "6euPnGzBlDysAC5ecVguNZ",
+      "name": "M. Pokora",
+      "type": "artist",
+      "uri": "spotify:artist:6euPnGzBlDysAC5ecVguNZ"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 233800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRP431900270"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/399mh97iAmjU34de5MebHp",
+  "id": "399mh97iAmjU34de5MebHp",
+  "is_local": false,
+  "name": "Tombé",
+  "popularity": 53,
+  "preview_url": "https://p.scdn.co/mp3-preview/78b8c4631b00abdd260a115dc7be340efa3d2bcd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:399mh97iAmjU34de5MebHp"
+}

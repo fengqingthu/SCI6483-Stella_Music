@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ydoSd3N2mwgwBHtF6K7eX",
+        "id": "6ydoSd3N2mwgwBHtF6K7eX",
+        "name": "Calum Scott",
+        "type": "artist",
+        "uri": "spotify:artist:6ydoSd3N2mwgwBHtF6K7eX"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2Qm3jtYKIsCVWgpvFiIDX4"
+    },
+    "href": "https://api.spotify.com/v1/albums/2Qm3jtYKIsCVWgpvFiIDX4",
+    "id": "2Qm3jtYKIsCVWgpvFiIDX4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735b6e905a03d363cfcd3b882d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025b6e905a03d363cfcd3b882d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515b6e905a03d363cfcd3b882d",
+        "width": 64
+      }
+    ],
+    "name": "Only Human (Special Edition)",
+    "release_date": "2018-03-09",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:2Qm3jtYKIsCVWgpvFiIDX4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ydoSd3N2mwgwBHtF6K7eX",
+      "id": "6ydoSd3N2mwgwBHtF6K7eX",
+      "name": "Calum Scott",
+      "type": "artist",
+      "uri": "spotify:artist:6ydoSd3N2mwgwBHtF6K7eX"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 236906,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71815971"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0eqvfRQ2V6a31pHVTQfJpN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0eqvfRQ2V6a31pHVTQfJpN",
+  "id": "0eqvfRQ2V6a31pHVTQfJpN",
+  "is_local": false,
+  "name": "No Matter What",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:0eqvfRQ2V6a31pHVTQfJpN"
+}

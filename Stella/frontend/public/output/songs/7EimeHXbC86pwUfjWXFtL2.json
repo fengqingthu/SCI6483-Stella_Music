@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+        "id": "5nPOO9iTcrs9k6yFffPxjH",
+        "name": "Röyksopp",
+        "type": "artist",
+        "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "EE",
+      "FI",
+      "IS",
+      "LT",
+      "LV",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5uGRseH3YN6VRRrrgWfRwQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5uGRseH3YN6VRRrrgWfRwQ",
+    "id": "5uGRseH3YN6VRRrrgWfRwQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273737263d470e45ff5bc109fe7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02737263d470e45ff5bc109fe7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851737263d470e45ff5bc109fe7",
+        "width": 64
+      }
+    ],
+    "name": "This Time, This Place…",
+    "release_date": "2022-02-23",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5uGRseH3YN6VRRrrgWfRwQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+      "id": "5nPOO9iTcrs9k6yFffPxjH",
+      "name": "Röyksopp",
+      "type": "artist",
+      "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6"
+      },
+      "href": "https://api.spotify.com/v1/artists/4z9AKehWvtxINEbu8aQGO6",
+      "id": "4z9AKehWvtxINEbu8aQGO6",
+      "name": "Beki Mari",
+      "type": "artist",
+      "uri": "spotify:artist:4z9AKehWvtxINEbu8aQGO6"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 464200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBW232100103"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7EimeHXbC86pwUfjWXFtL2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7EimeHXbC86pwUfjWXFtL2",
+  "id": "7EimeHXbC86pwUfjWXFtL2",
+  "is_local": false,
+  "name": "This Time, This Place…",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/e3ae72e9e0c1498ac39baf64e6082443234080c3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7EimeHXbC86pwUfjWXFtL2"
+}

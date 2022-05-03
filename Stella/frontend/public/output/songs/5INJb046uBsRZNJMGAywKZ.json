@@ -1,0 +1,305 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+        "id": "4pFlv4QVInj7bAo0MqHpwW",
+        "name": "Anne Sofie von Otter",
+        "type": "artist",
+        "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+        "id": "2BGRfQgtzikz1pzAD0kaEn",
+        "name": "Elvis Costello",
+        "type": "artist",
+        "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BH",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IS",
+      "IT",
+      "JO",
+      "JP",
+      "KR",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MU",
+      "MX",
+      "MY",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PT",
+      "PY",
+      "QA",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TN",
+      "TW",
+      "US",
+      "VE",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0fUffGylGjIiZQ3FOVzeqK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0fUffGylGjIiZQ3FOVzeqK",
+    "id": "0fUffGylGjIiZQ3FOVzeqK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273228a3db248dbd065f3c5a60c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02228a3db248dbd065f3c5a60c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851228a3db248dbd065f3c5a60c",
+        "width": 64
+      }
+    ],
+    "name": "For The Stars",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:0fUffGylGjIiZQ3FOVzeqK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+      },
+      "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+      "id": "4pFlv4QVInj7bAo0MqHpwW",
+      "name": "Anne Sofie von Otter",
+      "type": "artist",
+      "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+      },
+      "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+      "id": "2BGRfQgtzikz1pzAD0kaEn",
+      "name": "Elvis Costello",
+      "type": "artist",
+      "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
+      },
+      "href": "https://api.spotify.com/v1/artists/0kV0e99xlTJcLKSu8KrLyp",
+      "id": "0kV0e99xlTJcLKSu8KrLyp",
+      "name": "Benny Andersson",
+      "type": "artist",
+      "uri": "spotify:artist:0kV0e99xlTJcLKSu8KrLyp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5gD2IIwhFa7qrXTWCmvMPn"
+      },
+      "href": "https://api.spotify.com/v1/artists/5gD2IIwhFa7qrXTWCmvMPn",
+      "id": "5gD2IIwhFa7qrXTWCmvMPn",
+      "name": "Svante Henryson",
+      "type": "artist",
+      "uri": "spotify:artist:5gD2IIwhFa7qrXTWCmvMPn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+      },
+      "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+      "id": "2b99MsfdhmMze4rADKlONq",
+      "name": "Steve Nieve",
+      "type": "artist",
+      "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0H13fQPmZ0OlRw7Bm02NVh"
+      },
+      "href": "https://api.spotify.com/v1/artists/0H13fQPmZ0OlRw7Bm02NVh",
+      "id": "0H13fQPmZ0OlRw7Bm02NVh",
+      "name": "Mats Schubert",
+      "type": "artist",
+      "uri": "spotify:artist:0H13fQPmZ0OlRw7Bm02NVh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2SUPmAU1yNB7y3LabAOi60"
+      },
+      "href": "https://api.spotify.com/v1/artists/2SUPmAU1yNB7y3LabAOi60",
+      "id": "2SUPmAU1yNB7y3LabAOi60",
+      "name": "Johan Lindström",
+      "type": "artist",
+      "uri": "spotify:artist:2SUPmAU1yNB7y3LabAOi60"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zvKByFOpa2DQOKFvlATlg"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zvKByFOpa2DQOKFvlATlg",
+      "id": "3zvKByFOpa2DQOKFvlATlg",
+      "name": "Billy Bremner",
+      "type": "artist",
+      "uri": "spotify:artist:3zvKByFOpa2DQOKFvlATlg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1vWK5DdCK4SO9wFIZllCA3"
+      },
+      "href": "https://api.spotify.com/v1/artists/1vWK5DdCK4SO9wFIZllCA3",
+      "id": "1vWK5DdCK4SO9wFIZllCA3",
+      "name": "Magnus Persson",
+      "type": "artist",
+      "uri": "spotify:artist:1vWK5DdCK4SO9wFIZllCA3"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AR",
+    "AT",
+    "AU",
+    "BE",
+    "BG",
+    "BH",
+    "BO",
+    "BR",
+    "CA",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "DO",
+    "EC",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "GT",
+    "HK",
+    "HN",
+    "HU",
+    "ID",
+    "IE",
+    "IL",
+    "IS",
+    "IT",
+    "JO",
+    "JP",
+    "KR",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "MU",
+    "MX",
+    "MY",
+    "NG",
+    "NI",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PA",
+    "PE",
+    "PT",
+    "PY",
+    "QA",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "SV",
+    "TN",
+    "TW",
+    "US",
+    "VE",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEN960031006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5INJb046uBsRZNJMGAywKZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5INJb046uBsRZNJMGAywKZ",
+  "id": "5INJb046uBsRZNJMGAywKZ",
+  "is_local": false,
+  "name": "Broken Bicycles (Waits) . Junk (McCartney)",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:5INJb046uBsRZNJMGAywKZ"
+}

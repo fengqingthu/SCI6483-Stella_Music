@@ -1,0 +1,20 @@
+{
+  "danceability": 0.36,
+  "energy": 0.814,
+  "key": 10,
+  "loudness": -8.008,
+  "mode": 0,
+  "speechiness": 0.0417,
+  "acousticness": 0.0108,
+  "instrumentalness": 0.879,
+  "liveness": 0.114,
+  "valence": 0.117,
+  "tempo": 112.069,
+  "type": "audio_features",
+  "id": "7rPRXjWCbg6C9uiv4sNewz",
+  "uri": "spotify:track:7rPRXjWCbg6C9uiv4sNewz",
+  "track_href": "https://api.spotify.com/v1/tracks/7rPRXjWCbg6C9uiv4sNewz",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rPRXjWCbg6C9uiv4sNewz",
+  "duration_ms": 378802,
+  "time_signature": 5
+}

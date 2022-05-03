@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        },
+        "href": "https://api.spotify.com/v1/artists/5HFkc3t0HYETL4JeEbDB1v",
+        "id": "5HFkc3t0HYETL4JeEbDB1v",
+        "name": "Powerwolf",
+        "type": "artist",
+        "uri": "spotify:artist:5HFkc3t0HYETL4JeEbDB1v"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4gsY9RZah70Ym1oFlaKf7c"
+    },
+    "href": "https://api.spotify.com/v1/albums/4gsY9RZah70Ym1oFlaKf7c",
+    "id": "4gsY9RZah70Ym1oFlaKf7c",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739224dd3ffa81938f6438bc21",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029224dd3ffa81938f6438bc21",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519224dd3ffa81938f6438bc21",
+        "width": 64
+      }
+    ],
+    "name": "The Sacrament Of Sin (Deluxe Version)",
+    "release_date": "2018-07-20",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:4gsY9RZah70Ym1oFlaKf7c"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HFkc3t0HYETL4JeEbDB1v",
+      "id": "5HFkc3t0HYETL4JeEbDB1v",
+      "name": "Powerwolf",
+      "type": "artist",
+      "uri": "spotify:artist:5HFkc3t0HYETL4JeEbDB1v"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 237933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261878304"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6ddRfRVy5QsQ2fq9nOU34M"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6ddRfRVy5QsQ2fq9nOU34M",
+  "id": "6ddRfRVy5QsQ2fq9nOU34M",
+  "is_local": false,
+  "name": "Incense & Iron",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/328ffc0a1a00712535ead389550ac090e029959d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:6ddRfRVy5QsQ2fq9nOU34M"
+}

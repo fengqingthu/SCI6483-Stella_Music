@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe"
+        },
+        "href": "https://api.spotify.com/v1/artists/5FwWkrkqRy9Qmny3vqxYUe",
+        "id": "5FwWkrkqRy9Qmny3vqxYUe",
+        "name": "Tina Dickow",
+        "type": "artist",
+        "uri": "spotify:artist:5FwWkrkqRy9Qmny3vqxYUe"
+      }
+    ],
+    "available_markets": [
+      "DK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4sIEnkrVJzxPA1KACjqZYe"
+    },
+    "href": "https://api.spotify.com/v1/albums/4sIEnkrVJzxPA1KACjqZYe",
+    "id": "4sIEnkrVJzxPA1KACjqZYe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273735d80f15115880423cf1fe0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02735d80f15115880423cf1fe0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851735d80f15115880423cf1fe0",
+        "width": 64
+      }
+    ],
+    "name": "Welcome Back Colour",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:4sIEnkrVJzxPA1KACjqZYe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FwWkrkqRy9Qmny3vqxYUe",
+      "id": "5FwWkrkqRy9Qmny3vqxYUe",
+      "name": "Tina Dickow",
+      "type": "artist",
+      "uri": "spotify:artist:5FwWkrkqRy9Qmny3vqxYUe"
+    }
+  ],
+  "available_markets": [
+    "DK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223613,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKAE91000010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1KrOUpFw6eHOkeu96velPe"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1KrOUpFw6eHOkeu96velPe",
+  "id": "1KrOUpFw6eHOkeu96velPe",
+  "is_local": false,
+  "name": "Nobody's Man",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/b8741aeeb1b544d41797b147fa13622bc5573c78?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1KrOUpFw6eHOkeu96velPe"
+}

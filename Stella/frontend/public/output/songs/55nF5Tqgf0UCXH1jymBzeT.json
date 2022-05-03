@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href": "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id": "4NHQUGzhtTLFvgF5SZesLK",
+        "name": "Tove Lo",
+        "type": "artist",
+        "uri": "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "MX",
+      "NZ",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
+    },
+    "href": "https://api.spotify.com/v1/albums/47C7w4o1resDhr7jvYEpxE",
+    "id": "47C7w4o1resDhr7jvYEpxE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273edbdf62135e9112a98bffa0c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02edbdf62135e9112a98bffa0c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851edbdf62135e9112a98bffa0c",
+        "width": 64
+      }
+    ],
+    "name": "Queen Of The Clouds",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:47C7w4o1resDhr7jvYEpxE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+      },
+      "href": "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+      "id": "4NHQUGzhtTLFvgF5SZesLK",
+      "name": "Tove Lo",
+      "type": "artist",
+      "uri": "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "MX",
+    "NZ",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 214626,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEUM71401531"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/55nF5Tqgf0UCXH1jymBzeT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/55nF5Tqgf0UCXH1jymBzeT",
+  "id": "55nF5Tqgf0UCXH1jymBzeT",
+  "is_local": false,
+  "name": "Thousand Miles",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:55nF5Tqgf0UCXH1jymBzeT"
+}

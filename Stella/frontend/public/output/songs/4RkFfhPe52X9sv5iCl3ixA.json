@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DoQBgPsB9AdmWpIa2hUSz",
+        "id": "2DoQBgPsB9AdmWpIa2hUSz",
+        "name": "Fennesz",
+        "type": "artist",
+        "uri": "spotify:artist:2DoQBgPsB9AdmWpIa2hUSz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+        "id": "1tcgfoMTT1szjUeaikxRjA",
+        "name": "Ryuichi Sakamoto",
+        "type": "artist",
+        "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H"
+    },
+    "href": "https://api.spotify.com/v1/albums/4PnuHl4d1rzQ8lsqxAfB6H",
+    "id": "4PnuHl4d1rzQ8lsqxAfB6H",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736d89050687a26927d5410877",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026d89050687a26927d5410877",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516d89050687a26927d5410877",
+        "width": 64
+      }
+    ],
+    "name": "cendre",
+    "release_date": "2007-03-28",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4PnuHl4d1rzQ8lsqxAfB6H"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2DoQBgPsB9AdmWpIa2hUSz",
+      "id": "2DoQBgPsB9AdmWpIa2hUSz",
+      "name": "Fennesz",
+      "type": "artist",
+      "uri": "spotify:artist:2DoQBgPsB9AdmWpIa2hUSz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+      },
+      "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+      "id": "1tcgfoMTT1szjUeaikxRjA",
+      "name": "Ryuichi Sakamoto",
+      "type": "artist",
+      "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 277786,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPB600675703"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4RkFfhPe52X9sv5iCl3ixA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4RkFfhPe52X9sv5iCl3ixA",
+  "id": "4RkFfhPe52X9sv5iCl3ixA",
+  "is_local": false,
+  "name": "haru",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/aa74836e608eabb92677cbe098e5271b45f39da3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4RkFfhPe52X9sv5iCl3ixA"
+}

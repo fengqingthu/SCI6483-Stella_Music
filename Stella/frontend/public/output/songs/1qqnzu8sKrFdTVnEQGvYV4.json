@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5"
+        },
+        "href": "https://api.spotify.com/v1/artists/7jw9vF1hFRp1k8dDRNRiC5",
+        "id": "7jw9vF1hFRp1k8dDRNRiC5",
+        "name": "NanowaR of Steel",
+        "type": "artist",
+        "uri": "spotify:artist:7jw9vF1hFRp1k8dDRNRiC5"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4LlX6DNvK7zZBzAi1hqbUn"
+    },
+    "href": "https://api.spotify.com/v1/albums/4LlX6DNvK7zZBzAi1hqbUn",
+    "id": "4LlX6DNvK7zZBzAi1hqbUn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733c81dbb2399c67725ea58668",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023c81dbb2399c67725ea58668",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513c81dbb2399c67725ea58668",
+        "width": 64
+      }
+    ],
+    "name": "Valhalleluja",
+    "release_date": "2019-12-13",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4LlX6DNvK7zZBzAi1hqbUn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5"
+      },
+      "href": "https://api.spotify.com/v1/artists/7jw9vF1hFRp1k8dDRNRiC5",
+      "id": "7jw9vF1hFRp1k8dDRNRiC5",
+      "name": "NanowaR of Steel",
+      "type": "artist",
+      "uri": "spotify:artist:7jw9vF1hFRp1k8dDRNRiC5"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 349755,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261993501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1qqnzu8sKrFdTVnEQGvYV4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1qqnzu8sKrFdTVnEQGvYV4",
+  "id": "1qqnzu8sKrFdTVnEQGvYV4",
+  "is_local": false,
+  "name": "Valhalleluja",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/84bc1cac61667982b9b1c58b2cffefef95d64737?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1qqnzu8sKrFdTVnEQGvYV4"
+}

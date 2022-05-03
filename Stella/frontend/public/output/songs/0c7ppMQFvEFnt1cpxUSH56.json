@@ -1,0 +1,179 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5GUi6Czd9ReKfaRGQsi9dI",
+        "id": "5GUi6Czd9ReKfaRGQsi9dI",
+        "name": "De Palmas",
+        "type": "artist",
+        "uri": "spotify:artist:5GUi6Czd9ReKfaRGQsi9dI"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BF",
+      "BH",
+      "BJ",
+      "BR",
+      "CG",
+      "CH",
+      "DE",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IQ",
+      "IT",
+      "JO",
+      "JP",
+      "KW",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MG",
+      "ML",
+      "MU",
+      "NE",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PT",
+      "QA",
+      "SA",
+      "SE",
+      "SN",
+      "TD",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7669yAkyDYTr33Hc0cAdhn"
+    },
+    "href": "https://api.spotify.com/v1/albums/7669yAkyDYTr33Hc0cAdhn",
+    "id": "7669yAkyDYTr33Hc0cAdhn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27345dafbe50b9b5b875dbc44c4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0245dafbe50b9b5b875dbc44c4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485145dafbe50b9b5b875dbc44c4",
+        "width": 64
+      }
+    ],
+    "name": "Marcher Dans Le Sable",
+    "release_date": "2000-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7669yAkyDYTr33Hc0cAdhn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+      },
+      "href": "https://api.spotify.com/v1/artists/5GUi6Czd9ReKfaRGQsi9dI",
+      "id": "5GUi6Czd9ReKfaRGQsi9dI",
+      "name": "De Palmas",
+      "type": "artist",
+      "uri": "spotify:artist:5GUi6Czd9ReKfaRGQsi9dI"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AT",
+    "AU",
+    "BE",
+    "BF",
+    "BH",
+    "BJ",
+    "BR",
+    "CG",
+    "CH",
+    "DE",
+    "DK",
+    "DZ",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "IE",
+    "IQ",
+    "IT",
+    "JO",
+    "JP",
+    "KW",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "MC",
+    "MG",
+    "ML",
+    "MU",
+    "NE",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PT",
+    "QA",
+    "SA",
+    "SE",
+    "SN",
+    "TD",
+    "TN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 186013,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ020100020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0c7ppMQFvEFnt1cpxUSH56"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0c7ppMQFvEFnt1cpxUSH56",
+  "id": "0c7ppMQFvEFnt1cpxUSH56",
+  "is_local": false,
+  "name": "Une seule vie (Marcher dans le sable)",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0c7ppMQFvEFnt1cpxUSH56"
+}

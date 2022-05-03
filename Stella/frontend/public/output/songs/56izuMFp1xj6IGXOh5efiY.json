@@ -1,0 +1,135 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/3khg8RDB6nMuw34w1IHS6Y",
+        "id": "3khg8RDB6nMuw34w1IHS6Y",
+        "name": "Jónsi",
+        "type": "artist",
+        "uri": "spotify:artist:3khg8RDB6nMuw34w1IHS6Y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        },
+        "href": "https://api.spotify.com/v1/artists/51UcKPhDKdKDGIjec0781x",
+        "id": "51UcKPhDKdKDGIjec0781x",
+        "name": "Alex Somers",
+        "type": "artist",
+        "uri": "spotify:artist:51UcKPhDKdKDGIjec0781x"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "AU",
+      "BE",
+      "CH",
+      "CW",
+      "DE",
+      "DK",
+      "FI",
+      "GR",
+      "IE",
+      "IT",
+      "LI",
+      "LU",
+      "NL",
+      "NO",
+      "NZ",
+      "PT",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4yUtWutRnPemXdcyW97tvY"
+    },
+    "href": "https://api.spotify.com/v1/albums/4yUtWutRnPemXdcyW97tvY",
+    "id": "4yUtWutRnPemXdcyW97tvY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731c55ffb2ffda5b149cf80433",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021c55ffb2ffda5b149cf80433",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511c55ffb2ffda5b149cf80433",
+        "width": 64
+      }
+    ],
+    "name": "Riceboy Sleeps",
+    "release_date": "2009-04-06",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:4yUtWutRnPemXdcyW97tvY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/3khg8RDB6nMuw34w1IHS6Y",
+      "id": "3khg8RDB6nMuw34w1IHS6Y",
+      "name": "Jónsi",
+      "type": "artist",
+      "uri": "spotify:artist:3khg8RDB6nMuw34w1IHS6Y"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+      },
+      "href": "https://api.spotify.com/v1/artists/51UcKPhDKdKDGIjec0781x",
+      "id": "51UcKPhDKdKDGIjec0781x",
+      "name": "Alex Somers",
+      "type": "artist",
+      "uri": "spotify:artist:51UcKPhDKdKDGIjec0781x"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "AU",
+    "BE",
+    "CH",
+    "CW",
+    "DE",
+    "DK",
+    "FI",
+    "GR",
+    "IE",
+    "IT",
+    "LI",
+    "LU",
+    "NL",
+    "NO",
+    "NZ",
+    "PT",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 560653,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB01A0900272"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/56izuMFp1xj6IGXOh5efiY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/56izuMFp1xj6IGXOh5efiY",
+  "id": "56izuMFp1xj6IGXOh5efiY",
+  "is_local": false,
+  "name": "Happiness",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/958df3952e3b473d8d8d1cfae3130581d1ef73fe?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:56izuMFp1xj6IGXOh5efiY"
+}

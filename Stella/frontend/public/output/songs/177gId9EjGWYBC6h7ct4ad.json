@@ -1,0 +1,115 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        "href": "https://api.spotify.com/v1/artists/1QsdzIKkTT5gDFj8GB1cIX",
+        "id": "1QsdzIKkTT5gDFj8GB1cIX",
+        "name": "Yseult",
+        "type": "artist",
+        "uri": "spotify:artist:1QsdzIKkTT5gDFj8GB1cIX"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "BH",
+      "CA",
+      "DZ",
+      "EG",
+      "IQ",
+      "JO",
+      "KW",
+      "LB",
+      "LY",
+      "MA",
+      "MX",
+      "OM",
+      "PS",
+      "QA",
+      "SA",
+      "TN",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B"
+    },
+    "href": "https://api.spotify.com/v1/albums/0A2VRfeYH8NGbjX0lTY37B",
+    "id": "0A2VRfeYH8NGbjX0lTY37B",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273937d1e409950545bce514b2d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02937d1e409950545bce514b2d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851937d1e409950545bce514b2d",
+        "width": 64
+      }
+    ],
+    "name": "Yseult",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0A2VRfeYH8NGbjX0lTY37B"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+      },
+      "href": "https://api.spotify.com/v1/artists/1QsdzIKkTT5gDFj8GB1cIX",
+      "id": "1QsdzIKkTT5gDFj8GB1cIX",
+      "name": "Yseult",
+      "type": "artist",
+      "uri": "spotify:artist:1QsdzIKkTT5gDFj8GB1cIX"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "BH",
+    "CA",
+    "DZ",
+    "EG",
+    "IQ",
+    "JO",
+    "KW",
+    "LB",
+    "LY",
+    "MA",
+    "MX",
+    "OM",
+    "PS",
+    "QA",
+    "SA",
+    "TN",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 183533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM71401110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/177gId9EjGWYBC6h7ct4ad"
+  },
+  "href": "https://api.spotify.com/v1/tracks/177gId9EjGWYBC6h7ct4ad",
+  "id": "177gId9EjGWYBC6h7ct4ad",
+  "is_local": false,
+  "name": "La vague",
+  "popularity": 14,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:177gId9EjGWYBC6h7ct4ad"
+}

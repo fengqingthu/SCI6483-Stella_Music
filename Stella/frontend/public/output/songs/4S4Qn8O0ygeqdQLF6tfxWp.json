@@ -1,0 +1,121 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4IbAZwt75dpehMOgcC3GnP",
+        "id": "4IbAZwt75dpehMOgcC3GnP",
+        "name": "Richard Rodgers",
+        "type": "artist",
+        "uri": "spotify:artist:4IbAZwt75dpehMOgcC3GnP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        },
+        "href": "https://api.spotify.com/v1/artists/5RdqZVi36tpDPYNPw8jJbO",
+        "id": "5RdqZVi36tpDPYNPw8jJbO",
+        "name": "Julie Andrews",
+        "type": "artist",
+        "uri": "spotify:artist:5RdqZVi36tpDPYNPw8jJbO"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/71kf8qdVvaeeIoYC0LIB3X"
+    },
+    "href": "https://api.spotify.com/v1/albums/71kf8qdVvaeeIoYC0LIB3X",
+    "id": "71kf8qdVvaeeIoYC0LIB3X",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f21cbf5fc6a5003fafe4f4b7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f21cbf5fc6a5003fafe4f4b7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f21cbf5fc6a5003fafe4f4b7",
+        "width": 64
+      }
+    ],
+    "name": "Julie Andrews sings Richard Rodgers",
+    "release_date": "1994-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:71kf8qdVvaeeIoYC0LIB3X"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+      },
+      "href": "https://api.spotify.com/v1/artists/4IbAZwt75dpehMOgcC3GnP",
+      "id": "4IbAZwt75dpehMOgcC3GnP",
+      "name": "Richard Rodgers",
+      "type": "artist",
+      "uri": "spotify:artist:4IbAZwt75dpehMOgcC3GnP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5RdqZVi36tpDPYNPw8jJbO",
+      "id": "5RdqZVi36tpDPYNPw8jJbO",
+      "name": "Julie Andrews",
+      "type": "artist",
+      "uri": "spotify:artist:5RdqZVi36tpDPYNPw8jJbO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4le4QhYXb3qsS7brJooVEY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4le4QhYXb3qsS7brJooVEY",
+      "id": "4le4QhYXb3qsS7brJooVEY",
+      "name": "London Musicians Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:4le4QhYXb3qsS7brJooVEY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7xOdmgnR5hiKNk23ia94Yh"
+      },
+      "href": "https://api.spotify.com/v1/artists/7xOdmgnR5hiKNk23ia94Yh",
+      "id": "7xOdmgnR5hiKNk23ia94Yh",
+      "name": "Ian Fraser",
+      "type": "artist",
+      "uri": "spotify:artist:7xOdmgnR5hiKNk23ia94Yh"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLA509408912"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4S4Qn8O0ygeqdQLF6tfxWp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4S4Qn8O0ygeqdQLF6tfxWp",
+  "id": "4S4Qn8O0ygeqdQLF6tfxWp",
+  "is_local": false,
+  "name": "Edelweiss [The Sound of Music]",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:4S4Qn8O0ygeqdQLF6tfxWp"
+}

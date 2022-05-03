@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uca08INg3Te4jR7g1khYN",
+        "id": "1uca08INg3Te4jR7g1khYN",
+        "name": "ROZEN",
+        "type": "artist",
+        "uri": "spotify:artist:1uca08INg3Te4jR7g1khYN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0HkAo9ToUOTrxpWDaP5r2L"
+        },
+        "href": "https://api.spotify.com/v1/artists/0HkAo9ToUOTrxpWDaP5r2L",
+        "id": "0HkAo9ToUOTrxpWDaP5r2L",
+        "name": "REVEN",
+        "type": "artist",
+        "uri": "spotify:artist:0HkAo9ToUOTrxpWDaP5r2L"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2b7smKKOhahaYTQfZaR7Ta"
+    },
+    "href": "https://api.spotify.com/v1/albums/2b7smKKOhahaYTQfZaR7Ta",
+    "id": "2b7smKKOhahaYTQfZaR7Ta",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366abb6a95ab6eb0c088a1cd2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266abb6a95ab6eb0c088a1cd2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166abb6a95ab6eb0c088a1cd2",
+        "width": 64
+      }
+    ],
+    "name": "Nier: Glory to Mankind",
+    "release_date": "2017-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:2b7smKKOhahaYTQfZaR7Ta"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1uca08INg3Te4jR7g1khYN",
+      "id": "1uca08INg3Te4jR7g1khYN",
+      "name": "ROZEN",
+      "type": "artist",
+      "uri": "spotify:artist:1uca08INg3Te4jR7g1khYN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0HkAo9ToUOTrxpWDaP5r2L"
+      },
+      "href": "https://api.spotify.com/v1/artists/0HkAo9ToUOTrxpWDaP5r2L",
+      "id": "0HkAo9ToUOTrxpWDaP5r2L",
+      "name": "REVEN",
+      "type": "artist",
+      "uri": "spotify:artist:0HkAo9ToUOTrxpWDaP5r2L"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 275053,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QZ6K41700552"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4DXGhhxIFDYORCJkSFPTh0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4DXGhhxIFDYORCJkSFPTh0",
+  "id": "4DXGhhxIFDYORCJkSFPTh0",
+  "is_local": false,
+  "name": "Amusement Park",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4DXGhhxIFDYORCJkSFPTh0"
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA"
+        },
+        "href": "https://api.spotify.com/v1/artists/2xW3pBjCngD69hC1wIUgjA",
+        "id": "2xW3pBjCngD69hC1wIUgjA",
+        "name": "Axel Johansson",
+        "type": "artist",
+        "uri": "spotify:artist:2xW3pBjCngD69hC1wIUgjA"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/446S4wr6IAst0FSW74B9aw"
+    },
+    "href": "https://api.spotify.com/v1/albums/446S4wr6IAst0FSW74B9aw",
+    "id": "446S4wr6IAst0FSW74B9aw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273197dbaae2c0c53726136df79",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02197dbaae2c0c53726136df79",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851197dbaae2c0c53726136df79",
+        "width": 64
+      }
+    ],
+    "name": "I See Right Through To You (feat. Amy Grace)",
+    "release_date": "2020-03-13",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:446S4wr6IAst0FSW74B9aw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xW3pBjCngD69hC1wIUgjA",
+      "id": "2xW3pBjCngD69hC1wIUgjA",
+      "name": "Axel Johansson",
+      "type": "artist",
+      "uri": "spotify:artist:2xW3pBjCngD69hC1wIUgjA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io"
+      },
+      "href": "https://api.spotify.com/v1/artists/3LtXWr3HVgI37alYryJ4Io",
+      "id": "3LtXWr3HVgI37alYryJ4Io",
+      "name": "Amy Grace",
+      "type": "artist",
+      "uri": "spotify:artist:3LtXWr3HVgI37alYryJ4Io"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 206425,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DK4YA2003801"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4iZceBwljLaMLdSjw2IdRP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4iZceBwljLaMLdSjw2IdRP",
+  "id": "4iZceBwljLaMLdSjw2IdRP",
+  "is_local": false,
+  "name": "I See Right Through To You (feat. Amy Grace)",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/586df6e12e5ca763da5a19628240bec244ebb79b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4iZceBwljLaMLdSjw2IdRP"
+}

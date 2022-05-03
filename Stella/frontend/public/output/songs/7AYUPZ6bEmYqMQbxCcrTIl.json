@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        "href": "https://api.spotify.com/v1/artists/34J5kKR5szbJ5fGK7f8HCU",
+        "id": "34J5kKR5szbJ5fGK7f8HCU",
+        "name": "jung jaeil",
+        "type": "artist",
+        "uri": "spotify:artist:34J5kKR5szbJ5fGK7f8HCU"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/32wOhLTLnq6kis3xkRN2ei"
+    },
+    "href": "https://api.spotify.com/v1/albums/32wOhLTLnq6kis3xkRN2ei",
+    "id": "32wOhLTLnq6kis3xkRN2ei",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27309eb26d1d49d2b3156ce0a1a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0209eb26d1d49d2b3156ce0a1a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485109eb26d1d49d2b3156ce0a1a",
+        "width": 64
+      }
+    ],
+    "name": "Parasite (Original Motion Picture Soundtrack)",
+    "release_date": "2019-10-11",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:32wOhLTLnq6kis3xkRN2ei"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+      },
+      "href": "https://api.spotify.com/v1/artists/34J5kKR5szbJ5fGK7f8HCU",
+      "id": "34J5kKR5szbJ5fGK7f8HCU",
+      "name": "jung jaeil",
+      "type": "artist",
+      "uri": "spotify:artist:34J5kKR5szbJ5fGK7f8HCU"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 108906,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "KRA491900338"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7AYUPZ6bEmYqMQbxCcrTIl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7AYUPZ6bEmYqMQbxCcrTIl",
+  "id": "7AYUPZ6bEmYqMQbxCcrTIl",
+  "is_local": false,
+  "name": "Zappaguri",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/99d27d0cf94f2a886f1fe5af72c3892c529ae204?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:7AYUPZ6bEmYqMQbxCcrTIl"
+}

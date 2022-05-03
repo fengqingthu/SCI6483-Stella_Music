@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Lm0pUvmisUHMdoky5ch2I",
+        "id": "4Lm0pUvmisUHMdoky5ch2I",
+        "name": "Apocalyptica",
+        "type": "artist",
+        "uri": "spotify:artist:4Lm0pUvmisUHMdoky5ch2I"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/46OuN3LtlXn4GK9qE7OzAp"
+    },
+    "href": "https://api.spotify.com/v1/albums/46OuN3LtlXn4GK9qE7OzAp",
+    "id": "46OuN3LtlXn4GK9qE7OzAp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c7f4888d377d4d031c117ffa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c7f4888d377d4d031c117ffa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c7f4888d377d4d031c117ffa",
+        "width": 64
+      }
+    ],
+    "name": "7th Symphony",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:46OuN3LtlXn4GK9qE7OzAp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Lm0pUvmisUHMdoky5ch2I",
+      "id": "4Lm0pUvmisUHMdoky5ch2I",
+      "name": "Apocalyptica",
+      "type": "artist",
+      "uri": "spotify:artist:4Lm0pUvmisUHMdoky5ch2I"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0s6px6BMEyOSr71CXIyQsM"
+      },
+      "href": "https://api.spotify.com/v1/artists/0s6px6BMEyOSr71CXIyQsM",
+      "id": "0s6px6BMEyOSr71CXIyQsM",
+      "name": "Lacey Mosley",
+      "type": "artist",
+      "uri": "spotify:artist:0s6px6BMEyOSr71CXIyQsM"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 236506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEE861000214"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/55Axz9rsrL2kH8lEnbJMgt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/55Axz9rsrL2kH8lEnbJMgt",
+  "id": "55Axz9rsrL2kH8lEnbJMgt",
+  "is_local": false,
+  "name": "Broken Pieces",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/e8bedb2ff8ceec29400c6949a716e787f1928991?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:55Axz9rsrL2kH8lEnbJMgt"
+}

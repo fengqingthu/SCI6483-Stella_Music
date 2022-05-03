@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name": "Mac DeMarco",
+        "type": "artist",
+        "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0Skv3s5A99n7dstiJOs0aA"
+    },
+    "href": "https://api.spotify.com/v1/albums/0Skv3s5A99n7dstiJOs0aA",
+    "id": "0Skv3s5A99n7dstiJOs0aA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273681384864fcbda288ed7d365",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02681384864fcbda288ed7d365",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851681384864fcbda288ed7d365",
+        "width": 64
+      }
+    ],
+    "name": "2",
+    "release_date": "2013-08-09",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:0Skv3s5A99n7dstiJOs0aA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name": "Mac DeMarco",
+      "type": "artist",
+      "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 173866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMMZN1200048"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0MgOsVty0YR1kas7x16yoS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0MgOsVty0YR1kas7x16yoS",
+  "id": "0MgOsVty0YR1kas7x16yoS",
+  "is_local": false,
+  "name": "Freaking Out The Neighborhood",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/1774549fa72e9bce2ae1181d9a612c00eff98fe6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0MgOsVty0YR1kas7x16yoS"
+}

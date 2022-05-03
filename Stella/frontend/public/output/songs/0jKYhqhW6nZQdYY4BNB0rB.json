@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rDiwu1XRduWVZqDYrQf9Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rDiwu1XRduWVZqDYrQf9Y",
+        "id": "7rDiwu1XRduWVZqDYrQf9Y",
+        "name": "Ivano Fossati",
+        "type": "artist",
+        "uri": "spotify:artist:7rDiwu1XRduWVZqDYrQf9Y"
+      }
+    ],
+    "available_markets": [
+      "IT",
+      "MT",
+      "SM"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1CjdM6kN4i5dDIYJSkx44n"
+    },
+    "href": "https://api.spotify.com/v1/albums/1CjdM6kN4i5dDIYJSkx44n",
+    "id": "1CjdM6kN4i5dDIYJSkx44n",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d481aac1b0f70c8009df6fdb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d481aac1b0f70c8009df6fdb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d481aac1b0f70c8009df6fdb",
+        "width": 64
+      }
+    ],
+    "name": "Lampo Viaggiatore",
+    "release_date": "2003-09-07",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1CjdM6kN4i5dDIYJSkx44n"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7rDiwu1XRduWVZqDYrQf9Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/7rDiwu1XRduWVZqDYrQf9Y",
+      "id": "7rDiwu1XRduWVZqDYrQf9Y",
+      "name": "Ivano Fossati",
+      "type": "artist",
+      "uri": "spotify:artist:7rDiwu1XRduWVZqDYrQf9Y"
+    }
+  ],
+  "available_markets": [
+    "IT",
+    "MT",
+    "SM"
+  ],
+  "disc_number": 1,
+  "duration_ms": 257346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ITM000300007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0jKYhqhW6nZQdYY4BNB0rB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0jKYhqhW6nZQdYY4BNB0rB",
+  "id": "0jKYhqhW6nZQdYY4BNB0rB",
+  "is_local": false,
+  "name": "C'è tempo",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0jKYhqhW6nZQdYY4BNB0rB"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        },
+        "href": "https://api.spotify.com/v1/artists/5iNvbRVX9W8t1RpD2SHpAO",
+        "id": "5iNvbRVX9W8t1RpD2SHpAO",
+        "name": "Tom Lehrer",
+        "type": "artist",
+        "uri": "spotify:artist:5iNvbRVX9W8t1RpD2SHpAO"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2ez9hfFQ772DXjuJ94sgJi"
+    },
+    "href": "https://api.spotify.com/v1/albums/2ez9hfFQ772DXjuJ94sgJi",
+    "id": "2ez9hfFQ772DXjuJ94sgJi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f6aab9ac23388de23f133a05",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f6aab9ac23388de23f133a05",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f6aab9ac23388de23f133a05",
+        "width": 64
+      }
+    ],
+    "name": "More Of Tom Lehrer",
+    "release_date": "1959-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2ez9hfFQ772DXjuJ94sgJi"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iNvbRVX9W8t1RpD2SHpAO",
+      "id": "5iNvbRVX9W8t1RpD2SHpAO",
+      "name": "Tom Lehrer",
+      "type": "artist",
+      "uri": "spotify:artist:5iNvbRVX9W8t1RpD2SHpAO"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 183253,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSE91031638"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/58ICMKGphTmCvYOedyl3GV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/58ICMKGphTmCvYOedyl3GV",
+  "id": "58ICMKGphTmCvYOedyl3GV",
+  "is_local": false,
+  "name": "The Masochism Tango",
+  "popularity": 18,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:58ICMKGphTmCvYOedyl3GV"
+}

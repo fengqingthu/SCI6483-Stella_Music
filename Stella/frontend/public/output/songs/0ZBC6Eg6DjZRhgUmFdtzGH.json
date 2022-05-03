@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
+        },
+        "href": "https://api.spotify.com/v1/artists/74eY8wbrhhVD7pACbBHwHw",
+        "id": "74eY8wbrhhVD7pACbBHwHw",
+        "name": "Imany",
+        "type": "artist",
+        "uri": "spotify:artist:74eY8wbrhhVD7pACbBHwHw"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6COj1d9FSFkmtWcocNko0b"
+    },
+    "href": "https://api.spotify.com/v1/albums/6COj1d9FSFkmtWcocNko0b",
+    "id": "6COj1d9FSFkmtWcocNko0b",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27303480df111e630f99026b52e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0203480df111e630f99026b52e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485103480df111e630f99026b52e",
+        "width": 64
+      }
+    ],
+    "name": "Sous les jupes des filles (Original Motion Picture Soundtrack / Bonus Track Version)",
+    "release_date": "2016-04-08",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6COj1d9FSFkmtWcocNko0b"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
+      },
+      "href": "https://api.spotify.com/v1/artists/74eY8wbrhhVD7pACbBHwHw",
+      "id": "74eY8wbrhhVD7pACbBHwHw",
+      "name": "Imany",
+      "type": "artist",
+      "uri": "spotify:artist:74eY8wbrhhVD7pACbBHwHw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5NW2uPFatEKjZQ5gpWD8HO",
+      "id": "5NW2uPFatEKjZQ5gpWD8HO",
+      "name": "Filatov & Karas",
+      "type": "artist",
+      "uri": "spotify:artist:5NW2uPFatEKjZQ5gpWD8HO"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 190000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "RUA591500339"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ZBC6Eg6DjZRhgUmFdtzGH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ZBC6Eg6DjZRhgUmFdtzGH",
+  "id": "0ZBC6Eg6DjZRhgUmFdtzGH",
+  "is_local": false,
+  "name": "Don't Be So Shy - Filatov & Karas Remix",
+  "popularity": 55,
+  "preview_url": "https://p.scdn.co/mp3-preview/e824cb5c86abf29b3ff6fd3555845ccdd12732a9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:0ZBC6Eg6DjZRhgUmFdtzGH"
+}

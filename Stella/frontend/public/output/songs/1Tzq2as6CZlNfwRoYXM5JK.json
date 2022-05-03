@@ -1,0 +1,107 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+        "id": "1Dt1UKLtrJIW1xxRBejjos",
+        "name": "The Blaze",
+        "type": "artist",
+        "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zfEatKLDdRkgbw6sdLBAQ",
+        "id": "5zfEatKLDdRkgbw6sdLBAQ",
+        "name": "Octavian",
+        "type": "artist",
+        "uri": "spotify:artist:5zfEatKLDdRkgbw6sdLBAQ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "IE",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2cpMP1SiahKB6miLzBZviM"
+    },
+    "href": "https://api.spotify.com/v1/albums/2cpMP1SiahKB6miLzBZviM",
+    "id": "2cpMP1SiahKB6miLzBZviM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b70a72acb1cf0dab0135516b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b70a72acb1cf0dab0135516b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b70a72acb1cf0dab0135516b",
+        "width": 64
+      }
+    ],
+    "name": "Somewhere (feat. Octavian)",
+    "release_date": "2020-01-10",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2cpMP1SiahKB6miLzBZviM"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Dt1UKLtrJIW1xxRBejjos",
+      "id": "1Dt1UKLtrJIW1xxRBejjos",
+      "name": "The Blaze",
+      "type": "artist",
+      "uri": "spotify:artist:1Dt1UKLtrJIW1xxRBejjos"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zfEatKLDdRkgbw6sdLBAQ",
+      "id": "5zfEatKLDdRkgbw6sdLBAQ",
+      "name": "Octavian",
+      "type": "artist",
+      "uri": "spotify:artist:5zfEatKLDdRkgbw6sdLBAQ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRX281901314"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1Tzq2as6CZlNfwRoYXM5JK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1Tzq2as6CZlNfwRoYXM5JK",
+  "id": "1Tzq2as6CZlNfwRoYXM5JK",
+  "is_local": false,
+  "name": "Somewhere (feat. Octavian)",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/8121432128bd35b0a28d15f75a9a808993c25f74?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1Tzq2as6CZlNfwRoYXM5JK"
+}

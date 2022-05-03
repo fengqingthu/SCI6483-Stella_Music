@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "name": "Lord Huron",
+        "type": "artist",
+        "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+    },
+    "href": "https://api.spotify.com/v1/albums/3yoNZlqerJnsnMN5EDwwBS",
+    "id": "3yoNZlqerJnsnMN5EDwwBS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029d2efe43d5b7ebc7cb60ca81",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519d2efe43d5b7ebc7cb60ca81",
+        "width": 64
+      }
+    ],
+    "name": "Strange Trails",
+    "release_date": "2015-04-07",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:3yoNZlqerJnsnMN5EDwwBS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+      "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+      "name": "Lord Huron",
+      "type": "artist",
+      "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 262209,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "US53Q1200097"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1bqrRn1pJWowNLA5N9L6uW",
+  "id": "1bqrRn1pJWowNLA5N9L6uW",
+  "is_local": false,
+  "name": "Meet Me in the Woods",
+  "popularity": 61,
+  "preview_url": "https://p.scdn.co/mp3-preview/fc6f589e4aff97056148e0097d179cd3fc0b97d7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:1bqrRn1pJWowNLA5N9L6uW"
+}

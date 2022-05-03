@@ -1,0 +1,115 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK"
+        },
+        "href": "https://api.spotify.com/v1/artists/05tTO01wV9Y7U4U1B4xCBK",
+        "id": "05tTO01wV9Y7U4U1B4xCBK",
+        "name": "SMASH Cast",
+        "type": "artist",
+        "uri": "spotify:artist:05tTO01wV9Y7U4U1B4xCBK"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "BH",
+      "EG",
+      "GB",
+      "IQ",
+      "JO",
+      "KW",
+      "LB",
+      "LY",
+      "OM",
+      "PS",
+      "QA",
+      "SA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2an2Rze2egFaQEbIOCAJot"
+    },
+    "href": "https://api.spotify.com/v1/albums/2an2Rze2egFaQEbIOCAJot",
+    "id": "2an2Rze2egFaQEbIOCAJot",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d9f92dd7a29d535e1309d9f3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d9f92dd7a29d535e1309d9f3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d9f92dd7a29d535e1309d9f3",
+        "width": 64
+      }
+    ],
+    "name": "SMASH - The Complete Season Two",
+    "release_date": "2013-05-24",
+    "release_date_precision": "day",
+    "total_tracks": 51,
+    "type": "album",
+    "uri": "spotify:album:2an2Rze2egFaQEbIOCAJot"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK"
+      },
+      "href": "https://api.spotify.com/v1/artists/05tTO01wV9Y7U4U1B4xCBK",
+      "id": "05tTO01wV9Y7U4U1B4xCBK",
+      "name": "SMASH Cast",
+      "type": "artist",
+      "uri": "spotify:artist:05tTO01wV9Y7U4U1B4xCBK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+      },
+      "href": "https://api.spotify.com/v1/artists/5oWOx0BBDSMoFB8JDrjQre",
+      "id": "5oWOx0BBDSMoFB8JDrjQre",
+      "name": "Katharine McPhee",
+      "type": "artist",
+      "uri": "spotify:artist:5oWOx0BBDSMoFB8JDrjQre"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "BH",
+    "EG",
+    "GB",
+    "IQ",
+    "JO",
+    "KW",
+    "LB",
+    "LY",
+    "OM",
+    "PS",
+    "QA",
+    "SA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 213226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USQX91300135"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/59JIgCPy4blgj8yBR92ISL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/59JIgCPy4blgj8yBR92ISL",
+  "id": "59JIgCPy4blgj8yBR92ISL",
+  "is_local": false,
+  "name": "Caught In The Storm (SMASH Cast Version) (feat. Katharine McPhee)",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/353e4c39782a1b7af80d002beda0c897e774a65e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:59JIgCPy4blgj8yBR92ISL"
+}

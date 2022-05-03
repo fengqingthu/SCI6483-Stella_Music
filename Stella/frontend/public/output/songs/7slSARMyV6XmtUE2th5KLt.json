@@ -1,0 +1,179 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51Joo99K8H2eBY3gKJou3J"
+        },
+        "href": "https://api.spotify.com/v1/artists/51Joo99K8H2eBY3gKJou3J",
+        "id": "51Joo99K8H2eBY3gKJou3J",
+        "name": "Mark Ayres",
+        "type": "artist",
+        "uri": "spotify:artist:51Joo99K8H2eBY3gKJou3J"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1yayOEEkeChjBGgjl2weUP"
+    },
+    "href": "https://api.spotify.com/v1/albums/1yayOEEkeChjBGgjl2weUP",
+    "id": "1yayOEEkeChjBGgjl2weUP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fa6152fe6882b099cd4d0607",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fa6152fe6882b099cd4d0607",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fa6152fe6882b099cd4d0607",
+        "width": 64
+      }
+    ],
+    "name": "Titanic: The Essential James Horner Film Music Collection",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:1yayOEEkeChjBGgjl2weUP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+      "id": "2oQJQUIpJFFnfKvHJA0xBu",
+      "name": "The City of Prague Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "AU",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 373333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC9800856"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7slSARMyV6XmtUE2th5KLt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7slSARMyV6XmtUE2th5KLt",
+  "id": "7slSARMyV6XmtUE2th5KLt",
+  "is_local": false,
+  "name": "End Credits (From \"The Land Before Time\")",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/f7fa29e02343f7e98d271e195ebfc74d91ff83ba?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:7slSARMyV6XmtUE2th5KLt"
+}

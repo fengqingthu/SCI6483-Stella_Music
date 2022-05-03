@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        "href": "https://api.spotify.com/v1/artists/4EzkuveR9pLvDVFNx6foYD",
+        "id": "4EzkuveR9pLvDVFNx6foYD",
+        "name": "James Bay",
+        "type": "artist",
+        "uri": "spotify:artist:4EzkuveR9pLvDVFNx6foYD"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+    },
+    "href": "https://api.spotify.com/v1/albums/5BxvswQSGWrBbVCdx6mFGO",
+    "id": "5BxvswQSGWrBbVCdx6mFGO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b36f5e7575a59b21aef432f2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b36f5e7575a59b21aef432f2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b36f5e7575a59b21aef432f2",
+        "width": 64
+      }
+    ],
+    "name": "Chaos And The Calm",
+    "release_date": "2014-12-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5BxvswQSGWrBbVCdx6mFGO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+      },
+      "href": "https://api.spotify.com/v1/artists/4EzkuveR9pLvDVFNx6foYD",
+      "id": "4EzkuveR9pLvDVFNx6foYD",
+      "name": "James Bay",
+      "type": "artist",
+      "uri": "spotify:artist:4EzkuveR9pLvDVFNx6foYD"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 272600,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71417479"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2cAybAa8GqYLhiqgrkrNUp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2cAybAa8GqYLhiqgrkrNUp",
+  "id": "2cAybAa8GqYLhiqgrkrNUp",
+  "is_local": false,
+  "name": "Scars",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:2cAybAa8GqYLhiqgrkrNUp"
+}

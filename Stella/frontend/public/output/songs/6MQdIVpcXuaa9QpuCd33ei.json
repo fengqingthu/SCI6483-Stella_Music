@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UocZe4AprSYBvmn3J0oqY",
+        "id": "6UocZe4AprSYBvmn3J0oqY",
+        "name": "Shiny Toy Guns",
+        "type": "artist",
+        "uri": "spotify:artist:6UocZe4AprSYBvmn3J0oqY"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4qnIk0qyIYQOStJIjrglRf"
+    },
+    "href": "https://api.spotify.com/v1/albums/4qnIk0qyIYQOStJIjrglRf",
+    "id": "4qnIk0qyIYQOStJIjrglRf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273745c95cd9bc84bb7d729183e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02745c95cd9bc84bb7d729183e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851745c95cd9bc84bb7d729183e",
+        "width": 64
+      }
+    ],
+    "name": "Major Tom",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4qnIk0qyIYQOStJIjrglRf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UocZe4AprSYBvmn3J0oqY",
+      "id": "6UocZe4AprSYBvmn3J0oqY",
+      "name": "Shiny Toy Guns",
+      "type": "artist",
+      "uri": "spotify:artist:6UocZe4AprSYBvmn3J0oqY"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 262333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM70963963"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6MQdIVpcXuaa9QpuCd33ei"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6MQdIVpcXuaa9QpuCd33ei",
+  "id": "6MQdIVpcXuaa9QpuCd33ei",
+  "is_local": false,
+  "name": "Major Tom",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6MQdIVpcXuaa9QpuCd33ei"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3huVQoEWdqUTvlYpFVUHcF",
+        "id": "3huVQoEWdqUTvlYpFVUHcF",
+        "name": "Original Soundtrack",
+        "type": "artist",
+        "uri": "spotify:artist:3huVQoEWdqUTvlYpFVUHcF"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2AlXF48eRaZ3vAOfx4csas"
+    },
+    "href": "https://api.spotify.com/v1/albums/2AlXF48eRaZ3vAOfx4csas",
+    "id": "2AlXF48eRaZ3vAOfx4csas",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c7b37e8c1559b099a7718f4b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c7b37e8c1559b099a7718f4b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c7b37e8c1559b099a7718f4b",
+        "width": 64
+      }
+    ],
+    "name": "I Am Sam (Original Soundtrack)",
+    "release_date": "2002-01-08",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:2AlXF48eRaZ3vAOfx4csas"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UpIbyXfGzmHG6TMH4dJEk",
+      "id": "3UpIbyXfGzmHG6TMH4dJEk",
+      "name": "Aimee Mann",
+      "type": "artist",
+      "uri": "spotify:artist:3UpIbyXfGzmHG6TMH4dJEk"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 210840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVT10100148"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2wZEaTFVVQ5ZczT2oLRNko"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2wZEaTFVVQ5ZczT2oLRNko",
+  "id": "2wZEaTFVVQ5ZczT2oLRNko",
+  "is_local": false,
+  "name": "Two of Us",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/e3b6e4868a27eafb1640ca1f70f4ccfff5712351?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2wZEaTFVVQ5ZczT2oLRNko"
+}

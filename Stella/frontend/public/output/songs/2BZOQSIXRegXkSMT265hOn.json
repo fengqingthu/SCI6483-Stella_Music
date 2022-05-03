@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6cVOyC3FEeSZVIHjw9IOhD"
+        },
+        "href": "https://api.spotify.com/v1/artists/6cVOyC3FEeSZVIHjw9IOhD",
+        "id": "6cVOyC3FEeSZVIHjw9IOhD",
+        "name": "Nyan Cat",
+        "type": "artist",
+        "uri": "spotify:artist:6cVOyC3FEeSZVIHjw9IOhD"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2JG60pT0Q6HpZiEtYF6DS6"
+    },
+    "href": "https://api.spotify.com/v1/albums/2JG60pT0Q6HpZiEtYF6DS6",
+    "id": "2JG60pT0Q6HpZiEtYF6DS6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a0dc0a610cfab0126ef12a57",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a0dc0a610cfab0126ef12a57",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a0dc0a610cfab0126ef12a57",
+        "width": 64
+      }
+    ],
+    "name": "Nyan Cat - Single",
+    "release_date": "2012-04-24",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2JG60pT0Q6HpZiEtYF6DS6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6cVOyC3FEeSZVIHjw9IOhD"
+      },
+      "href": "https://api.spotify.com/v1/artists/6cVOyC3FEeSZVIHjw9IOhD",
+      "id": "6cVOyC3FEeSZVIHjw9IOhD",
+      "name": "Nyan Cat",
+      "type": "artist",
+      "uri": "spotify:artist:6cVOyC3FEeSZVIHjw9IOhD"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 216851,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCABF1275810"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2BZOQSIXRegXkSMT265hOn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2BZOQSIXRegXkSMT265hOn",
+  "id": "2BZOQSIXRegXkSMT265hOn",
+  "is_local": false,
+  "name": "Nyan Cat",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2BZOQSIXRegXkSMT265hOn"
+}

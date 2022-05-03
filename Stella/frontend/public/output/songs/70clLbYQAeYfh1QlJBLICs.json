@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/52aKFP2BnAa28POINNExhE"
+        },
+        "href": "https://api.spotify.com/v1/artists/52aKFP2BnAa28POINNExhE",
+        "id": "52aKFP2BnAa28POINNExhE",
+        "name": "Rumahoy",
+        "type": "artist",
+        "uri": "spotify:artist:52aKFP2BnAa28POINNExhE"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1MuJRhJquzXtVJrMTktplm"
+    },
+    "href": "https://api.spotify.com/v1/albums/1MuJRhJquzXtVJrMTktplm",
+    "id": "1MuJRhJquzXtVJrMTktplm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c280fd684f3db81957ec8d9a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c280fd684f3db81957ec8d9a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c280fd684f3db81957ec8d9a",
+        "width": 64
+      }
+    ],
+    "name": "The Triumph Of Piracy",
+    "release_date": "2018-02-09",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:1MuJRhJquzXtVJrMTktplm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52aKFP2BnAa28POINNExhE"
+      },
+      "href": "https://api.spotify.com/v1/artists/52aKFP2BnAa28POINNExhE",
+      "id": "52aKFP2BnAa28POINNExhE",
+      "name": "Rumahoy",
+      "type": "artist",
+      "uri": "spotify:artist:52aKFP2BnAa28POINNExhE"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232906,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261876108"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/70clLbYQAeYfh1QlJBLICs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/70clLbYQAeYfh1QlJBLICs",
+  "id": "70clLbYQAeYfh1QlJBLICs",
+  "is_local": false,
+  "name": "Pirateship",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/7ba5379603dbf08ae9217ed72f23296f0f0013a8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:70clLbYQAeYfh1QlJBLICs"
+}

@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        },
+        "href": "https://api.spotify.com/v1/artists/0c09mxGbMHuFLpPJMY6JdA",
+        "id": "0c09mxGbMHuFLpPJMY6JdA",
+        "name": "Arion",
+        "type": "artist",
+        "uri": "spotify:artist:0c09mxGbMHuFLpPJMY6JdA"
+      }
+    ],
+    "available_markets": [
+      "FI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5D6zvgqeWCKlWXr4R7Wdc4"
+    },
+    "href": "https://api.spotify.com/v1/albums/5D6zvgqeWCKlWXr4R7Wdc4",
+    "id": "5D6zvgqeWCKlWXr4R7Wdc4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731e946b2c7089b2c504cefa7c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021e946b2c7089b2c504cefa7c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511e946b2c7089b2c504cefa7c",
+        "width": 64
+      }
+    ],
+    "name": "Vultures Die Alone",
+    "release_date": "2021-04-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5D6zvgqeWCKlWXr4R7Wdc4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+      },
+      "href": "https://api.spotify.com/v1/artists/0c09mxGbMHuFLpPJMY6JdA",
+      "id": "0c09mxGbMHuFLpPJMY6JdA",
+      "name": "Arion",
+      "type": "artist",
+      "uri": "spotify:artist:0c09mxGbMHuFLpPJMY6JdA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA"
+      },
+      "href": "https://api.spotify.com/v1/artists/1sohI3zY96pI2KJICKOYBA",
+      "id": "1sohI3zY96pI2KJICKOYBA",
+      "name": "Noora Louhimo",
+      "type": "artist",
+      "uri": "spotify:artist:1sohI3zY96pI2KJICKOYBA"
+    }
+  ],
+  "available_markets": [
+    "FI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 276546,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FIRAN2000052"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6tX1zWgfSQRWqzTzdTBMys"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6tX1zWgfSQRWqzTzdTBMys",
+  "id": "6tX1zWgfSQRWqzTzdTBMys",
+  "is_local": false,
+  "name": "Bloodline (feat. Noora Louhimo)",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/956785ac0e9ddd55cd8c99b5a48c5884d3ea6fac?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6tX1zWgfSQRWqzTzdTBMys"
+}

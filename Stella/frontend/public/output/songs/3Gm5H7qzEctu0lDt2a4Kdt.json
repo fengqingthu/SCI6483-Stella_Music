@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wU1naftD3lNq7rNsiDvOR",
+        "id": "7wU1naftD3lNq7rNsiDvOR",
+        "name": "Paul van Dyk",
+        "type": "artist",
+        "uri": "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3DJLAfqbPWtO5PLhyUlrIh"
+    },
+    "href": "https://api.spotify.com/v1/albums/3DJLAfqbPWtO5PLhyUlrIh",
+    "id": "3DJLAfqbPWtO5PLhyUlrIh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27387fb180c436dee52b35dce90",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0287fb180c436dee52b35dce90",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485187fb180c436dee52b35dce90",
+        "width": 64
+      }
+    ],
+    "name": "For An Angel",
+    "release_date": "2009-05-30",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:3DJLAfqbPWtO5PLhyUlrIh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+      },
+      "href": "https://api.spotify.com/v1/artists/7wU1naftD3lNq7rNsiDvOR",
+      "id": "7wU1naftD3lNq7rNsiDvOR",
+      "name": "Paul van Dyk",
+      "type": "artist",
+      "uri": "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 181818,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEW760900010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Gm5H7qzEctu0lDt2a4Kdt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Gm5H7qzEctu0lDt2a4Kdt",
+  "id": "3Gm5H7qzEctu0lDt2a4Kdt",
+  "is_local": false,
+  "name": "For An Angel - Radio Mix 09",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/e2856c45fe6efc3ae483040abf36c9c4b9b78579?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3Gm5H7qzEctu0lDt2a4Kdt"
+}

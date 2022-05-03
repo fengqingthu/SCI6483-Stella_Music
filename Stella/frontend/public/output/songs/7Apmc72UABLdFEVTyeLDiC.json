@@ -1,0 +1,105 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+        "id": "2oQJQUIpJFFnfKvHJA0xBu",
+        "name": "The City of Prague Philharmonic Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14UxKFeiAq63HyHv036Jcb"
+        },
+        "href": "https://api.spotify.com/v1/artists/14UxKFeiAq63HyHv036Jcb",
+        "id": "14UxKFeiAq63HyHv036Jcb",
+        "name": "National Youth Jazz Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:14UxKFeiAq63HyHv036Jcb"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1C9zKf7qu6HvvOVyD8DByY"
+    },
+    "href": "https://api.spotify.com/v1/albums/1C9zKf7qu6HvvOVyD8DByY",
+    "id": "1C9zKf7qu6HvvOVyD8DByY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736296439abfe189491be70b9a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026296439abfe189491be70b9a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516296439abfe189491be70b9a",
+        "width": 64
+      }
+    ],
+    "name": "The Essential Elmer Bernstein Film Music Collection",
+    "release_date": "2005-06-07",
+    "release_date_precision": "day",
+    "total_tracks": 26,
+    "type": "album",
+    "uri": "spotify:album:1C9zKf7qu6HvvOVyD8DByY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+      "id": "2oQJQUIpJFFnfKvHJA0xBu",
+      "name": "The City of Prague Philharmonic Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ii8QxDgfxRw5IrFTshwXq"
+      },
+      "href": "https://api.spotify.com/v1/artists/7ii8QxDgfxRw5IrFTshwXq",
+      "id": "7ii8QxDgfxRw5IrFTshwXq",
+      "name": "James Fitzpatrick",
+      "type": "artist",
+      "uri": "spotify:artist:7ii8QxDgfxRw5IrFTshwXq"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 290533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC0500001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7Apmc72UABLdFEVTyeLDiC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7Apmc72UABLdFEVTyeLDiC",
+  "id": "7Apmc72UABLdFEVTyeLDiC",
+  "is_local": false,
+  "name": "Main Theme (From \"The Magnificent Seven\")",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/bac871e1201f95c44fb898855f032608a3c80746?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7Apmc72UABLdFEVTyeLDiC"
+}

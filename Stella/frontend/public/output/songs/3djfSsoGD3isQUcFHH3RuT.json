@@ -1,0 +1,171 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        },
+        "href": "https://api.spotify.com/v1/artists/59pWgeY26Q6yJy37QvJflh",
+        "id": "59pWgeY26Q6yJy37QvJflh",
+        "name": "Sleigh Bells",
+        "type": "artist",
+        "uri": "spotify:artist:59pWgeY26Q6yJy37QvJflh"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3AgkcecD3fx4iq9KQjGbqE"
+    },
+    "href": "https://api.spotify.com/v1/albums/3AgkcecD3fx4iq9KQjGbqE",
+    "id": "3AgkcecD3fx4iq9KQjGbqE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734e2b1ac152c2f6fff18fc5d5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024e2b1ac152c2f6fff18fc5d5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514e2b1ac152c2f6fff18fc5d5",
+        "width": 64
+      }
+    ],
+    "name": "Jessica Rabbit",
+    "release_date": "2016-11-11",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:3AgkcecD3fx4iq9KQjGbqE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+      },
+      "href": "https://api.spotify.com/v1/artists/59pWgeY26Q6yJy37QvJflh",
+      "id": "59pWgeY26Q6yJy37QvJflh",
+      "name": "Sleigh Bells",
+      "type": "artist",
+      "uri": "spotify:artist:59pWgeY26Q6yJy37QvJflh"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "JP",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 193919,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCACQ1612576"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3djfSsoGD3isQUcFHH3RuT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3djfSsoGD3isQUcFHH3RuT",
+  "id": "3djfSsoGD3isQUcFHH3RuT",
+  "is_local": false,
+  "name": "Hyper Dark",
+  "popularity": 10,
+  "preview_url": "https://p.scdn.co/mp3-preview/65d7e319b1ebad30d2dd792487a5d3133c8ac22e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:3djfSsoGD3isQUcFHH3RuT"
+}

@@ -1,0 +1,130 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7weE9l7UsAU9JO0YdoghV5"
+        },
+        "href": "https://api.spotify.com/v1/artists/7weE9l7UsAU9JO0YdoghV5",
+        "id": "7weE9l7UsAU9JO0YdoghV5",
+        "name": "G-Swing",
+        "type": "artist",
+        "uri": "spotify:artist:7weE9l7UsAU9JO0YdoghV5"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PT",
+      "SE",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Q5iexaAVBQwogSc8SIj57"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Q5iexaAVBQwogSc8SIj57",
+    "id": "3Q5iexaAVBQwogSc8SIj57",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27365025ef5004c5ebed27336ec",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0265025ef5004c5ebed27336ec",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485165025ef5004c5ebed27336ec",
+        "width": 64
+      }
+    ],
+    "name": "G-Swing",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:3Q5iexaAVBQwogSc8SIj57"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7weE9l7UsAU9JO0YdoghV5"
+      },
+      "href": "https://api.spotify.com/v1/artists/7weE9l7UsAU9JO0YdoghV5",
+      "id": "7weE9l7UsAU9JO0YdoghV5",
+      "name": "G-Swing",
+      "type": "artist",
+      "uri": "spotify:artist:7weE9l7UsAU9JO0YdoghV5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20XSmNC1rKSWSIP5IW0M0P"
+      },
+      "href": "https://api.spotify.com/v1/artists/20XSmNC1rKSWSIP5IW0M0P",
+      "id": "20XSmNC1rKSWSIP5IW0M0P",
+      "name": "The Cotton Kids",
+      "type": "artist",
+      "uri": "spotify:artist:20XSmNC1rKSWSIP5IW0M0P"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "CY",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FR",
+    "GR",
+    "HU",
+    "IE",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "NO",
+    "PT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 196640,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR53R3900001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3n5hYt3qIrDbAJ1FYg4Vvt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3n5hYt3qIrDbAJ1FYg4Vvt",
+  "id": "3n5hYt3qIrDbAJ1FYg4Vvt",
+  "is_local": false,
+  "name": "I'm Crazy 'Bout My Baby (And My Baby's Crazy 'Bout me)",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/cf5e717a35ab768ca6368a13357411d1cdbda2a4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:3n5hYt3qIrDbAJ1FYg4Vvt"
+}

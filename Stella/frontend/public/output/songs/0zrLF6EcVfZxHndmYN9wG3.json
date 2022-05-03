@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        },
+        "href": "https://api.spotify.com/v1/artists/78OKNrjc3BvniYTqvpOp6P",
+        "id": "78OKNrjc3BvniYTqvpOp6P",
+        "name": "Zola Jesus",
+        "type": "artist",
+        "uri": "spotify:artist:78OKNrjc3BvniYTqvpOp6P"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3iMG9taTnPrIkjFTGLvL4x"
+    },
+    "href": "https://api.spotify.com/v1/albums/3iMG9taTnPrIkjFTGLvL4x",
+    "id": "3iMG9taTnPrIkjFTGLvL4x",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c6e8f77b8d13b4e808769faf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c6e8f77b8d13b4e808769faf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c6e8f77b8d13b4e808769faf",
+        "width": 64
+      }
+    ],
+    "name": "Taiga",
+    "release_date": "2014-10-07",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3iMG9taTnPrIkjFTGLvL4x"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+      },
+      "href": "https://api.spotify.com/v1/artists/78OKNrjc3BvniYTqvpOp6P",
+      "id": "78OKNrjc3BvniYTqvpOp6P",
+      "name": "Zola Jesus",
+      "type": "artist",
+      "uri": "spotify:artist:78OKNrjc3BvniYTqvpOp6P"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 269812,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBR8R1301237"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zrLF6EcVfZxHndmYN9wG3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zrLF6EcVfZxHndmYN9wG3",
+  "id": "0zrLF6EcVfZxHndmYN9wG3",
+  "is_local": false,
+  "name": "Dangerous Days",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/2d408d8c954d8b7b1acccc1bd4c51714c8dd2ce5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0zrLF6EcVfZxHndmYN9wG3"
+}

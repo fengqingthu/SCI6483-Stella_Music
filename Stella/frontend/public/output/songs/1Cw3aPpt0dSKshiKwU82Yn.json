@@ -1,0 +1,119 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+        },
+        "href": "https://api.spotify.com/v1/artists/2sb1FcIeDcKtv7UC03gRr8",
+        "id": "2sb1FcIeDcKtv7UC03gRr8",
+        "name": "Mark Korven",
+        "type": "artist",
+        "uri": "spotify:artist:2sb1FcIeDcKtv7UC03gRr8"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BN",
+      "CH",
+      "DE",
+      "GB",
+      "HK",
+      "ID",
+      "KH",
+      "KR",
+      "LA",
+      "LI",
+      "LK",
+      "MO",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "TL",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ynnLGz944ZThvRlCFKlJC"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ynnLGz944ZThvRlCFKlJC",
+    "id": "0ynnLGz944ZThvRlCFKlJC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273541a77242d0dbeb039971037",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02541a77242d0dbeb039971037",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851541a77242d0dbeb039971037",
+        "width": 64
+      }
+    ],
+    "name": "The Witch [Original Motion Picture Soundtrack]",
+    "release_date": "2016-02-15",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:0ynnLGz944ZThvRlCFKlJC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2sb1FcIeDcKtv7UC03gRr8",
+      "id": "2sb1FcIeDcKtv7UC03gRr8",
+      "name": "Mark Korven",
+      "type": "artist",
+      "uri": "spotify:artist:2sb1FcIeDcKtv7UC03gRr8"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BN",
+    "CH",
+    "DE",
+    "GB",
+    "HK",
+    "ID",
+    "KH",
+    "KR",
+    "LA",
+    "LI",
+    "LK",
+    "MO",
+    "MY",
+    "PH",
+    "SG",
+    "TH",
+    "TL",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 134513,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ811601075"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1Cw3aPpt0dSKshiKwU82Yn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1Cw3aPpt0dSKshiKwU82Yn",
+  "id": "1Cw3aPpt0dSKshiKwU82Yn",
+  "is_local": false,
+  "name": "Witch's Coven",
+  "popularity": 8,
+  "preview_url": "https://p.scdn.co/mp3-preview/095939dd6f533c837d1043d1b2e4a20ce0a8c252?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:1Cw3aPpt0dSKshiKwU82Yn"
+}

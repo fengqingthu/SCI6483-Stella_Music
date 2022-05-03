@@ -1,0 +1,135 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        },
+        "href": "https://api.spotify.com/v1/artists/5UjqeSp9dX6Nrge7WdDukr",
+        "id": "5UjqeSp9dX6Nrge7WdDukr",
+        "name": "Roni Size",
+        "type": "artist",
+        "uri": "spotify:artist:5UjqeSp9dX6Nrge7WdDukr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8"
+        },
+        "href": "https://api.spotify.com/v1/artists/17Ytfl1DntgvVdragJEqx8",
+        "id": "17Ytfl1DntgvVdragJEqx8",
+        "name": "Reprazent",
+        "type": "artist",
+        "uri": "spotify:artist:17Ytfl1DntgvVdragJEqx8"
+      }
+    ],
+    "available_markets": [
+      "BR",
+      "CZ",
+      "DK",
+      "EE",
+      "FI",
+      "GB",
+      "HU",
+      "IE",
+      "JP",
+      "LT",
+      "LV",
+      "NO",
+      "PK",
+      "PL",
+      "PT",
+      "SE",
+      "SG",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Lt3ciOlE1ADhpZHNPi6Yt"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Lt3ciOlE1ADhpZHNPi6Yt",
+    "id": "6Lt3ciOlE1ADhpZHNPi6Yt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a33360d518a72ae75361d6a0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a33360d518a72ae75361d6a0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a33360d518a72ae75361d6a0",
+        "width": 64
+      }
+    ],
+    "name": "In The Mode",
+    "release_date": "2000-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:6Lt3ciOlE1ADhpZHNPi6Yt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+      },
+      "href": "https://api.spotify.com/v1/artists/5UjqeSp9dX6Nrge7WdDukr",
+      "id": "5UjqeSp9dX6Nrge7WdDukr",
+      "name": "Roni Size",
+      "type": "artist",
+      "uri": "spotify:artist:5UjqeSp9dX6Nrge7WdDukr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8"
+      },
+      "href": "https://api.spotify.com/v1/artists/17Ytfl1DntgvVdragJEqx8",
+      "id": "17Ytfl1DntgvVdragJEqx8",
+      "name": "Reprazent",
+      "type": "artist",
+      "uri": "spotify:artist:17Ytfl1DntgvVdragJEqx8"
+    }
+  ],
+  "available_markets": [
+    "BR",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "GB",
+    "HU",
+    "IE",
+    "JP",
+    "LT",
+    "LV",
+    "NO",
+    "PK",
+    "PL",
+    "PT",
+    "SE",
+    "SG",
+    "SK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF080000275"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/70zs1FD0n8nj4XTPC5EGHs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/70zs1FD0n8nj4XTPC5EGHs",
+  "id": "70zs1FD0n8nj4XTPC5EGHs",
+  "is_local": false,
+  "name": "Dirty Beats",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:70zs1FD0n8nj4XTPC5EGHs"
+}

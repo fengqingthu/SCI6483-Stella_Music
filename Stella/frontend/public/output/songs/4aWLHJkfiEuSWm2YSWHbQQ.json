@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        },
+        "href": "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+        "id": "5BKsn7SCN2XmbF7apdCpRS",
+        "name": "Goldfrapp",
+        "type": "artist",
+        "uri": "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3bejp3xVPgK3Bf9vV6MUsZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/3bejp3xVPgK3Bf9vV6MUsZ",
+    "id": "3bejp3xVPgK3Bf9vV6MUsZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273895841803bb2627b998160c6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02895841803bb2627b998160c6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851895841803bb2627b998160c6",
+        "width": 64
+      }
+    ],
+    "name": "Tales Of Us",
+    "release_date": "2013-09-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3bejp3xVPgK3Bf9vV6MUsZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+      "id": "5BKsn7SCN2XmbF7apdCpRS",
+      "name": "Goldfrapp",
+      "type": "artist",
+      "uri": "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 278533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBR8R1300984"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4aWLHJkfiEuSWm2YSWHbQQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4aWLHJkfiEuSWm2YSWHbQQ",
+  "id": "4aWLHJkfiEuSWm2YSWHbQQ",
+  "is_local": false,
+  "name": "Jo",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/7658f89e1e123ec6e3877f831feefb70a6949596?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4aWLHJkfiEuSWm2YSWHbQQ"
+}

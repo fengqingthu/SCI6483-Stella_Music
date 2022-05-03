@@ -1,0 +1,175 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        },
+        "href": "https://api.spotify.com/v1/artists/5o8Wylae9k23IEJMIiwd8s",
+        "id": "5o8Wylae9k23IEJMIiwd8s",
+        "name": "The Antlers",
+        "type": "artist",
+        "uri": "spotify:artist:5o8Wylae9k23IEJMIiwd8s"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2XGj9vHWwFvWweucvfrTOn"
+    },
+    "href": "https://api.spotify.com/v1/albums/2XGj9vHWwFvWweucvfrTOn",
+    "id": "2XGj9vHWwFvWweucvfrTOn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739308589b713393bd2d6f49f2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029308589b713393bd2d6f49f2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519308589b713393bd2d6f49f2",
+        "width": 64
+      }
+    ],
+    "name": "Familiars",
+    "release_date": "2014-06-16",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:2XGj9vHWwFvWweucvfrTOn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+      },
+      "href": "https://api.spotify.com/v1/artists/5o8Wylae9k23IEJMIiwd8s",
+      "id": "5o8Wylae9k23IEJMIiwd8s",
+      "name": "The Antlers",
+      "type": "artist",
+      "uri": "spotify:artist:5o8Wylae9k23IEJMIiwd8s"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 336255,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USEP41401001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/79jT0cSUIql0WtHHYTMohK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/79jT0cSUIql0WtHHYTMohK",
+  "id": "79jT0cSUIql0WtHHYTMohK",
+  "is_local": false,
+  "name": "Palace",
+  "popularity": 21,
+  "preview_url": "https://p.scdn.co/mp3-preview/f01c57f376173cdbeb84d78c1acc26bedec2f198?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:79jT0cSUIql0WtHHYTMohK"
+}

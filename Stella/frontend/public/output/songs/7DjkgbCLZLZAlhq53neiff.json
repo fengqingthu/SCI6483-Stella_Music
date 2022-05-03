@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6pIRdCtSE5hLFfIfcTAicI",
+        "id": "6pIRdCtSE5hLFfIfcTAicI",
+        "name": "Delain",
+        "type": "artist",
+        "uri": "spotify:artist:6pIRdCtSE5hLFfIfcTAicI"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7r2LyafbGceqnzbOUz2bWG"
+    },
+    "href": "https://api.spotify.com/v1/albums/7r2LyafbGceqnzbOUz2bWG",
+    "id": "7r2LyafbGceqnzbOUz2bWG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27347811de0d140a4b34ca55a8e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0247811de0d140a4b34ca55a8e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485147811de0d140a4b34ca55a8e",
+        "width": 64
+      }
+    ],
+    "name": "Moonbathers",
+    "release_date": "2016-08-26",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:7r2LyafbGceqnzbOUz2bWG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6pIRdCtSE5hLFfIfcTAicI",
+      "id": "6pIRdCtSE5hLFfIfcTAicI",
+      "name": "Delain",
+      "type": "artist",
+      "uri": "spotify:artist:6pIRdCtSE5hLFfIfcTAicI"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 307262,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261667908"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7DjkgbCLZLZAlhq53neiff"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7DjkgbCLZLZAlhq53neiff",
+  "id": "7DjkgbCLZLZAlhq53neiff",
+  "is_local": false,
+  "name": "Danse Macabre",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/8fa27394eee6303fe8f5689c98a30cae8b11f24a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:7DjkgbCLZLZAlhq53neiff"
+}

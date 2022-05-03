@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IWdvItNhmdo282Wwp0CwH",
+        "id": "3IWdvItNhmdo282Wwp0CwH",
+        "name": "Tamino",
+        "type": "artist",
+        "uri": "spotify:artist:3IWdvItNhmdo282Wwp0CwH"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6tdpYkNItUYvx0WZaJTLNJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/6tdpYkNItUYvx0WZaJTLNJ",
+    "id": "6tdpYkNItUYvx0WZaJTLNJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d2cf29681b5c88712e1c3ec",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d2cf29681b5c88712e1c3ec",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d2cf29681b5c88712e1c3ec",
+        "width": 64
+      }
+    ],
+    "name": "Tamino - EP",
+    "release_date": "2017-05-05",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:6tdpYkNItUYvx0WZaJTLNJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IWdvItNhmdo282Wwp0CwH",
+      "id": "3IWdvItNhmdo282Wwp0CwH",
+      "name": "Tamino",
+      "type": "artist",
+      "uri": "spotify:artist:3IWdvItNhmdo282Wwp0CwH"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 254866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEN581700012"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1AdXj0uRD1GpV8pBszW9EE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1AdXj0uRD1GpV8pBszW9EE",
+  "id": "1AdXj0uRD1GpV8pBszW9EE",
+  "is_local": false,
+  "name": "Indigo Night",
+  "popularity": 19,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:1AdXj0uRD1GpV8pBszW9EE"
+}

@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI",
+        "id": "5CE2IfdYZEQGIDsfiRm8SI",
+        "name": "DJ Shadow",
+        "type": "artist",
+        "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6PQn1xJAsfSUbtKtO2O4nC"
+    },
+    "href": "https://api.spotify.com/v1/albums/6PQn1xJAsfSUbtKtO2O4nC",
+    "id": "6PQn1xJAsfSUbtKtO2O4nC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273843dc457903f7a33a9fd97b5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02843dc457903f7a33a9fd97b5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851843dc457903f7a33a9fd97b5",
+        "width": 64
+      }
+    ],
+    "name": "The Mountain Will Fall",
+    "release_date": "2016-06-24",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6PQn1xJAsfSUbtKtO2O4nC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+      },
+      "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI",
+      "id": "5CE2IfdYZEQGIDsfiRm8SI",
+      "name": "DJ Shadow",
+      "type": "artist",
+      "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+      },
+      "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+      "id": "4RnBFZRiMLRyZy0AzzTg2C",
+      "name": "Run The Jewels",
+      "type": "artist",
+      "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195965,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QM8RL1400325"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3UajtqBR1vopHl4EVQutul"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3UajtqBR1vopHl4EVQutul",
+  "id": "3UajtqBR1vopHl4EVQutul",
+  "is_local": false,
+  "name": "Nobody Speak (feat. Run The Jewels)",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/c93e9ef5da173097203b846a155634a72b2340cc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3UajtqBR1vopHl4EVQutul"
+}

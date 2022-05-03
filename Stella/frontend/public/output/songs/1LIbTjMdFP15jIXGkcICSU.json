@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tvKz56Tr39bkhcQUTO0Xr",
+        "id": "4tvKz56Tr39bkhcQUTO0Xr",
+        "name": "Angus & Julia Stone",
+        "type": "artist",
+        "uri": "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+    },
+    "href": "https://api.spotify.com/v1/albums/1D7wVgT1HGxwLGqSnLf0lg",
+    "id": "1D7wVgT1HGxwLGqSnLf0lg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736567f18f9a164a51e933cdad",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026567f18f9a164a51e933cdad",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516567f18f9a164a51e933cdad",
+        "width": 64
+      }
+    ],
+    "name": "Snow",
+    "release_date": "2017-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1D7wVgT1HGxwLGqSnLf0lg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tvKz56Tr39bkhcQUTO0Xr",
+      "id": "4tvKz56Tr39bkhcQUTO0Xr",
+      "name": "Angus & Julia Stone",
+      "type": "artist",
+      "uri": "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 273533,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAN111700291"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1LIbTjMdFP15jIXGkcICSU",
+  "id": "1LIbTjMdFP15jIXGkcICSU",
+  "is_local": false,
+  "name": "Chateau",
+  "popularity": 56,
+  "preview_url": "https://p.scdn.co/mp3-preview/39b62df33df885eee971e87e7c04c25238b170e7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1LIbTjMdFP15jIXGkcICSU"
+}

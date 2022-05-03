@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0QJKELJZZuLAjqLOOixJm5",
+        "id": "0QJKELJZZuLAjqLOOixJm5",
+        "name": "The Bloody Beetroots",
+        "type": "artist",
+        "uri": "spotify:artist:0QJKELJZZuLAjqLOOixJm5"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7ufNatrl5R7wsYSFNrla8E"
+    },
+    "href": "https://api.spotify.com/v1/albums/7ufNatrl5R7wsYSFNrla8E",
+    "id": "7ufNatrl5R7wsYSFNrla8E",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733d7955e3b6634d8542ecb6c1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023d7955e3b6634d8542ecb6c1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513d7955e3b6634d8542ecb6c1",
+        "width": 64
+      }
+    ],
+    "name": "HIDE",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:7ufNatrl5R7wsYSFNrla8E"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0QJKELJZZuLAjqLOOixJm5",
+      "id": "0QJKELJZZuLAjqLOOixJm5",
+      "name": "The Bloody Beetroots",
+      "type": "artist",
+      "uri": "spotify:artist:0QJKELJZZuLAjqLOOixJm5"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 344746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUS11201876"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/33wTEq5fhkgeluyygJNY4i"
+  },
+  "href": "https://api.spotify.com/v1/tracks/33wTEq5fhkgeluyygJNY4i",
+  "id": "33wTEq5fhkgeluyygJNY4i",
+  "is_local": false,
+  "name": "Albion",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/0240429b2d06a3203876f72be2a9cc94c3fb5681?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:33wTEq5fhkgeluyygJNY4i"
+}

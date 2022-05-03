@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        },
+        "href": "https://api.spotify.com/v1/artists/0mJoamO2s8QKkuKhTpJpPe",
+        "id": "0mJoamO2s8QKkuKhTpJpPe",
+        "name": "Neil Davidge",
+        "type": "artist",
+        "uri": "spotify:artist:0mJoamO2s8QKkuKhTpJpPe"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "BO",
+      "BR",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "EC",
+      "GT",
+      "GY",
+      "HN",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "US",
+      "UY",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5wCiK9MXLfbr3RpFxa3gPe"
+    },
+    "href": "https://api.spotify.com/v1/albums/5wCiK9MXLfbr3RpFxa3gPe",
+    "id": "5wCiK9MXLfbr3RpFxa3gPe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273babbc873fc14916a4ff8e67b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02babbc873fc14916a4ff8e67b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851babbc873fc14916a4ff8e67b",
+        "width": 64
+      }
+    ],
+    "name": "Halo 4: Original Soundtrack (Deluxe Edition)",
+    "release_date": "2012-10-22",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:5wCiK9MXLfbr3RpFxa3gPe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+      },
+      "href": "https://api.spotify.com/v1/artists/0mJoamO2s8QKkuKhTpJpPe",
+      "id": "0mJoamO2s8QKkuKhTpJpPe",
+      "name": "Neil Davidge",
+      "type": "artist",
+      "uri": "spotify:artist:0mJoamO2s8QKkuKhTpJpPe"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BO",
+    "BR",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "EC",
+    "GT",
+    "GY",
+    "HN",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "US",
+    "UY",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 406395,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBMZL1200017"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4d0hLnEI3dFA6nXnyoAZ5X"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4d0hLnEI3dFA6nXnyoAZ5X",
+  "id": "4d0hLnEI3dFA6nXnyoAZ5X",
+  "is_local": false,
+  "name": "To Galaxy - Sander Van Doorn & Julian Jordan Remix",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/7fe1d6b88cadb405921dd006bea6ac70fe4745fa?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 17,
+  "type": "track",
+  "uri": "spotify:track:4d0hLnEI3dFA6nXnyoAZ5X"
+}

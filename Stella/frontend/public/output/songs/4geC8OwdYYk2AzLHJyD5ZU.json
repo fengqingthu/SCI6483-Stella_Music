@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0IacSUFvqg5bMJZFfEwsIO"
+        },
+        "href": "https://api.spotify.com/v1/artists/0IacSUFvqg5bMJZFfEwsIO",
+        "id": "0IacSUFvqg5bMJZFfEwsIO",
+        "name": "Graeme Allwright",
+        "type": "artist",
+        "uri": "spotify:artist:0IacSUFvqg5bMJZFfEwsIO"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4sreP1uT9f2nCNMKuYd5w9"
+    },
+    "href": "https://api.spotify.com/v1/albums/4sreP1uT9f2nCNMKuYd5w9",
+    "id": "4sreP1uT9f2nCNMKuYd5w9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27332c0c6200c988ece2463f6bf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0232c0c6200c988ece2463f6bf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485132c0c6200c988ece2463f6bf",
+        "width": 64
+      }
+    ],
+    "name": "Le Jour De Clarte",
+    "release_date": "1991-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:4sreP1uT9f2nCNMKuYd5w9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0IacSUFvqg5bMJZFfEwsIO"
+      },
+      "href": "https://api.spotify.com/v1/artists/0IacSUFvqg5bMJZFfEwsIO",
+      "id": "0IacSUFvqg5bMJZFfEwsIO",
+      "name": "Graeme Allwright",
+      "type": "artist",
+      "uri": "spotify:artist:0IacSUFvqg5bMJZFfEwsIO"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ036601200"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4geC8OwdYYk2AzLHJyD5ZU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4geC8OwdYYk2AzLHJyD5ZU",
+  "id": "4geC8OwdYYk2AzLHJyD5ZU",
+  "is_local": false,
+  "name": "Il faut que je m'en aille",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 17,
+  "type": "track",
+  "uri": "spotify:track:4geC8OwdYYk2AzLHJyD5ZU"
+}

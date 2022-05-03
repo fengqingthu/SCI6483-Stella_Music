@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        "href": "https://api.spotify.com/v1/artists/6aZyMrc4doVtZyKNilOmwu",
+        "id": "6aZyMrc4doVtZyKNilOmwu",
+        "name": "Colbie Caillat",
+        "type": "artist",
+        "uri": "spotify:artist:6aZyMrc4doVtZyKNilOmwu"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
+    },
+    "href": "https://api.spotify.com/v1/albums/3spYzDjQBTJuBM6VhoFah8",
+    "id": "3spYzDjQBTJuBM6VhoFah8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273be5d79c73e718926afd14d70",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02be5d79c73e718926afd14d70",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851be5d79c73e718926afd14d70",
+        "width": 64
+      }
+    ],
+    "name": "Breakthrough (Deluxe Edition)",
+    "release_date": "2009",
+    "release_date_precision": "year",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:3spYzDjQBTJuBM6VhoFah8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+      },
+      "href": "https://api.spotify.com/v1/artists/6aZyMrc4doVtZyKNilOmwu",
+      "id": "6aZyMrc4doVtZyKNilOmwu",
+      "name": "Colbie Caillat",
+      "type": "artist",
+      "uri": "spotify:artist:6aZyMrc4doVtZyKNilOmwu"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 233200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM70976692"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2rJWnAqSuLMls0KOv416Io"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2rJWnAqSuLMls0KOv416Io",
+  "id": "2rJWnAqSuLMls0KOv416Io",
+  "is_local": false,
+  "name": "I Never Told You",
+  "popularity": 55,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:2rJWnAqSuLMls0KOv416Io"
+}

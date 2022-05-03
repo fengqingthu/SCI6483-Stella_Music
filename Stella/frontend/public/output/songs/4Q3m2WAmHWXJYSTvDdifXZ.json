@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        },
+        "href": "https://api.spotify.com/v1/artists/7FDlvgcodNfC0IBdWevl4u",
+        "id": "7FDlvgcodNfC0IBdWevl4u",
+        "name": "James Vincent McMorrow",
+        "type": "artist",
+        "uri": "spotify:artist:7FDlvgcodNfC0IBdWevl4u"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7bnHpxtL6hqO9DWPAknJuH"
+    },
+    "href": "https://api.spotify.com/v1/albums/7bnHpxtL6hqO9DWPAknJuH",
+    "id": "7bnHpxtL6hqO9DWPAknJuH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27394a1f961356f2385ebd9ee36",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0294a1f961356f2385ebd9ee36",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485194a1f961356f2385ebd9ee36",
+        "width": 64
+      }
+    ],
+    "name": "Post Tropical (Deluxe Edition)",
+    "release_date": "2013-01-14",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:7bnHpxtL6hqO9DWPAknJuH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+      },
+      "href": "https://api.spotify.com/v1/artists/7FDlvgcodNfC0IBdWevl4u",
+      "id": "7FDlvgcodNfC0IBdWevl4u",
+      "name": "James Vincent McMorrow",
+      "type": "artist",
+      "uri": "spotify:artist:7FDlvgcodNfC0IBdWevl4u"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 283173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVR91313101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Q3m2WAmHWXJYSTvDdifXZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Q3m2WAmHWXJYSTvDdifXZ",
+  "id": "4Q3m2WAmHWXJYSTvDdifXZ",
+  "is_local": false,
+  "name": "Cavalier",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/76d46ed0ba59c80ed922c50022a0966e73b6fe36?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4Q3m2WAmHWXJYSTvDdifXZ"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jStlKLflTMUN6BajxrNlj",
+        "id": "6jStlKLflTMUN6BajxrNlj",
+        "name": "Julien Doré",
+        "type": "artist",
+        "uri": "spotify:artist:6jStlKLflTMUN6BajxrNlj"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6fe3I9uhOQQJQC2bnR3x7H"
+    },
+    "href": "https://api.spotify.com/v1/albums/6fe3I9uhOQQJQC2bnR3x7H",
+    "id": "6fe3I9uhOQQJQC2bnR3x7H",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27350170c06ed29988d5f8ef79e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0250170c06ed29988d5f8ef79e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485150170c06ed29988d5f8ef79e",
+        "width": 64
+      }
+    ],
+    "name": "aimée",
+    "release_date": "2020-11-20",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:6fe3I9uhOQQJQC2bnR3x7H"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jStlKLflTMUN6BajxrNlj",
+      "id": "6jStlKLflTMUN6BajxrNlj",
+      "name": "Julien Doré",
+      "type": "artist",
+      "uri": "spotify:artist:6jStlKLflTMUN6BajxrNlj"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 199546,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ052000301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1kYjNPTvZ8G68dYTkG3BqD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1kYjNPTvZ8G68dYTkG3BqD",
+  "id": "1kYjNPTvZ8G68dYTkG3BqD",
+  "is_local": false,
+  "name": "Nous",
+  "popularity": 54,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1kYjNPTvZ8G68dYTkG3BqD"
+}

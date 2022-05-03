@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7jzDkV54gHUBIffc4vRvBA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7jzDkV54gHUBIffc4vRvBA",
+        "id": "7jzDkV54gHUBIffc4vRvBA",
+        "name": "Lazee",
+        "type": "artist",
+        "uri": "spotify:artist:7jzDkV54gHUBIffc4vRvBA"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "EE",
+      "FI",
+      "LT",
+      "LU",
+      "LV",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0deHKzlXKDXjt0kvOx3keK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0deHKzlXKDXjt0kvOx3keK",
+    "id": "0deHKzlXKDXjt0kvOx3keK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27391df8240c49860e096bc3d35",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0291df8240c49860e096bc3d35",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485191df8240c49860e096bc3d35",
+        "width": 64
+      }
+    ],
+    "name": "Setting Standards",
+    "release_date": "2008-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:0deHKzlXKDXjt0kvOx3keK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jzDkV54gHUBIffc4vRvBA"
+      },
+      "href": "https://api.spotify.com/v1/artists/7jzDkV54gHUBIffc4vRvBA",
+      "id": "7jzDkV54gHUBIffc4vRvBA",
+      "name": "Lazee",
+      "type": "artist",
+      "uri": "spotify:artist:7jzDkV54gHUBIffc4vRvBA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PibNOKNAaMPvwrgBoXMj3"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PibNOKNAaMPvwrgBoXMj3",
+      "id": "4PibNOKNAaMPvwrgBoXMj3",
+      "name": "Neverstore",
+      "type": "artist",
+      "uri": "spotify:artist:4PibNOKNAaMPvwrgBoXMj3"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "EE",
+    "FI",
+    "LT",
+    "LU",
+    "LV",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 193200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEYDC0800103"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4M9e9DxqvJVHXBDFmeR9no"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4M9e9DxqvJVHXBDFmeR9no",
+  "id": "4M9e9DxqvJVHXBDFmeR9no",
+  "is_local": false,
+  "name": "Hold On (feat. Neverstore)",
+  "popularity": 4,
+  "preview_url": "https://p.scdn.co/mp3-preview/20e08c522b37a2c2aa7945db2d5ab085fc73acb2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4M9e9DxqvJVHXBDFmeR9no"
+}

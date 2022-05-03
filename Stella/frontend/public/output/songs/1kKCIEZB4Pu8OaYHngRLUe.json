@@ -1,0 +1,113 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0G62xH8Rl3pXaOAcSuCMmp"
+    },
+    "href": "https://api.spotify.com/v1/albums/0G62xH8Rl3pXaOAcSuCMmp",
+    "id": "0G62xH8Rl3pXaOAcSuCMmp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cda8fcd0dc2aa8940514a04f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cda8fcd0dc2aa8940514a04f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cda8fcd0dc2aa8940514a04f",
+        "width": 64
+      }
+    ],
+    "name": "Funiculi Funicula 2 (Radio 2 Klassiekers)",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 53,
+    "type": "album",
+    "uri": "spotify:album:0G62xH8Rl3pXaOAcSuCMmp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+      },
+      "href": "https://api.spotify.com/v1/artists/02B3Os1lCLuWR6klPJiQpW",
+      "id": "02B3Os1lCLuWR6klPJiQpW",
+      "name": "Nicola Benedetti",
+      "type": "artist",
+      "uri": "spotify:artist:02B3Os1lCLuWR6klPJiQpW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2eQM9blUQw9vY62tYLcpVk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2eQM9blUQw9vY62tYLcpVk",
+      "id": "2eQM9blUQw9vY62tYLcpVk",
+      "name": "Ksenija Sidorova",
+      "type": "artist",
+      "uri": "spotify:artist:2eQM9blUQw9vY62tYLcpVk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KuPDJp7FCpmaUy4jKcjfB",
+      "id": "2KuPDJp7FCpmaUy4jKcjfB",
+      "name": "Bournemouth Symphony Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:2KuPDJp7FCpmaUy4jKcjfB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7"
+      },
+      "href": "https://api.spotify.com/v1/artists/4R3RDYAysOS0Joet8zTxc7",
+      "id": "4R3RDYAysOS0Joet8zTxc7",
+      "name": "Kirill Karabits",
+      "type": "artist",
+      "uri": "spotify:artist:4R3RDYAysOS0Joet8zTxc7"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU"
+  ],
+  "disc_number": 3,
+  "duration_ms": 253853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF071202060"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1kKCIEZB4Pu8OaYHngRLUe"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1kKCIEZB4Pu8OaYHngRLUe",
+  "id": "1kKCIEZB4Pu8OaYHngRLUe",
+  "is_local": false,
+  "name": "Por Una Cabeza",
+  "popularity": 2,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:1kKCIEZB4Pu8OaYHngRLUe"
+}

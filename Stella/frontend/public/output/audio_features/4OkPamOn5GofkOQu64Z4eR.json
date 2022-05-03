@@ -1,0 +1,20 @@
+{
+  "danceability": 0.637,
+  "energy": 0.973,
+  "key": 9,
+  "loudness": -3.386,
+  "mode": 1,
+  "speechiness": 0.112,
+  "acousticness": 0.000413,
+  "instrumentalness": 0.0000223,
+  "liveness": 0.104,
+  "valence": 0.8,
+  "tempo": 150.223,
+  "type": "audio_features",
+  "id": "4OkPamOn5GofkOQu64Z4eR",
+  "uri": "spotify:track:4OkPamOn5GofkOQu64Z4eR",
+  "track_href": "https://api.spotify.com/v1/tracks/4OkPamOn5GofkOQu64Z4eR",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/4OkPamOn5GofkOQu64Z4eR",
+  "duration_ms": 160640,
+  "time_signature": 4
+}

@@ -1,0 +1,117 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        },
+        "href": "https://api.spotify.com/v1/artists/5k3NfhEeZHpouIGDpjKOPo",
+        "id": "5k3NfhEeZHpouIGDpjKOPo",
+        "name": "Shiro Sagisu",
+        "type": "artist",
+        "uri": "spotify:artist:5k3NfhEeZHpouIGDpjKOPo"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "GB",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "NO",
+      "PT",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0zV3xoa0T7I1FpnJ0a9E0a"
+    },
+    "href": "https://api.spotify.com/v1/albums/0zV3xoa0T7I1FpnJ0a9E0a",
+    "id": "0zV3xoa0T7I1FpnJ0a9E0a",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ca74f35aeb2d8b3f44f26252",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ca74f35aeb2d8b3f44f26252",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ca74f35aeb2d8b3f44f26252",
+        "width": 64
+      }
+    ],
+    "name": "Neon Genesis Evangelion (Original Series Soundtrack)",
+    "release_date": "2019-06-21",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:0zV3xoa0T7I1FpnJ0a9E0a"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+      },
+      "href": "https://api.spotify.com/v1/artists/5k3NfhEeZHpouIGDpjKOPo",
+      "id": "5k3NfhEeZHpouIGDpjKOPo",
+      "name": "Shiro Sagisu",
+      "type": "artist",
+      "uri": "spotify:artist:5k3NfhEeZHpouIGDpjKOPo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+      },
+      "href": "https://api.spotify.com/v1/artists/2RSmBT9gH02j53dMSw982t",
+      "id": "2RSmBT9gH02j53dMSw982t",
+      "name": "Yoko Takahashi",
+      "type": "artist",
+      "uri": "spotify:artist:2RSmBT9gH02j53dMSw982t"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "GB",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "NO",
+    "PT",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPKI09522450"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4tSB4wEJF32nLRfTOec9M5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4tSB4wEJF32nLRfTOec9M5",
+  "id": "4tSB4wEJF32nLRfTOec9M5",
+  "is_local": false,
+  "name": "A Cruel Angel's Thesis - Director's Edit Version",
+  "popularity": 54,
+  "preview_url": "https://p.scdn.co/mp3-preview/8526784841a155e198916df5ed79b3f7420268d0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4tSB4wEJF32nLRfTOec9M5"
+}

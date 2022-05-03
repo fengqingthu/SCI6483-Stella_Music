@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn"
+        },
+        "href": "https://api.spotify.com/v1/artists/5riPm9K3FssJpYLJnDGzOn",
+        "id": "5riPm9K3FssJpYLJnDGzOn",
+        "name": "L5",
+        "type": "artist",
+        "uri": "spotify:artist:5riPm9K3FssJpYLJnDGzOn"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "ES",
+      "FR",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1tO5kLF2GXzBdoJTNJEKut"
+    },
+    "href": "https://api.spotify.com/v1/albums/1tO5kLF2GXzBdoJTNJEKut",
+    "id": "1tO5kLF2GXzBdoJTNJEKut",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f8e6b0040af0938ef1ef20fd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f8e6b0040af0938ef1ef20fd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f8e6b0040af0938ef1ef20fd",
+        "width": 64
+      }
+    ],
+    "name": "L5",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:1tO5kLF2GXzBdoJTNJEKut"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn"
+      },
+      "href": "https://api.spotify.com/v1/artists/5riPm9K3FssJpYLJnDGzOn",
+      "id": "5riPm9K3FssJpYLJnDGzOn",
+      "name": "L5",
+      "type": "artist",
+      "uri": "spotify:artist:5riPm9K3FssJpYLJnDGzOn"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "ES",
+    "FR",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRT530100238"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3PkVPI5Qj87BCyNBUQ2pJB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3PkVPI5Qj87BCyNBUQ2pJB",
+  "id": "3PkVPI5Qj87BCyNBUQ2pJB",
+  "is_local": false,
+  "name": "Toutes les femmes de ta vie",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3PkVPI5Qj87BCyNBUQ2pJB"
+}

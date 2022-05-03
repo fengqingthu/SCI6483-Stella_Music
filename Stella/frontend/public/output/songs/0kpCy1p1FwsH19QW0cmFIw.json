@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        },
+        "href": "https://api.spotify.com/v1/artists/3E33tPtYu9wX1t1cp8ELAW",
+        "id": "3E33tPtYu9wX1t1cp8ELAW",
+        "name": "Takida",
+        "type": "artist",
+        "uri": "spotify:artist:3E33tPtYu9wX1t1cp8ELAW"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5uC7OXwMPCHFs8soNFdOLD"
+    },
+    "href": "https://api.spotify.com/v1/albums/5uC7OXwMPCHFs8soNFdOLD",
+    "id": "5uC7OXwMPCHFs8soNFdOLD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737f39de094132d8d4c5ffa153",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027f39de094132d8d4c5ffa153",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517f39de094132d8d4c5ffa153",
+        "width": 64
+      }
+    ],
+    "name": "The Darker Instinct (Platinum Edition)",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:5uC7OXwMPCHFs8soNFdOLD"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+      },
+      "href": "https://api.spotify.com/v1/artists/3E33tPtYu9wX1t1cp8ELAW",
+      "id": "3E33tPtYu9wX1t1cp8ELAW",
+      "name": "Takida",
+      "type": "artist",
+      "uri": "spotify:artist:3E33tPtYu9wX1t1cp8ELAW"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVST0900109"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0kpCy1p1FwsH19QW0cmFIw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0kpCy1p1FwsH19QW0cmFIw",
+  "id": "0kpCy1p1FwsH19QW0cmFIw",
+  "is_local": false,
+  "name": "Never Alone Always Alone",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/237f00af02fbabf34130f922a1e15f2c76bde7a9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0kpCy1p1FwsH19QW0cmFIw"
+}

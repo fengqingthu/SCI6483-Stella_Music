@@ -1,0 +1,157 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
+        },
+        "href": "https://api.spotify.com/v1/artists/6CpNuq0rsIj6Il313E6lKL",
+        "id": "6CpNuq0rsIj6Il313E6lKL",
+        "name": "Kimberose",
+        "type": "artist",
+        "uri": "spotify:artist:6CpNuq0rsIj6Il313E6lKL"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4DExdfVXWXEAddv1txDkPJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/4DExdfVXWXEAddv1txDkPJ",
+    "id": "4DExdfVXWXEAddv1txDkPJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273196f0e5154732896d4e9e2b9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02196f0e5154732896d4e9e2b9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851196f0e5154732896d4e9e2b9",
+        "width": 64
+      }
+    ],
+    "name": "Chapter One",
+    "release_date": "2018-03-16",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4DExdfVXWXEAddv1txDkPJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
+      },
+      "href": "https://api.spotify.com/v1/artists/6CpNuq0rsIj6Il313E6lKL",
+      "id": "6CpNuq0rsIj6Il313E6lKL",
+      "name": "Kimberose",
+      "type": "artist",
+      "uri": "spotify:artist:6CpNuq0rsIj6Il313E6lKL"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GR",
+    "HR",
+    "HU",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRU011700183"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/29GsEfpJSs7KMcg9GYiLg6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/29GsEfpJSs7KMcg9GYiLg6",
+  "id": "29GsEfpJSs7KMcg9GYiLg6",
+  "is_local": false,
+  "name": "I'm Broke",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/aa022995fccebf2a30e1887973e1961b39dc48ad?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:29GsEfpJSs7KMcg9GYiLg6"
+}

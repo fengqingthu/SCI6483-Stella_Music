@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QwJQuBekTA4qF7N7uLHDP",
+        "id": "2QwJQuBekTA4qF7N7uLHDP",
+        "name": "Veruca Salt",
+        "type": "artist",
+        "uri": "spotify:artist:2QwJQuBekTA4qF7N7uLHDP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Mjt2iha5C99JBqTjJijg9",
+    "id": "5Mjt2iha5C99JBqTjJijg9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273232ab41903a1d7b64e67c384",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02232ab41903a1d7b64e67c384",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851232ab41903a1d7b64e67c384",
+        "width": 64
+      }
+    ],
+    "name": "American Thighs",
+    "release_date": "1994-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5Mjt2iha5C99JBqTjJijg9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+      },
+      "href": "https://api.spotify.com/v1/artists/2QwJQuBekTA4qF7N7uLHDP",
+      "id": "2QwJQuBekTA4qF7N7uLHDP",
+      "name": "Veruca Salt",
+      "type": "artist",
+      "uri": "spotify:artist:2QwJQuBekTA4qF7N7uLHDP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 196573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USGF19473203"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1SY2vughwKmVPm1Lmf5Nl7",
+  "id": "1SY2vughwKmVPm1Lmf5Nl7",
+  "is_local": false,
+  "name": "Seether",
+  "popularity": 52,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1SY2vughwKmVPm1Lmf5Nl7"
+}

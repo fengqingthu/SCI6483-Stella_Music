@@ -1,0 +1,20 @@
+{
+  "danceability": 0.406,
+  "energy": 0.146,
+  "key": 1,
+  "loudness": -16.13,
+  "mode": 1,
+  "speechiness": 0.0518,
+  "acousticness": 0.875,
+  "instrumentalness": 0.00177,
+  "liveness": 0.0931,
+  "valence": 0.354,
+  "tempo": 173.663,
+  "type": "audio_features",
+  "id": "6N9BqNBl3m2lFvKMZDmesa",
+  "uri": "spotify:track:6N9BqNBl3m2lFvKMZDmesa",
+  "track_href": "https://api.spotify.com/v1/tracks/6N9BqNBl3m2lFvKMZDmesa",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6N9BqNBl3m2lFvKMZDmesa",
+  "duration_ms": 191228,
+  "time_signature": 4
+}

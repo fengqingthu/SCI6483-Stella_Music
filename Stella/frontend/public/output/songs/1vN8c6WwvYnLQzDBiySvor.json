@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6mfghV4I1CD17FOhDKq7cJ",
+        "id": "6mfghV4I1CD17FOhDKq7cJ",
+        "name": "Grave Digger",
+        "type": "artist",
+        "uri": "spotify:artist:6mfghV4I1CD17FOhDKq7cJ"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0QH1EzI2foX4ql9iH2afYb"
+    },
+    "href": "https://api.spotify.com/v1/albums/0QH1EzI2foX4ql9iH2afYb",
+    "id": "0QH1EzI2foX4ql9iH2afYb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273386172e5d23d02be0816ec81",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02386172e5d23d02be0816ec81",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851386172e5d23d02be0816ec81",
+        "width": 64
+      }
+    ],
+    "name": "The Ballad Of Mary",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:0QH1EzI2foX4ql9iH2afYb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6mfghV4I1CD17FOhDKq7cJ",
+      "id": "6mfghV4I1CD17FOhDKq7cJ",
+      "name": "Grave Digger",
+      "type": "artist",
+      "uri": "spotify:artist:6mfghV4I1CD17FOhDKq7cJ"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 301520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261136501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1vN8c6WwvYnLQzDBiySvor"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1vN8c6WwvYnLQzDBiySvor",
+  "id": "1vN8c6WwvYnLQzDBiySvor",
+  "is_local": false,
+  "name": "The Ballad Of Mary 2010",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/ca0846a2e7183ba3104bbc57f5d49de21da5755b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1vN8c6WwvYnLQzDBiySvor"
+}

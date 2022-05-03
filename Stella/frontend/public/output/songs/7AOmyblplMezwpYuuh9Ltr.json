@@ -1,0 +1,181 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+        },
+        "href": "https://api.spotify.com/v1/artists/6y1aZyP40077De3neGJD2b",
+        "id": "6y1aZyP40077De3neGJD2b",
+        "name": "Alain Bashung",
+        "type": "artist",
+        "uri": "spotify:artist:6y1aZyP40077De3neGJD2b"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BH",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GN",
+      "GR",
+      "HK",
+      "IE",
+      "IL",
+      "IT",
+      "JO",
+      "JP",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MX",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PT",
+      "QA",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "US",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7giqzAVDOPXlU9lnP4wxzW"
+    },
+    "href": "https://api.spotify.com/v1/albums/7giqzAVDOPXlU9lnP4wxzW",
+    "id": "7giqzAVDOPXlU9lnP4wxzW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ceca77198d896b2c50d8e1d1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ceca77198d896b2c50d8e1d1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ceca77198d896b2c50d8e1d1",
+        "width": 64
+      }
+    ],
+    "name": "Fantaisie Militaire",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7giqzAVDOPXlU9lnP4wxzW"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+      },
+      "href": "https://api.spotify.com/v1/artists/6y1aZyP40077De3neGJD2b",
+      "id": "6y1aZyP40077De3neGJD2b",
+      "name": "Alain Bashung",
+      "type": "artist",
+      "uri": "spotify:artist:6y1aZyP40077De3neGJD2b"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "AU",
+    "BE",
+    "BG",
+    "BH",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GN",
+    "GR",
+    "HK",
+    "IE",
+    "IL",
+    "IT",
+    "JO",
+    "JP",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "MX",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PT",
+    "QA",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "US",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 264706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ019701170"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7AOmyblplMezwpYuuh9Ltr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7AOmyblplMezwpYuuh9Ltr",
+  "id": "7AOmyblplMezwpYuuh9Ltr",
+  "is_local": false,
+  "name": "La nuit je mens",
+  "popularity": 52,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7AOmyblplMezwpYuuh9Ltr"
+}

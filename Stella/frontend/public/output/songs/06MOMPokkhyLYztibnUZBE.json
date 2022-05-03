@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/57YJQe0ayvIaRZJ3PW5nFP",
+        "id": "57YJQe0ayvIaRZJ3PW5nFP",
+        "name": "Jon Brion",
+        "type": "artist",
+        "uri": "spotify:artist:57YJQe0ayvIaRZJ3PW5nFP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5IXZEGA5h7aGBwKZ31Rigi"
+    },
+    "href": "https://api.spotify.com/v1/albums/5IXZEGA5h7aGBwKZ31Rigi",
+    "id": "5IXZEGA5h7aGBwKZ31Rigi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e0eb84b21a86f424d07ad943",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e0eb84b21a86f424d07ad943",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e0eb84b21a86f424d07ad943",
+        "width": 64
+      }
+    ],
+    "name": "ParaNorman",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:5IXZEGA5h7aGBwKZ31Rigi"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
+      },
+      "href": "https://api.spotify.com/v1/artists/57YJQe0ayvIaRZJ3PW5nFP",
+      "id": "57YJQe0ayvIaRZJ3PW5nFP",
+      "name": "Jon Brion",
+      "type": "artist",
+      "uri": "spotify:artist:57YJQe0ayvIaRZJ3PW5nFP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 173504,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US6LQ0900495"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/06MOMPokkhyLYztibnUZBE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/06MOMPokkhyLYztibnUZBE",
+  "id": "06MOMPokkhyLYztibnUZBE",
+  "is_local": false,
+  "name": "Norman's Walk",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:06MOMPokkhyLYztibnUZBE"
+}

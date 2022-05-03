@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        },
+        "href": "https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5",
+        "id": "3XHO7cRUPCLOr6jwp8vsx5",
+        "name": "alt-J",
+        "type": "artist",
+        "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+    },
+    "href": "https://api.spotify.com/v1/albums/4oktVvRuO1In9B7Hz0xm0a",
+    "id": "4oktVvRuO1In9B7Hz0xm0a",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0211b3df35e2e46d91f585afd9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485111b3df35e2e46d91f585afd9",
+        "width": 64
+      }
+    ],
+    "name": "This Is All Yours",
+    "release_date": "2014-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:4oktVvRuO1In9B7Hz0xm0a"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+      },
+      "href": "https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5",
+      "id": "3XHO7cRUPCLOr6jwp8vsx5",
+      "name": "alt-J",
+      "type": "artist",
+      "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 296057,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBZUZ1400275"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/57tzAvfPHXHzCHUNp9AUBm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/57tzAvfPHXHzCHUNp9AUBm",
+  "id": "57tzAvfPHXHzCHUNp9AUBm",
+  "is_local": false,
+  "name": "Nara",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/b4c38596fcd087ac9ec3af2d9cfe0dbf2640f473?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:57tzAvfPHXHzCHUNp9AUBm"
+}

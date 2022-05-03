@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        },
+        "href": "https://api.spotify.com/v1/artists/09s6bLEw45wioK9ytf3nsA",
+        "id": "09s6bLEw45wioK9ytf3nsA",
+        "name": "Westerman",
+        "type": "artist",
+        "uri": "spotify:artist:09s6bLEw45wioK9ytf3nsA"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
+    },
+    "href": "https://api.spotify.com/v1/albums/6zSzwpkKgNJfQWwCEQTQDv",
+    "id": "6zSzwpkKgNJfQWwCEQTQDv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27303cf76e6281ef2b1b9e68408",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0203cf76e6281ef2b1b9e68408",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485103cf76e6281ef2b1b9e68408",
+        "width": 64
+      }
+    ],
+    "name": "Your Hero Is Not Dead",
+    "release_date": "2020-06-05",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6zSzwpkKgNJfQWwCEQTQDv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+      },
+      "href": "https://api.spotify.com/v1/artists/09s6bLEw45wioK9ytf3nsA",
+      "id": "09s6bLEw45wioK9ytf3nsA",
+      "name": "Westerman",
+      "type": "artist",
+      "uri": "spotify:artist:09s6bLEw45wioK9ytf3nsA"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 258266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBENL1902629"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Pqy5RRW33bhxYXN0ZZNXG",
+  "id": "3Pqy5RRW33bhxYXN0ZZNXG",
+  "is_local": false,
+  "name": "Confirmation (SSBD)",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/4c7b341f1189ac9296a7fb929aad0a3a2879aa96?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:3Pqy5RRW33bhxYXN0ZZNXG"
+}

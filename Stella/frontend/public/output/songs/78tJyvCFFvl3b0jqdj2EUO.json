@@ -1,0 +1,151 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        "href": "https://api.spotify.com/v1/artists/2L3kwZFd16zjHz9a5kEPAm",
+        "id": "2L3kwZFd16zjHz9a5kEPAm",
+        "name": "Ane Brun",
+        "type": "artist",
+        "uri": "spotify:artist:2L3kwZFd16zjHz9a5kEPAm"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "KG",
+      "KZ",
+      "LT",
+      "LV",
+      "ME",
+      "MK",
+      "MT",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "UA",
+      "UZ",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4AuXrnTPEQheuq7r9WJHjo"
+    },
+    "href": "https://api.spotify.com/v1/albums/4AuXrnTPEQheuq7r9WJHjo",
+    "id": "4AuXrnTPEQheuq7r9WJHjo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735c759014295ed8ff0768d801",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025c759014295ed8ff0768d801",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515c759014295ed8ff0768d801",
+        "width": 64
+      }
+    ],
+    "name": "It All Starts With One",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4AuXrnTPEQheuq7r9WJHjo"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+      },
+      "href": "https://api.spotify.com/v1/artists/2L3kwZFd16zjHz9a5kEPAm",
+      "id": "2L3kwZFd16zjHz9a5kEPAm",
+      "name": "Ane Brun",
+      "type": "artist",
+      "uri": "spotify:artist:2L3kwZFd16zjHz9a5kEPAm"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "KG",
+    "KZ",
+    "LT",
+    "LV",
+    "ME",
+    "MK",
+    "MT",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "UA",
+    "UZ",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEVVQ1100104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/78tJyvCFFvl3b0jqdj2EUO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/78tJyvCFFvl3b0jqdj2EUO",
+  "id": "78tJyvCFFvl3b0jqdj2EUO",
+  "is_local": false,
+  "name": "Do You Remember",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:78tJyvCFFvl3b0jqdj2EUO"
+}

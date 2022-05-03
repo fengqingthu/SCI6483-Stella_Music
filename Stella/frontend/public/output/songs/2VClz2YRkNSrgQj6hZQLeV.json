@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3H5JhEkJ3IKuNT1elqCxQ4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3H5JhEkJ3IKuNT1elqCxQ4",
+        "id": "3H5JhEkJ3IKuNT1elqCxQ4",
+        "name": "Rökkurró",
+        "type": "artist",
+        "uri": "spotify:artist:3H5JhEkJ3IKuNT1elqCxQ4"
+      }
+    ],
+    "available_markets": [
+      "IS"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6rDp2bV1E3DT0J5WCO7G2A"
+    },
+    "href": "https://api.spotify.com/v1/albums/6rDp2bV1E3DT0J5WCO7G2A",
+    "id": "6rDp2bV1E3DT0J5WCO7G2A",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27353b8d60479c201791f6a5bde",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0253b8d60479c201791f6a5bde",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485153b8d60479c201791f6a5bde",
+        "width": 64
+      }
+    ],
+    "name": "Í annan heim",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:6rDp2bV1E3DT0J5WCO7G2A"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3H5JhEkJ3IKuNT1elqCxQ4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3H5JhEkJ3IKuNT1elqCxQ4",
+      "id": "3H5JhEkJ3IKuNT1elqCxQ4",
+      "name": "Rökkurró",
+      "type": "artist",
+      "uri": "spotify:artist:3H5JhEkJ3IKuNT1elqCxQ4"
+    }
+  ],
+  "available_markets": [
+    "IS"
+  ],
+  "disc_number": 1,
+  "duration_ms": 422463,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ISU111000309"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2VClz2YRkNSrgQj6hZQLeV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2VClz2YRkNSrgQj6hZQLeV",
+  "id": "2VClz2YRkNSrgQj6hZQLeV",
+  "is_local": false,
+  "name": "Svanur",
+  "popularity": 3,
+  "preview_url": "https://p.scdn.co/mp3-preview/026aaf81e65986c614c93c54c7087713b4066591?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:2VClz2YRkNSrgQj6hZQLeV"
+}

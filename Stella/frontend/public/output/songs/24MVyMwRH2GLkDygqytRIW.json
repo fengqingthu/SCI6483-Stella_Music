@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+        "id": "6UUrUCIZtQeOf8tC0WuzRy",
+        "name": "Sigur Rós",
+        "type": "artist",
+        "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "IS",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ZHkshyLAi9f8DXdj3Z5ph",
+    "id": "0ZHkshyLAi9f8DXdj3Z5ph",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273552b8bc7ed7bd464d69342e0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02552b8bc7ed7bd464d69342e0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851552b8bc7ed7bd464d69342e0",
+        "width": 64
+      }
+    ],
+    "name": "Valtari",
+    "release_date": "2012-05-23",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:0ZHkshyLAi9f8DXdj3Z5ph"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+      "id": "6UUrUCIZtQeOf8tC0WuzRy",
+      "name": "Sigur Rós",
+      "type": "artist",
+      "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "IS",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 396706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKEE1200236"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/24MVyMwRH2GLkDygqytRIW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/24MVyMwRH2GLkDygqytRIW",
+  "id": "24MVyMwRH2GLkDygqytRIW",
+  "is_local": false,
+  "name": "Dauðalogn",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/2c7d16ecef1b653fde93da27b7e8aaf971788dea?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:24MVyMwRH2GLkDygqytRIW"
+}

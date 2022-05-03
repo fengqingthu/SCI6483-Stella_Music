@@ -1,0 +1,20 @@
+{
+  "danceability": 0.459,
+  "energy": 0.0698,
+  "key": 6,
+  "loudness": -16.827,
+  "mode": 1,
+  "speechiness": 0.035,
+  "acousticness": 0.991,
+  "instrumentalness": 0.103,
+  "liveness": 0.109,
+  "valence": 0.232,
+  "tempo": 105.202,
+  "type": "audio_features",
+  "id": "1GIPP103zfsythULEpsmdw",
+  "uri": "spotify:track:1GIPP103zfsythULEpsmdw",
+  "track_href": "https://api.spotify.com/v1/tracks/1GIPP103zfsythULEpsmdw",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/1GIPP103zfsythULEpsmdw",
+  "duration_ms": 187373,
+  "time_signature": 4
+}

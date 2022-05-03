@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7AEHCSmWo2T38oiwOhde8K"
+    },
+    "href": "https://api.spotify.com/v1/albums/7AEHCSmWo2T38oiwOhde8K",
+    "id": "7AEHCSmWo2T38oiwOhde8K",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735a4ae59acab553516cc85f03",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025a4ae59acab553516cc85f03",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515a4ae59acab553516cc85f03",
+        "width": 64
+      }
+    ],
+    "name": "It Had to Be You",
+    "release_date": "2014-01-31",
+    "release_date_precision": "day",
+    "total_tracks": 60,
+    "type": "album",
+    "uri": "spotify:album:7AEHCSmWo2T38oiwOhde8K"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+      },
+      "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+      "id": "2txHhyCwHjUEpJjWrEyqyX",
+      "name": "Tom Odell",
+      "type": "artist",
+      "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226413,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBARL1300525"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7kMfTM20r2FvbD0l3O9vjE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7kMfTM20r2FvbD0l3O9vjE",
+  "id": "7kMfTM20r2FvbD0l3O9vjE",
+  "is_local": false,
+  "name": "Another Love - Radio Edit",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:7kMfTM20r2FvbD0l3O9vjE"
+}

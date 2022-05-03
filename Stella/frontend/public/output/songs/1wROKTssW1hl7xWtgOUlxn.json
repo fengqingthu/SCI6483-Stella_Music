@@ -1,0 +1,175 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO"
+        },
+        "href": "https://api.spotify.com/v1/artists/696uMzB97pg2uqfzmK3MvO",
+        "id": "696uMzB97pg2uqfzmK3MvO",
+        "name": "The Slow Show",
+        "type": "artist",
+        "uri": "spotify:artist:696uMzB97pg2uqfzmK3MvO"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7tsp5b1UN7Me6Jm1gRPD5r"
+    },
+    "href": "https://api.spotify.com/v1/albums/7tsp5b1UN7Me6Jm1gRPD5r",
+    "id": "7tsp5b1UN7Me6Jm1gRPD5r",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c0f97c654fe0edac66215031",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c0f97c654fe0edac66215031",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c0f97c654fe0edac66215031",
+        "width": 64
+      }
+    ],
+    "name": "Lust and Learn",
+    "release_date": "2019-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7tsp5b1UN7Me6Jm1gRPD5r"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO"
+      },
+      "href": "https://api.spotify.com/v1/artists/696uMzB97pg2uqfzmK3MvO",
+      "id": "696uMzB97pg2uqfzmK3MvO",
+      "name": "The Slow Show",
+      "type": "artist",
+      "uri": "spotify:artist:696uMzB97pg2uqfzmK3MvO"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 289216,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLD321900040"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1wROKTssW1hl7xWtgOUlxn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1wROKTssW1hl7xWtgOUlxn",
+  "id": "1wROKTssW1hl7xWtgOUlxn",
+  "is_local": false,
+  "name": "Low",
+  "popularity": 46,
+  "preview_url": "https://p.scdn.co/mp3-preview/2cda77455cb2515f996a5d4f5a444a9f4a9555ca?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1wROKTssW1hl7xWtgOUlxn"
+}

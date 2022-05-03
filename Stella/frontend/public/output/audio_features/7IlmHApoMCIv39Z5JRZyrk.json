@@ -1,0 +1,20 @@
+{
+  "danceability": 0.628,
+  "energy": 0.645,
+  "key": 0,
+  "loudness": -7.389,
+  "mode": 1,
+  "speechiness": 0.0553,
+  "acousticness": 0.0426,
+  "instrumentalness": 0.0000382,
+  "liveness": 0.108,
+  "valence": 0.622,
+  "tempo": 122.072,
+  "type": "audio_features",
+  "id": "7IlmHApoMCIv39Z5JRZyrk",
+  "uri": "spotify:track:7IlmHApoMCIv39Z5JRZyrk",
+  "track_href": "https://api.spotify.com/v1/tracks/7IlmHApoMCIv39Z5JRZyrk",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7IlmHApoMCIv39Z5JRZyrk",
+  "duration_ms": 243759,
+  "time_signature": 4
+}

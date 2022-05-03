@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        },
+        "href": "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+        "id": "46CitWgnWrvF9t70C2p1Me",
+        "name": "Daughter",
+        "type": "artist",
+        "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/69KTlgVFahZaKVmZk2z2GY"
+    },
+    "href": "https://api.spotify.com/v1/albums/69KTlgVFahZaKVmZk2z2GY",
+    "id": "69KTlgVFahZaKVmZk2z2GY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273865c594e832d54eedf64c296",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02865c594e832d54eedf64c296",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851865c594e832d54eedf64c296",
+        "width": 64
+      }
+    ],
+    "name": "Music from Before the Storm",
+    "release_date": "2017-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:69KTlgVFahZaKVmZk2z2GY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+      },
+      "href": "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+      "id": "46CitWgnWrvF9t70C2p1Me",
+      "name": "Daughter",
+      "type": "artist",
+      "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191963,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFL1700300"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7sxYYvgDmedOCoFPVqi6ja"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7sxYYvgDmedOCoFPVqi6ja",
+  "id": "7sxYYvgDmedOCoFPVqi6ja",
+  "is_local": false,
+  "name": "Burn It Down",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/9d99a79f48b5ea7d8b3b3f1f67eca38bc3dae9d4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7sxYYvgDmedOCoFPVqi6ja"
+}

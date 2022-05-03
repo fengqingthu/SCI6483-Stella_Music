@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy"
+        },
+        "href": "https://api.spotify.com/v1/artists/5MZqcO35TJh5QXaFmvXmUy",
+        "id": "5MZqcO35TJh5QXaFmvXmUy",
+        "name": "The 5.6.7.8's",
+        "type": "artist",
+        "uri": "spotify:artist:5MZqcO35TJh5QXaFmvXmUy"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/70dhCg14HnQoEbiBzmBHnO"
+    },
+    "href": "https://api.spotify.com/v1/albums/70dhCg14HnQoEbiBzmBHnO",
+    "id": "70dhCg14HnQoEbiBzmBHnO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ef70e49ca7ff93a8a12ac09f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ef70e49ca7ff93a8a12ac09f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ef70e49ca7ff93a8a12ac09f",
+        "width": 64
+      }
+    ],
+    "name": "Bomb The Rocks: Early Days Singles 1989-1996",
+    "release_date": "2007-11-05",
+    "release_date_precision": "day",
+    "total_tracks": 27,
+    "type": "album",
+    "uri": "spotify:album:70dhCg14HnQoEbiBzmBHnO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5MZqcO35TJh5QXaFmvXmUy",
+      "id": "5MZqcO35TJh5QXaFmvXmUy",
+      "name": "The 5.6.7.8's",
+      "type": "artist",
+      "uri": "spotify:artist:5MZqcO35TJh5QXaFmvXmUy"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 119066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBHLW0711426"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1GHklAIU9vwEojmaXD0Q8E"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1GHklAIU9vwEojmaXD0Q8E",
+  "id": "1GHklAIU9vwEojmaXD0Q8E",
+  "is_local": false,
+  "name": "Woo Hoo",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/c9feaa688364d429b3fc26376d34751a80b3dc40?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1GHklAIU9vwEojmaXD0Q8E"
+}

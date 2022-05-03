@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
+        },
+        "href": "https://api.spotify.com/v1/artists/3UQ87SmqkLxIMdenYnsLld",
+        "id": "3UQ87SmqkLxIMdenYnsLld",
+        "name": "Efence",
+        "type": "artist",
+        "uri": "spotify:artist:3UQ87SmqkLxIMdenYnsLld"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6aYPHuKBFNF44Ni4KCziQH"
+    },
+    "href": "https://api.spotify.com/v1/albums/6aYPHuKBFNF44Ni4KCziQH",
+    "id": "6aYPHuKBFNF44Ni4KCziQH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733d327542aa987905f2bb2b57",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023d327542aa987905f2bb2b57",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513d327542aa987905f2bb2b57",
+        "width": 64
+      }
+    ],
+    "name": "Galaxy´s End",
+    "release_date": "2018-11-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6aYPHuKBFNF44Ni4KCziQH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UQ87SmqkLxIMdenYnsLld",
+      "id": "3UQ87SmqkLxIMdenYnsLld",
+      "name": "Efence",
+      "type": "artist",
+      "uri": "spotify:artist:3UQ87SmqkLxIMdenYnsLld"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 118095,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBSMU5674950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/13TgpuZj3azFe3hkrWuWwo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/13TgpuZj3azFe3hkrWuWwo",
+  "id": "13TgpuZj3azFe3hkrWuWwo",
+  "is_local": false,
+  "name": "Happy Astronaut",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:13TgpuZj3azFe3hkrWuWwo"
+}

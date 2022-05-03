@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2nwNBRZ0DZlRAQBBO0Pdym"
+        },
+        "href": "https://api.spotify.com/v1/artists/2nwNBRZ0DZlRAQBBO0Pdym",
+        "id": "2nwNBRZ0DZlRAQBBO0Pdym",
+        "name": "Klaus Doldinger",
+        "type": "artist",
+        "uri": "spotify:artist:2nwNBRZ0DZlRAQBBO0Pdym"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5TsX2YA90Ne6TsZdiN1GBH"
+    },
+    "href": "https://api.spotify.com/v1/albums/5TsX2YA90Ne6TsZdiN1GBH",
+    "id": "5TsX2YA90Ne6TsZdiN1GBH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dff168b82896e9ce14c70e4e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dff168b82896e9ce14c70e4e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dff168b82896e9ce14c70e4e",
+        "width": 64
+      }
+    ],
+    "name": "O.S.T. Die Unendliche Geschichte",
+    "release_date": "1984-03-12",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:5TsX2YA90Ne6TsZdiN1GBH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2nwNBRZ0DZlRAQBBO0Pdym"
+      },
+      "href": "https://api.spotify.com/v1/artists/2nwNBRZ0DZlRAQBBO0Pdym",
+      "id": "2nwNBRZ0DZlRAQBBO0Pdym",
+      "name": "Klaus Doldinger",
+      "type": "artist",
+      "uri": "spotify:artist:2nwNBRZ0DZlRAQBBO0Pdym"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192640,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEA629263060"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1QQHGWZivub21kiDg8DaqT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1QQHGWZivub21kiDg8DaqT",
+  "id": "1QQHGWZivub21kiDg8DaqT",
+  "is_local": false,
+  "name": "Flug auf dem Glücksdrachen",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1QQHGWZivub21kiDg8DaqT"
+}

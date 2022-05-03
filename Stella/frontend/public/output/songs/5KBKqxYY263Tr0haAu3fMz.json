@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        },
+        "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5",
+        "id": "3G3Gdm0ZRAOxLrbyjfhii5",
+        "name": "my bloody valentine",
+        "type": "artist",
+        "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+    },
+    "href": "https://api.spotify.com/v1/albums/3GH4IiI6jQAIvnHVdb5FB6",
+    "id": "3GH4IiI6jQAIvnHVdb5FB6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730ede770070357575bc050511",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020ede770070357575bc050511",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510ede770070357575bc050511",
+        "width": 64
+      }
+    ],
+    "name": "Loveless",
+    "release_date": "1991-11-04",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3GH4IiI6jQAIvnHVdb5FB6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+      },
+      "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5",
+      "id": "3G3Gdm0ZRAOxLrbyjfhii5",
+      "name": "my bloody valentine",
+      "type": "artist",
+      "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 319226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWB10101910"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5KBKqxYY263Tr0haAu3fMz",
+  "id": "5KBKqxYY263Tr0haAu3fMz",
+  "is_local": false,
+  "name": "Sometimes",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/3461144bc69d992b59b1651431ec62d3819419f5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5KBKqxYY263Tr0haAu3fMz"
+}

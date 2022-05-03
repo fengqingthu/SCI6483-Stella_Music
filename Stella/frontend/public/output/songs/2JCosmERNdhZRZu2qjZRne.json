@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
+        },
+        "href": "https://api.spotify.com/v1/artists/6QncudMSOiKxYRIKRDks6S",
+        "id": "6QncudMSOiKxYRIKRDks6S",
+        "name": "Hindi Zahra",
+        "type": "artist",
+        "uri": "spotify:artist:6QncudMSOiKxYRIKRDks6S"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2sDkL1Blpg9f4oWmcl1vF6"
+    },
+    "href": "https://api.spotify.com/v1/albums/2sDkL1Blpg9f4oWmcl1vF6",
+    "id": "2sDkL1Blpg9f4oWmcl1vF6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734ca512757f0ff0245262d49e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024ca512757f0ff0245262d49e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514ca512757f0ff0245262d49e",
+        "width": 64
+      }
+    ],
+    "name": "Silence (Radio Edit)",
+    "release_date": "2015-10-30",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2sDkL1Blpg9f4oWmcl1vF6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QncudMSOiKxYRIKRDks6S",
+      "id": "6QncudMSOiKxYRIKRDks6S",
+      "name": "Hindi Zahra",
+      "type": "artist",
+      "uri": "spotify:artist:6QncudMSOiKxYRIKRDks6S"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 229680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11515348"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2JCosmERNdhZRZu2qjZRne"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2JCosmERNdhZRZu2qjZRne",
+  "id": "2JCosmERNdhZRZu2qjZRne",
+  "is_local": false,
+  "name": "Silence - Radio Edit",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2JCosmERNdhZRZu2qjZRne"
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        },
+        "href": "https://api.spotify.com/v1/artists/3BVkDHWRvLJEyKdvhLbjsq",
+        "id": "3BVkDHWRvLJEyKdvhLbjsq",
+        "name": "W.A.S.P.",
+        "type": "artist",
+        "uri": "spotify:artist:3BVkDHWRvLJEyKdvhLbjsq"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/37VFmeMFl6GWm9ga1AvW3Q"
+    },
+    "href": "https://api.spotify.com/v1/albums/37VFmeMFl6GWm9ga1AvW3Q",
+    "id": "37VFmeMFl6GWm9ga1AvW3Q",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730bb1f142d9657ae0f9d8cd0d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020bb1f142d9657ae0f9d8cd0d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510bb1f142d9657ae0f9d8cd0d",
+        "width": 64
+      }
+    ],
+    "name": "Golgotha",
+    "release_date": "2015-10-02",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:37VFmeMFl6GWm9ga1AvW3Q"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3BVkDHWRvLJEyKdvhLbjsq",
+      "id": "3BVkDHWRvLJEyKdvhLbjsq",
+      "name": "W.A.S.P.",
+      "type": "artist",
+      "uri": "spotify:artist:3BVkDHWRvLJEyKdvhLbjsq"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 461480,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261560004"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/30sZ1d4G8K8RVNhz0IWgPN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/30sZ1d4G8K8RVNhz0IWgPN",
+  "id": "30sZ1d4G8K8RVNhz0IWgPN",
+  "is_local": false,
+  "name": "Miss You",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/63509c91e2d952d68408a57390f65b027acae9b2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:30sZ1d4G8K8RVNhz0IWgPN"
+}

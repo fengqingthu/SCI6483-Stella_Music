@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        },
+        "href": "https://api.spotify.com/v1/artists/18H0sAptzdwid08XGg1Lcj",
+        "id": "18H0sAptzdwid08XGg1Lcj",
+        "name": "Death From Above 1979",
+        "type": "artist",
+        "uri": "spotify:artist:18H0sAptzdwid08XGg1Lcj"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
+    },
+    "href": "https://api.spotify.com/v1/albums/22sYnou2SavBZHHFVUTmWs",
+    "id": "22sYnou2SavBZHHFVUTmWs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27365a49a200a1c05b67b3ec763",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0265a49a200a1c05b67b3ec763",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485165a49a200a1c05b67b3ec763",
+        "width": 64
+      }
+    ],
+    "name": "The Physical World",
+    "release_date": "2014-09-09",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:22sYnou2SavBZHHFVUTmWs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+      },
+      "href": "https://api.spotify.com/v1/artists/18H0sAptzdwid08XGg1Lcj",
+      "id": "18H0sAptzdwid08XGg1Lcj",
+      "name": "Death From Above 1979",
+      "type": "artist",
+      "uri": "spotify:artist:18H0sAptzdwid08XGg1Lcj"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAL451355541"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/06vOVdH94mIEjIgIhHdhdO",
+  "id": "06vOVdH94mIEjIgIhHdhdO",
+  "is_local": false,
+  "name": "Trainwreck 1979 - Moulder Mix with in/out fades",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/bcdedd6439d1f873c246bc5dfbd9cea849f99031?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:06vOVdH94mIEjIgIhHdhdO"
+}

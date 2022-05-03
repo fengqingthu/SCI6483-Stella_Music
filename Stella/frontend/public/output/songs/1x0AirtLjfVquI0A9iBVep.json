@@ -1,0 +1,147 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4RddZ3iHvSpGV4dvATac9X",
+        "id": "4RddZ3iHvSpGV4dvATac9X",
+        "name": "Papa Roach",
+        "type": "artist",
+        "uri": "spotify:artist:4RddZ3iHvSpGV4dvATac9X"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AU",
+      "BB",
+      "BF",
+      "BH",
+      "BY",
+      "CA",
+      "DZ",
+      "EG",
+      "GH",
+      "ID",
+      "IN",
+      "IQ",
+      "JO",
+      "JP",
+      "KG",
+      "KW",
+      "KZ",
+      "LB",
+      "LY",
+      "MA",
+      "MX",
+      "MY",
+      "NP",
+      "OM",
+      "PS",
+      "QA",
+      "SA",
+      "TD",
+      "TN",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL"
+    },
+    "href": "https://api.spotify.com/v1/albums/25wlsi7SWD8mFKxaEWGYuL",
+    "id": "25wlsi7SWD8mFKxaEWGYuL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029d8c8d4e72cab2f00e0686f5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519d8c8d4e72cab2f00e0686f5",
+        "width": 64
+      }
+    ],
+    "name": "Getting Away With Murder",
+    "release_date": "2004-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:25wlsi7SWD8mFKxaEWGYuL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+      },
+      "href": "https://api.spotify.com/v1/artists/4RddZ3iHvSpGV4dvATac9X",
+      "id": "4RddZ3iHvSpGV4dvATac9X",
+      "name": "Papa Roach",
+      "type": "artist",
+      "uri": "spotify:artist:4RddZ3iHvSpGV4dvATac9X"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AU",
+    "BB",
+    "BF",
+    "BH",
+    "BY",
+    "CA",
+    "DZ",
+    "EG",
+    "GH",
+    "ID",
+    "IN",
+    "IQ",
+    "JO",
+    "JP",
+    "KG",
+    "KW",
+    "KZ",
+    "LB",
+    "LY",
+    "MA",
+    "MX",
+    "MY",
+    "NP",
+    "OM",
+    "PS",
+    "QA",
+    "SA",
+    "TD",
+    "TN",
+    "TR",
+    "UA",
+    "US",
+    "UZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191372,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USDW10400810"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1x0AirtLjfVquI0A9iBVep"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1x0AirtLjfVquI0A9iBVep",
+  "id": "1x0AirtLjfVquI0A9iBVep",
+  "is_local": false,
+  "name": "Getting Away With Murder",
+  "popularity": 58,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1x0AirtLjfVquI0A9iBVep"
+}

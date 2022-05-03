@@ -1,0 +1,150 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XuMowqsbFr0TmhOHfmWuc",
+        "id": "0XuMowqsbFr0TmhOHfmWuc",
+        "name": "Joey Moe",
+        "type": "artist",
+        "uri": "spotify:artist:0XuMowqsbFr0TmhOHfmWuc"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AR",
+      "AT",
+      "AZ",
+      "BA",
+      "BB",
+      "BE",
+      "BR",
+      "BS",
+      "BY",
+      "CH",
+      "CL",
+      "CO",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FJ",
+      "FR",
+      "GR",
+      "GY",
+      "HK",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IN",
+      "IS",
+      "IT",
+      "JM",
+      "KG",
+      "KR",
+      "KZ",
+      "LT",
+      "LU",
+      "LV",
+      "ME",
+      "MK",
+      "MT",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SA",
+      "SE",
+      "SG",
+      "SI",
+      "SK",
+      "TH",
+      "TJ",
+      "TR",
+      "TT",
+      "TW",
+      "UA",
+      "UZ",
+      "VE",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1NrAmnb9tJPDrnuqinicuN"
+    },
+    "href": "https://api.spotify.com/v1/albums/1NrAmnb9tJPDrnuqinicuN",
+    "id": "1NrAmnb9tJPDrnuqinicuN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273950841ce8b5ef44ef0031b73",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02950841ce8b5ef44ef0031b73",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851950841ce8b5ef44ef0031b73",
+        "width": 64
+      }
+    ],
+    "name": "Grib Natten",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:1NrAmnb9tJPDrnuqinicuN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc"
+      },
+      "href": "https://api.spotify.com/v1/artists/0XuMowqsbFr0TmhOHfmWuc",
+      "id": "0XuMowqsbFr0TmhOHfmWuc",
+      "name": "Joey Moe",
+      "type": "artist",
+      "uri": "spotify:artist:0XuMowqsbFr0TmhOHfmWuc"
+    }
+  ],
+  "available_markets": [
+    "DK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKBR70900401"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2cCddpwGpx5H8xIrrNANCd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2cCddpwGpx5H8xIrrNANCd",
+  "id": "2cCddpwGpx5H8xIrrNANCd",
+  "is_local": false,
+  "name": "Yo-Yo",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2cCddpwGpx5H8xIrrNANCd"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        },
+        "href": "https://api.spotify.com/v1/artists/46njgd2Rq9tZc4ZjeQMgbh",
+        "id": "46njgd2Rq9tZc4ZjeQMgbh",
+        "name": "Boz Scaggs",
+        "type": "artist",
+        "uri": "spotify:artist:46njgd2Rq9tZc4ZjeQMgbh"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Rmhs1P0Xut1p7oLKl18OA"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Rmhs1P0Xut1p7oLKl18OA",
+    "id": "3Rmhs1P0Xut1p7oLKl18OA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737e90706cf0f5db840a1b0098",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027e90706cf0f5db840a1b0098",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517e90706cf0f5db840a1b0098",
+        "width": 64
+      }
+    ],
+    "name": "Hits!",
+    "release_date": "1980",
+    "release_date_precision": "year",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3Rmhs1P0Xut1p7oLKl18OA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+      },
+      "href": "https://api.spotify.com/v1/artists/46njgd2Rq9tZc4ZjeQMgbh",
+      "id": "46njgd2Rq9tZc4ZjeQMgbh",
+      "name": "Boz Scaggs",
+      "type": "artist",
+      "uri": "spotify:artist:46njgd2Rq9tZc4ZjeQMgbh"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 316333,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USLIC0601921"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/76MPV2FNIV50SBAs9Tmzss"
+  },
+  "href": "https://api.spotify.com/v1/tracks/76MPV2FNIV50SBAs9Tmzss",
+  "id": "76MPV2FNIV50SBAs9Tmzss",
+  "is_local": false,
+  "name": "Look What You've Done to Me",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/2e43658dcc0f7cf9304ee098d097448bbfb583f3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:76MPV2FNIV50SBAs9Tmzss"
+}

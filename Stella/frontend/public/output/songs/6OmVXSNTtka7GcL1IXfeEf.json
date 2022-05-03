@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        "href": "https://api.spotify.com/v1/artists/0i1s9WcIu0PrUvHzALgofo",
+        "id": "0i1s9WcIu0PrUvHzALgofo",
+        "name": "Seu Jorge",
+        "type": "artist",
+        "uri": "spotify:artist:0i1s9WcIu0PrUvHzALgofo"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5KqtTdLfUaEosBfaCFgYM3"
+        },
+        "href": "https://api.spotify.com/v1/artists/5KqtTdLfUaEosBfaCFgYM3",
+        "id": "5KqtTdLfUaEosBfaCFgYM3",
+        "name": "Almaz",
+        "type": "artist",
+        "uri": "spotify:artist:5KqtTdLfUaEosBfaCFgYM3"
+      }
+    ],
+    "available_markets": [
+      "BR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5aXGjFjFqvCgqS82zI0CFf"
+    },
+    "href": "https://api.spotify.com/v1/albums/5aXGjFjFqvCgqS82zI0CFf",
+    "id": "5aXGjFjFqvCgqS82zI0CFf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cd657259924da8e44cb0e213",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cd657259924da8e44cb0e213",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cd657259924da8e44cb0e213",
+        "width": 64
+      }
+    ],
+    "name": "Seu Jorge E Almaz",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5aXGjFjFqvCgqS82zI0CFf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+      },
+      "href": "https://api.spotify.com/v1/artists/0i1s9WcIu0PrUvHzALgofo",
+      "id": "0i1s9WcIu0PrUvHzALgofo",
+      "name": "Seu Jorge",
+      "type": "artist",
+      "uri": "spotify:artist:0i1s9WcIu0PrUvHzALgofo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KqtTdLfUaEosBfaCFgYM3"
+      },
+      "href": "https://api.spotify.com/v1/artists/5KqtTdLfUaEosBfaCFgYM3",
+      "id": "5KqtTdLfUaEosBfaCFgYM3",
+      "name": "Almaz",
+      "type": "artist",
+      "uri": "spotify:artist:5KqtTdLfUaEosBfaCFgYM3"
+    }
+  ],
+  "available_markets": [
+    "BR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 257093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BRF281000009"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6OmVXSNTtka7GcL1IXfeEf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6OmVXSNTtka7GcL1IXfeEf",
+  "id": "6OmVXSNTtka7GcL1IXfeEf",
+  "is_local": false,
+  "name": "Rock With You",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/a40ff2f7e0b8998cc5f4118b52a8ccfa3c01f546?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:6OmVXSNTtka7GcL1IXfeEf"
+}

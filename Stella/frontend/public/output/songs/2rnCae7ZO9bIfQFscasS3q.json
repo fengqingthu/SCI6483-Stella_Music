@@ -1,0 +1,157 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bjdfjE8XbLa2Odstu6E1E",
+        "id": "0bjdfjE8XbLa2Odstu6E1E",
+        "name": "Maria Callas",
+        "type": "artist",
+        "uri": "spotify:artist:0bjdfjE8XbLa2Odstu6E1E"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CA",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
+    },
+    "href": "https://api.spotify.com/v1/albums/2FJtdO13XdtncsnpzWZOAt",
+    "id": "2FJtdO13XdtncsnpzWZOAt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f5630840de7c785da638a1f0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f5630840de7c785da638a1f0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f5630840de7c785da638a1f0",
+        "width": 64
+      }
+    ],
+    "name": "Lyric and Coloratura Arias",
+    "release_date": "1997",
+    "release_date_precision": "year",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:2FJtdO13XdtncsnpzWZOAt"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+      },
+      "href": "https://api.spotify.com/v1/artists/0bjdfjE8XbLa2Odstu6E1E",
+      "id": "0bjdfjE8XbLa2Odstu6E1E",
+      "name": "Maria Callas",
+      "type": "artist",
+      "uri": "spotify:artist:0bjdfjE8XbLa2Odstu6E1E"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UYZxxxrntUxxEeRycqHvq",
+      "id": "3UYZxxxrntUxxEeRycqHvq",
+      "name": "Tullio Serafin",
+      "type": "artist",
+      "uri": "spotify:artist:3UYZxxxrntUxxEeRycqHvq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+      },
+      "href": "https://api.spotify.com/v1/artists/09KZU0NsS7jRa5p0SflmGY",
+      "id": "09KZU0NsS7jRa5p0SflmGY",
+      "name": "Philharmonia Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:09KZU0NsS7jRa5p0SflmGY"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CA",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IT",
+    "LT",
+    "LU",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 292600,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAYC9701161"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2rnCae7ZO9bIfQFscasS3q",
+  "id": "2rnCae7ZO9bIfQFscasS3q",
+  "is_local": false,
+  "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/156a66d6e090dc3ae95ca787b0aa1543f1d51e1f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2rnCae7ZO9bIfQFscasS3q"
+}

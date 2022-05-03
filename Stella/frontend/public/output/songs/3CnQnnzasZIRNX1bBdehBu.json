@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XSqX2PB3C5dTMv7SZaxSm",
+        "id": "0XSqX2PB3C5dTMv7SZaxSm",
+        "name": "Wolf Parade",
+        "type": "artist",
+        "uri": "spotify:artist:0XSqX2PB3C5dTMv7SZaxSm"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3VKENXa9sqYZPQ3LZzMACA"
+    },
+    "href": "https://api.spotify.com/v1/albums/3VKENXa9sqYZPQ3LZzMACA",
+    "id": "3VKENXa9sqYZPQ3LZzMACA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27307a9a934ec686d9f179cb293",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0207a9a934ec686d9f179cb293",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485107a9a934ec686d9f179cb293",
+        "width": 64
+      }
+    ],
+    "name": "Cry Cry Cry",
+    "release_date": "2017-10-06",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3VKENXa9sqYZPQ3LZzMACA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm"
+      },
+      "href": "https://api.spotify.com/v1/artists/0XSqX2PB3C5dTMv7SZaxSm",
+      "id": "0XSqX2PB3C5dTMv7SZaxSm",
+      "name": "Wolf Parade",
+      "type": "artist",
+      "uri": "spotify:artist:0XSqX2PB3C5dTMv7SZaxSm"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218946,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSUB1721203"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3CnQnnzasZIRNX1bBdehBu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3CnQnnzasZIRNX1bBdehBu",
+  "id": "3CnQnnzasZIRNX1bBdehBu",
+  "is_local": false,
+  "name": "Valley Boy",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/5535f28a546380201c45d3a7d3a3daa1baffa2a0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3CnQnnzasZIRNX1bBdehBu"
+}

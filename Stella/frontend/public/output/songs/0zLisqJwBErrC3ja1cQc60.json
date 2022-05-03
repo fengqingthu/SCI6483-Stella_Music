@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        "href": "https://api.spotify.com/v1/artists/338mC0yGyX0C9of8QMJ5hK",
+        "id": "338mC0yGyX0C9of8QMJ5hK",
+        "name": "Gene Ammons",
+        "type": "artist",
+        "uri": "spotify:artist:338mC0yGyX0C9of8QMJ5hK"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+    },
+    "href": "https://api.spotify.com/v1/albums/4u4T0lYZ2VbDHOmAwHKxJs",
+    "id": "4u4T0lYZ2VbDHOmAwHKxJs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fdfaa655d2d0384803dfeba3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fdfaa655d2d0384803dfeba3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fdfaa655d2d0384803dfeba3",
+        "width": 64
+      }
+    ],
+    "name": "Boss Tenor",
+    "release_date": "1987-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:4u4T0lYZ2VbDHOmAwHKxJs"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+      },
+      "href": "https://api.spotify.com/v1/artists/338mC0yGyX0C9of8QMJ5hK",
+      "id": "338mC0yGyX0C9of8QMJ5hK",
+      "name": "Gene Ammons",
+      "type": "artist",
+      "uri": "spotify:artist:338mC0yGyX0C9of8QMJ5hK"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 322933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USFI86000084"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zLisqJwBErrC3ja1cQc60"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zLisqJwBErrC3ja1cQc60",
+  "id": "0zLisqJwBErrC3ja1cQc60",
+  "is_local": false,
+  "name": "Canadian Sunset",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0zLisqJwBErrC3ja1cQc60"
+}

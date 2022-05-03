@@ -1,0 +1,20 @@
+{
+  "danceability": 0.483,
+  "energy": 0.677,
+  "key": 0,
+  "loudness": -5.91,
+  "mode": 1,
+  "speechiness": 0.0593,
+  "acousticness": 0.283,
+  "instrumentalness": 0,
+  "liveness": 0.321,
+  "valence": 0.842,
+  "tempo": 170.72,
+  "type": "audio_features",
+  "id": "3SdingSsFcZDZAyvcJbgAw",
+  "uri": "spotify:track:3SdingSsFcZDZAyvcJbgAw",
+  "track_href": "https://api.spotify.com/v1/tracks/3SdingSsFcZDZAyvcJbgAw",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3SdingSsFcZDZAyvcJbgAw",
+  "duration_ms": 131867,
+  "time_signature": 4
+}

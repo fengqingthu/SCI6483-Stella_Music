@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        },
+        "href": "https://api.spotify.com/v1/artists/1joFZGTRER78nUsWtgHCHR",
+        "id": "1joFZGTRER78nUsWtgHCHR",
+        "name": "Rachel Portman",
+        "type": "artist",
+        "uri": "spotify:artist:1joFZGTRER78nUsWtgHCHR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+        },
+        "href": "https://api.spotify.com/v1/artists/2IS9rTtWwEfUEY4u3mecIT",
+        "id": "2IS9rTtWwEfUEY4u3mecIT",
+        "name": "The Chamber Orchestra Of London",
+        "type": "artist",
+        "uri": "spotify:artist:2IS9rTtWwEfUEY4u3mecIT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4o43d8XbIhNhlVGqFe7s8e"
+        },
+        "href": "https://api.spotify.com/v1/artists/4o43d8XbIhNhlVGqFe7s8e",
+        "id": "4o43d8XbIhNhlVGqFe7s8e",
+        "name": "Alastair King",
+        "type": "artist",
+        "uri": "spotify:artist:4o43d8XbIhNhlVGqFe7s8e"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1co1Q0ASx1QcJsWeCkosbr"
+    },
+    "href": "https://api.spotify.com/v1/albums/1co1Q0ASx1QcJsWeCkosbr",
+    "id": "1co1Q0ASx1QcJsWeCkosbr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d3e325c5df3ab45818924ba5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d3e325c5df3ab45818924ba5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d3e325c5df3ab45818924ba5",
+        "width": 64
+      }
+    ],
+    "name": "With Love",
+    "release_date": "2016-11-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1co1Q0ASx1QcJsWeCkosbr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1joFZGTRER78nUsWtgHCHR",
+      "id": "1joFZGTRER78nUsWtgHCHR",
+      "name": "Rachel Portman",
+      "type": "artist",
+      "uri": "spotify:artist:1joFZGTRER78nUsWtgHCHR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+      },
+      "href": "https://api.spotify.com/v1/artists/2IS9rTtWwEfUEY4u3mecIT",
+      "id": "2IS9rTtWwEfUEY4u3mecIT",
+      "name": "The Chamber Orchestra Of London",
+      "type": "artist",
+      "uri": "spotify:artist:2IS9rTtWwEfUEY4u3mecIT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4o43d8XbIhNhlVGqFe7s8e"
+      },
+      "href": "https://api.spotify.com/v1/artists/4o43d8XbIhNhlVGqFe7s8e",
+      "id": "4o43d8XbIhNhlVGqFe7s8e",
+      "name": "Alastair King",
+      "type": "artist",
+      "uri": "spotify:artist:4o43d8XbIhNhlVGqFe7s8e"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 370000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71606202"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0siURtUu2AkRV692VUhBkS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0siURtUu2AkRV692VUhBkS",
+  "id": "0siURtUu2AkRV692VUhBkS",
+  "is_local": false,
+  "name": "With Love",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0siURtUu2AkRV692VUhBkS"
+}

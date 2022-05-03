@@ -1,0 +1,179 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0g7hZVprd3orBpMrSLWeJ9",
+        "id": "0g7hZVprd3orBpMrSLWeJ9",
+        "name": "Florent Pagny",
+        "type": "artist",
+        "uri": "spotify:artist:0g7hZVprd3orBpMrSLWeJ9"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BF",
+      "BH",
+      "BJ",
+      "BR",
+      "CG",
+      "CH",
+      "DE",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IQ",
+      "IT",
+      "JO",
+      "KW",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MG",
+      "ML",
+      "MU",
+      "NE",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "QA",
+      "SA",
+      "SE",
+      "SN",
+      "TD",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7E1To6nqBop5HBsWcAnhHY"
+    },
+    "href": "https://api.spotify.com/v1/albums/7E1To6nqBop5HBsWcAnhHY",
+    "id": "7E1To6nqBop5HBsWcAnhHY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733a0e052fa9da19c9eab6acf0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023a0e052fa9da19c9eab6acf0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513a0e052fa9da19c9eab6acf0",
+        "width": 64
+      }
+    ],
+    "name": "Vieillir Avec Toi (Deluxe Version)",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:7E1To6nqBop5HBsWcAnhHY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+      },
+      "href": "https://api.spotify.com/v1/artists/0g7hZVprd3orBpMrSLWeJ9",
+      "id": "0g7hZVprd3orBpMrSLWeJ9",
+      "name": "Florent Pagny",
+      "type": "artist",
+      "uri": "spotify:artist:0g7hZVprd3orBpMrSLWeJ9"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AT",
+    "AU",
+    "BE",
+    "BF",
+    "BH",
+    "BJ",
+    "BR",
+    "CG",
+    "CH",
+    "DE",
+    "DK",
+    "DZ",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "IE",
+    "IQ",
+    "IT",
+    "JO",
+    "KW",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "MC",
+    "MG",
+    "ML",
+    "MU",
+    "NE",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "QA",
+    "SA",
+    "SE",
+    "SN",
+    "TD",
+    "TN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM71302300"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6AyFrKktqL7ikwIUUGLZut"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6AyFrKktqL7ikwIUUGLZut",
+  "id": "6AyFrKktqL7ikwIUUGLZut",
+  "is_local": false,
+  "name": "Le soldat",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:6AyFrKktqL7ikwIUUGLZut"
+}

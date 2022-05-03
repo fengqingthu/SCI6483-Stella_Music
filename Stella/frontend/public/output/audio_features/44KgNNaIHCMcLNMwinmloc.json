@@ -1,0 +1,20 @@
+{
+  "danceability": 0.258,
+  "energy": 0.711,
+  "key": 5,
+  "loudness": -4.975,
+  "mode": 1,
+  "speechiness": 0.033,
+  "acousticness": 0.00259,
+  "instrumentalness": 0.000282,
+  "liveness": 0.183,
+  "valence": 0.316,
+  "tempo": 164.83,
+  "type": "audio_features",
+  "id": "44KgNNaIHCMcLNMwinmloc",
+  "uri": "spotify:track:44KgNNaIHCMcLNMwinmloc",
+  "track_href": "https://api.spotify.com/v1/tracks/44KgNNaIHCMcLNMwinmloc",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/44KgNNaIHCMcLNMwinmloc",
+  "duration_ms": 214099,
+  "time_signature": 4
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/15KdHYSXJTbq6SywISLFUj"
+        },
+        "href": "https://api.spotify.com/v1/artists/15KdHYSXJTbq6SywISLFUj",
+        "id": "15KdHYSXJTbq6SywISLFUj",
+        "name": "A Brand",
+        "type": "artist",
+        "uri": "spotify:artist:15KdHYSXJTbq6SywISLFUj"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2fENQbTeYFVNwkmjFxXVgF"
+    },
+    "href": "https://api.spotify.com/v1/albums/2fENQbTeYFVNwkmjFxXVgF",
+    "id": "2fENQbTeYFVNwkmjFxXVgF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273260eb1d2333c08bae26a855a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02260eb1d2333c08bae26a855a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851260eb1d2333c08bae26a855a",
+        "width": 64
+      }
+    ],
+    "name": "Hammerhead",
+    "release_date": "2006-01-29",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:2fENQbTeYFVNwkmjFxXVgF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15KdHYSXJTbq6SywISLFUj"
+      },
+      "href": "https://api.spotify.com/v1/artists/15KdHYSXJTbq6SywISLFUj",
+      "id": "15KdHYSXJTbq6SywISLFUj",
+      "name": "A Brand",
+      "type": "artist",
+      "uri": "spotify:artist:15KdHYSXJTbq6SywISLFUj"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 235400,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR6V80618446"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/25vqnYSoFY2zPV7LjtKIcu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/25vqnYSoFY2zPV7LjtKIcu",
+  "id": "25vqnYSoFY2zPV7LjtKIcu",
+  "is_local": false,
+  "name": "Hammerhead",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/e90015b7661b8b9ba8beff5c5bda38994bd04411?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:25vqnYSoFY2zPV7LjtKIcu"
+}

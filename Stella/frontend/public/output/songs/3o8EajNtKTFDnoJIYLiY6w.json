@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3D6cosC5ZOLCpRxt6T3XS7",
+        "id": "3D6cosC5ZOLCpRxt6T3XS7",
+        "name": "The Kite String Tangle",
+        "type": "artist",
+        "uri": "spotify:artist:3D6cosC5ZOLCpRxt6T3XS7"
+      }
+    ],
+    "available_markets": [
+      "AU"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6ohsX6zi961E2LkYfV1PVF"
+    },
+    "href": "https://api.spotify.com/v1/albums/6ohsX6zi961E2LkYfV1PVF",
+    "id": "6ohsX6zi961E2LkYfV1PVF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273078738c860873b8db3e23827",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02078738c860873b8db3e23827",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851078738c860873b8db3e23827",
+        "width": 64
+      }
+    ],
+    "name": "Arcadia",
+    "release_date": "2014-06-27",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:6ohsX6zi961E2LkYfV1PVF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+      },
+      "href": "https://api.spotify.com/v1/artists/3D6cosC5ZOLCpRxt6T3XS7",
+      "id": "3D6cosC5ZOLCpRxt6T3XS7",
+      "name": "The Kite String Tangle",
+      "type": "artist",
+      "uri": "spotify:artist:3D6cosC5ZOLCpRxt6T3XS7"
+    }
+  ],
+  "available_markets": [
+    "AU"
+  ],
+  "disc_number": 1,
+  "duration_ms": 213936,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUWA01400124"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3o8EajNtKTFDnoJIYLiY6w"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3o8EajNtKTFDnoJIYLiY6w",
+  "id": "3o8EajNtKTFDnoJIYLiY6w",
+  "is_local": false,
+  "name": "Arcadia",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/e2b901175102c312e35094825bfac7b5062a7cee?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3o8EajNtKTFDnoJIYLiY6w"
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "DE",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3umPOZRvnPDHtFS8KXjeDb"
+    },
+    "href": "https://api.spotify.com/v1/albums/3umPOZRvnPDHtFS8KXjeDb",
+    "id": "3umPOZRvnPDHtFS8KXjeDb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273758c34dbf91fd85de8680bbc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02758c34dbf91fd85de8680bbc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851758c34dbf91fd85de8680bbc",
+        "width": 64
+      }
+    ],
+    "name": "Love Rocks",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:3umPOZRvnPDHtFS8KXjeDb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tUERnHmr1tKp2pSwPLN8b"
+      },
+      "href": "https://api.spotify.com/v1/artists/0tUERnHmr1tKp2pSwPLN8b",
+      "id": "0tUERnHmr1tKp2pSwPLN8b",
+      "name": "Robin Beck",
+      "type": "artist",
+      "uri": "spotify:artist:0tUERnHmr1tKp2pSwPLN8b"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "DE",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 196120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF088800002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4VFP6tMZhQDQ7ARyyYJXXt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4VFP6tMZhQDQ7ARyyYJXXt",
+  "id": "4VFP6tMZhQDQ7ARyyYJXXt",
+  "is_local": false,
+  "name": "First Time",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4VFP6tMZhQDQ7ARyyYJXXt"
+}

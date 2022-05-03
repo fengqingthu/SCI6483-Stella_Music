@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+        "name": "The Spaceman: Chaos",
+        "type": "artist",
+        "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2aiQ8nasDd3v6lUxPmcXEY"
+    },
+    "href": "https://api.spotify.com/v1/albums/2aiQ8nasDd3v6lUxPmcXEY",
+    "id": "2aiQ8nasDd3v6lUxPmcXEY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d726f523653202c66f8d0c2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d726f523653202c66f8d0c2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d726f523653202c66f8d0c2",
+        "width": 64
+      }
+    ],
+    "name": "Tyminator Songs",
+    "release_date": "2016-11-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2aiQ8nasDd3v6lUxPmcXEY"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fJ6x5SuTLWxc9fFZ0ZX6o"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "id": "5fJ6x5SuTLWxc9fFZ0ZX6o",
+      "name": "The Spaceman: Chaos",
+      "type": "artist",
+      "uri": "spotify:artist:5fJ6x5SuTLWxc9fFZ0ZX6o"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 207725,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "QZ4JJ1619413"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0n00x8oHTxASNcP915JbjG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0n00x8oHTxASNcP915JbjG",
+  "id": "0n00x8oHTxASNcP915JbjG",
+  "is_local": false,
+  "name": "Tyminator Songs",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0n00x8oHTxASNcP915JbjG"
+}

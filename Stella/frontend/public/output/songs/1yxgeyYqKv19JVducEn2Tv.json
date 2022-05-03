@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YwPMfgNYeDjbkGI7PwZ3K"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YwPMfgNYeDjbkGI7PwZ3K",
+        "id": "2YwPMfgNYeDjbkGI7PwZ3K",
+        "name": "Ben Khan",
+        "type": "artist",
+        "uri": "spotify:artist:2YwPMfgNYeDjbkGI7PwZ3K"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7Br98lMQIA9U89GJz7Z3p7"
+    },
+    "href": "https://api.spotify.com/v1/albums/7Br98lMQIA9U89GJz7Z3p7",
+    "id": "7Br98lMQIA9U89GJz7Z3p7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ae2f9704f52cf8e4072814dd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ae2f9704f52cf8e4072814dd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ae2f9704f52cf8e4072814dd",
+        "width": 64
+      }
+    ],
+    "name": "1992 EP",
+    "release_date": "2014-05-05",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:7Br98lMQIA9U89GJz7Z3p7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YwPMfgNYeDjbkGI7PwZ3K"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YwPMfgNYeDjbkGI7PwZ3K",
+      "id": "2YwPMfgNYeDjbkGI7PwZ3K",
+      "name": "Ben Khan",
+      "type": "artist",
+      "uri": "spotify:artist:2YwPMfgNYeDjbkGI7PwZ3K"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 156629,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBK3W1000266"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1yxgeyYqKv19JVducEn2Tv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1yxgeyYqKv19JVducEn2Tv",
+  "id": "1yxgeyYqKv19JVducEn2Tv",
+  "is_local": false,
+  "name": "eden",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/32e232884851e9afd310094903e46d7b2749186f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1yxgeyYqKv19JVducEn2Tv"
+}

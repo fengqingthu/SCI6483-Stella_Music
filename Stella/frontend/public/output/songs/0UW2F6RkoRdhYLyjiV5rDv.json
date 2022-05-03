@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
+        },
+        "href": "https://api.spotify.com/v1/artists/7axA2bNeZsae6t2mgxoSFh",
+        "id": "7axA2bNeZsae6t2mgxoSFh",
+        "name": "Charly Bliss",
+        "type": "artist",
+        "uri": "spotify:artist:7axA2bNeZsae6t2mgxoSFh"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0WvLFkBJ6T041kYmEOsDUd"
+    },
+    "href": "https://api.spotify.com/v1/albums/0WvLFkBJ6T041kYmEOsDUd",
+    "id": "0WvLFkBJ6T041kYmEOsDUd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27345139fd29bbf847785977506",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0245139fd29bbf847785977506",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485145139fd29bbf847785977506",
+        "width": 64
+      }
+    ],
+    "name": "Guppy",
+    "release_date": "2017-04-19",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0WvLFkBJ6T041kYmEOsDUd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
+      },
+      "href": "https://api.spotify.com/v1/artists/7axA2bNeZsae6t2mgxoSFh",
+      "id": "7axA2bNeZsae6t2mgxoSFh",
+      "name": "Charly Bliss",
+      "type": "artist",
+      "uri": "spotify:artist:7axA2bNeZsae6t2mgxoSFh"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 166893,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USBS51600054"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0UW2F6RkoRdhYLyjiV5rDv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0UW2F6RkoRdhYLyjiV5rDv",
+  "id": "0UW2F6RkoRdhYLyjiV5rDv",
+  "is_local": false,
+  "name": "Percolator",
+  "popularity": 1,
+  "preview_url": "https://p.scdn.co/mp3-preview/01dbb1b2d4abb27bb049b1f69d20fecdf276d137?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0UW2F6RkoRdhYLyjiV5rDv"
+}

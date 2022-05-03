@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wU1naftD3lNq7rNsiDvOR",
+        "id": "7wU1naftD3lNq7rNsiDvOR",
+        "name": "Paul van Dyk",
+        "type": "artist",
+        "uri": "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4T6lu0aSzex6amKgtM4YLj"
+    },
+    "href": "https://api.spotify.com/v1/albums/4T6lu0aSzex6amKgtM4YLj",
+    "id": "4T6lu0aSzex6amKgtM4YLj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737212510edf059ed612b7cb49",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027212510edf059ed612b7cb49",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517212510edf059ed612b7cb49",
+        "width": 64
+      }
+    ],
+    "name": "Let Go",
+    "release_date": "2007-11-19",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:4T6lu0aSzex6amKgtM4YLj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+      },
+      "href": "https://api.spotify.com/v1/artists/7wU1naftD3lNq7rNsiDvOR",
+      "id": "7wU1naftD3lNq7rNsiDvOR",
+      "name": "Paul van Dyk",
+      "type": "artist",
+      "uri": "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv"
+      },
+      "href": "https://api.spotify.com/v1/artists/0bmxU94V20pNJ2Vie9kFYv",
+      "id": "0bmxU94V20pNJ2Vie9kFYv",
+      "name": "Rea Garvey",
+      "type": "artist",
+      "uri": "spotify:artist:0bmxU94V20pNJ2Vie9kFYv"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 225493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEW760700148"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5ZIrNbf3T3Qy6lCU2qRDZu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5ZIrNbf3T3Qy6lCU2qRDZu",
+  "id": "5ZIrNbf3T3Qy6lCU2qRDZu",
+  "is_local": false,
+  "name": "Let Go (feat. Rea Garvey) - single edit",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/5bcec06f84abcd0500165b6b65e00d5fb33605e3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5ZIrNbf3T3Qy6lCU2qRDZu"
+}

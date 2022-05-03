@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        },
+        "href": "https://api.spotify.com/v1/artists/422RLznpwUa5FsQgnTlgUH",
+        "id": "422RLznpwUa5FsQgnTlgUH",
+        "name": "Great Good Fine Ok",
+        "type": "artist",
+        "uri": "spotify:artist:422RLznpwUa5FsQgnTlgUH"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6YjosTvwzUZWv2KRZfCP0D"
+    },
+    "href": "https://api.spotify.com/v1/albums/6YjosTvwzUZWv2KRZfCP0D",
+    "id": "6YjosTvwzUZWv2KRZfCP0D",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730656628d513697e788ac16ee",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020656628d513697e788ac16ee",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510656628d513697e788ac16ee",
+        "width": 64
+      }
+    ],
+    "name": "Body Diamond",
+    "release_date": "2014-10-02",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:6YjosTvwzUZWv2KRZfCP0D"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+      },
+      "href": "https://api.spotify.com/v1/artists/422RLznpwUa5FsQgnTlgUH",
+      "id": "422RLznpwUa5FsQgnTlgUH",
+      "name": "Great Good Fine Ok",
+      "type": "artist",
+      "uri": "spotify:artist:422RLznpwUa5FsQgnTlgUH"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230937,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCABQ1365065"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3UzHyDmqpBJR2J65h0702t"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3UzHyDmqpBJR2J65h0702t",
+  "id": "3UzHyDmqpBJR2J65h0702t",
+  "is_local": false,
+  "name": "You're The One For Me",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/f4d11fc0a24a73ccb645092245e7a9ba41286673?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3UzHyDmqpBJR2J65h0702t"
+}

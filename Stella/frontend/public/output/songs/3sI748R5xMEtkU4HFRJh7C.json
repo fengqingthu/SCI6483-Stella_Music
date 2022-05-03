@@ -1,0 +1,157 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        },
+        "href": "https://api.spotify.com/v1/artists/1BNQnTVxfQqeMxr6xBi8X6",
+        "id": "1BNQnTVxfQqeMxr6xBi8X6",
+        "name": "Puggy",
+        "type": "artist",
+        "uri": "spotify:artist:1BNQnTVxfQqeMxr6xBi8X6"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "BN",
+      "BR",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DE",
+      "EE",
+      "ES",
+      "FI",
+      "FJ",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IS",
+      "KR",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "MO",
+      "MY",
+      "NO",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "RW",
+      "SE",
+      "SK",
+      "TR",
+      "TW",
+      "US",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5awPoMIU2fk8VsRCyrioDy"
+    },
+    "href": "https://api.spotify.com/v1/albums/5awPoMIU2fk8VsRCyrioDy",
+    "id": "5awPoMIU2fk8VsRCyrioDy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273af6f7d22112b265e5ffa2b3c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02af6f7d22112b265e5ffa2b3c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851af6f7d22112b265e5ffa2b3c",
+        "width": 64
+      }
+    ],
+    "name": "Something You Might Like",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:5awPoMIU2fk8VsRCyrioDy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1BNQnTVxfQqeMxr6xBi8X6",
+      "id": "1BNQnTVxfQqeMxr6xBi8X6",
+      "name": "Puggy",
+      "type": "artist",
+      "uri": "spotify:artist:1BNQnTVxfQqeMxr6xBi8X6"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "BN",
+    "BR",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "DE",
+    "EE",
+    "ES",
+    "FI",
+    "FJ",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IS",
+    "KR",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "MO",
+    "MY",
+    "NO",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "RW",
+    "SE",
+    "SK",
+    "TR",
+    "TW",
+    "US",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215866,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "FRUM70903137"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3sI748R5xMEtkU4HFRJh7C"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3sI748R5xMEtkU4HFRJh7C",
+  "id": "3sI748R5xMEtkU4HFRJh7C",
+  "is_local": false,
+  "name": "How I Needed You",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:3sI748R5xMEtkU4HFRJh7C"
+}

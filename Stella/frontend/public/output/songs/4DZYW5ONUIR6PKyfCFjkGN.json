@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7cTq0bYGTIlPoXo9lFXJlL",
+        "id": "7cTq0bYGTIlPoXo9lFXJlL",
+        "name": "Van Canto",
+        "type": "artist",
+        "uri": "spotify:artist:7cTq0bYGTIlPoXo9lFXJlL"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0i0P9bwPADz3ccCZsSuNRT"
+    },
+    "href": "https://api.spotify.com/v1/albums/0i0P9bwPADz3ccCZsSuNRT",
+    "id": "0i0P9bwPADz3ccCZsSuNRT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273430a5d3111c5f5ca47722f55",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02430a5d3111c5f5ca47722f55",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851430a5d3111c5f5ca47722f55",
+        "width": 64
+      }
+    ],
+    "name": "Tribe Of Force",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:0i0P9bwPADz3ccCZsSuNRT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+      },
+      "href": "https://api.spotify.com/v1/artists/7cTq0bYGTIlPoXo9lFXJlL",
+      "id": "7cTq0bYGTIlPoXo9lFXJlL",
+      "name": "Van Canto",
+      "type": "artist",
+      "uri": "spotify:artist:7cTq0bYGTIlPoXo9lFXJlL"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232731,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261032207"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4DZYW5ONUIR6PKyfCFjkGN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4DZYW5ONUIR6PKyfCFjkGN",
+  "id": "4DZYW5ONUIR6PKyfCFjkGN",
+  "is_local": false,
+  "name": "Last Night Of The Kings",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/cc9a4d4e71d563938f10d6a1f1ada979ad0b1040?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:4DZYW5ONUIR6PKyfCFjkGN"
+}

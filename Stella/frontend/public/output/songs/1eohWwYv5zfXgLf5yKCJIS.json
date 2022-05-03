@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        "href": "https://api.spotify.com/v1/artists/5GxyeQagayzZOg4UwffQlD",
+        "id": "5GxyeQagayzZOg4UwffQlD",
+        "name": "Chicane",
+        "type": "artist",
+        "uri": "spotify:artist:5GxyeQagayzZOg4UwffQlD"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
+    },
+    "href": "https://api.spotify.com/v1/albums/5S26j913nxRCYKyE4sZNCR",
+    "id": "5S26j913nxRCYKyE4sZNCR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273808246503309368d5ecf9080",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02808246503309368d5ecf9080",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851808246503309368d5ecf9080",
+        "width": 64
+      }
+    ],
+    "name": "Twenty",
+    "release_date": "2016-07-29",
+    "release_date_precision": "day",
+    "total_tracks": 28,
+    "type": "album",
+    "uri": "spotify:album:5S26j913nxRCYKyE4sZNCR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+      },
+      "href": "https://api.spotify.com/v1/artists/5GxyeQagayzZOg4UwffQlD",
+      "id": "5GxyeQagayzZOg4UwffQlD",
+      "name": "Chicane",
+      "type": "artist",
+      "uri": "spotify:artist:5GxyeQagayzZOg4UwffQlD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR"
+      },
+      "href": "https://api.spotify.com/v1/artists/6JIbdXrERgmH6Hn8mmjfUR",
+      "id": "6JIbdXrERgmH6Hn8mmjfUR",
+      "name": "Maire Brennan",
+      "type": "artist",
+      "uri": "spotify:artist:6JIbdXrERgmH6Hn8mmjfUR"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 202866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBRDU0800053"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1eohWwYv5zfXgLf5yKCJIS",
+  "id": "1eohWwYv5zfXgLf5yKCJIS",
+  "is_local": false,
+  "name": "Saltwater",
+  "popularity": 51,
+  "preview_url": "https://p.scdn.co/mp3-preview/623e5ef0051802559b56b683db6c30ca69b27910?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:1eohWwYv5zfXgLf5yKCJIS"
+}

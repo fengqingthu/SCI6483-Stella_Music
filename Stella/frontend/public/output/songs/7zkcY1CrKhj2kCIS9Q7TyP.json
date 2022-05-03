@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        "href": "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+        "id": "3cQA9WH8liZfeja1DxcDYE",
+        "name": "Armand Van Helden",
+        "type": "artist",
+        "uri": "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5HqYW3uc0xt5aYm1o7aWL6"
+    },
+    "href": "https://api.spotify.com/v1/albums/5HqYW3uc0xt5aYm1o7aWL6",
+    "id": "5HqYW3uc0xt5aYm1o7aWL6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739e5c3c5a5191729c4586fd13",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029e5c3c5a5191729c4586fd13",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519e5c3c5a5191729c4586fd13",
+        "width": 64
+      }
+    ],
+    "name": "My, My, My",
+    "release_date": "2004-09-20",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:5HqYW3uc0xt5aYm1o7aWL6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+      },
+      "href": "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+      "id": "3cQA9WH8liZfeja1DxcDYE",
+      "name": "Armand Van Helden",
+      "type": "artist",
+      "uri": "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 185000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBEFR0400301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7zkcY1CrKhj2kCIS9Q7TyP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7zkcY1CrKhj2kCIS9Q7TyP",
+  "id": "7zkcY1CrKhj2kCIS9Q7TyP",
+  "is_local": false,
+  "name": "My My My",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/a395ba6ea28bb9a2865e563999a1e675f38fb7f1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7zkcY1CrKhj2kCIS9Q7TyP"
+}

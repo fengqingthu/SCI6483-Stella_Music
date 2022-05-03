@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./Scene";
 import SceneContext from "./Scene";
+import ShaderMoon from "./Shaders/Shadermoon";
 import reportWebVitals from "./reportWebVitals";
 // import { Container, Form, Button } from "react-bootstrap";
 // import "bootstrap/dist/css/bootstrap.min.css";
@@ -43,6 +44,7 @@ ReactDOM.render(
     {/* <div onPointerOver={bubble}>
     <h1>Current Song: {value}</h1> */}
     <App/>
+    {/* <ShaderMoon/> */}
     {/* </div> */}
   </React.StrictMode>,
   document.getElementById("root")

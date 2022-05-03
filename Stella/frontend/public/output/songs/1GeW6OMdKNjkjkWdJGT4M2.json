@@ -1,0 +1,149 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+        },
+        "href": "https://api.spotify.com/v1/artists/3zMir00BoCKhwNTjlT61KN",
+        "id": "3zMir00BoCKhwNTjlT61KN",
+        "name": "dEUS",
+        "type": "artist",
+        "uri": "spotify:artist:3zMir00BoCKhwNTjlT61KN"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "BA",
+      "BE",
+      "BY",
+      "CA",
+      "CY",
+      "CZ",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "KZ",
+      "LT",
+      "LU",
+      "LV",
+      "ME",
+      "MK",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5JlLaiR9KpNE4SJhjbZ56X"
+    },
+    "href": "https://api.spotify.com/v1/albums/5JlLaiR9KpNE4SJhjbZ56X",
+    "id": "5JlLaiR9KpNE4SJhjbZ56X",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b9ae3026c448c03bff0a6b8e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b9ae3026c448c03bff0a6b8e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b9ae3026c448c03bff0a6b8e",
+        "width": 64
+      }
+    ],
+    "name": "No More Loud Music - The Singles",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5JlLaiR9KpNE4SJhjbZ56X"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zMir00BoCKhwNTjlT61KN",
+      "id": "3zMir00BoCKhwNTjlT61KN",
+      "name": "dEUS",
+      "type": "artist",
+      "uri": "spotify:artist:3zMir00BoCKhwNTjlT61KN"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "BA",
+    "BE",
+    "BY",
+    "CA",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "KZ",
+    "LT",
+    "LU",
+    "LV",
+    "ME",
+    "MK",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 329693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAAN0100254"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1GeW6OMdKNjkjkWdJGT4M2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1GeW6OMdKNjkjkWdJGT4M2",
+  "id": "1GeW6OMdKNjkjkWdJGT4M2",
+  "is_local": false,
+  "name": "Nothing Really Ends",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/d45ef96770aba0a6bd5be945f56c000b9aa77e26?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:1GeW6OMdKNjkjkWdJGT4M2"
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        },
+        "href": "https://api.spotify.com/v1/artists/7o6cOczXTB8ioTAAJTbESf",
+        "id": "7o6cOczXTB8ioTAAJTbESf",
+        "name": "Jinjer",
+        "type": "artist",
+        "uri": "spotify:artist:7o6cOczXTB8ioTAAJTbESf"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4H1tOC7exTQjH5bpjxyUuZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/4H1tOC7exTQjH5bpjxyUuZ",
+    "id": "4H1tOC7exTQjH5bpjxyUuZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738b867af74d41af8ca12c2592",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028b867af74d41af8ca12c2592",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518b867af74d41af8ca12c2592",
+        "width": 64
+      }
+    ],
+    "name": "King Of Everything",
+    "release_date": "2016-07-29",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:4H1tOC7exTQjH5bpjxyUuZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+      },
+      "href": "https://api.spotify.com/v1/artists/7o6cOczXTB8ioTAAJTbESf",
+      "id": "7o6cOczXTB8ioTAAJTbESf",
+      "name": "Jinjer",
+      "type": "artist",
+      "uri": "spotify:artist:7o6cOczXTB8ioTAAJTbESf"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 305571,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261667709"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/04we6bkRB2aRfmfNbf1Jc3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/04we6bkRB2aRfmfNbf1Jc3",
+  "id": "04we6bkRB2aRfmfNbf1Jc3",
+  "is_local": false,
+  "name": "Pisces",
+  "popularity": 39,
+  "preview_url": "https://p.scdn.co/mp3-preview/7c86e3d84e22cd190f4f95b35e00a67b455f32a1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:04we6bkRB2aRfmfNbf1Jc3"
+}

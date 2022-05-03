@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+        "id": "6Tyzp9KzpiZ04DABQoedps",
+        "name": "Little Dragon",
+        "type": "artist",
+        "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+      }
+    ],
+    "available_markets": [
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0Sspmm7cIY7LAyupAGbPxH"
+    },
+    "href": "https://api.spotify.com/v1/albums/0Sspmm7cIY7LAyupAGbPxH",
+    "id": "0Sspmm7cIY7LAyupAGbPxH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273796b21063712ebf9701ae6f6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02796b21063712ebf9701ae6f6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851796b21063712ebf9701ae6f6",
+        "width": 64
+      }
+    ],
+    "name": "Ritual Union",
+    "release_date": "2011-07-25",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0Sspmm7cIY7LAyupAGbPxH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+      "id": "6Tyzp9KzpiZ04DABQoedps",
+      "name": "Little Dragon",
+      "type": "artist",
+      "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+    }
+  ],
+  "available_markets": [
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBEWK1100037"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4tc5UgZiIdz8LAISqEk1hP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4tc5UgZiIdz8LAISqEk1hP",
+  "id": "4tc5UgZiIdz8LAISqEk1hP",
+  "is_local": false,
+  "name": "Ritual Union",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/41aeb4aab45ce611137b8ca9b16b74beeb362fda?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4tc5UgZiIdz8LAISqEk1hP"
+}

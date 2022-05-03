@@ -1,0 +1,20 @@
+{
+  "danceability": 0.667,
+  "energy": 0.903,
+  "key": 5,
+  "loudness": -5.365,
+  "mode": 1,
+  "speechiness": 0.0737,
+  "acousticness": 0.0163,
+  "instrumentalness": 0.00123,
+  "liveness": 0.136,
+  "valence": 0.738,
+  "tempo": 156.983,
+  "type": "audio_features",
+  "id": "5SNGxeun2vR8nFuAHbSiNx",
+  "uri": "spotify:track:5SNGxeun2vR8nFuAHbSiNx",
+  "track_href": "https://api.spotify.com/v1/tracks/5SNGxeun2vR8nFuAHbSiNx",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SNGxeun2vR8nFuAHbSiNx",
+  "duration_ms": 129936,
+  "time_signature": 4
+}

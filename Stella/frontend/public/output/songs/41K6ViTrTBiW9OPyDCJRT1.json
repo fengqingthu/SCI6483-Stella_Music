@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        },
+        "href": "https://api.spotify.com/v1/artists/2dB4ya2W1Gvng8gjWSPu2H",
+        "id": "2dB4ya2W1Gvng8gjWSPu2H",
+        "name": "Eivør",
+        "type": "artist",
+        "uri": "spotify:artist:2dB4ya2W1Gvng8gjWSPu2H"
+      }
+    ],
+    "available_markets": [
+      "IS"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3CBqq6ipTlUjSkk1jc3mkN"
+    },
+    "href": "https://api.spotify.com/v1/albums/3CBqq6ipTlUjSkk1jc3mkN",
+    "id": "3CBqq6ipTlUjSkk1jc3mkN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27349cfff8496fe0c5867adf0e7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0249cfff8496fe0c5867adf0e7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485149cfff8496fe0c5867adf0e7",
+        "width": 64
+      }
+    ],
+    "name": "Slør",
+    "release_date": "2015-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3CBqq6ipTlUjSkk1jc3mkN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+      },
+      "href": "https://api.spotify.com/v1/artists/2dB4ya2W1Gvng8gjWSPu2H",
+      "id": "2dB4ya2W1Gvng8gjWSPu2H",
+      "name": "Eivør",
+      "type": "artist",
+      "uri": "spotify:artist:2dB4ya2W1Gvng8gjWSPu2H"
+    }
+  ],
+  "available_markets": [
+    "IS"
+  ],
+  "disc_number": 1,
+  "duration_ms": 271301,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKBCA1503210"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/41K6ViTrTBiW9OPyDCJRT1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/41K6ViTrTBiW9OPyDCJRT1",
+  "id": "41K6ViTrTBiW9OPyDCJRT1",
+  "is_local": false,
+  "name": "Trøllabundin",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/1b7ecfa2cedc1bc3cec07dd3c1b9fb56ac5a93af?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:41K6ViTrTBiW9OPyDCJRT1"
+}

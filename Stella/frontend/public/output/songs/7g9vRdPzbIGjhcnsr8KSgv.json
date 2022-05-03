@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1YqGsKpdixxSVgpfaL2AEQ",
+        "id": "1YqGsKpdixxSVgpfaL2AEQ",
+        "name": "Small Faces",
+        "type": "artist",
+        "uri": "spotify:artist:1YqGsKpdixxSVgpfaL2AEQ"
+      }
+    ],
+    "available_markets": [
+      "GB"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7HpNZHNfECoHoFHaB5tnSk"
+    },
+    "href": "https://api.spotify.com/v1/albums/7HpNZHNfECoHoFHaB5tnSk",
+    "id": "7HpNZHNfECoHoFHaB5tnSk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273313cc25d53063918bfec0bd2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02313cc25d53063918bfec0bd2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851313cc25d53063918bfec0bd2",
+        "width": 64
+      }
+    ],
+    "name": "Ogdens' Nut Gone Flake",
+    "release_date": "1968-05-24",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7HpNZHNfECoHoFHaB5tnSk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YqGsKpdixxSVgpfaL2AEQ",
+      "id": "1YqGsKpdixxSVgpfaL2AEQ",
+      "name": "Small Faces",
+      "type": "artist",
+      "uri": "spotify:artist:1YqGsKpdixxSVgpfaL2AEQ"
+    }
+  ],
+  "available_markets": [
+    "GB"
+  ],
+  "disc_number": 1,
+  "duration_ms": 148386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJE6800078"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7g9vRdPzbIGjhcnsr8KSgv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7g9vRdPzbIGjhcnsr8KSgv",
+  "id": "7g9vRdPzbIGjhcnsr8KSgv",
+  "is_local": false,
+  "name": "Ogden's Nut Gone Flake",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/561fb1dd10b87c9526e4c474eeae22b1b0325460?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7g9vRdPzbIGjhcnsr8KSgv"
+}

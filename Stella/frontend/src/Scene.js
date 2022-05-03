@@ -1,5 +1,8 @@
 
 import Login from "./data/login";
+import * as THREE from "three";
+import { useSpring, a } from "@react-spring/three";
+import { Html } from "@react-three/drei";
 import useAuth from "./useAuth";
 import SpotifyWebApi from "spotify-web-api-node";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -15,12 +18,34 @@ import RecursiveSpinningOrb from "./components/Recurse";
 import GenTree from "./data/genTree";
 import Inputs from "./components/input";
 import {Tree} from "./components/getTree";
+import Player from "./player";
 import { PlaceHolderTree } from "./data/placeholderTree";
 import {GetSongInfo} from "./components/songInfo";
-;
+import SoundPlanet from "./components/SoundPlanet";
+// import {GetSongUri} from "./components/songInfo";
+
 // import Spaceship from "./components/spaceship";
 // import Get_tree from "./backend/src/app";
-let root =PlaceHolderTree;
+
+import { CubeTextureLoader } from "three";
+
+function SkyBox() {
+  const { scene } = useThree();
+  const loader = new CubeTextureLoader();
+  // The CubeTextureLoader load method takes an array of urls representing all 6 sides of the cube.
+  const texture = loader.load([
+    "/front.png",
+    "/back.png",
+    "/top.png",
+    "/bottom.png",
+    "/right.png",
+    "/left.png",
+  ]);
+  // Set the scene background property to the resulting texture.
+  scene.background = texture;
+  return null;
+}
+let defaultroot =PlaceHolderTree;
 // let Tree=Get_tree("0YC192cP3KPCRWx8zr8MfZ4WmB04GBqS4xPMYN9dHgBw" ,[4,3,2]);
 function Loading() {
   return (
@@ -60,13 +85,28 @@ function SpaceControl({mode}){
   }
 
 }
-const root_radius = Inputs["root_radius"];
-function Scene({mode}) {
+const root_radius =2.0;
+
+
+function Scene({mode,rootId}) {
+  
   // console.log(R);
-root =Tree();
+
+const[root,setRoot]=useState(defaultroot);
+useEffect(()=>{
+    if (rootId==""){return}
+    fetch("/tree/"+rootId+"/8,3").then(res=>{
+        if(res.ok){
+            // setInitialState();
+            return res.json()
+        }
+    }).then(jsonResponse=>{setRoot(jsonResponse);console.log("rootchanged!")})
+},[rootId])
+console.log(rootId)
 const songContext=useContext(SongContext);
   // console.log("context on scene",songContext)
-  
+// const ref = useRef();
+// useFrame(({ clock }) => (ref.current.uTime = clock.getElapsedTime()));
   // console.log(GetSongInfo(PlaceHolderTree.node))
   // console.log(PlaceHolderTree.node)
   
@@ -85,7 +125,8 @@ const songContext=useContext(SongContext);
         <pointLight position={[-10, 0, -20]} intensity={0.5} />
         <pointLight position={[0, -10, 0]} intensity={1.5} />
         <Stars depth={100} />
-        
+        <Stars depth={5} />
+        <SoundPlanet song={root}  context={songContext}></SoundPlanet>
         <RecursiveSpinningOrb
           position={[0, 0, 0]}
           color="aqua"
@@ -97,7 +138,7 @@ const songContext=useContext(SongContext);
         {/* <Terrain /> */}
         <SpaceControl mode={mode}></SpaceControl>
         {/* <OrbitControls enableDamping={true} enablePan={false}  /> */}
-        
+        <SkyBox />
       </Canvas>
     </Fragment>
   );
@@ -110,7 +151,7 @@ function ModeSwitch({handler}){
     setText(!t)
     handler()
   }
-  return <button onClick={handleClick}>{text}</button>
+  return <button className="mode-switch" onClick={handleClick}>{text}</button>
 }
 
 
@@ -120,16 +161,31 @@ const spotifyApi=new SpotifyWebApi(
     // clientSecret: "b6f5506e191341aa95a4855aebe7275eT",
   }
 )
+
+
+
 export function SceneContext ({code}){
   // console.log(Tree);
   const accessToken=useAuth(code);
+  console.log("sceneContext",accessToken)
   useEffect(() => {
     if (!accessToken) return
     spotifyApi.setAccessToken(accessToken)
   }, [accessToken])
   const infoUpdate=React.createRef()
   const [orbit, setOrbit] = useState(true);
-  const [reset, doReset] = useState(true);
+  const [Id, setId] = useState("");
+  const[uri,setUri]=useState("");
+  useEffect(()=>{
+    if (Id==""){return}
+    console.log("triggered")
+    fetch("/song/"+Id).then(res=>{
+        if(res.ok){
+            return res.json()
+        }
+    }).then(jsonResponse=>{setUri(jsonResponse.uri);console.log("uriset",jsonResponse)})
+  },[Id]
+  )
   let songInfo
   const handleHover=(songId)=>{
    
@@ -143,9 +199,12 @@ export function SceneContext ({code}){
   }
   const handleClick=(songId)=>{
     // console.log("info",info)
-    doReset(!reset);
+    setId(songId);
     // root=GenTree();
-    console.log("clicked!",songId)
+    console.log("clicked!",Id)
+    console.log("uri",uri)
+    // }
+    
     
     
   }
@@ -156,15 +215,19 @@ export function SceneContext ({code}){
   }
   let mode=orbit?"loop":"explore";
   return (
-  <Fragment > 
-    
+  <> 
+    <div className="scene">
     <SongInfoCard ref={infoUpdate}></SongInfoCard>
     <ModeSwitch handler={handleMode}></ModeSwitch>
     
     <SongContext.Provider value={{id:index,onHover:handleHover,onClick:handleClick}}>
-    <Scene mode={mode}/>
+    <Scene mode={mode} rootId={Id}/>
+    
     </SongContext.Provider>
-  </Fragment> );
+    </div>
+    <div className="player"><Player accessToken={accessToken} trackUri={uri}></Player></div>
+    
+  </> );
 
 }
 
@@ -172,7 +235,7 @@ export function SceneContext ({code}){
 function App(){
   const code=new URLSearchParams(window.location.search).get("code")
   console.log(code)
-  return code?<SceneContext style={{background:' #000000'}} code={code}/>:<Login/>
+  return code?<SceneContext code={code}/>:<Login/>
 }
 
 export default App;

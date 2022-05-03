@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        },
+        "href": "https://api.spotify.com/v1/artists/4DMSJzGjw2SMkKAT5EEE5u",
+        "id": "4DMSJzGjw2SMkKAT5EEE5u",
+        "name": "HOMESHAKE",
+        "type": "artist",
+        "uri": "spotify:artist:4DMSJzGjw2SMkKAT5EEE5u"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7o5BCmqVPTEzJyUYkbzlrQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/7o5BCmqVPTEzJyUYkbzlrQ",
+    "id": "7o5BCmqVPTEzJyUYkbzlrQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273745f28bda5605d6215acc3b0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02745f28bda5605d6215acc3b0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851745f28bda5605d6215acc3b0",
+        "width": 64
+      }
+    ],
+    "name": "Midnight Snack",
+    "release_date": "2015-09-16",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7o5BCmqVPTEzJyUYkbzlrQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DMSJzGjw2SMkKAT5EEE5u",
+      "id": "4DMSJzGjw2SMkKAT5EEE5u",
+      "name": "HOMESHAKE",
+      "type": "artist",
+      "uri": "spotify:artist:4DMSJzGjw2SMkKAT5EEE5u"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 188973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM8QH1400330"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1rYz3fJ5EIOSZr0iTZufBb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1rYz3fJ5EIOSZr0iTZufBb",
+  "id": "1rYz3fJ5EIOSZr0iTZufBb",
+  "is_local": false,
+  "name": "Give It To Me",
+  "popularity": 10,
+  "preview_url": "https://p.scdn.co/mp3-preview/b77d0800d010e0d81ae5ac210fdeb4a25dac4545?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:1rYz3fJ5EIOSZr0iTZufBb"
+}

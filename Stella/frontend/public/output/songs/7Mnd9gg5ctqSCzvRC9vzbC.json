@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+        "id": "3IVrpJxHeUFoYP4H6bxg57",
+        "name": "Kadebostany",
+        "type": "artist",
+        "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+      }
+    ],
+    "available_markets": [
+      "PL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4bTKEvxPl40mTNWneDtxfu"
+    },
+    "href": "https://api.spotify.com/v1/albums/4bTKEvxPl40mTNWneDtxfu",
+    "id": "4bTKEvxPl40mTNWneDtxfu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27359d5e9981738c582f50c2390",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0259d5e9981738c582f50c2390",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485159d5e9981738c582f50c2390",
+        "width": 64
+      }
+    ],
+    "name": "Monumental",
+    "release_date": "2018-03-14",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4bTKEvxPl40mTNWneDtxfu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IVrpJxHeUFoYP4H6bxg57",
+      "id": "3IVrpJxHeUFoYP4H6bxg57",
+      "name": "Kadebostany",
+      "type": "artist",
+      "uri": "spotify:artist:3IVrpJxHeUFoYP4H6bxg57"
+    }
+  ],
+  "available_markets": [
+    "PL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 264193,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH5481700012"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7Mnd9gg5ctqSCzvRC9vzbC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7Mnd9gg5ctqSCzvRC9vzbC",
+  "id": "7Mnd9gg5ctqSCzvRC9vzbC",
+  "is_local": false,
+  "name": "Mind If I Stay",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/2291b6dafc876d8f183222353392db796296b8c9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7Mnd9gg5ctqSCzvRC9vzbC"
+}

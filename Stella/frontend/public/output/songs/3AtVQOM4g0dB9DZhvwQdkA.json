@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        "href": "https://api.spotify.com/v1/artists/0wnYgCeP013HkKoOyC5V32",
+        "id": "0wnYgCeP013HkKoOyC5V32",
+        "name": "Allie X",
+        "type": "artist",
+        "uri": "spotify:artist:0wnYgCeP013HkKoOyC5V32"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Zhiq40rr6sT7do5oJ2qzN",
+    "id": "3Zhiq40rr6sT7do5oJ2qzN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736284eef3909a64c7c68339db",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026284eef3909a64c7c68339db",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516284eef3909a64c7c68339db",
+        "width": 64
+      }
+    ],
+    "name": "COLLXTION I",
+    "release_date": "2015-04-07",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:3Zhiq40rr6sT7do5oJ2qzN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wnYgCeP013HkKoOyC5V32",
+      "id": "0wnYgCeP013HkKoOyC5V32",
+      "name": "Allie X",
+      "type": "artist",
+      "uri": "spotify:artist:0wnYgCeP013HkKoOyC5V32"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 207306,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "CA8OU1500007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3AtVQOM4g0dB9DZhvwQdkA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3AtVQOM4g0dB9DZhvwQdkA",
+  "id": "3AtVQOM4g0dB9DZhvwQdkA",
+  "is_local": false,
+  "name": "BITCH",
+  "popularity": 40,
+  "preview_url": "https://p.scdn.co/mp3-preview/a0a646d26d378e0d974078e244c43f07b49a5c02?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:3AtVQOM4g0dB9DZhvwQdkA"
+}

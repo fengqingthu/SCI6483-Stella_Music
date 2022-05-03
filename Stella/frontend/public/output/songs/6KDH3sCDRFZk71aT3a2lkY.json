@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        "href": "https://api.spotify.com/v1/artists/1GjWNGbMtHDQ7CNYf2d7cw",
+        "id": "1GjWNGbMtHDQ7CNYf2d7cw",
+        "name": "Christophe Beck",
+        "type": "artist",
+        "uri": "spotify:artist:1GjWNGbMtHDQ7CNYf2d7cw"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0B488S0e5gEQc65ylW7lrC"
+    },
+    "href": "https://api.spotify.com/v1/albums/0B488S0e5gEQc65ylW7lrC",
+    "id": "0B488S0e5gEQc65ylW7lrC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27303c18c4d84e038ccc955ed8d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0203c18c4d84e038ccc955ed8d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485103c18c4d84e038ccc955ed8d",
+        "width": 64
+      }
+    ],
+    "name": "Paperman",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:0B488S0e5gEQc65ylW7lrC"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GjWNGbMtHDQ7CNYf2d7cw",
+      "id": "1GjWNGbMtHDQ7CNYf2d7cw",
+      "name": "Christophe Beck",
+      "type": "artist",
+      "uri": "spotify:artist:1GjWNGbMtHDQ7CNYf2d7cw"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 299493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWD11264585"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6KDH3sCDRFZk71aT3a2lkY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6KDH3sCDRFZk71aT3a2lkY",
+  "id": "6KDH3sCDRFZk71aT3a2lkY",
+  "is_local": false,
+  "name": "Paperman",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6KDH3sCDRFZk71aT3a2lkY"
+}

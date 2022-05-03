@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        },
+        "href": "https://api.spotify.com/v1/artists/7xQTON6uj7akAGzlanUzy3",
+        "id": "7xQTON6uj7akAGzlanUzy3",
+        "name": "Charlie Winston",
+        "type": "artist",
+        "uri": "spotify:artist:7xQTON6uj7akAGzlanUzy3"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3MH3QeSdZun58l6U3nHGl9"
+    },
+    "href": "https://api.spotify.com/v1/albums/3MH3QeSdZun58l6U3nHGl9",
+    "id": "3MH3QeSdZun58l6U3nHGl9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cc4d2080c76106700eb79fa9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cc4d2080c76106700eb79fa9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cc4d2080c76106700eb79fa9",
+        "width": 64
+      }
+    ],
+    "name": "Running Still",
+    "release_date": "2011-10-15",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3MH3QeSdZun58l6U3nHGl9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+      },
+      "href": "https://api.spotify.com/v1/artists/7xQTON6uj7akAGzlanUzy3",
+      "id": "7xQTON6uj7akAGzlanUzy3",
+      "name": "Charlie Winston",
+      "type": "artist",
+      "uri": "spotify:artist:7xQTON6uj7akAGzlanUzy3"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228257,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBVEN1100104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5zR83Fwp3jEdHwUhVmh1R3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5zR83Fwp3jEdHwUhVmh1R3",
+  "id": "5zR83Fwp3jEdHwUhVmh1R3",
+  "is_local": false,
+  "name": "Unlike Me",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/54c539dc5f54ff798c35ad08684ddb7e78b4846e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:5zR83Fwp3jEdHwUhVmh1R3"
+}

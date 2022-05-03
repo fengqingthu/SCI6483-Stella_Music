@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        },
+        "href": "https://api.spotify.com/v1/artists/01hRNr3yF5bYnPq4wZ88iI",
+        "id": "01hRNr3yF5bYnPq4wZ88iI",
+        "name": "Tommy James & The Shondells",
+        "type": "artist",
+        "uri": "spotify:artist:01hRNr3yF5bYnPq4wZ88iI"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7p1MALL1osde4W6ibJ6nAe"
+    },
+    "href": "https://api.spotify.com/v1/albums/7p1MALL1osde4W6ibJ6nAe",
+    "id": "7p1MALL1osde4W6ibJ6nAe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731b6ca529ee809063ffd2149b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021b6ca529ee809063ffd2149b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511b6ca529ee809063ffd2149b",
+        "width": 64
+      }
+    ],
+    "name": "Crystal Blue Persuasion / I'm Alive",
+    "release_date": "1969",
+    "release_date_precision": "year",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:7p1MALL1osde4W6ibJ6nAe"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+      },
+      "href": "https://api.spotify.com/v1/artists/01hRNr3yF5bYnPq4wZ88iI",
+      "id": "01hRNr3yF5bYnPq4wZ88iI",
+      "name": "Tommy James & The Shondells",
+      "type": "artist",
+      "uri": "spotify:artist:01hRNr3yF5bYnPq4wZ88iI"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 229196,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRH10802798"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6NWD6siQErobvmydHcmhCw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6NWD6siQErobvmydHcmhCw",
+  "id": "6NWD6siQErobvmydHcmhCw",
+  "is_local": false,
+  "name": "Crystal Blue Persuasion (45 Version)",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/d4ac7904fc1c16b331c777ec4d8ff77106cc93dc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6NWD6siQErobvmydHcmhCw"
+}

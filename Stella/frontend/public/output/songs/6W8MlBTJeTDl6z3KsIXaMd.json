@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Nwyd1fEUeAzA3eS9M6xbD"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Nwyd1fEUeAzA3eS9M6xbD",
+    "id": "3Nwyd1fEUeAzA3eS9M6xbD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273beee957f5c1ea1e00eb9c47a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02beee957f5c1ea1e00eb9c47a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851beee957f5c1ea1e00eb9c47a",
+        "width": 64
+      }
+    ],
+    "name": "You'd Be So Nice To Come Home To",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:3Nwyd1fEUeAzA3eS9M6xbD"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Dot4uMsJMx8n1Xi7gAdV6",
+      "id": "1Dot4uMsJMx8n1Xi7gAdV6",
+      "name": "Jean-Yves Thibaudet",
+      "type": "artist",
+      "uri": "spotify:artist:1Dot4uMsJMx8n1Xi7gAdV6"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 312600,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF079814520"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6W8MlBTJeTDl6z3KsIXaMd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6W8MlBTJeTDl6z3KsIXaMd",
+  "id": "6W8MlBTJeTDl6z3KsIXaMd",
+  "is_local": false,
+  "name": "Solitude",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:6W8MlBTJeTDl6z3KsIXaMd"
+}

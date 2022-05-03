@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        },
+        "href": "https://api.spotify.com/v1/artists/2nvKpWcP8etYTq4JrRiUiy",
+        "id": "2nvKpWcP8etYTq4JrRiUiy",
+        "name": "Cliff Richard",
+        "type": "artist",
+        "uri": "spotify:artist:2nvKpWcP8etYTq4JrRiUiy"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5q3JQvTNdsKIRq4tW9Z7o5"
+    },
+    "href": "https://api.spotify.com/v1/albums/5q3JQvTNdsKIRq4tW9Z7o5",
+    "id": "5q3JQvTNdsKIRq4tW9Z7o5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273465e443d7f4e888b05ccf30a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02465e443d7f4e888b05ccf30a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851465e443d7f4e888b05ccf30a",
+        "width": 64
+      }
+    ],
+    "name": "75 at 75",
+    "release_date": "2015-09-18",
+    "release_date_precision": "day",
+    "total_tracks": 75,
+    "type": "album",
+    "uri": "spotify:album:5q3JQvTNdsKIRq4tW9Z7o5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2nvKpWcP8etYTq4JrRiUiy",
+      "id": "2nvKpWcP8etYTq4JrRiUiy",
+      "name": "Cliff Richard",
+      "type": "artist",
+      "uri": "spotify:artist:2nvKpWcP8etYTq4JrRiUiy"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 2,
+  "duration_ms": 150893,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAYE1500775"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0el6dTZghGrzcBMbdhXALO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0el6dTZghGrzcBMbdhXALO",
+  "id": "0el6dTZghGrzcBMbdhXALO",
+  "is_local": false,
+  "name": "Congratulations - 2001 Remaster",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/24dfd25b53127baed927bc49fabc786d990ba69e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:0el6dTZghGrzcBMbdhXALO"
+}

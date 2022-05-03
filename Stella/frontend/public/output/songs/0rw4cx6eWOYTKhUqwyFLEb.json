@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        },
+        "href": "https://api.spotify.com/v1/artists/3gX7V7VCwOBz90t62hQHMw",
+        "id": "3gX7V7VCwOBz90t62hQHMw",
+        "name": "Axelle Red",
+        "type": "artist",
+        "uri": "spotify:artist:3gX7V7VCwOBz90t62hQHMw"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5fM2LJzQtkEJsySReWnSxI"
+    },
+    "href": "https://api.spotify.com/v1/albums/5fM2LJzQtkEJsySReWnSxI",
+    "id": "5fM2LJzQtkEJsySReWnSxI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ae4fb93f0fa5c288dc7b53b5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ae4fb93f0fa5c288dc7b53b5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ae4fb93f0fa5c288dc7b53b5",
+        "width": 64
+      }
+    ],
+    "name": "Sans plus attendre",
+    "release_date": "1993-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5fM2LJzQtkEJsySReWnSxI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gX7V7VCwOBz90t62hQHMw",
+      "id": "3gX7V7VCwOBz90t62hQHMw",
+      "name": "Axelle Red",
+      "type": "artist",
+      "uri": "spotify:artist:3gX7V7VCwOBz90t62hQHMw"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEV019800211"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0rw4cx6eWOYTKhUqwyFLEb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0rw4cx6eWOYTKhUqwyFLEb",
+  "id": "0rw4cx6eWOYTKhUqwyFLEb",
+  "is_local": false,
+  "name": "Sensualité",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/9a019fc4721d96c03cb7456a6f5858e55b1493b3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0rw4cx6eWOYTKhUqwyFLEb"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+        "id": "6Tyzp9KzpiZ04DABQoedps",
+        "name": "Little Dragon",
+        "type": "artist",
+        "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7cRFJj0IQqDZZ3Gm03aGbb"
+    },
+    "href": "https://api.spotify.com/v1/albums/7cRFJj0IQqDZZ3Gm03aGbb",
+    "id": "7cRFJj0IQqDZZ3Gm03aGbb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cb964eeabc7c6415c7884afb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cb964eeabc7c6415c7884afb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cb964eeabc7c6415c7884afb",
+        "width": 64
+      }
+    ],
+    "name": "Nabuma Rubberband",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:7cRFJj0IQqDZZ3Gm03aGbb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+      "id": "6Tyzp9KzpiZ04DABQoedps",
+      "name": "Little Dragon",
+      "type": "artist",
+      "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223466,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUG11400003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/098JkS7tAsZTercwhdBGKa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/098JkS7tAsZTercwhdBGKa",
+  "id": "098JkS7tAsZTercwhdBGKa",
+  "is_local": false,
+  "name": "Pretty Girls",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:098JkS7tAsZTercwhdBGKa"
+}

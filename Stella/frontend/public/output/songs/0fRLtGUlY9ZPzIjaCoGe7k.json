@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        },
+        "href": "https://api.spotify.com/v1/artists/2t9yJDJIEtvPmr2iRIdqBf",
+        "id": "2t9yJDJIEtvPmr2iRIdqBf",
+        "name": "Fink",
+        "type": "artist",
+        "uri": "spotify:artist:2t9yJDJIEtvPmr2iRIdqBf"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CA",
+      "CH",
+      "DE",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5yTx83u3qerZF7GRJu7eFk"
+    },
+    "href": "https://api.spotify.com/v1/albums/5yTx83u3qerZF7GRJu7eFk",
+    "id": "5yTx83u3qerZF7GRJu7eFk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bc97aa53df9447f9dc1b4dcb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bc97aa53df9447f9dc1b4dcb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bc97aa53df9447f9dc1b4dcb",
+        "width": 64
+      }
+    ],
+    "name": "Sort of Revolution",
+    "release_date": "2009-05-11",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5yTx83u3qerZF7GRJu7eFk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+      },
+      "href": "https://api.spotify.com/v1/artists/2t9yJDJIEtvPmr2iRIdqBf",
+      "id": "2t9yJDJIEtvPmr2iRIdqBf",
+      "name": "Fink",
+      "type": "artist",
+      "uri": "spotify:artist:2t9yJDJIEtvPmr2iRIdqBf"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CA",
+    "CH",
+    "DE",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 393952,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFB0901211"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0fRLtGUlY9ZPzIjaCoGe7k"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0fRLtGUlY9ZPzIjaCoGe7k",
+  "id": "0fRLtGUlY9ZPzIjaCoGe7k",
+  "is_local": false,
+  "name": "Sort Of Revolution",
+  "popularity": 30,
+  "preview_url": "https://p.scdn.co/mp3-preview/3e33e48d7fbcccb7abd05bc20ff5c887e4185e2e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0fRLtGUlY9ZPzIjaCoGe7k"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.194,
+  "energy": 0.0392,
+  "key": 5,
+  "loudness": -19.793,
+  "mode": 1,
+  "speechiness": 0.0408,
+  "acousticness": 0.942,
+  "instrumentalness": 0.119,
+  "liveness": 0.0961,
+  "valence": 0.0948,
+  "tempo": 82.396,
+  "type": "audio_features",
+  "id": "7lIkgdTJuekqytTYTOSAWS",
+  "uri": "spotify:track:7lIkgdTJuekqytTYTOSAWS",
+  "track_href": "https://api.spotify.com/v1/tracks/7lIkgdTJuekqytTYTOSAWS",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lIkgdTJuekqytTYTOSAWS",
+  "duration_ms": 173723,
+  "time_signature": 4
+}

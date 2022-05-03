@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+        "id": "5hE6NCoobhyEu6TRSbjOJY",
+        "name": "Fever Ray",
+        "type": "artist",
+        "uri": "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2wV1CNHfzOxg2dD7UvTfGF"
+    },
+    "href": "https://api.spotify.com/v1/albums/2wV1CNHfzOxg2dD7UvTfGF",
+    "id": "2wV1CNHfzOxg2dD7UvTfGF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27331e2a68cc0289928f0fbee59",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0231e2a68cc0289928f0fbee59",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485131e2a68cc0289928f0fbee59",
+        "width": 64
+      }
+    ],
+    "name": "Plunge Remix",
+    "release_date": "2019-12-13",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:2wV1CNHfzOxg2dD7UvTfGF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+      },
+      "href": "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+      "id": "5hE6NCoobhyEu6TRSbjOJY",
+      "name": "Fever Ray",
+      "type": "artist",
+      "uri": "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 268535,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWCE1900001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5bhgC6aNOJIt5PVTrmuwu1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5bhgC6aNOJIt5PVTrmuwu1",
+  "id": "5bhgC6aNOJIt5PVTrmuwu1",
+  "is_local": false,
+  "name": "I'm Not Done - Still Not Done Mix",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/6d458085693d36ad38506a246a57e132e01eee95?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:5bhgC6aNOJIt5PVTrmuwu1"
+}

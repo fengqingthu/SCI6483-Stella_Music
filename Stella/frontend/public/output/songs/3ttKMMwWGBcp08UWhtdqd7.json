@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Oc4knEQaid8K7AFqO5lHu",
+        "id": "5Oc4knEQaid8K7AFqO5lHu",
+        "name": "Selah Sue",
+        "type": "artist",
+        "uri": "spotify:artist:5Oc4knEQaid8K7AFqO5lHu"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr"
+    },
+    "href": "https://api.spotify.com/v1/albums/4QodEuQxjtrNR9htVuaUYr",
+    "id": "4QodEuQxjtrNR9htVuaUYr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737dfdfd678f9700ee6cda0749",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027dfdfd678f9700ee6cda0749",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517dfdfd678f9700ee6cda0749",
+        "width": 64
+      }
+    ],
+    "name": "Selah Sue",
+    "release_date": "2012-08-28",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4QodEuQxjtrNR9htVuaUYr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Oc4knEQaid8K7AFqO5lHu",
+      "id": "5Oc4knEQaid8K7AFqO5lHu",
+      "name": "Selah Sue",
+      "type": "artist",
+      "uri": "spotify:artist:5Oc4knEQaid8K7AFqO5lHu"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 284600,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM11201005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3ttKMMwWGBcp08UWhtdqd7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3ttKMMwWGBcp08UWhtdqd7",
+  "id": "3ttKMMwWGBcp08UWhtdqd7",
+  "is_local": false,
+  "name": "This World",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/a3daec84ee95b83ac3ef3d70610df5a789b6a22f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3ttKMMwWGBcp08UWhtdqd7"
+}

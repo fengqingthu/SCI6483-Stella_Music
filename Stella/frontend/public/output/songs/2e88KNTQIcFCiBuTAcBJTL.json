@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4kLvhMAuCloLxoP1aVM7Lr",
+        "id": "4kLvhMAuCloLxoP1aVM7Lr",
+        "name": "Michael Giacchino",
+        "type": "artist",
+        "uri": "spotify:artist:4kLvhMAuCloLxoP1aVM7Lr"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3tqUA0lolzsjNcmuXL5R0L"
+    },
+    "href": "https://api.spotify.com/v1/albums/3tqUA0lolzsjNcmuXL5R0L",
+    "id": "3tqUA0lolzsjNcmuXL5R0L",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738ba56750db03ea655c005fbd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028ba56750db03ea655c005fbd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518ba56750db03ea655c005fbd",
+        "width": 64
+      }
+    ],
+    "name": "Star Trek: Into Darkness (Music from the Motion Picture)",
+    "release_date": "2013-05-17",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:3tqUA0lolzsjNcmuXL5R0L"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ohN5wWTugetzOSkKPF0Vw"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ohN5wWTugetzOSkKPF0Vw",
+      "id": "6ohN5wWTugetzOSkKPF0Vw",
+      "name": "J.J. Abrams",
+      "type": "artist",
+      "uri": "spotify:artist:6ohN5wWTugetzOSkKPF0Vw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+      },
+      "href": "https://api.spotify.com/v1/artists/4N2lZcytbZifGelhVEpMeK",
+      "id": "4N2lZcytbZifGelhVEpMeK",
+      "name": "Bo Bruce",
+      "type": "artist",
+      "uri": "spotify:artist:4N2lZcytbZifGelhVEpMeK"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 176063,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3M51319820"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2e88KNTQIcFCiBuTAcBJTL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2e88KNTQIcFCiBuTAcBJTL",
+  "id": "2e88KNTQIcFCiBuTAcBJTL",
+  "is_local": false,
+  "name": "The Rage That's in Us All - Bonus Track",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:2e88KNTQIcFCiBuTAcBJTL"
+}

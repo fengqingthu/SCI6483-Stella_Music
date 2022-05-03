@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        },
+        "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+        "id": "2JIf5JxI3ypOSfrfNIIMQE",
+        "name": "YELLOW MAGIC ORCHESTRA",
+        "type": "artist",
+        "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU"
+    },
+    "href": "https://api.spotify.com/v1/albums/4uBi6IKL7Wsz895MNmpbIU",
+    "id": "4uBi6IKL7Wsz895MNmpbIU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028fa4b8aed5220d1edd0bab1b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518fa4b8aed5220d1edd0bab1b",
+        "width": 64
+      }
+    ],
+    "name": "ソリッド・ステイト・サヴァイヴァー",
+    "release_date": "1979",
+    "release_date_precision": "year",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:4uBi6IKL7Wsz895MNmpbIU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+      },
+      "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+      "id": "2JIf5JxI3ypOSfrfNIIMQE",
+      "name": "YELLOW MAGIC ORCHESTRA",
+      "type": "artist",
+      "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT"
+      },
+      "href": "https://api.spotify.com/v1/artists/4uoBti7IAbbjSVYLQuEFoT",
+      "id": "4uoBti7IAbbjSVYLQuEFoT",
+      "name": "Norio Yoshizawa",
+      "type": "artist",
+      "uri": "spotify:artist:4uoBti7IAbbjSVYLQuEFoT"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 266360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPAL09900370"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/248FNZNsD2V9zuWKnp4YJD",
+  "id": "248FNZNsD2V9zuWKnp4YJD",
+  "is_local": false,
+  "name": "RYDEEN",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/92857f888f3b1121e180bc4144854d9ac5bf9eaa?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:248FNZNsD2V9zuWKnp4YJD"
+}

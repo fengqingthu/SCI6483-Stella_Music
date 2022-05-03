@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        },
+        "href": "https://api.spotify.com/v1/artists/2XkCa3HcntokIgOP5N3QO7",
+        "id": "2XkCa3HcntokIgOP5N3QO7",
+        "name": "Camélia Jordana",
+        "type": "artist",
+        "uri": "spotify:artist:2XkCa3HcntokIgOP5N3QO7"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5QIYgLGggCNCOANVqy5M0G"
+    },
+    "href": "https://api.spotify.com/v1/albums/5QIYgLGggCNCOANVqy5M0G",
+    "id": "5QIYgLGggCNCOANVqy5M0G",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738f63aa94957e12103951dd6b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028f63aa94957e12103951dd6b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518f63aa94957e12103951dd6b",
+        "width": 64
+      }
+    ],
+    "name": "facile x fragile",
+    "release_date": "2022-03-31",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:5QIYgLGggCNCOANVqy5M0G"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XkCa3HcntokIgOP5N3QO7",
+      "id": "2XkCa3HcntokIgOP5N3QO7",
+      "name": "Camélia Jordana",
+      "type": "artist",
+      "uri": "spotify:artist:2XkCa3HcntokIgOP5N3QO7"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 246173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR8FB2000500"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4o8vATZeFLNF3R76ERuBpX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4o8vATZeFLNF3R76ERuBpX",
+  "id": "4o8vATZeFLNF3R76ERuBpX",
+  "is_local": false,
+  "name": "Facile",
+  "popularity": 46,
+  "preview_url": "https://p.scdn.co/mp3-preview/66823e1d072cc5d074ad5baa670058fe3c821179?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:4o8vATZeFLNF3R76ERuBpX"
+}

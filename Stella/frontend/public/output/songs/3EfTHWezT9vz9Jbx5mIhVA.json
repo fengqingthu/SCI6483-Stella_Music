@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        },
+        "href": "https://api.spotify.com/v1/artists/12fRkVfO2fUsz1QHgDAG3g",
+        "id": "12fRkVfO2fUsz1QHgDAG3g",
+        "name": "Julia Jacklin",
+        "type": "artist",
+        "uri": "spotify:artist:12fRkVfO2fUsz1QHgDAG3g"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R"
+    },
+    "href": "https://api.spotify.com/v1/albums/7HRyi5FKFHLTJBcHBFOZ3R",
+    "id": "7HRyi5FKFHLTJBcHBFOZ3R",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734d820d3c9e7ad7fef2ab86fa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024d820d3c9e7ad7fef2ab86fa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514d820d3c9e7ad7fef2ab86fa",
+        "width": 64
+      }
+    ],
+    "name": "baby jesus is nobody's baby now",
+    "release_date": "2020-12-08",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7HRyi5FKFHLTJBcHBFOZ3R"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+      },
+      "href": "https://api.spotify.com/v1/artists/12fRkVfO2fUsz1QHgDAG3g",
+      "id": "12fRkVfO2fUsz1QHgDAG3g",
+      "name": "Julia Jacklin",
+      "type": "artist",
+      "uri": "spotify:artist:12fRkVfO2fUsz1QHgDAG3g"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US3R42056301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3EfTHWezT9vz9Jbx5mIhVA",
+  "id": "3EfTHWezT9vz9Jbx5mIhVA",
+  "is_local": false,
+  "name": "baby jesus is nobody's baby now",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/51a922e9f13e7d6af50519600d9f6e94595cffdf?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3EfTHWezT9vz9Jbx5mIhVA"
+}

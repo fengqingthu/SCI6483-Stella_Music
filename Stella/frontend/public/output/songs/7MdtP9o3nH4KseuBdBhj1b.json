@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ZR3khgseh3xy3s8iBYWrI",
+        "id": "0ZR3khgseh3xy3s8iBYWrI",
+        "name": "Talisco",
+        "type": "artist",
+        "uri": "spotify:artist:0ZR3khgseh3xy3s8iBYWrI"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3gnMTfTI3cVLnewyTL3geV"
+    },
+    "href": "https://api.spotify.com/v1/albums/3gnMTfTI3cVLnewyTL3geV",
+    "id": "3gnMTfTI3cVLnewyTL3geV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273991c3c811ceaf6aaeb90ca66",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02991c3c811ceaf6aaeb90ca66",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851991c3c811ceaf6aaeb90ca66",
+        "width": 64
+      }
+    ],
+    "name": "Run",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:3gnMTfTI3cVLnewyTL3geV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ZR3khgseh3xy3s8iBYWrI",
+      "id": "0ZR3khgseh3xy3s8iBYWrI",
+      "name": "Talisco",
+      "type": "artist",
+      "uri": "spotify:artist:0ZR3khgseh3xy3s8iBYWrI"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 236933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR8V41300118"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7MdtP9o3nH4KseuBdBhj1b"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7MdtP9o3nH4KseuBdBhj1b",
+  "id": "7MdtP9o3nH4KseuBdBhj1b",
+  "is_local": false,
+  "name": "The Keys",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/e1269f42fe3328e16232f0a59bf33876ce4d5467?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7MdtP9o3nH4KseuBdBhj1b"
+}

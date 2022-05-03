@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6mo0UbyIvIePdXNyLwQlk5",
+        "id": "6mo0UbyIvIePdXNyLwQlk5",
+        "name": "Milow",
+        "type": "artist",
+        "uri": "spotify:artist:6mo0UbyIvIePdXNyLwQlk5"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "DE",
+      "LI",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1tAjRNA0kMilo7AC4Ny4Md"
+    },
+    "href": "https://api.spotify.com/v1/albums/1tAjRNA0kMilo7AC4Ny4Md",
+    "id": "1tAjRNA0kMilo7AC4Ny4Md",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a2e1c030db05ceb88e198a47",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a2e1c030db05ceb88e198a47",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a2e1c030db05ceb88e198a47",
+        "width": 64
+      }
+    ],
+    "name": "Whatever It Takes",
+    "release_date": "2020-05-14",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:1tAjRNA0kMilo7AC4Ny4Md"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+      },
+      "href": "https://api.spotify.com/v1/artists/6mo0UbyIvIePdXNyLwQlk5",
+      "id": "6mo0UbyIvIePdXNyLwQlk5",
+      "name": "Milow",
+      "type": "artist",
+      "uri": "spotify:artist:6mo0UbyIvIePdXNyLwQlk5"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "DE",
+    "LI",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 173933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEA892000013"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6bTiJtfiyTEh4aPKJd5TtA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6bTiJtfiyTEh4aPKJd5TtA",
+  "id": "6bTiJtfiyTEh4aPKJd5TtA",
+  "is_local": false,
+  "name": "Whatever It Takes",
+  "popularity": 56,
+  "preview_url": "https://p.scdn.co/mp3-preview/d0fb85d1eb1eb664df70c6e037fdcb9ef9d80d78?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6bTiJtfiyTEh4aPKJd5TtA"
+}

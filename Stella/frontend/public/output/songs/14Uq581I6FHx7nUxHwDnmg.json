@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        "href": "https://api.spotify.com/v1/artists/34J5kKR5szbJ5fGK7f8HCU",
+        "id": "34J5kKR5szbJ5fGK7f8HCU",
+        "name": "jung jaeil",
+        "type": "artist",
+        "uri": "spotify:artist:34J5kKR5szbJ5fGK7f8HCU"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/32wOhLTLnq6kis3xkRN2ei"
+    },
+    "href": "https://api.spotify.com/v1/albums/32wOhLTLnq6kis3xkRN2ei",
+    "id": "32wOhLTLnq6kis3xkRN2ei",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27309eb26d1d49d2b3156ce0a1a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0209eb26d1d49d2b3156ce0a1a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485109eb26d1d49d2b3156ce0a1a",
+        "width": 64
+      }
+    ],
+    "name": "Parasite (Original Motion Picture Soundtrack)",
+    "release_date": "2019-10-11",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:32wOhLTLnq6kis3xkRN2ei"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+      },
+      "href": "https://api.spotify.com/v1/artists/34J5kKR5szbJ5fGK7f8HCU",
+      "id": "34J5kKR5szbJ5fGK7f8HCU",
+      "name": "jung jaeil",
+      "type": "artist",
+      "uri": "spotify:artist:34J5kKR5szbJ5fGK7f8HCU"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 435600,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "KRA491900333"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/14Uq581I6FHx7nUxHwDnmg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/14Uq581I6FHx7nUxHwDnmg",
+  "id": "14Uq581I6FHx7nUxHwDnmg",
+  "is_local": false,
+  "name": "The Belt of Faith",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/9eae8dd949bc4ba2af0820e6fa4b9b9f8f97c9c7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:14Uq581I6FHx7nUxHwDnmg"
+}

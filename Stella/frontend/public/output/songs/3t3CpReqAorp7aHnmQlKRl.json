@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IunaFjvNKj98JW89JYv9u",
+        "id": "3IunaFjvNKj98JW89JYv9u",
+        "name": "The Japanese House",
+        "type": "artist",
+        "uri": "spotify:artist:3IunaFjvNKj98JW89JYv9u"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4pi0uxZhvg9PuST6tqKeqQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/4pi0uxZhvg9PuST6tqKeqQ",
+    "id": "4pi0uxZhvg9PuST6tqKeqQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734e33f660b4251c203dfc0f5b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024e33f660b4251c203dfc0f5b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514e33f660b4251c203dfc0f5b",
+        "width": 64
+      }
+    ],
+    "name": "Pools To Bathe In",
+    "release_date": "2015-04-27",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:4pi0uxZhvg9PuST6tqKeqQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IunaFjvNKj98JW89JYv9u",
+      "id": "3IunaFjvNKj98JW89JYv9u",
+      "name": "The Japanese House",
+      "type": "artist",
+      "uri": "spotify:artist:3IunaFjvNKj98JW89JYv9u"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 198143,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBK3W1000357"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3t3CpReqAorp7aHnmQlKRl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3t3CpReqAorp7aHnmQlKRl",
+  "id": "3t3CpReqAorp7aHnmQlKRl",
+  "is_local": false,
+  "name": "Still",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3t3CpReqAorp7aHnmQlKRl"
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j"
+        },
+        "href": "https://api.spotify.com/v1/artists/3h9p6ezLoqYJ0viEfqGE4j",
+        "id": "3h9p6ezLoqYJ0viEfqGE4j",
+        "name": "Exit Eden",
+        "type": "artist",
+        "uri": "spotify:artist:3h9p6ezLoqYJ0viEfqGE4j"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1z2VqMp0MNni68SZ37N1m4"
+    },
+    "href": "https://api.spotify.com/v1/albums/1z2VqMp0MNni68SZ37N1m4",
+    "id": "1z2VqMp0MNni68SZ37N1m4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733a4be67df6c65793c08c5c6c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023a4be67df6c65793c08c5c6c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513a4be67df6c65793c08c5c6c",
+        "width": 64
+      }
+    ],
+    "name": "Rhapsodies In Black",
+    "release_date": "2017-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1z2VqMp0MNni68SZ37N1m4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j"
+      },
+      "href": "https://api.spotify.com/v1/artists/3h9p6ezLoqYJ0viEfqGE4j",
+      "id": "3h9p6ezLoqYJ0viEfqGE4j",
+      "name": "Exit Eden",
+      "type": "artist",
+      "uri": "spotify:artist:3h9p6ezLoqYJ0viEfqGE4j"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 250426,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEQR41700679"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3WPyQguldbYhLGJdQZ4AKI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3WPyQguldbYhLGJdQZ4AKI",
+  "id": "3WPyQguldbYhLGJdQZ4AKI",
+  "is_local": false,
+  "name": "Paparazzi",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/c6724ccfbf237907815d3337241b4ded596c91bd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:3WPyQguldbYhLGJdQZ4AKI"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        },
+        "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+        "id": "63MQldklfxkjYDoUE4Tppz",
+        "name": "M83",
+        "type": "artist",
+        "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0iSRofVrTOCOs841JkSgwk"
+    },
+    "href": "https://api.spotify.com/v1/albums/0iSRofVrTOCOs841JkSgwk",
+    "id": "0iSRofVrTOCOs841JkSgwk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731515b53a3376db5f4dde2bbb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021515b53a3376db5f4dde2bbb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511515b53a3376db5f4dde2bbb",
+        "width": 64
+      }
+    ],
+    "name": "Junk",
+    "release_date": "2016-04-08",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0iSRofVrTOCOs841JkSgwk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+      },
+      "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+      "id": "63MQldklfxkjYDoUE4Tppz",
+      "name": "M83",
+      "type": "artist",
+      "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 217440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB55H1600001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6Yzh272O4hwZHjrnXYhL8a"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6Yzh272O4hwZHjrnXYhL8a",
+  "id": "6Yzh272O4hwZHjrnXYhL8a",
+  "is_local": false,
+  "name": "Do It, Try It",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/6641e382df50ce53e2ed920756bb7936a21947f2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6Yzh272O4hwZHjrnXYhL8a"
+}

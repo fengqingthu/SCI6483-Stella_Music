@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ZNedSdu6Jj8STmCYqsxy9"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ZNedSdu6Jj8STmCYqsxy9",
+        "id": "4ZNedSdu6Jj8STmCYqsxy9",
+        "name": "Game Music Composer | Oliver Moya Bueno",
+        "type": "artist",
+        "uri": "spotify:artist:4ZNedSdu6Jj8STmCYqsxy9"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1GNO5VfsyZSWhRP7Pw3sjA"
+    },
+    "href": "https://api.spotify.com/v1/albums/1GNO5VfsyZSWhRP7Pw3sjA",
+    "id": "1GNO5VfsyZSWhRP7Pw3sjA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737d1f80688f7957fd3580e9d9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027d1f80688f7957fd3580e9d9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517d1f80688f7957fd3580e9d9",
+        "width": 64
+      }
+    ],
+    "name": "Dark Ocean",
+    "release_date": "2016-04-12",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:1GNO5VfsyZSWhRP7Pw3sjA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ZNedSdu6Jj8STmCYqsxy9"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ZNedSdu6Jj8STmCYqsxy9",
+      "id": "4ZNedSdu6Jj8STmCYqsxy9",
+      "name": "Game Music Composer | Oliver Moya Bueno",
+      "type": "artist",
+      "uri": "spotify:artist:4ZNedSdu6Jj8STmCYqsxy9"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 60000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USE831556422"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2r8ZF9igjHpSknWPciJP2H"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2r8ZF9igjHpSknWPciJP2H",
+  "id": "2r8ZF9igjHpSknWPciJP2H",
+  "is_local": false,
+  "name": "Credits",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:2r8ZF9igjHpSknWPciJP2H"
+}

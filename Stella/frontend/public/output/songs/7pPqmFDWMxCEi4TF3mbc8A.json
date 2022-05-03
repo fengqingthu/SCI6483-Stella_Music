@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt"
+        },
+        "href": "https://api.spotify.com/v1/artists/45InkbGypoMk5nVX6dsHkt",
+        "id": "45InkbGypoMk5nVX6dsHkt",
+        "name": "N-Trance",
+        "type": "artist",
+        "uri": "spotify:artist:45InkbGypoMk5nVX6dsHkt"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6nEGLUYvvYh6MSaVzs3TvO"
+    },
+    "href": "https://api.spotify.com/v1/albums/6nEGLUYvvYh6MSaVzs3TvO",
+    "id": "6nEGLUYvvYh6MSaVzs3TvO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732f7c4b02932c9c50a93f323c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022f7c4b02932c9c50a93f323c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512f7c4b02932c9c50a93f323c",
+        "width": 64
+      }
+    ],
+    "name": "Best Of",
+    "release_date": "2002-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:6nEGLUYvvYh6MSaVzs3TvO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt"
+      },
+      "href": "https://api.spotify.com/v1/artists/45InkbGypoMk5nVX6dsHkt",
+      "id": "45InkbGypoMk5nVX6dsHkt",
+      "name": "N-Trance",
+      "type": "artist",
+      "uri": "spotify:artist:45InkbGypoMk5nVX6dsHkt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+      },
+      "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+      "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+      "name": "Rod Stewart",
+      "type": "artist",
+      "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 217840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFZ0400431"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7pPqmFDWMxCEi4TF3mbc8A"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7pPqmFDWMxCEi4TF3mbc8A",
+  "id": "7pPqmFDWMxCEi4TF3mbc8A",
+  "is_local": false,
+  "name": "Da Ya Think I'm Sexy - Radio Edit",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7pPqmFDWMxCEi4TF3mbc8A"
+}

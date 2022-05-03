@@ -1,0 +1,119 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LGXGjnPkLPQRrsMW1y6h3"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LGXGjnPkLPQRrsMW1y6h3",
+        "id": "0LGXGjnPkLPQRrsMW1y6h3",
+        "name": "Trailerhead",
+        "type": "artist",
+        "uri": "spotify:artist:0LGXGjnPkLPQRrsMW1y6h3"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0aV765DLBD3aqHZGCdyQZQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/0aV765DLBD3aqHZGCdyQZQ",
+    "id": "0aV765DLBD3aqHZGCdyQZQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739b336bfd09775eb408c28658",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029b336bfd09775eb408c28658",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519b336bfd09775eb408c28658",
+        "width": 64
+      }
+    ],
+    "name": "Triumph",
+    "release_date": "2012-11-06",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:0aV765DLBD3aqHZGCdyQZQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LGXGjnPkLPQRrsMW1y6h3"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LGXGjnPkLPQRrsMW1y6h3",
+      "id": "0LGXGjnPkLPQRrsMW1y6h3",
+      "name": "Trailerhead",
+      "type": "artist",
+      "uri": "spotify:artist:0LGXGjnPkLPQRrsMW1y6h3"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 257545,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMSTJ1103768"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0nIA6xNDYlGkgQPNWzgqaD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0nIA6xNDYlGkgQPNWzgqaD",
+  "id": "0nIA6xNDYlGkgQPNWzgqaD",
+  "is_local": false,
+  "name": "Destiny Of The Chosen",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/be063000fc5e13aadb64e68204ae1e5d9c7340f2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0nIA6xNDYlGkgQPNWzgqaD"
+}

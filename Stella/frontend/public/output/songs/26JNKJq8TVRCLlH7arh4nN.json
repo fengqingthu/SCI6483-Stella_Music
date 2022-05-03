@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Qf2uzJPqlzL5Fe1E1yRte"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Qf2uzJPqlzL5Fe1E1yRte",
+        "id": "0Qf2uzJPqlzL5Fe1E1yRte",
+        "name": "Andrea Ross",
+        "type": "artist",
+        "uri": "spotify:artist:0Qf2uzJPqlzL5Fe1E1yRte"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7IcxiTiPy6p7KGBbwTcJ7I"
+    },
+    "href": "https://api.spotify.com/v1/albums/7IcxiTiPy6p7KGBbwTcJ7I",
+    "id": "7IcxiTiPy6p7KGBbwTcJ7I",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733b9a925ed715e6bd6d7ea2c4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023b9a925ed715e6bd6d7ea2c4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513b9a925ed715e6bd6d7ea2c4",
+        "width": 64
+      }
+    ],
+    "name": "Andrea Ross EP",
+    "release_date": "2007-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:7IcxiTiPy6p7KGBbwTcJ7I"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Qf2uzJPqlzL5Fe1E1yRte"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Qf2uzJPqlzL5Fe1E1yRte",
+      "id": "0Qf2uzJPqlzL5Fe1E1yRte",
+      "name": "Andrea Ross",
+      "type": "artist",
+      "uri": "spotify:artist:0Qf2uzJPqlzL5Fe1E1yRte"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 164520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70605219"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/26JNKJq8TVRCLlH7arh4nN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/26JNKJq8TVRCLlH7arh4nN",
+  "id": "26JNKJq8TVRCLlH7arh4nN",
+  "is_local": false,
+  "name": "White Horses (Theme To 'The White Horses')",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:26JNKJq8TVRCLlH7arh4nN"
+}

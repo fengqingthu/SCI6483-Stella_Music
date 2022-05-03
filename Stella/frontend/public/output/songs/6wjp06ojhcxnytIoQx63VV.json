@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        "href": "https://api.spotify.com/v1/artists/0nJaMZM8paoA5HEUTUXPqi",
+        "id": "0nJaMZM8paoA5HEUTUXPqi",
+        "name": "Bear's Den",
+        "type": "artist",
+        "uri": "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5JnRVE2MG1At2AnDyKoDPV"
+    },
+    "href": "https://api.spotify.com/v1/albums/5JnRVE2MG1At2AnDyKoDPV",
+    "id": "5JnRVE2MG1At2AnDyKoDPV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e7a882c7c57ef07faef256b9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e7a882c7c57ef07faef256b9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e7a882c7c57ef07faef256b9",
+        "width": 64
+      }
+    ],
+    "name": "Islands",
+    "release_date": "2014-10-17",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5JnRVE2MG1At2AnDyKoDPV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+      },
+      "href": "https://api.spotify.com/v1/artists/0nJaMZM8paoA5HEUTUXPqi",
+      "id": "0nJaMZM8paoA5HEUTUXPqi",
+      "name": "Bear's Den",
+      "type": "artist",
+      "uri": "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 257519,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB6TW1400045"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6wjp06ojhcxnytIoQx63VV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6wjp06ojhcxnytIoQx63VV",
+  "id": "6wjp06ojhcxnytIoQx63VV",
+  "is_local": false,
+  "name": "Agape",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6wjp06ojhcxnytIoQx63VV"
+}

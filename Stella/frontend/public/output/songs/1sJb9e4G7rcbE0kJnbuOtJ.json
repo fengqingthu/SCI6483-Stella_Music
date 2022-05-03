@@ -1,0 +1,221 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        },
+        "href": "https://api.spotify.com/v1/artists/6soPpJHlCtN6SY8pWlfbC6",
+        "id": "6soPpJHlCtN6SY8pWlfbC6",
+        "name": "-M-",
+        "type": "artist",
+        "uri": "spotify:artist:6soPpJHlCtN6SY8pWlfbC6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        "href": "https://api.spotify.com/v1/artists/1FmxE030Xe2H8Bn9bdv6Pd",
+        "id": "1FmxE030Xe2H8Bn9bdv6Pd",
+        "name": "Vanessa Paradis",
+        "type": "artist",
+        "uri": "spotify:artist:1FmxE030Xe2H8Bn9bdv6Pd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7tFyk6W3bZ6ZAXCuZKHhQ7"
+        },
+        "href": "https://api.spotify.com/v1/artists/7tFyk6W3bZ6ZAXCuZKHhQ7",
+        "id": "7tFyk6W3bZ6ZAXCuZKHhQ7",
+        "name": "Patrice Renson",
+        "type": "artist",
+        "uri": "spotify:artist:7tFyk6W3bZ6ZAXCuZKHhQ7"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BD",
+      "BE",
+      "BG",
+      "BN",
+      "BY",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CY",
+      "DE",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FJ",
+      "FR",
+      "GN",
+      "GR",
+      "HK",
+      "HR",
+      "HU",
+      "ID",
+      "IL",
+      "IN",
+      "JP",
+      "KG",
+      "KR",
+      "KZ",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "ME",
+      "MK",
+      "MO",
+      "MT",
+      "MU",
+      "MY",
+      "NL",
+      "PH",
+      "PK",
+      "PL",
+      "RS",
+      "RW",
+      "SA",
+      "SE",
+      "SI",
+      "SN",
+      "TJ",
+      "TN",
+      "TR",
+      "TW",
+      "UA",
+      "UZ",
+      "XK",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0AHqoZj9gVRQYFnajYLEN6"
+    },
+    "href": "https://api.spotify.com/v1/albums/0AHqoZj9gVRQYFnajYLEN6",
+    "id": "0AHqoZj9gVRQYFnajYLEN6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cea9a209e91b7383feb40c02",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cea9a209e91b7383feb40c02",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cea9a209e91b7383feb40c02",
+        "width": 64
+      }
+    ],
+    "name": "BOF Un Monstre A Paris (Limited Edition)",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:0AHqoZj9gVRQYFnajYLEN6"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+      },
+      "href": "https://api.spotify.com/v1/artists/6soPpJHlCtN6SY8pWlfbC6",
+      "id": "6soPpJHlCtN6SY8pWlfbC6",
+      "name": "-M-",
+      "type": "artist",
+      "uri": "spotify:artist:6soPpJHlCtN6SY8pWlfbC6"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BD",
+    "BE",
+    "BG",
+    "BN",
+    "BY",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CY",
+    "DE",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FJ",
+    "FR",
+    "GN",
+    "GR",
+    "HK",
+    "HR",
+    "HU",
+    "ID",
+    "IL",
+    "IN",
+    "KG",
+    "KR",
+    "KZ",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "ME",
+    "MK",
+    "MO",
+    "MT",
+    "MU",
+    "MY",
+    "NL",
+    "PH",
+    "PK",
+    "PL",
+    "RS",
+    "RW",
+    "SE",
+    "SI",
+    "SN",
+    "TJ",
+    "TN",
+    "TR",
+    "TW",
+    "UA",
+    "UZ",
+    "XK",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 138933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR86U1100006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1sJb9e4G7rcbE0kJnbuOtJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1sJb9e4G7rcbE0kJnbuOtJ",
+  "id": "1sJb9e4G7rcbE0kJnbuOtJ",
+  "is_local": false,
+  "name": "Un Monstre A Paris",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:1sJb9e4G7rcbE0kJnbuOtJ"
+}

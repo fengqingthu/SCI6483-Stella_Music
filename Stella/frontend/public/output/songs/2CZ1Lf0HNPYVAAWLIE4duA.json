@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "DZ",
+      "FR",
+      "MA",
+      "MC",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/0KGBW1MQtC2aFPCDUdAkdJ",
+    "id": "0KGBW1MQtC2aFPCDUdAkdJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731b51f809c31f0d98f67c0b7d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021b51f809c31f0d98f67c0b7d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511b51f809c31f0d98f67c0b7d",
+        "width": 64
+      }
+    ],
+    "name": "Long Way Down",
+    "release_date": "2013-06-17",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0KGBW1MQtC2aFPCDUdAkdJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+      },
+      "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+      "id": "2txHhyCwHjUEpJjWrEyqyX",
+      "name": "Tom Odell",
+      "type": "artist",
+      "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "DZ",
+    "FR",
+    "MA",
+    "MC",
+    "TN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 217853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBARL1300110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2CZ1Lf0HNPYVAAWLIE4duA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2CZ1Lf0HNPYVAAWLIE4duA",
+  "id": "2CZ1Lf0HNPYVAAWLIE4duA",
+  "is_local": false,
+  "name": "Can't Pretend",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/f8813a64b6f272954e45531af744baecf0429ff9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:2CZ1Lf0HNPYVAAWLIE4duA"
+}

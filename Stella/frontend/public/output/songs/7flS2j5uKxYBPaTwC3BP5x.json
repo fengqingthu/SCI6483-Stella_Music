@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        },
+        "href": "https://api.spotify.com/v1/artists/30uiS1n3uIGXJEYFR1GVDy",
+        "id": "30uiS1n3uIGXJEYFR1GVDy",
+        "name": "The Brian Jonestown Massacre",
+        "type": "artist",
+        "uri": "spotify:artist:30uiS1n3uIGXJEYFR1GVDy"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7gQJqfSSaPPQLuGljdM7Uu"
+    },
+    "href": "https://api.spotify.com/v1/albums/7gQJqfSSaPPQLuGljdM7Uu",
+    "id": "7gQJqfSSaPPQLuGljdM7Uu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cd87098069cab65212a942d0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cd87098069cab65212a942d0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cd87098069cab65212a942d0",
+        "width": 64
+      }
+    ],
+    "name": "Take It From The Man",
+    "release_date": "1996-05-28",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:7gQJqfSSaPPQLuGljdM7Uu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+      },
+      "href": "https://api.spotify.com/v1/artists/30uiS1n3uIGXJEYFR1GVDy",
+      "id": "30uiS1n3uIGXJEYFR1GVDy",
+      "name": "The Brian Jonestown Massacre",
+      "type": "artist",
+      "uri": "spotify:artist:30uiS1n3uIGXJEYFR1GVDy"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 203933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBSLX0810129"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7flS2j5uKxYBPaTwC3BP5x"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7flS2j5uKxYBPaTwC3BP5x",
+  "id": "7flS2j5uKxYBPaTwC3BP5x",
+  "is_local": false,
+  "name": "(David Bowie I Love You) Since I Was Six",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/ec15ff98dab4139d097c66eca80d546525061d7f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:7flS2j5uKxYBPaTwC3BP5x"
+}

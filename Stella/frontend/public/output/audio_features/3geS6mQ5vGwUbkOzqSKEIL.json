@@ -1,0 +1,20 @@
+{
+  "danceability": 0.655,
+  "energy": 0.616,
+  "key": 6,
+  "loudness": -8.67,
+  "mode": 1,
+  "speechiness": 0.173,
+  "acousticness": 0.0912,
+  "instrumentalness": 0.0000244,
+  "liveness": 0.247,
+  "valence": 0.396,
+  "tempo": 139.971,
+  "type": "audio_features",
+  "id": "3geS6mQ5vGwUbkOzqSKEIL",
+  "uri": "spotify:track:3geS6mQ5vGwUbkOzqSKEIL",
+  "track_href": "https://api.spotify.com/v1/tracks/3geS6mQ5vGwUbkOzqSKEIL",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3geS6mQ5vGwUbkOzqSKEIL",
+  "duration_ms": 246857,
+  "time_signature": 4
+}

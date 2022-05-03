@@ -1,0 +1,109 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        "href": "https://api.spotify.com/v1/artists/6yTYR09WCvsgdnurDW4WQo",
+        "id": "6yTYR09WCvsgdnurDW4WQo",
+        "name": "DJ Antoine",
+        "type": "artist",
+        "uri": "spotify:artist:6yTYR09WCvsgdnurDW4WQo"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CZ",
+      "DE",
+      "RO",
+      "SK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0h1qxCTzx2JDCo6oIWjgOz"
+    },
+    "href": "https://api.spotify.com/v1/albums/0h1qxCTzx2JDCo6oIWjgOz",
+    "id": "0h1qxCTzx2JDCo6oIWjgOz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27395f7c1e5d95ecc5471ec647a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0295f7c1e5d95ecc5471ec647a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485195f7c1e5d95ecc5471ec647a",
+        "width": 64
+      }
+    ],
+    "name": "Provocateur",
+    "release_date": "2016-03-18",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:0h1qxCTzx2JDCo6oIWjgOz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+      },
+      "href": "https://api.spotify.com/v1/artists/6yTYR09WCvsgdnurDW4WQo",
+      "id": "6yTYR09WCvsgdnurDW4WQo",
+      "name": "DJ Antoine",
+      "type": "artist",
+      "uri": "spotify:artist:6yTYR09WCvsgdnurDW4WQo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3oLccEy7y6zTe1gCFHxuWr",
+      "id": "3oLccEy7y6zTe1gCFHxuWr",
+      "name": "Timati",
+      "type": "artist",
+      "uri": "spotify:artist:3oLccEy7y6zTe1gCFHxuWr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2eLrVxwm6t4QeaORq5w8VW"
+      },
+      "href": "https://api.spotify.com/v1/artists/2eLrVxwm6t4QeaORq5w8VW",
+      "id": "2eLrVxwm6t4QeaORq5w8VW",
+      "name": "Grigory Leps",
+      "type": "artist",
+      "uri": "spotify:artist:2eLrVxwm6t4QeaORq5w8VW"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CZ",
+    "DE",
+    "RO",
+    "SK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211622,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH4881600601"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/632QnAylHb0kUgbqsjfGvp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/632QnAylHb0kUgbqsjfGvp",
+  "id": "632QnAylHb0kUgbqsjfGvp",
+  "is_local": false,
+  "name": "London - DJ Antoine vs Mad Mark 2k16 Radio Edit",
+  "popularity": 46,
+  "preview_url": "https://p.scdn.co/mp3-preview/774fa7f40ff22cdf41990eda7f3faec342455697?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:632QnAylHb0kUgbqsjfGvp"
+}

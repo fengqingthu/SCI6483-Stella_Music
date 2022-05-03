@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ifC4znYCvmMSJ0rght5JS",
+        "id": "1ifC4znYCvmMSJ0rght5JS",
+        "name": "Haux",
+        "type": "artist",
+        "uri": "spotify:artist:1ifC4znYCvmMSJ0rght5JS"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX"
+    },
+    "href": "https://api.spotify.com/v1/albums/4XLmFt621uppWWHzoSOcnX",
+    "id": "4XLmFt621uppWWHzoSOcnX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27379b28204b0145cdfd82810b7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0279b28204b0145cdfd82810b7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485179b28204b0145cdfd82810b7",
+        "width": 64
+      }
+    ],
+    "name": "Something To Remember",
+    "release_date": "2018-03-30",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:4XLmFt621uppWWHzoSOcnX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ifC4znYCvmMSJ0rght5JS",
+      "id": "1ifC4znYCvmMSJ0rght5JS",
+      "name": "Haux",
+      "type": "artist",
+      "uri": "spotify:artist:1ifC4znYCvmMSJ0rght5JS"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "LI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 149573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUS11700472"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4QcDhDJkTBRjv4hNXtftcf",
+  "id": "4QcDhDJkTBRjv4hNXtftcf",
+  "is_local": false,
+  "name": "Arrows",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/c3ba178333e484d16cf434a3d019ba445dff3ce2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:4QcDhDJkTBRjv4hNXtftcf"
+}

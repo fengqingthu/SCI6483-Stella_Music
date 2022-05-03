@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK"
+        },
+        "href": "https://api.spotify.com/v1/artists/7EBwTCv2UZ1vm4WmfNCiEK",
+        "id": "7EBwTCv2UZ1vm4WmfNCiEK",
+        "name": "Faada Freddy",
+        "type": "artist",
+        "uri": "spotify:artist:7EBwTCv2UZ1vm4WmfNCiEK"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5qLWQsfanZAtg21NIFN4My"
+    },
+    "href": "https://api.spotify.com/v1/albums/5qLWQsfanZAtg21NIFN4My",
+    "id": "5qLWQsfanZAtg21NIFN4My",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732234762c558e0859fb1b322c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022234762c558e0859fb1b322c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512234762c558e0859fb1b322c",
+        "width": 64
+      }
+    ],
+    "name": "Gospel Journey",
+    "release_date": "2015-03-16",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5qLWQsfanZAtg21NIFN4My"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK"
+      },
+      "href": "https://api.spotify.com/v1/artists/7EBwTCv2UZ1vm4WmfNCiEK",
+      "id": "7EBwTCv2UZ1vm4WmfNCiEK",
+      "name": "Faada Freddy",
+      "type": "artist",
+      "uri": "spotify:artist:7EBwTCv2UZ1vm4WmfNCiEK"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 217988,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11411965"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1qRz9WwPK7lyCVZw2ZKbL8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1qRz9WwPK7lyCVZw2ZKbL8",
+  "id": "1qRz9WwPK7lyCVZw2ZKbL8",
+  "is_local": false,
+  "name": "Letter To The Lord",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/92abe6b7bcfdd2b1ff35cedd9bd3802acacce09a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1qRz9WwPK7lyCVZw2ZKbL8"
+}

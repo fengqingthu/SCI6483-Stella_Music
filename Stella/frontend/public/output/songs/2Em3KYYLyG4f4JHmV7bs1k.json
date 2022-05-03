@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1AgxgADPuRIW1wyaA4OKcB",
+        "id": "1AgxgADPuRIW1wyaA4OKcB",
+        "name": "Tom Rosenthal",
+        "type": "artist",
+        "uri": "spotify:artist:1AgxgADPuRIW1wyaA4OKcB"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7minBeEwQKhJrRAN9JTVHZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/7minBeEwQKhJrRAN9JTVHZ",
+    "id": "7minBeEwQKhJrRAN9JTVHZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273987d6222573ea68babbe4a1a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02987d6222573ea68babbe4a1a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851987d6222573ea68babbe4a1a",
+        "width": 64
+      }
+    ],
+    "name": "Go Solo",
+    "release_date": "2014-12-12",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:7minBeEwQKhJrRAN9JTVHZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+      },
+      "href": "https://api.spotify.com/v1/artists/1AgxgADPuRIW1wyaA4OKcB",
+      "id": "1AgxgADPuRIW1wyaA4OKcB",
+      "name": "Tom Rosenthal",
+      "type": "artist",
+      "uri": "spotify:artist:1AgxgADPuRIW1wyaA4OKcB"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "LI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 143040,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEQ321400452"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Em3KYYLyG4f4JHmV7bs1k"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Em3KYYLyG4f4JHmV7bs1k",
+  "id": "2Em3KYYLyG4f4JHmV7bs1k",
+  "is_local": false,
+  "name": "Go Solo (From the Original Soundtrack \"Honig im Kopf\")",
+  "popularity": 57,
+  "preview_url": "https://p.scdn.co/mp3-preview/939d3f9c94b66ed44b9aa8a4616198d2a992b8ca?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2Em3KYYLyG4f4JHmV7bs1k"
+}

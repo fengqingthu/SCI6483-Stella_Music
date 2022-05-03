@@ -1,0 +1,20 @@
+{
+  "danceability": 0.431,
+  "energy": 0.167,
+  "key": 2,
+  "loudness": -15.87,
+  "mode": 0,
+  "speechiness": 0.0336,
+  "acousticness": 0.858,
+  "instrumentalness": 0.795,
+  "liveness": 0.123,
+  "valence": 0.085,
+  "tempo": 136.011,
+  "type": "audio_features",
+  "id": "5snEkRKj2zV5vHBaDezdak",
+  "uri": "spotify:track:5snEkRKj2zV5vHBaDezdak",
+  "track_href": "https://api.spotify.com/v1/tracks/5snEkRKj2zV5vHBaDezdak",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5snEkRKj2zV5vHBaDezdak",
+  "duration_ms": 337867,
+  "time_signature": 3
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
+        },
+        "href": "https://api.spotify.com/v1/artists/5E704N5StxMVKpalhaJ5L3",
+        "id": "5E704N5StxMVKpalhaJ5L3",
+        "name": "The Shamen",
+        "type": "artist",
+        "uri": "spotify:artist:5E704N5StxMVKpalhaJ5L3"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4b1lwzHWCdXiMJqHI3l3QV"
+    },
+    "href": "https://api.spotify.com/v1/albums/4b1lwzHWCdXiMJqHI3l3QV",
+    "id": "4b1lwzHWCdXiMJqHI3l3QV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27353367e02b7b8d4b50e480038",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0253367e02b7b8d4b50e480038",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485153367e02b7b8d4b50e480038",
+        "width": 64
+      }
+    ],
+    "name": "Collection",
+    "release_date": "2010-03-09",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:4b1lwzHWCdXiMJqHI3l3QV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
+      },
+      "href": "https://api.spotify.com/v1/artists/5E704N5StxMVKpalhaJ5L3",
+      "id": "5E704N5StxMVKpalhaJ5L3",
+      "name": "The Shamen",
+      "type": "artist",
+      "uri": "spotify:artist:5E704N5StxMVKpalhaJ5L3"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 208560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBTF0400046"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6l26mQLF7A4lu9djfIez7O"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6l26mQLF7A4lu9djfIez7O",
+  "id": "6l26mQLF7A4lu9djfIez7O",
+  "is_local": false,
+  "name": "Move Any Mountain (Beat Edit)",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/9b43eed1f5438a5bb73a3db7a0f6f3d52a9b65cf?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6l26mQLF7A4lu9djfIez7O"
+}

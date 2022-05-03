@@ -1,0 +1,131 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Hog7RVQ1lAv1crdfiJPLq",
+        "id": "3Hog7RVQ1lAv1crdfiJPLq",
+        "name": "Superbus",
+        "type": "artist",
+        "uri": "spotify:artist:3Hog7RVQ1lAv1crdfiJPLq"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "BE",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DK",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "KR",
+      "LK",
+      "LU",
+      "MY",
+      "NO",
+      "PH",
+      "PK",
+      "PT",
+      "RW",
+      "SA",
+      "SG",
+      "SK",
+      "TW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6UBkddK8NwTRZjW5SvYn3g"
+    },
+    "href": "https://api.spotify.com/v1/albums/6UBkddK8NwTRZjW5SvYn3g",
+    "id": "6UBkddK8NwTRZjW5SvYn3g",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f2f592328eb9f8e3c08cfd24",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f2f592328eb9f8e3c08cfd24",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f2f592328eb9f8e3c08cfd24",
+        "width": 64
+      }
+    ],
+    "name": "Lova Lova",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:6UBkddK8NwTRZjW5SvYn3g"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Hog7RVQ1lAv1crdfiJPLq",
+      "id": "3Hog7RVQ1lAv1crdfiJPLq",
+      "name": "Superbus",
+      "type": "artist",
+      "uri": "spotify:artist:3Hog7RVQ1lAv1crdfiJPLq"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "BE",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "DK",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "KR",
+    "LK",
+    "LU",
+    "MY",
+    "NO",
+    "PH",
+    "PK",
+    "PT",
+    "RW",
+    "SA",
+    "SG",
+    "SK",
+    "TW"
+  ],
+  "disc_number": 1,
+  "duration_ms": 248093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM70803010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1uFbFlctUcRDPkXL5qDhTi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1uFbFlctUcRDPkXL5qDhTi",
+  "id": "1uFbFlctUcRDPkXL5qDhTi",
+  "is_local": false,
+  "name": "Apprends Moi",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1uFbFlctUcRDPkXL5qDhTi"
+}

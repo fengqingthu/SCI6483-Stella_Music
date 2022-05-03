@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5IycUH8D1H2hvGOvXkVfYX"
+        },
+        "href": "https://api.spotify.com/v1/artists/5IycUH8D1H2hvGOvXkVfYX",
+        "id": "5IycUH8D1H2hvGOvXkVfYX",
+        "name": "Sturm und Drang",
+        "type": "artist",
+        "uri": "spotify:artist:5IycUH8D1H2hvGOvXkVfYX"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7q6cGt8i603OqtHUNiGdHN"
+    },
+    "href": "https://api.spotify.com/v1/albums/7q6cGt8i603OqtHUNiGdHN",
+    "id": "7q6cGt8i603OqtHUNiGdHN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397200619b8b9477321b69181",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297200619b8b9477321b69181",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197200619b8b9477321b69181",
+        "width": 64
+      }
+    ],
+    "name": "Rock 'n Roll Children",
+    "release_date": "2008-11-10",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:7q6cGt8i603OqtHUNiGdHN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5IycUH8D1H2hvGOvXkVfYX"
+      },
+      "href": "https://api.spotify.com/v1/artists/5IycUH8D1H2hvGOvXkVfYX",
+      "id": "5IycUH8D1H2hvGOvXkVfYX",
+      "name": "Sturm und Drang",
+      "type": "artist",
+      "uri": "spotify:artist:5IycUH8D1H2hvGOvXkVfYX"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 258293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FI3HM0800160"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7oXLxqAhS20qXgMEPCTJ1B"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7oXLxqAhS20qXgMEPCTJ1B",
+  "id": "7oXLxqAhS20qXgMEPCTJ1B",
+  "is_local": false,
+  "name": "A Million Nights",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:7oXLxqAhS20qXgMEPCTJ1B"
+}

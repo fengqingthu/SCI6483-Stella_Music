@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        },
+        "href": "https://api.spotify.com/v1/artists/7sgWBYtJpblXpJl2lU5WVs",
+        "id": "7sgWBYtJpblXpJl2lU5WVs",
+        "name": "Electric Guest",
+        "type": "artist",
+        "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Vk3O4odIVWLzg2hWFfMVy"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Vk3O4odIVWLzg2hWFfMVy",
+    "id": "3Vk3O4odIVWLzg2hWFfMVy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730c208c4065bf9e36d6ef33f8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020c208c4065bf9e36d6ef33f8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510c208c4065bf9e36d6ef33f8",
+        "width": 64
+      }
+    ],
+    "name": "Plural",
+    "release_date": "2017-02-10",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3Vk3O4odIVWLzg2hWFfMVy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+      },
+      "href": "https://api.spotify.com/v1/artists/7sgWBYtJpblXpJl2lU5WVs",
+      "id": "7sgWBYtJpblXpJl2lU5WVs",
+      "name": "Electric Guest",
+      "type": "artist",
+      "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 217586,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71614152"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1DnJlbiELCQcZJwywwBOKC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1DnJlbiELCQcZJwywwBOKC",
+  "id": "1DnJlbiELCQcZJwywwBOKC",
+  "is_local": false,
+  "name": "Oh Devil",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1DnJlbiELCQcZJwywwBOKC"
+}

@@ -1,0 +1,171 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IwGtEVQB7RxflqPCwnkO2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IwGtEVQB7RxflqPCwnkO2",
+        "id": "3IwGtEVQB7RxflqPCwnkO2",
+        "name": "Tony Parker",
+        "type": "artist",
+        "uri": "spotify:artist:3IwGtEVQB7RxflqPCwnkO2"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "BH",
+      "CH",
+      "CI",
+      "CM",
+      "CZ",
+      "DE",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IL",
+      "IS",
+      "JO",
+      "KR",
+      "LB",
+      "LK",
+      "LT",
+      "LV",
+      "MY",
+      "NO",
+      "OM",
+      "PH",
+      "PK",
+      "PT",
+      "QA",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "TR",
+      "TW",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3YgB7VSSY3SmHfolXiUXuL"
+    },
+    "href": "https://api.spotify.com/v1/albums/3YgB7VSSY3SmHfolXiUXuL",
+    "id": "3YgB7VSSY3SmHfolXiUXuL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739133be04c9912b32223434a6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029133be04c9912b32223434a6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519133be04c9912b32223434a6",
+        "width": 64
+      }
+    ],
+    "name": "Tony Parker",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3YgB7VSSY3SmHfolXiUXuL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IwGtEVQB7RxflqPCwnkO2"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IwGtEVQB7RxflqPCwnkO2",
+      "id": "3IwGtEVQB7RxflqPCwnkO2",
+      "name": "Tony Parker",
+      "type": "artist",
+      "uri": "spotify:artist:3IwGtEVQB7RxflqPCwnkO2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3weCDWZ2My3KGz5BRS05tm"
+      },
+      "href": "https://api.spotify.com/v1/artists/3weCDWZ2My3KGz5BRS05tm",
+      "id": "3weCDWZ2My3KGz5BRS05tm",
+      "name": "Rickwel",
+      "type": "artist",
+      "uri": "spotify:artist:3weCDWZ2My3KGz5BRS05tm"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "BH",
+    "CH",
+    "CI",
+    "CM",
+    "CZ",
+    "DE",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IL",
+    "IS",
+    "JO",
+    "KR",
+    "LB",
+    "LK",
+    "LT",
+    "LV",
+    "MY",
+    "NO",
+    "OM",
+    "PH",
+    "PK",
+    "PT",
+    "QA",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "TR",
+    "TW",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 212346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US2DG0700030"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4GGOc2urRBawIxSMrIqGGn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4GGOc2urRBawIxSMrIqGGn",
+  "id": "4GGOc2urRBawIxSMrIqGGn",
+  "is_local": false,
+  "name": "Premier Love",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:4GGOc2urRBawIxSMrIqGGn"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PpBa5lqZ9ppWbtqoo6ZNM"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PpBa5lqZ9ppWbtqoo6ZNM",
+        "id": "5PpBa5lqZ9ppWbtqoo6ZNM",
+        "name": "Johnny Hollow",
+        "type": "artist",
+        "uri": "spotify:artist:5PpBa5lqZ9ppWbtqoo6ZNM"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6E4lqUt1r8fQgJJifyOBq3"
+    },
+    "href": "https://api.spotify.com/v1/albums/6E4lqUt1r8fQgJJifyOBq3",
+    "id": "6E4lqUt1r8fQgJJifyOBq3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735f9f0ff3d2099633b18c2d61",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025f9f0ff3d2099633b18c2d61",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515f9f0ff3d2099633b18c2d61",
+        "width": 64
+      }
+    ],
+    "name": "Dirty Hands (Explicit)",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6E4lqUt1r8fQgJJifyOBq3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5PpBa5lqZ9ppWbtqoo6ZNM"
+      },
+      "href": "https://api.spotify.com/v1/artists/5PpBa5lqZ9ppWbtqoo6ZNM",
+      "id": "5PpBa5lqZ9ppWbtqoo6ZNM",
+      "name": "Johnny Hollow",
+      "type": "artist",
+      "uri": "spotify:artist:5PpBa5lqZ9ppWbtqoo6ZNM"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 191346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAO180700086"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2zReOFAa6slVQhYujoOYBs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2zReOFAa6slVQhYujoOYBs",
+  "id": "2zReOFAa6slVQhYujoOYBs",
+  "is_local": false,
+  "name": "Superhero",
+  "popularity": 17,
+  "preview_url": "https://p.scdn.co/mp3-preview/4ea8e90e45163abfb617e01fe3b26db4c073680e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:2zReOFAa6slVQhYujoOYBs"
+}

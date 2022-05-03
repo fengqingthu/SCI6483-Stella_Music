@@ -1,0 +1,137 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        "href": "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+        "id": "378dH6EszOLFShpRzAQkVM",
+        "name": "Lindsey Stirling",
+        "type": "artist",
+        "uri": "spotify:artist:378dH6EszOLFShpRzAQkVM"
+      }
+    ],
+    "available_markets": [
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "EE",
+      "HR",
+      "HU",
+      "LT",
+      "LV",
+      "ME",
+      "MK",
+      "PL",
+      "RO",
+      "RS",
+      "SI",
+      "SK",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2WmZdgoUrCOxxQIddL3cEl"
+    },
+    "href": "https://api.spotify.com/v1/albums/2WmZdgoUrCOxxQIddL3cEl",
+    "id": "2WmZdgoUrCOxxQIddL3cEl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27313417403d8ecf04cd4f5a14e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0213417403d8ecf04cd4f5a14e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485113417403d8ecf04cd4f5a14e",
+        "width": 64
+      }
+    ],
+    "name": "Shatter Me",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:2WmZdgoUrCOxxQIddL3cEl"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+      },
+      "href": "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+      "id": "378dH6EszOLFShpRzAQkVM",
+      "name": "Lindsey Stirling",
+      "type": "artist",
+      "uri": "spotify:artist:378dH6EszOLFShpRzAQkVM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Nbau9SoiH72jmJdUTqjOY",
+      "id": "3Nbau9SoiH72jmJdUTqjOY",
+      "name": "Lzzy Hale",
+      "type": "artist",
+      "uri": "spotify:artist:3Nbau9SoiH72jmJdUTqjOY"
+    }
+  ],
+  "available_markets": [
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "EE",
+    "HR",
+    "HU",
+    "LT",
+    "LV",
+    "ME",
+    "MK",
+    "PL",
+    "RO",
+    "RS",
+    "SI",
+    "SK",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 280746,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMF921450108"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5fEpel9Vcv7aLTZ363Ct0f"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5fEpel9Vcv7aLTZ363Ct0f",
+  "id": "5fEpel9Vcv7aLTZ363Ct0f",
+  "is_local": false,
+  "name": "Shatter Me",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/eb67f572be61deb0bf2cacce9b4d05891b19965b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5fEpel9Vcv7aLTZ363Ct0f"
+}

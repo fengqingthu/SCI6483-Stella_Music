@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7zW6wPmVLv4JDJM271gbFc"
+        },
+        "href": "https://api.spotify.com/v1/artists/7zW6wPmVLv4JDJM271gbFc",
+        "id": "7zW6wPmVLv4JDJM271gbFc",
+        "name": "Wim Mertens",
+        "type": "artist",
+        "uri": "spotify:artist:7zW6wPmVLv4JDJM271gbFc"
+      }
+    ],
+    "available_markets": [
+      "ES",
+      "PT"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1m77BWGCj8sj1IH2Z16nb7"
+    },
+    "href": "https://api.spotify.com/v1/albums/1m77BWGCj8sj1IH2Z16nb7",
+    "id": "1m77BWGCj8sj1IH2Z16nb7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27366a19d174c27a421ee0d98a8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0266a19d174c27a421ee0d98a8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485166a19d174c27a421ee0d98a8",
+        "width": 64
+      }
+    ],
+    "name": "Maximizing The Audience",
+    "release_date": "1983-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:1m77BWGCj8sj1IH2Z16nb7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7zW6wPmVLv4JDJM271gbFc"
+      },
+      "href": "https://api.spotify.com/v1/artists/7zW6wPmVLv4JDJM271gbFc",
+      "id": "7zW6wPmVLv4JDJM271gbFc",
+      "name": "Wim Mertens",
+      "type": "artist",
+      "uri": "spotify:artist:7zW6wPmVLv4JDJM271gbFc"
+    }
+  ],
+  "available_markets": [
+    "ES",
+    "PT"
+  ],
+  "disc_number": 1,
+  "duration_ms": 711266,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEZ769948003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3a7liPb5wuuB89DH2CEsjT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3a7liPb5wuuB89DH2CEsjT",
+  "id": "3a7liPb5wuuB89DH2CEsjT",
+  "is_local": false,
+  "name": "Maximizing The Audence - version 2007",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/b068147696e012bd4a1e0a28d4692fdc252ba9f4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3a7liPb5wuuB89DH2CEsjT"
+}

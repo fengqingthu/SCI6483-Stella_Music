@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        },
+        "href": "https://api.spotify.com/v1/artists/7AzjETXRUKNRSJHMW9GIqd",
+        "id": "7AzjETXRUKNRSJHMW9GIqd",
+        "name": "Nina Nesbitt",
+        "type": "artist",
+        "uri": "spotify:artist:7AzjETXRUKNRSJHMW9GIqd"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7gVAtWGtP3D6Y5huRmEEvy"
+    },
+    "href": "https://api.spotify.com/v1/albums/7gVAtWGtP3D6Y5huRmEEvy",
+    "id": "7gVAtWGtP3D6Y5huRmEEvy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c385ceab2d6eebaa54d24c01",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c385ceab2d6eebaa54d24c01",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c385ceab2d6eebaa54d24c01",
+        "width": 64
+      }
+    ],
+    "name": "The Sun Will Come Up, The Seasons Will Change",
+    "release_date": "2019-02-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:7gVAtWGtP3D6Y5huRmEEvy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+      },
+      "href": "https://api.spotify.com/v1/artists/7AzjETXRUKNRSJHMW9GIqd",
+      "id": "7AzjETXRUKNRSJHMW9GIqd",
+      "name": "Nina Nesbitt",
+      "type": "artist",
+      "uri": "spotify:artist:7AzjETXRUKNRSJHMW9GIqd"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCEJ1800004"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1LATNENlG0Cm05l7TfSTFT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1LATNENlG0Cm05l7TfSTFT",
+  "id": "1LATNENlG0Cm05l7TfSTFT",
+  "is_local": false,
+  "name": "Is It Really Me You're Missing",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/bef2818893e30f1fd284bde3cb1ea11cc462f3ed?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:1LATNENlG0Cm05l7TfSTFT"
+}

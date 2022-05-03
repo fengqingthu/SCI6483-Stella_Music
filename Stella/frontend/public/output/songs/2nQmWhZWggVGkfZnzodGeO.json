@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href": "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id": "33EUXrFKGjpUSGacqEHhU4",
+        "name": "Iggy Pop",
+        "type": "artist",
+        "uri": "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7i0ZqPj8ggkRo5ZlUMehpX"
+    },
+    "href": "https://api.spotify.com/v1/albums/7i0ZqPj8ggkRo5ZlUMehpX",
+    "id": "7i0ZqPj8ggkRo5ZlUMehpX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bee408687c5888074d80f3a0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bee408687c5888074d80f3a0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bee408687c5888074d80f3a0",
+        "width": 64
+      }
+    ],
+    "name": "Brick By Brick",
+    "release_date": "1990-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:7i0ZqPj8ggkRo5ZlUMehpX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+      },
+      "href": "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+      "id": "33EUXrFKGjpUSGacqEHhU4",
+      "name": "Iggy Pop",
+      "type": "artist",
+      "uri": "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 253493,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVI29000002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2nQmWhZWggVGkfZnzodGeO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2nQmWhZWggVGkfZnzodGeO",
+  "id": "2nQmWhZWggVGkfZnzodGeO",
+  "is_local": false,
+  "name": "Candy",
+  "popularity": 28,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:2nQmWhZWggVGkfZnzodGeO"
+}

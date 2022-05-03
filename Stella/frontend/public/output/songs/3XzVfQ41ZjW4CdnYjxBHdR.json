@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xrDCETyApzUQ6xzcc6QtS",
+        "id": "4xrDCETyApzUQ6xzcc6QtS",
+        "name": "Jack River",
+        "type": "artist",
+        "uri": "spotify:artist:4xrDCETyApzUQ6xzcc6QtS"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4KVX7lLG4QLcdEnkYyWFAE"
+    },
+    "href": "https://api.spotify.com/v1/albums/4KVX7lLG4QLcdEnkYyWFAE",
+    "id": "4KVX7lLG4QLcdEnkYyWFAE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273319d3cc7907f3316ea82f140",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02319d3cc7907f3316ea82f140",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851319d3cc7907f3316ea82f140",
+        "width": 64
+      }
+    ],
+    "name": "Sugar Mountain",
+    "release_date": "2018-06-22",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4KVX7lLG4QLcdEnkYyWFAE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+      },
+      "href": "https://api.spotify.com/v1/artists/4xrDCETyApzUQ6xzcc6QtS",
+      "id": "4xrDCETyApzUQ6xzcc6QtS",
+      "name": "Jack River",
+      "type": "artist",
+      "uri": "spotify:artist:4xrDCETyApzUQ6xzcc6QtS"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 258991,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AULI01711320"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3XzVfQ41ZjW4CdnYjxBHdR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3XzVfQ41ZjW4CdnYjxBHdR",
+  "id": "3XzVfQ41ZjW4CdnYjxBHdR",
+  "is_local": false,
+  "name": "Fool's Gold",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:3XzVfQ41ZjW4CdnYjxBHdR"
+}

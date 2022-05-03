@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk"
+        },
+        "href": "https://api.spotify.com/v1/artists/58nPlJ5CNYu0nGLOuE1Uuk",
+        "id": "58nPlJ5CNYu0nGLOuE1Uuk",
+        "name": "Holger Czukay",
+        "type": "artist",
+        "uri": "spotify:artist:58nPlJ5CNYu0nGLOuE1Uuk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        },
+        "href": "https://api.spotify.com/v1/artists/5jhqwsWfRaETrWPWI0Rc7u",
+        "id": "5jhqwsWfRaETrWPWI0Rc7u",
+        "name": "Jah Wobble",
+        "type": "artist",
+        "uri": "spotify:artist:5jhqwsWfRaETrWPWI0Rc7u"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6fquZ594tl1ndTXdKXwvtb"
+        },
+        "href": "https://api.spotify.com/v1/artists/6fquZ594tl1ndTXdKXwvtb",
+        "id": "6fquZ594tl1ndTXdKXwvtb",
+        "name": "Jaki Liebezeit",
+        "type": "artist",
+        "uri": "spotify:artist:6fquZ594tl1ndTXdKXwvtb"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/33Ne8XWjBH6O4aGwZoQEYG"
+    },
+    "href": "https://api.spotify.com/v1/albums/33Ne8XWjBH6O4aGwZoQEYG",
+    "id": "33Ne8XWjBH6O4aGwZoQEYG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bfa1ef67f06c0be3bd9d4453",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bfa1ef67f06c0be3bd9d4453",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bfa1ef67f06c0be3bd9d4453",
+        "width": 64
+      }
+    ],
+    "name": "Full Circle",
+    "release_date": "1982-02-05",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:33Ne8XWjBH6O4aGwZoQEYG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk"
+      },
+      "href": "https://api.spotify.com/v1/artists/58nPlJ5CNYu0nGLOuE1Uuk",
+      "id": "58nPlJ5CNYu0nGLOuE1Uuk",
+      "name": "Holger Czukay",
+      "type": "artist",
+      "uri": "spotify:artist:58nPlJ5CNYu0nGLOuE1Uuk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+      },
+      "href": "https://api.spotify.com/v1/artists/5jhqwsWfRaETrWPWI0Rc7u",
+      "id": "5jhqwsWfRaETrWPWI0Rc7u",
+      "name": "Jah Wobble",
+      "type": "artist",
+      "uri": "spotify:artist:5jhqwsWfRaETrWPWI0Rc7u"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fquZ594tl1ndTXdKXwvtb"
+      },
+      "href": "https://api.spotify.com/v1/artists/6fquZ594tl1ndTXdKXwvtb",
+      "id": "6fquZ594tl1ndTXdKXwvtb",
+      "name": "Jaki Liebezeit",
+      "type": "artist",
+      "uri": "spotify:artist:6fquZ594tl1ndTXdKXwvtb"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 290573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBLAZ1801155"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/72YtwqiMMaJCdAsngSXVPA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/72YtwqiMMaJCdAsngSXVPA",
+  "id": "72YtwqiMMaJCdAsngSXVPA",
+  "is_local": false,
+  "name": "How Much Are They ?",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/16b75c51d9ec3f11c9308b09dc149df530a7180f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:72YtwqiMMaJCdAsngSXVPA"
+}

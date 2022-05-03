@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rGbODPTIVjzn3CTR6RCzE",
+        "id": "7rGbODPTIVjzn3CTR6RCzE",
+        "name": "Junko Ohashi",
+        "type": "artist",
+        "uri": "spotify:artist:7rGbODPTIVjzn3CTR6RCzE"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4ZU8Zd85xbSpve4xsqynqA"
+    },
+    "href": "https://api.spotify.com/v1/albums/4ZU8Zd85xbSpve4xsqynqA",
+    "id": "4ZU8Zd85xbSpve4xsqynqA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733ceb47b2ea5f9f3799def18b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023ceb47b2ea5f9f3799def18b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513ceb47b2ea5f9f3799def18b",
+        "width": 64
+      }
+    ],
+    "name": "Tea For Tears",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:4ZU8Zd85xbSpve4xsqynqA"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE"
+      },
+      "href": "https://api.spotify.com/v1/artists/7rGbODPTIVjzn3CTR6RCzE",
+      "id": "7rGbODPTIVjzn3CTR6RCzE",
+      "name": "Junko Ohashi",
+      "type": "artist",
+      "uri": "spotify:artist:7rGbODPTIVjzn3CTR6RCzE"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 239013,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPPH08100305"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1suFMNWk7lPoJ6Bz2NqFO1",
+  "id": "1suFMNWk7lPoJ6Bz2NqFO1",
+  "is_local": false,
+  "name": "テレフォン・ナンバー",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1suFMNWk7lPoJ6Bz2NqFO1"
+}

@@ -1,0 +1,20 @@
+{
+  "danceability": 0.677,
+  "energy": 0.484,
+  "key": 9,
+  "loudness": -10.506,
+  "mode": 0,
+  "speechiness": 0.0324,
+  "acousticness": 0.077,
+  "instrumentalness": 0.0000475,
+  "liveness": 0.135,
+  "valence": 0.697,
+  "tempo": 123.534,
+  "type": "audio_features",
+  "id": "79WrmdVsLbwRTUCiH7cPsa",
+  "uri": "spotify:track:79WrmdVsLbwRTUCiH7cPsa",
+  "track_href": "https://api.spotify.com/v1/tracks/79WrmdVsLbwRTUCiH7cPsa",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/79WrmdVsLbwRTUCiH7cPsa",
+  "duration_ms": 247200,
+  "time_signature": 4
+}

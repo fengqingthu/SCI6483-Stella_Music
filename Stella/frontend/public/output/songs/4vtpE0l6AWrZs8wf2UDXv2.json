@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5VTWoYYizcOY3uIKnxeCGI",
+        "id": "5VTWoYYizcOY3uIKnxeCGI",
+        "name": "La Femme",
+        "type": "artist",
+        "uri": "spotify:artist:5VTWoYYizcOY3uIKnxeCGI"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CA",
+      "CH",
+      "FR",
+      "LU",
+      "MC",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6B4yPzIlZOUOxExCczKzT4"
+    },
+    "href": "https://api.spotify.com/v1/albums/6B4yPzIlZOUOxExCczKzT4",
+    "id": "6B4yPzIlZOUOxExCczKzT4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735a036c4a643c077d6db96a72",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025a036c4a643c077d6db96a72",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515a036c4a643c077d6db96a72",
+        "width": 64
+      }
+    ],
+    "name": "Psycho Tropical Berlin",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:6B4yPzIlZOUOxExCczKzT4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+      },
+      "href": "https://api.spotify.com/v1/artists/5VTWoYYizcOY3uIKnxeCGI",
+      "id": "5VTWoYYizcOY3uIKnxeCGI",
+      "name": "La Femme",
+      "type": "artist",
+      "uri": "spotify:artist:5VTWoYYizcOY3uIKnxeCGI"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CA",
+    "CH",
+    "FR",
+    "LU",
+    "MC",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 248840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11302353"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4vtpE0l6AWrZs8wf2UDXv2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4vtpE0l6AWrZs8wf2UDXv2",
+  "id": "4vtpE0l6AWrZs8wf2UDXv2",
+  "is_local": false,
+  "name": "Antitaxi",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/1aa1ced4fda92f0a9d2b5d9e3f9ccd6bc6487c6d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4vtpE0l6AWrZs8wf2UDXv2"
+}

@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Jgp0YCPHCJx5XD7nlfGVN",
+        "id": "1Jgp0YCPHCJx5XD7nlfGVN",
+        "name": "Aesthetic Perfection",
+        "type": "artist",
+        "uri": "spotify:artist:1Jgp0YCPHCJx5XD7nlfGVN"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/69X8oMQit3G12P6FygGRnw"
+    },
+    "href": "https://api.spotify.com/v1/albums/69X8oMQit3G12P6FygGRnw",
+    "id": "69X8oMQit3G12P6FygGRnw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27322eb5a3f5dc4760619baf7d6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0222eb5a3f5dc4760619baf7d6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485122eb5a3f5dc4760619baf7d6",
+        "width": 64
+      }
+    ],
+    "name": "All Beauty Destroyed",
+    "release_date": "2011-11-04",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:69X8oMQit3G12P6FygGRnw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Jgp0YCPHCJx5XD7nlfGVN",
+      "id": "1Jgp0YCPHCJx5XD7nlfGVN",
+      "name": "Aesthetic Perfection",
+      "type": "artist",
+      "uri": "spotify:artist:1Jgp0YCPHCJx5XD7nlfGVN"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEBZ71101044"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2yEhBj3wefIqpZG8WVE49r"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2yEhBj3wefIqpZG8WVE49r",
+  "id": "2yEhBj3wefIqpZG8WVE49r",
+  "is_local": false,
+  "name": "Under Your Skin",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/46a84c420d6fd6061cddd6cfd2132d749e385f98?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:2yEhBj3wefIqpZG8WVE49r"
+}

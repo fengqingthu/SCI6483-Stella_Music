@@ -1,0 +1,121 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+        },
+        "href": "https://api.spotify.com/v1/artists/6g8Jqb5JMfv92eB2r0awTN",
+        "id": "6g8Jqb5JMfv92eB2r0awTN",
+        "name": "Arab Strap",
+        "type": "artist",
+        "uri": "spotify:artist:6g8Jqb5JMfv92eB2r0awTN"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "SV",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5TE0TunG17dIPzrsGZAtjp"
+    },
+    "href": "https://api.spotify.com/v1/albums/5TE0TunG17dIPzrsGZAtjp",
+    "id": "5TE0TunG17dIPzrsGZAtjp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d8d6849445f0ea9ccc85155e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d8d6849445f0ea9ccc85155e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d8d6849445f0ea9ccc85155e",
+        "width": 64
+      }
+    ],
+    "name": "As Days Get Dark",
+    "release_date": "2021-03-05",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5TE0TunG17dIPzrsGZAtjp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+      },
+      "href": "https://api.spotify.com/v1/artists/6g8Jqb5JMfv92eB2r0awTN",
+      "id": "6g8Jqb5JMfv92eB2r0awTN",
+      "name": "Arab Strap",
+      "type": "artist",
+      "uri": "spotify:artist:6g8Jqb5JMfv92eB2r0awTN"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "SV",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 303288,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBGDZ2000086"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/17r1uDdLMueNbfBT0acKfA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/17r1uDdLMueNbfBT0acKfA",
+  "id": "17r1uDdLMueNbfBT0acKfA",
+  "is_local": false,
+  "name": "The Turning of Our Bones",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/285883fb376f804a3b93e6b91dfaac8cc037f16b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:17r1uDdLMueNbfBT0acKfA"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ltJZgIW3OkY5WvuzX5MYz",
+        "id": "5ltJZgIW3OkY5WvuzX5MYz",
+        "name": "Mr Twin Sister",
+        "type": "artist",
+        "uri": "spotify:artist:5ltJZgIW3OkY5WvuzX5MYz"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7rqu7PA882Ywdaxz1ijDOK"
+    },
+    "href": "https://api.spotify.com/v1/albums/7rqu7PA882Ywdaxz1ijDOK",
+    "id": "7rqu7PA882Ywdaxz1ijDOK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bef3c560650695ac8de58023",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bef3c560650695ac8de58023",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bef3c560650695ac8de58023",
+        "width": 64
+      }
+    ],
+    "name": "Salt",
+    "release_date": "2018-11-30",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:7rqu7PA882Ywdaxz1ijDOK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ltJZgIW3OkY5WvuzX5MYz",
+      "id": "5ltJZgIW3OkY5WvuzX5MYz",
+      "name": "Mr Twin Sister",
+      "type": "artist",
+      "uri": "spotify:artist:5ltJZgIW3OkY5WvuzX5MYz"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 267604,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA2B1802360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/36xw5nLD01NrzZbfcS1m6u"
+  },
+  "href": "https://api.spotify.com/v1/tracks/36xw5nLD01NrzZbfcS1m6u",
+  "id": "36xw5nLD01NrzZbfcS1m6u",
+  "is_local": false,
+  "name": "Echo Arms (Bonus Track)",
+  "popularity": 8,
+  "preview_url": "https://p.scdn.co/mp3-preview/181e27ab521386233d44881f1a0aa17b9dc7e68a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:36xw5nLD01NrzZbfcS1m6u"
+}

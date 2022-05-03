@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        },
+        "href": "https://api.spotify.com/v1/artists/497rp5TEzJffeBnUT0BeE1",
+        "id": "497rp5TEzJffeBnUT0BeE1",
+        "name": "Mammal Hands",
+        "type": "artist",
+        "uri": "spotify:artist:497rp5TEzJffeBnUT0BeE1"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0gIdzRcxw4wpz6AbpuKbpk"
+    },
+    "href": "https://api.spotify.com/v1/albums/0gIdzRcxw4wpz6AbpuKbpk",
+    "id": "0gIdzRcxw4wpz6AbpuKbpk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731ce43d76b31cb3baf30b3335",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021ce43d76b31cb3baf30b3335",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511ce43d76b31cb3baf30b3335",
+        "width": 64
+      }
+    ],
+    "name": "SHADOW WORK",
+    "release_date": "2017-11-02",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0gIdzRcxw4wpz6AbpuKbpk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+      },
+      "href": "https://api.spotify.com/v1/artists/497rp5TEzJffeBnUT0BeE1",
+      "id": "497rp5TEzJffeBnUT0BeE1",
+      "name": "Mammal Hands",
+      "type": "artist",
+      "uri": "spotify:artist:497rp5TEzJffeBnUT0BeE1"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 307546,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPS801730371"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Hq3XkSIa6kJ46jJWkSJRh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Hq3XkSIa6kJ46jJWkSJRh",
+  "id": "5Hq3XkSIa6kJ46jJWkSJRh",
+  "is_local": false,
+  "name": "Boreal Forest",
+  "popularity": 7,
+  "preview_url": "https://p.scdn.co/mp3-preview/5bb8bf82f3655a44443a967dbdbbf0f1dd17efb9?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5Hq3XkSIa6kJ46jJWkSJRh"
+}

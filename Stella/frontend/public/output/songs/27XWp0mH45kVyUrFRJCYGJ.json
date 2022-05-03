@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+        },
+        "href": "https://api.spotify.com/v1/artists/7h2Y48bG543JDzEed383cx",
+        "id": "7h2Y48bG543JDzEed383cx",
+        "name": "Tinchy Stryder",
+        "type": "artist",
+        "uri": "spotify:artist:7h2Y48bG543JDzEed383cx"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4Ncq8qENbhYvI1ArSnqdxv"
+    },
+    "href": "https://api.spotify.com/v1/albums/4Ncq8qENbhYvI1ArSnqdxv",
+    "id": "4Ncq8qENbhYvI1ArSnqdxv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733a7f86cd57f1ee30bed87bdc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023a7f86cd57f1ee30bed87bdc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513a7f86cd57f1ee30bed87bdc",
+        "width": 64
+      }
+    ],
+    "name": "Catch 22",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 25,
+    "type": "album",
+    "uri": "spotify:album:4Ncq8qENbhYvI1ArSnqdxv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+      },
+      "href": "https://api.spotify.com/v1/artists/7h2Y48bG543JDzEed383cx",
+      "id": "7h2Y48bG543JDzEed383cx",
+      "name": "Tinchy Stryder",
+      "type": "artist",
+      "uri": "spotify:artist:7h2Y48bG543JDzEed383cx"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230213,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70908594"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/27XWp0mH45kVyUrFRJCYGJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/27XWp0mH45kVyUrFRJCYGJ",
+  "id": "27XWp0mH45kVyUrFRJCYGJ",
+  "is_local": false,
+  "name": "You're Not Alone",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:27XWp0mH45kVyUrFRJCYGJ"
+}

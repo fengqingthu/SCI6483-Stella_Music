@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        },
+        "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin",
+        "id": "3dBVyJ7JuOMt4GE9607Qin",
+        "name": "T. Rex",
+        "type": "artist",
+        "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7wT1X3FR8vE0IL9Bi6GOXE"
+    },
+    "href": "https://api.spotify.com/v1/albums/7wT1X3FR8vE0IL9Bi6GOXE",
+    "id": "7wT1X3FR8vE0IL9Bi6GOXE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27364ea3accaa144c4e66da9ab4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0264ea3accaa144c4e66da9ab4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485164ea3accaa144c4e66da9ab4",
+        "width": 64
+      }
+    ],
+    "name": "20th Century Boy",
+    "release_date": "1973-03-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:7wT1X3FR8vE0IL9Bi6GOXE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin",
+      "id": "3dBVyJ7JuOMt4GE9607Qin",
+      "name": "T. Rex",
+      "type": "artist",
+      "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221346,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFR7310032"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/66hdYurKbEfP74fvWtR7mj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/66hdYurKbEfP74fvWtR7mj",
+  "id": "66hdYurKbEfP74fvWtR7mj",
+  "is_local": false,
+  "name": "20th Century Boy",
+  "popularity": 48,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:66hdYurKbEfP74fvWtR7mj"
+}

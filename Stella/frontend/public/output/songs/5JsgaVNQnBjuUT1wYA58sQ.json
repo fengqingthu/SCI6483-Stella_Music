@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+        },
+        "href": "https://api.spotify.com/v1/artists/12FFWdcxApUNXV9TljwDpT",
+        "id": "12FFWdcxApUNXV9TljwDpT",
+        "name": "Gheorghe Zamfir",
+        "type": "artist",
+        "uri": "spotify:artist:12FFWdcxApUNXV9TljwDpT"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/72NLuL8RyHpwK8Y4F1GkYL"
+    },
+    "href": "https://api.spotify.com/v1/albums/72NLuL8RyHpwK8Y4F1GkYL",
+    "id": "72NLuL8RyHpwK8Y4F1GkYL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739914acd198dc43d499fd2cf1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029914acd198dc43d499fd2cf1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519914acd198dc43d499fd2cf1",
+        "width": 64
+      }
+    ],
+    "name": "Spotlight On Gheorghe Zamfir",
+    "release_date": "1991-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:72NLuL8RyHpwK8Y4F1GkYL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+      },
+      "href": "https://api.spotify.com/v1/artists/12FFWdcxApUNXV9TljwDpT",
+      "id": "12FFWdcxApUNXV9TljwDpT",
+      "name": "Gheorghe Zamfir",
+      "type": "artist",
+      "uri": "spotify:artist:12FFWdcxApUNXV9TljwDpT"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 202453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ037800830"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5JsgaVNQnBjuUT1wYA58sQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5JsgaVNQnBjuUT1wYA58sQ",
+  "id": "5JsgaVNQnBjuUT1wYA58sQ",
+  "is_local": false,
+  "name": "Theme From Limelight",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 16,
+  "type": "track",
+  "uri": "spotify:track:5JsgaVNQnBjuUT1wYA58sQ"
+}

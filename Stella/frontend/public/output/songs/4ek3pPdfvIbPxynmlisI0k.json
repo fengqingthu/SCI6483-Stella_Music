@@ -1,0 +1,157 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        },
+        "href": "https://api.spotify.com/v1/artists/7giUHu5pv6YTZgSkxxCcgh",
+        "id": "7giUHu5pv6YTZgSkxxCcgh",
+        "name": "Edward Sharpe & The Magnetic Zeros",
+        "type": "artist",
+        "uri": "spotify:artist:7giUHu5pv6YTZgSkxxCcgh"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "AU",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "JP",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "NZ",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
+    },
+    "href": "https://api.spotify.com/v1/albums/71eRIPUemoGlRpNryhlZjU",
+    "id": "71eRIPUemoGlRpNryhlZjU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27374a6778deef25cbf7195dfb6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0274a6778deef25cbf7195dfb6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485174a6778deef25cbf7195dfb6",
+        "width": 64
+      }
+    ],
+    "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+    "release_date": "2009-07-07",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:71eRIPUemoGlRpNryhlZjU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+      },
+      "href": "https://api.spotify.com/v1/artists/7giUHu5pv6YTZgSkxxCcgh",
+      "id": "7giUHu5pv6YTZgSkxxCcgh",
+      "name": "Edward Sharpe & The Magnetic Zeros",
+      "type": "artist",
+      "uri": "spotify:artist:7giUHu5pv6YTZgSkxxCcgh"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "AU",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "JP",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "NZ",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 232690,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMRSZ1901638"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4ek3pPdfvIbPxynmlisI0k",
+  "id": "4ek3pPdfvIbPxynmlisI0k",
+  "is_local": false,
+  "name": "40 Day Dream - 2019 - Remaster",
+  "popularity": 56,
+  "preview_url": "https://p.scdn.co/mp3-preview/87ee2605e88aaca835d08699805855e5ca5e4982?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4ek3pPdfvIbPxynmlisI0k"
+}

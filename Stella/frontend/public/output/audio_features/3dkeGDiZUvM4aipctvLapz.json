@@ -1,0 +1,20 @@
+{
+  "danceability": 0.549,
+  "energy": 0.831,
+  "key": 0,
+  "loudness": -9.242,
+  "mode": 1,
+  "speechiness": 0.0296,
+  "acousticness": 0.0000286,
+  "instrumentalness": 0.949,
+  "liveness": 0.667,
+  "valence": 0.746,
+  "tempo": 140.008,
+  "type": "audio_features",
+  "id": "3dkeGDiZUvM4aipctvLapz",
+  "uri": "spotify:track:3dkeGDiZUvM4aipctvLapz",
+  "track_href": "https://api.spotify.com/v1/tracks/3dkeGDiZUvM4aipctvLapz",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dkeGDiZUvM4aipctvLapz",
+  "duration_ms": 189933,
+  "time_signature": 4
+}

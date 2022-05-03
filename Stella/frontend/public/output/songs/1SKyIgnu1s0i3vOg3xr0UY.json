@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YUnxm6tbifgKCxJOZt0Hi"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YUnxm6tbifgKCxJOZt0Hi",
+        "id": "2YUnxm6tbifgKCxJOZt0Hi",
+        "name": "Sad Alice Said",
+        "type": "artist",
+        "uri": "spotify:artist:2YUnxm6tbifgKCxJOZt0Hi"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/58VDG8vYXyLK9hRulQRrCf"
+    },
+    "href": "https://api.spotify.com/v1/albums/58VDG8vYXyLK9hRulQRrCf",
+    "id": "58VDG8vYXyLK9hRulQRrCf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27359aaf4dd3e07ea19cf09ddcc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0259aaf4dd3e07ea19cf09ddcc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485159aaf4dd3e07ea19cf09ddcc",
+        "width": 64
+      }
+    ],
+    "name": "Yesterday's Tommorrow",
+    "release_date": "2013-07-03",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:58VDG8vYXyLK9hRulQRrCf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YUnxm6tbifgKCxJOZt0Hi"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YUnxm6tbifgKCxJOZt0Hi",
+      "id": "2YUnxm6tbifgKCxJOZt0Hi",
+      "name": "Sad Alice Said",
+      "type": "artist",
+      "uri": "spotify:artist:2YUnxm6tbifgKCxJOZt0Hi"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 273548,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "AUR621100110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1SKyIgnu1s0i3vOg3xr0UY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1SKyIgnu1s0i3vOg3xr0UY",
+  "id": "1SKyIgnu1s0i3vOg3xr0UY",
+  "is_local": false,
+  "name": "Open Your Eyes",
+  "popularity": 0,
+  "preview_url": "https://p.scdn.co/mp3-preview/e0d3c1676bd97fee02f4de31bb502a8a152713a2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1SKyIgnu1s0i3vOg3xr0UY"
+}

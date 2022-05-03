@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6e9wIFWhBPHLE9bXK8gtBI",
+        "id": "6e9wIFWhBPHLE9bXK8gtBI",
+        "name": "Editors",
+        "type": "artist",
+        "uri": "spotify:artist:6e9wIFWhBPHLE9bXK8gtBI"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6uFPkJhAQcRl3Wvh4m25Ac"
+    },
+    "href": "https://api.spotify.com/v1/albums/6uFPkJhAQcRl3Wvh4m25Ac",
+    "id": "6uFPkJhAQcRl3Wvh4m25Ac",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a860003f87d6e7e6d9e7453d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a860003f87d6e7e6d9e7453d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a860003f87d6e7e6d9e7453d",
+        "width": 64
+      }
+    ],
+    "name": "The Back Room",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6uFPkJhAQcRl3Wvh4m25Ac"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6e9wIFWhBPHLE9bXK8gtBI",
+      "id": "6e9wIFWhBPHLE9bXK8gtBI",
+      "name": "Editors",
+      "type": "artist",
+      "uri": "spotify:artist:6e9wIFWhBPHLE9bXK8gtBI"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBGAC0500001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7lgYfxx7ommrhxdCixLwMh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7lgYfxx7ommrhxdCixLwMh",
+  "id": "7lgYfxx7ommrhxdCixLwMh",
+  "is_local": false,
+  "name": "Munich",
+  "popularity": 34,
+  "preview_url": "https://p.scdn.co/mp3-preview/44f685990561c09e26b8f682abe8aca82f49c483?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7lgYfxx7ommrhxdCixLwMh"
+}

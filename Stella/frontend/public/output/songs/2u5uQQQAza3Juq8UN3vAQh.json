@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl"
+        },
+        "href": "https://api.spotify.com/v1/artists/06kr5yNAM2rOf4DXemM8fl",
+        "id": "06kr5yNAM2rOf4DXemM8fl",
+        "name": "Matt Monro",
+        "type": "artist",
+        "uri": "spotify:artist:06kr5yNAM2rOf4DXemM8fl"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0Zsxrb1bkv7VBXBm6Xp7oh"
+    },
+    "href": "https://api.spotify.com/v1/albums/0Zsxrb1bkv7VBXBm6Xp7oh",
+    "id": "0Zsxrb1bkv7VBXBm6Xp7oh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fbb7a5f9fc547fbe06de2f2f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fbb7a5f9fc547fbe06de2f2f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fbb7a5f9fc547fbe06de2f2f",
+        "width": 64
+      }
+    ],
+    "name": "Softly As I Leave You",
+    "release_date": "1987",
+    "release_date_precision": "year",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:0Zsxrb1bkv7VBXBm6Xp7oh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl"
+      },
+      "href": "https://api.spotify.com/v1/artists/06kr5yNAM2rOf4DXemM8fl",
+      "id": "06kr5yNAM2rOf4DXemM8fl",
+      "name": "Matt Monro",
+      "type": "artist",
+      "uri": "spotify:artist:06kr5yNAM2rOf4DXemM8fl"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 224000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USCA26900141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2u5uQQQAza3Juq8UN3vAQh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2u5uQQQAza3Juq8UN3vAQh",
+  "id": "2u5uQQQAza3Juq8UN3vAQh",
+  "is_local": false,
+  "name": "On Days Like These",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2u5uQQQAza3Juq8UN3vAQh"
+}

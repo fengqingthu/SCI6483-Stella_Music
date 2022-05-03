@@ -1,0 +1,193 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ujtf16xyDe6upgQpNNSWo"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ujtf16xyDe6upgQpNNSWo",
+        "id": "0ujtf16xyDe6upgQpNNSWo",
+        "name": "Alex Beaupain",
+        "type": "artist",
+        "uri": "spotify:artist:0ujtf16xyDe6upgQpNNSWo"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BF",
+      "BH",
+      "BJ",
+      "BR",
+      "CG",
+      "CH",
+      "DE",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "HU",
+      "IE",
+      "IQ",
+      "IS",
+      "IT",
+      "JO",
+      "KW",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MG",
+      "ML",
+      "MU",
+      "MY",
+      "NE",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PT",
+      "QA",
+      "SA",
+      "SE",
+      "SN",
+      "TD",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1IvPmOL7htIdbRLJYl6aoO"
+    },
+    "href": "https://api.spotify.com/v1/albums/1IvPmOL7htIdbRLJYl6aoO",
+    "id": "1IvPmOL7htIdbRLJYl6aoO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6ccf9eeed9b8710aefcb541",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6ccf9eeed9b8710aefcb541",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d6ccf9eeed9b8710aefcb541",
+        "width": 64
+      }
+    ],
+    "name": "Pourquoi Battait Mon Coeur",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1IvPmOL7htIdbRLJYl6aoO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ujtf16xyDe6upgQpNNSWo"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ujtf16xyDe6upgQpNNSWo",
+      "id": "0ujtf16xyDe6upgQpNNSWo",
+      "name": "Alex Beaupain",
+      "type": "artist",
+      "uri": "spotify:artist:0ujtf16xyDe6upgQpNNSWo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XkCa3HcntokIgOP5N3QO7",
+      "id": "2XkCa3HcntokIgOP5N3QO7",
+      "name": "Camélia Jordana",
+      "type": "artist",
+      "uri": "spotify:artist:2XkCa3HcntokIgOP5N3QO7"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "AT",
+    "AU",
+    "BE",
+    "BF",
+    "BH",
+    "BJ",
+    "BR",
+    "CG",
+    "CH",
+    "DE",
+    "DK",
+    "DZ",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "HU",
+    "IE",
+    "IQ",
+    "IS",
+    "IT",
+    "JO",
+    "KW",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "MC",
+    "MG",
+    "ML",
+    "MU",
+    "MY",
+    "NE",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PT",
+    "QA",
+    "SA",
+    "SE",
+    "SN",
+    "TD",
+    "TN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 202866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR47Q1100360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3vzDmHyt3FAhgorp26PRuM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3vzDmHyt3FAhgorp26PRuM",
+  "id": "3vzDmHyt3FAhgorp26PRuM",
+  "is_local": false,
+  "name": "Avant La Haine",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:3vzDmHyt3FAhgorp26PRuM"
+}

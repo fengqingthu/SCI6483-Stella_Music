@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ogwGU9VPWrnVBs1GEwZVV",
+        "id": "4ogwGU9VPWrnVBs1GEwZVV",
+        "name": "Temples",
+        "type": "artist",
+        "uri": "spotify:artist:4ogwGU9VPWrnVBs1GEwZVV"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
+    },
+    "href": "https://api.spotify.com/v1/albums/5lAMuAXEsJekTC4MbBRax1",
+    "id": "5lAMuAXEsJekTC4MbBRax1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273916e12e15aab27c2a457c5b0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02916e12e15aab27c2a457c5b0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851916e12e15aab27c2a457c5b0",
+        "width": 64
+      }
+    ],
+    "name": "Paraphernalia",
+    "release_date": "2020-09-02",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5lAMuAXEsJekTC4MbBRax1"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ogwGU9VPWrnVBs1GEwZVV",
+      "id": "4ogwGU9VPWrnVBs1GEwZVV",
+      "name": "Temples",
+      "type": "artist",
+      "uri": "spotify:artist:4ogwGU9VPWrnVBs1GEwZVV"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 263453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USATO2000288"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
+  },
+  "href": "https://api.spotify.com/v1/tracks/19hgVvXQ8RyP5RtCkoUk5C",
+  "id": "19hgVvXQ8RyP5RtCkoUk5C",
+  "is_local": false,
+  "name": "Paraphernalia",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:19hgVvXQ8RyP5RtCkoUk5C"
+}

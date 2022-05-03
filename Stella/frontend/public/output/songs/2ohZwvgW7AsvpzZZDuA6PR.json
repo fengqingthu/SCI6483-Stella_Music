@@ -1,0 +1,137 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        "href": "https://api.spotify.com/v1/artists/16rJDrSGCHMXjPUuKwQcvp",
+        "id": "16rJDrSGCHMXjPUuKwQcvp",
+        "name": "Lea Michele",
+        "type": "artist",
+        "uri": "spotify:artist:16rJDrSGCHMXjPUuKwQcvp"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "BE",
+      "BH",
+      "BN",
+      "CH",
+      "DZ",
+      "EG",
+      "FR",
+      "HK",
+      "IQ",
+      "JO",
+      "KW",
+      "LB",
+      "LI",
+      "LU",
+      "LY",
+      "MA",
+      "MC",
+      "MO",
+      "MY",
+      "OM",
+      "PS",
+      "QA",
+      "SA",
+      "SG",
+      "TN",
+      "TW",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn"
+    },
+    "href": "https://api.spotify.com/v1/albums/7k4nnfwAaujt4e3OWtJPqn",
+    "id": "7k4nnfwAaujt4e3OWtJPqn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731189f188abf048824e682530",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021189f188abf048824e682530",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511189f188abf048824e682530",
+        "width": 64
+      }
+    ],
+    "name": "Louder",
+    "release_date": "2014-02-26",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7k4nnfwAaujt4e3OWtJPqn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+      },
+      "href": "https://api.spotify.com/v1/artists/16rJDrSGCHMXjPUuKwQcvp",
+      "id": "16rJDrSGCHMXjPUuKwQcvp",
+      "name": "Lea Michele",
+      "type": "artist",
+      "uri": "spotify:artist:16rJDrSGCHMXjPUuKwQcvp"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "BE",
+    "BH",
+    "BN",
+    "CH",
+    "DZ",
+    "EG",
+    "FR",
+    "HK",
+    "IQ",
+    "JO",
+    "KW",
+    "LB",
+    "LI",
+    "LU",
+    "LY",
+    "MA",
+    "MC",
+    "MO",
+    "MY",
+    "OM",
+    "PS",
+    "QA",
+    "SA",
+    "SG",
+    "TN",
+    "TW",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215426,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSM11306878"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2ohZwvgW7AsvpzZZDuA6PR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2ohZwvgW7AsvpzZZDuA6PR",
+  "id": "2ohZwvgW7AsvpzZZDuA6PR",
+  "is_local": false,
+  "name": "Cannonball",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/739651ae1c7e27b6228b869cc5a3d4901928524f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2ohZwvgW7AsvpzZZDuA6PR"
+}

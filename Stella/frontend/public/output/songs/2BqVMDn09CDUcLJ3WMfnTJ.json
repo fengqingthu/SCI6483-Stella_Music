@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gZRt9wlRx1IsxT9glJdrc",
+        "id": "4gZRt9wlRx1IsxT9glJdrc",
+        "name": "Julia Stone",
+        "type": "artist",
+        "uri": "spotify:artist:4gZRt9wlRx1IsxT9glJdrc"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6P6NtBAjm5WTLLe7cwo0rw"
+    },
+    "href": "https://api.spotify.com/v1/albums/6P6NtBAjm5WTLLe7cwo0rw",
+    "id": "6P6NtBAjm5WTLLe7cwo0rw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273219cc42e33e483bcf2de56ff",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02219cc42e33e483bcf2de56ff",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851219cc42e33e483bcf2de56ff",
+        "width": 64
+      }
+    ],
+    "name": "By The Horns",
+    "release_date": "2012-03-12",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6P6NtBAjm5WTLLe7cwo0rw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gZRt9wlRx1IsxT9glJdrc",
+      "id": "4gZRt9wlRx1IsxT9glJdrc",
+      "name": "Julia Stone",
+      "type": "artist",
+      "uri": "spotify:artist:4gZRt9wlRx1IsxT9glJdrc"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192794,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUAP11200051"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2BqVMDn09CDUcLJ3WMfnTJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2BqVMDn09CDUcLJ3WMfnTJ",
+  "id": "2BqVMDn09CDUcLJ3WMfnTJ",
+  "is_local": false,
+  "name": "You're The One That I Want",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/924ccaae979b28a3c0cac0975f0eade723bd79e3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:2BqVMDn09CDUcLJ3WMfnTJ"
+}

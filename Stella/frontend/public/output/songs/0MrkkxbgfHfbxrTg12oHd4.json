@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        },
+        "href": "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+        "id": "166Dz1GX3xonSQ3Z6CQW26",
+        "name": "The Rapture",
+        "type": "artist",
+        "uri": "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "FR",
+      "GB",
+      "HK",
+      "IE",
+      "KR",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "TW",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh"
+    },
+    "href": "https://api.spotify.com/v1/albums/1htTXDHC2YhVq0xTwHzaHh",
+    "id": "1htTXDHC2YhVq0xTwHzaHh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a835a967bdab870847f299e0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a835a967bdab870847f299e0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a835a967bdab870847f299e0",
+        "width": 64
+      }
+    ],
+    "name": "Echoes",
+    "release_date": "2003-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1htTXDHC2YhVq0xTwHzaHh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+      },
+      "href": "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+      "id": "166Dz1GX3xonSQ3Z6CQW26",
+      "name": "The Rapture",
+      "type": "artist",
+      "uri": "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "FR",
+    "GB",
+    "HK",
+    "IE",
+    "KR",
+    "MY",
+    "PH",
+    "SG",
+    "TH",
+    "TW",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 304738,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF080300283"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0MrkkxbgfHfbxrTg12oHd4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0MrkkxbgfHfbxrTg12oHd4",
+  "id": "0MrkkxbgfHfbxrTg12oHd4",
+  "is_local": false,
+  "name": "House Of Jealous Lovers",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:0MrkkxbgfHfbxrTg12oHd4"
+}

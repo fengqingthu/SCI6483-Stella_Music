@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        },
+        "href": "https://api.spotify.com/v1/artists/1joFZGTRER78nUsWtgHCHR",
+        "id": "1joFZGTRER78nUsWtgHCHR",
+        "name": "Rachel Portman",
+        "type": "artist",
+        "uri": "spotify:artist:1joFZGTRER78nUsWtgHCHR"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0QAPmRKR4Ou0kKyPFS7qxw"
+    },
+    "href": "https://api.spotify.com/v1/albums/0QAPmRKR4Ou0kKyPFS7qxw",
+    "id": "0QAPmRKR4Ou0kKyPFS7qxw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273150a1501e92935f4952544b1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02150a1501e92935f4952544b1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851150a1501e92935f4952544b1",
+        "width": 64
+      }
+    ],
+    "name": "One Day OST (Original Score)",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:0QAPmRKR4Ou0kKyPFS7qxw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1joFZGTRER78nUsWtgHCHR",
+      "id": "1joFZGTRER78nUsWtgHCHR",
+      "name": "Rachel Portman",
+      "type": "artist",
+      "uri": "spotify:artist:1joFZGTRER78nUsWtgHCHR"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 224240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71106186"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1TaFqhHJpgSuMD099JQpCi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1TaFqhHJpgSuMD099JQpCi",
+  "id": "1TaFqhHJpgSuMD099JQpCi",
+  "is_local": false,
+  "name": "We Had Today",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 20,
+  "type": "track",
+  "uri": "spotify:track:1TaFqhHJpgSuMD099JQpCi"
+}

@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+        },
+        "href": "https://api.spotify.com/v1/artists/31HjiqargV4NAw4GZqUale",
+        "id": "31HjiqargV4NAw4GZqUale",
+        "name": "Ace Hood",
+        "type": "artist",
+        "uri": "spotify:artist:31HjiqargV4NAw4GZqUale"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/64k1x2JZhoJoh9dyldECx4"
+    },
+    "href": "https://api.spotify.com/v1/albums/64k1x2JZhoJoh9dyldECx4",
+    "id": "64k1x2JZhoJoh9dyldECx4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739ab889fff31b30b871dc8d1d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029ab889fff31b30b871dc8d1d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519ab889fff31b30b871dc8d1d",
+        "width": 64
+      }
+    ],
+    "name": "Blood Sweat & Tears (Deluxe)",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:64k1x2JZhoJoh9dyldECx4"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+      },
+      "href": "https://api.spotify.com/v1/artists/31HjiqargV4NAw4GZqUale",
+      "id": "31HjiqargV4NAw4GZqUale",
+      "name": "Ace Hood",
+      "type": "artist",
+      "uri": "spotify:artist:31HjiqargV4NAw4GZqUale"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+      },
+      "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+      "id": "1sBkRIssrMs1AbVkOJbc7a",
+      "name": "Rick Ross",
+      "type": "artist",
+      "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id": "55Aa2cqylxrFIXC767Z865",
+      "name": "Lil Wayne",
+      "type": "artist",
+      "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 285693,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "USUM71104921"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/68LR4RQ7JLHwRodWxPOB0k"
+  },
+  "href": "https://api.spotify.com/v1/tracks/68LR4RQ7JLHwRodWxPOB0k",
+  "id": "68LR4RQ7JLHwRodWxPOB0k",
+  "is_local": false,
+  "name": "Hustle Hard Remix",
+  "popularity": 52,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:68LR4RQ7JLHwRodWxPOB0k"
+}

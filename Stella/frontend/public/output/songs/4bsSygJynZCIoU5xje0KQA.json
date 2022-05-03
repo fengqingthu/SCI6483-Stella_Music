@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
+        },
+        "href": "https://api.spotify.com/v1/artists/3avnNpfPFjWpj84R8Jaqbr",
+        "id": "3avnNpfPFjWpj84R8Jaqbr",
+        "name": "Kaolin",
+        "type": "artist",
+        "uri": "spotify:artist:3avnNpfPFjWpj84R8Jaqbr"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
+    },
+    "href": "https://api.spotify.com/v1/albums/6isztb4hV9Ad2u6NUhK5l0",
+    "id": "6isztb4hV9Ad2u6NUhK5l0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734da473371e0943c89767fa70",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024da473371e0943c89767fa70",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514da473371e0943c89767fa70",
+        "width": 64
+      }
+    ],
+    "name": "Mélanger les couleurs",
+    "release_date": "2006-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6isztb4hV9Ad2u6NUhK5l0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3avnNpfPFjWpj84R8Jaqbr",
+      "id": "3avnNpfPFjWpj84R8Jaqbr",
+      "name": "Kaolin",
+      "type": "artist",
+      "uri": "spotify:artist:3avnNpfPFjWpj84R8Jaqbr"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 241146,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR6V80607632"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4bsSygJynZCIoU5xje0KQA",
+  "id": "4bsSygJynZCIoU5xje0KQA",
+  "is_local": false,
+  "name": "Partons vite",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/221d9cd5b34ab9575f4e00fc197a4f367e8b20d7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4bsSygJynZCIoU5xje0KQA"
+}

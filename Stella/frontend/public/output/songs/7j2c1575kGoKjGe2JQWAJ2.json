@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        },
+        "href": "https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t",
+        "id": "6GuRYj1MEnu1WZhDA2Xy0t",
+        "name": "The London Suede",
+        "type": "artist",
+        "uri": "spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/03SdAKm8cdH2jeKKyTiYvc"
+    },
+    "href": "https://api.spotify.com/v1/albums/03SdAKm8cdH2jeKKyTiYvc",
+    "id": "03SdAKm8cdH2jeKKyTiYvc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ad76ac1667f260da7a930baa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ad76ac1667f260da7a930baa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ad76ac1667f260da7a930baa",
+        "width": 64
+      }
+    ],
+    "name": "Head Music (Remastered)",
+    "release_date": "1999-05-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:03SdAKm8cdH2jeKKyTiYvc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+      },
+      "href": "https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t",
+      "id": "6GuRYj1MEnu1WZhDA2Xy0t",
+      "name": "The London Suede",
+      "type": "artist",
+      "uri": "spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 293053,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBL2J1000153"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7j2c1575kGoKjGe2JQWAJ2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7j2c1575kGoKjGe2JQWAJ2",
+  "id": "7j2c1575kGoKjGe2JQWAJ2",
+  "is_local": false,
+  "name": "She’s In Fashion (Remastered)",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/b399746597068c529f0c8229f70adad6d67d41d5?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:7j2c1575kGoKjGe2JQWAJ2"
+}

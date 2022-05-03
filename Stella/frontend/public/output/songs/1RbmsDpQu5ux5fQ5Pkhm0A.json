@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oJ3WVkGXRBtRC0YaqMKxU",
+        "id": "4oJ3WVkGXRBtRC0YaqMKxU",
+        "name": "Niagara",
+        "type": "artist",
+        "uri": "spotify:artist:4oJ3WVkGXRBtRC0YaqMKxU"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "FR",
+      "GB",
+      "JP",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN"
+    },
+    "href": "https://api.spotify.com/v1/albums/1fNkoxAk0qg1tWuqDkKDDN",
+    "id": "1fNkoxAk0qg1tWuqDkKDDN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273600057c91d5f2f6fb766ac32",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02600057c91d5f2f6fb766ac32",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851600057c91d5f2f6fb766ac32",
+        "width": 64
+      }
+    ],
+    "name": "Encore un dernier baiser",
+    "release_date": "1986-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1fNkoxAk0qg1tWuqDkKDDN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU"
+      },
+      "href": "https://api.spotify.com/v1/artists/4oJ3WVkGXRBtRC0YaqMKxU",
+      "id": "4oJ3WVkGXRBtRC0YaqMKxU",
+      "name": "Niagara",
+      "type": "artist",
+      "uri": "spotify:artist:4oJ3WVkGXRBtRC0YaqMKxU"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "FR",
+    "GB",
+    "JP",
+    "MX",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ028700050"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1RbmsDpQu5ux5fQ5Pkhm0A"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1RbmsDpQu5ux5fQ5Pkhm0A",
+  "id": "1RbmsDpQu5ux5fQ5Pkhm0A",
+  "is_local": false,
+  "name": "Quand la ville dort",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:1RbmsDpQu5ux5fQ5Pkhm0A"
+}

@@ -1,0 +1,181 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex"
+        },
+        "href": "https://api.spotify.com/v1/artists/5oyNl4KxsjkVfyvnwcl8ex",
+        "id": "5oyNl4KxsjkVfyvnwcl8ex",
+        "name": "François de Roubaix",
+        "type": "artist",
+        "uri": "spotify:artist:5oyNl4KxsjkVfyvnwcl8ex"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BH",
+      "CH",
+      "CI",
+      "CM",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GN",
+      "GR",
+      "HK",
+      "ID",
+      "IE",
+      "IL",
+      "IT",
+      "JO",
+      "JP",
+      "LB",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "MY",
+      "NL",
+      "NO",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PL",
+      "PT",
+      "QA",
+      "RW",
+      "SA",
+      "SE",
+      "SG",
+      "SK",
+      "TN",
+      "TW",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/69pLCVA7S9z3LEvA4u0aIh"
+    },
+    "href": "https://api.spotify.com/v1/albums/69pLCVA7S9z3LEvA4u0aIh",
+    "id": "69pLCVA7S9z3LEvA4u0aIh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273019bbd22b1276d4b59f114e7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02019bbd22b1276d4b59f114e7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851019bbd22b1276d4b59f114e7",
+        "width": 64
+      }
+    ],
+    "name": "Dernier Domicile Connu Et Autres Films (Le Rapace - Un Aller Simple)",
+    "release_date": "2002-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:69pLCVA7S9z3LEvA4u0aIh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex"
+      },
+      "href": "https://api.spotify.com/v1/artists/5oyNl4KxsjkVfyvnwcl8ex",
+      "id": "5oyNl4KxsjkVfyvnwcl8ex",
+      "name": "François de Roubaix",
+      "type": "artist",
+      "uri": "spotify:artist:5oyNl4KxsjkVfyvnwcl8ex"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "AU",
+    "BE",
+    "BG",
+    "BH",
+    "CH",
+    "CI",
+    "CM",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GN",
+    "GR",
+    "HK",
+    "ID",
+    "IE",
+    "IL",
+    "IT",
+    "JO",
+    "JP",
+    "LB",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "MY",
+    "NL",
+    "NO",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PL",
+    "PT",
+    "QA",
+    "RW",
+    "SA",
+    "SE",
+    "SG",
+    "SK",
+    "TN",
+    "TW",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 234853,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CH1956980210"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1iBF9A9VgSYOxhAhSlxJ5F"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1iBF9A9VgSYOxhAhSlxJ5F",
+  "id": "1iBF9A9VgSYOxhAhSlxJ5F",
+  "is_local": false,
+  "name": "Dernier domicile connu - Bande originale du film \"Dernier domicile connu\"",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1iBF9A9VgSYOxhAhSlxJ5F"
+}

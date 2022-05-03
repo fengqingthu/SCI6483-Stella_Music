@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "BS",
+      "GB",
+      "IE",
+      "SB",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1yPXM9X5YwsXLKPPPSxvFw"
+    },
+    "href": "https://api.spotify.com/v1/albums/1yPXM9X5YwsXLKPPPSxvFw",
+    "id": "1yPXM9X5YwsXLKPPPSxvFw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737d1b133e8d317029edc906bc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027d1b133e8d317029edc906bc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517d1b133e8d317029edc906bc",
+        "width": 64
+      }
+    ],
+    "name": "Positiva Presents.....Track Record Vol. 2",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:1yPXM9X5YwsXLKPPPSxvFw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
+      },
+      "href": "https://api.spotify.com/v1/artists/1RSKoT6hnzaLjvL0LCF0ew",
+      "id": "1RSKoT6hnzaLjvL0LCF0ew",
+      "name": "DJ Quicksilver",
+      "type": "artist",
+      "uri": "spotify:artist:1RSKoT6hnzaLjvL0LCF0ew"
+    }
+  ],
+  "available_markets": [
+    "BS",
+    "GB",
+    "IE",
+    "SB",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 195413,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAYE9600050"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4DlBWTvCbAwabrih6HNqjU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4DlBWTvCbAwabrih6HNqjU",
+  "id": "4DlBWTvCbAwabrih6HNqjU",
+  "is_local": false,
+  "name": "Bellissima - Radio Edit",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/b84f8eac9729d5ea0c9c2a97b5555daa155687fd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:4DlBWTvCbAwabrih6HNqjU"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hrWpLNoJcs1EnWSXvB6JI",
+        "id": "2hrWpLNoJcs1EnWSXvB6JI",
+        "name": "The Rubens",
+        "type": "artist",
+        "uri": "spotify:artist:2hrWpLNoJcs1EnWSXvB6JI"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/72fBGde7iP4uQohlRCvuef"
+    },
+    "href": "https://api.spotify.com/v1/albums/72fBGde7iP4uQohlRCvuef",
+    "id": "72fBGde7iP4uQohlRCvuef",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735dd892f0dd951a65d233f41d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025dd892f0dd951a65d233f41d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515dd892f0dd951a65d233f41d",
+        "width": 64
+      }
+    ],
+    "name": "0202",
+    "release_date": "2021-02-12",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:72fBGde7iP4uQohlRCvuef"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2hrWpLNoJcs1EnWSXvB6JI",
+      "id": "2hrWpLNoJcs1EnWSXvB6JI",
+      "name": "The Rubens",
+      "type": "artist",
+      "uri": "spotify:artist:2hrWpLNoJcs1EnWSXvB6JI"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 215520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AULI01927530"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0k5NkSR70pw7ONsZ2MYU1s"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0k5NkSR70pw7ONsZ2MYU1s",
+  "id": "0k5NkSR70pw7ONsZ2MYU1s",
+  "is_local": false,
+  "name": "Live In Life",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/e397bbcf922678640541c9f065e1e0ea745b7031?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0k5NkSR70pw7ONsZ2MYU1s"
+}

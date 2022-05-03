@@ -1,0 +1,181 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/17Zu03OgBVxgLxWmRUyNOJ",
+        "id": "17Zu03OgBVxgLxWmRUyNOJ",
+        "name": "Knxwledge",
+        "type": "artist",
+        "uri": "spotify:artist:17Zu03OgBVxgLxWmRUyNOJ"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IL",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2RmcpkbatBOMnCw8nbw7dG"
+    },
+    "href": "https://api.spotify.com/v1/albums/2RmcpkbatBOMnCw8nbw7dG",
+    "id": "2RmcpkbatBOMnCw8nbw7dG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736d0f35218b5cf726f6bc7add",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026d0f35218b5cf726f6bc7add",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516d0f35218b5cf726f6bc7add",
+        "width": 64
+      }
+    ],
+    "name": "1988",
+    "release_date": "2020-03-27",
+    "release_date_precision": "day",
+    "total_tracks": 22,
+    "type": "album",
+    "uri": "spotify:album:2RmcpkbatBOMnCw8nbw7dG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/17Zu03OgBVxgLxWmRUyNOJ",
+      "id": "17Zu03OgBVxgLxWmRUyNOJ",
+      "name": "Knxwledge",
+      "type": "artist",
+      "uri": "spotify:artist:17Zu03OgBVxgLxWmRUyNOJ"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IL",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 110789,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US2S72009019"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1qohqAG4rjTRy17tG6iZpL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1qohqAG4rjTRy17tG6iZpL",
+  "id": "1qohqAG4rjTRy17tG6iZpL",
+  "is_local": false,
+  "name": "makeitliveforever",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/f06e95ab106c9724c7c7129315bf374337ae9363?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 19,
+  "type": "track",
+  "uri": "spotify:track:1qohqAG4rjTRy17tG6iZpL"
+}

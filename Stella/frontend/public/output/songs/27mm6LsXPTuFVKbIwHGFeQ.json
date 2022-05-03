@@ -1,0 +1,163 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm"
+        },
+        "href": "https://api.spotify.com/v1/artists/14rP13jdQNgQvuPA2AkBgm",
+        "id": "14rP13jdQNgQvuPA2AkBgm",
+        "name": "Glades",
+        "type": "artist",
+        "uri": "spotify:artist:14rP13jdQNgQvuPA2AkBgm"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AM",
+      "AU",
+      "AZ",
+      "BD",
+      "BH",
+      "BN",
+      "BT",
+      "CY",
+      "GE",
+      "ID",
+      "IL",
+      "IN",
+      "IQ",
+      "JO",
+      "JP",
+      "KG",
+      "KH",
+      "KR",
+      "KW",
+      "KZ",
+      "LA",
+      "LB",
+      "LK",
+      "MN",
+      "MV",
+      "MY",
+      "NP",
+      "NZ",
+      "OM",
+      "PH",
+      "PK",
+      "PS",
+      "QA",
+      "SA",
+      "SG",
+      "TH",
+      "TJ",
+      "TL",
+      "TR",
+      "UZ",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k"
+    },
+    "href": "https://api.spotify.com/v1/albums/2jo2Qi8zG7pT7sjgq9jf3k",
+    "id": "2jo2Qi8zG7pT7sjgq9jf3k",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cd5b7701ae1e491b6cf68f9b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cd5b7701ae1e491b6cf68f9b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cd5b7701ae1e491b6cf68f9b",
+        "width": 64
+      }
+    ],
+    "name": "To Love You",
+    "release_date": "2018-11-02",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2jo2Qi8zG7pT7sjgq9jf3k"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm"
+      },
+      "href": "https://api.spotify.com/v1/artists/14rP13jdQNgQvuPA2AkBgm",
+      "id": "14rP13jdQNgQvuPA2AkBgm",
+      "name": "Glades",
+      "type": "artist",
+      "uri": "spotify:artist:14rP13jdQNgQvuPA2AkBgm"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AM",
+    "AU",
+    "AZ",
+    "BD",
+    "BH",
+    "BN",
+    "BT",
+    "CY",
+    "GE",
+    "ID",
+    "IL",
+    "IN",
+    "IQ",
+    "JO",
+    "JP",
+    "KG",
+    "KH",
+    "KR",
+    "KW",
+    "KZ",
+    "LA",
+    "LB",
+    "LK",
+    "MN",
+    "MV",
+    "MY",
+    "NP",
+    "NZ",
+    "OM",
+    "PH",
+    "PK",
+    "PS",
+    "QA",
+    "SA",
+    "SG",
+    "TH",
+    "TJ",
+    "TL",
+    "TR",
+    "UZ",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 190160,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "TCACL1613780"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/27mm6LsXPTuFVKbIwHGFeQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/27mm6LsXPTuFVKbIwHGFeQ",
+  "id": "27mm6LsXPTuFVKbIwHGFeQ",
+  "is_local": false,
+  "name": "Drive",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/b2d2a522318058f75437874ad52a5301739629a2?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:27mm6LsXPTuFVKbIwHGFeQ"
+}

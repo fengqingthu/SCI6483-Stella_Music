@@ -1,0 +1,95 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        },
+        "href": "https://api.spotify.com/v1/artists/2OVqg3lxC8ZIf0vHcEqaCf",
+        "id": "2OVqg3lxC8ZIf0vHcEqaCf",
+        "name": "Cliff Martinez",
+        "type": "artist",
+        "uri": "spotify:artist:2OVqg3lxC8ZIf0vHcEqaCf"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "FR",
+      "LU",
+      "MC",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5LbUg7mPxUtjZO9zopDxrc"
+    },
+    "href": "https://api.spotify.com/v1/albums/5LbUg7mPxUtjZO9zopDxrc",
+    "id": "5LbUg7mPxUtjZO9zopDxrc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27397a027b618598d88fbed213e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0297a027b618598d88fbed213e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485197a027b618598d88fbed213e",
+        "width": 64
+      }
+    ],
+    "name": "The Neon Demon (Original Soundtrack Album)",
+    "release_date": "2016-06-24",
+    "release_date_precision": "day",
+    "total_tracks": 23,
+    "type": "album",
+    "uri": "spotify:album:5LbUg7mPxUtjZO9zopDxrc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+      },
+      "href": "https://api.spotify.com/v1/artists/2OVqg3lxC8ZIf0vHcEqaCf",
+      "id": "2OVqg3lxC8ZIf0vHcEqaCf",
+      "name": "Cliff Martinez",
+      "type": "artist",
+      "uri": "spotify:artist:2OVqg3lxC8ZIf0vHcEqaCf"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "FR",
+    "LU",
+    "MC",
+    "MX",
+    "NL",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 321244,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US5941406219"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3IQW5sG1Javf3LI1yjXWEK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3IQW5sG1Javf3LI1yjXWEK",
+  "id": "3IQW5sG1Javf3LI1yjXWEK",
+  "is_local": false,
+  "name": "Are We Having A Party",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/7fc38b57dfcec6dfbc9c53e2cdb684215d89e5f0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 21,
+  "type": "track",
+  "uri": "spotify:track:3IQW5sG1Javf3LI1yjXWEK"
+}

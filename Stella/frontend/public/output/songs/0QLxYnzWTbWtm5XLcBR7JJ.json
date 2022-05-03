@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PyU5aVBI66v0pkCIvEJfu",
+        "id": "5PyU5aVBI66v0pkCIvEJfu",
+        "name": "Flavien Berger",
+        "type": "artist",
+        "uri": "spotify:artist:5PyU5aVBI66v0pkCIvEJfu"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1803b0UbnM2mJ1kIXA0X9d"
+    },
+    "href": "https://api.spotify.com/v1/albums/1803b0UbnM2mJ1kIXA0X9d",
+    "id": "1803b0UbnM2mJ1kIXA0X9d",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273454487efbe3c8fd72cad3ce8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02454487efbe3c8fd72cad3ce8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851454487efbe3c8fd72cad3ce8",
+        "width": 64
+      }
+    ],
+    "name": "Léviathan",
+    "release_date": "2015-04-20",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1803b0UbnM2mJ1kIXA0X9d"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+      },
+      "href": "https://api.spotify.com/v1/artists/5PyU5aVBI66v0pkCIvEJfu",
+      "id": "5PyU5aVBI66v0pkCIvEJfu",
+      "name": "Flavien Berger",
+      "type": "artist",
+      "uri": "spotify:artist:5PyU5aVBI66v0pkCIvEJfu"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 947800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR2FD1500010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0QLxYnzWTbWtm5XLcBR7JJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0QLxYnzWTbWtm5XLcBR7JJ",
+  "id": "0QLxYnzWTbWtm5XLcBR7JJ",
+  "is_local": false,
+  "name": "Léviathan",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:0QLxYnzWTbWtm5XLcBR7JJ"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qcU8NabUQ5efQf8UGW6CV",
+        "id": "1qcU8NabUQ5efQf8UGW6CV",
+        "name": "The Whitest Boy Alive",
+        "type": "artist",
+        "uri": "spotify:artist:1qcU8NabUQ5efQf8UGW6CV"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5a7N1xXQD9pswNMgiKeERx"
+    },
+    "href": "https://api.spotify.com/v1/albums/5a7N1xXQD9pswNMgiKeERx",
+    "id": "5a7N1xXQD9pswNMgiKeERx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d67e295c2e2be4e4edeccfce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d67e295c2e2be4e4edeccfce",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d67e295c2e2be4e4edeccfce",
+        "width": 64
+      }
+    ],
+    "name": "Rules",
+    "release_date": "2005-03-06",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5a7N1xXQD9pswNMgiKeERx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+      },
+      "href": "https://api.spotify.com/v1/artists/1qcU8NabUQ5efQf8UGW6CV",
+      "id": "1qcU8NabUQ5efQf8UGW6CV",
+      "name": "The Whitest Boy Alive",
+      "type": "artist",
+      "uri": "spotify:artist:1qcU8NabUQ5efQf8UGW6CV"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 212773,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEKM50902007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/63q6DVcHAMgZS3Um8CF3tk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/63q6DVcHAMgZS3Um8CF3tk",
+  "id": "63q6DVcHAMgZS3Um8CF3tk",
+  "is_local": false,
+  "name": "1517",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/3fd6326272693f0baa25881f565ca9f079a16083?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:63q6DVcHAMgZS3Um8CF3tk"
+}

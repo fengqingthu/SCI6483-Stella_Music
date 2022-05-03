@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a"
+        },
+        "href": "https://api.spotify.com/v1/artists/1JdeDdujDbS6ZeSlkXqx3a",
+        "id": "1JdeDdujDbS6ZeSlkXqx3a",
+        "name": "Loreena McKennitt",
+        "type": "artist",
+        "uri": "spotify:artist:1JdeDdujDbS6ZeSlkXqx3a"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/06I5nQlO7WbnoaTUogSDXN"
+    },
+    "href": "https://api.spotify.com/v1/albums/06I5nQlO7WbnoaTUogSDXN",
+    "id": "06I5nQlO7WbnoaTUogSDXN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273483645109e20344d5d726b52",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02483645109e20344d5d726b52",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851483645109e20344d5d726b52",
+        "width": 64
+      }
+    ],
+    "name": "The Mask And Mirror",
+    "release_date": "1994-03-22",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:06I5nQlO7WbnoaTUogSDXN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a"
+      },
+      "href": "https://api.spotify.com/v1/artists/1JdeDdujDbS6ZeSlkXqx3a",
+      "id": "1JdeDdujDbS6ZeSlkXqx3a",
+      "name": "Loreena McKennitt",
+      "type": "artist",
+      "uri": "spotify:artist:1JdeDdujDbS6ZeSlkXqx3a"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 462840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAQ110410501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4TxTJHRsqoNII6p5Jfav2e"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4TxTJHRsqoNII6p5Jfav2e",
+  "id": "4TxTJHRsqoNII6p5Jfav2e",
+  "is_local": false,
+  "name": "The Mystic's Dream",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4TxTJHRsqoNII6p5Jfav2e"
+}

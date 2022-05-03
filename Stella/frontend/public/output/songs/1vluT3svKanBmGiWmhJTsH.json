@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HK",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "NZ",
+      "PA",
+      "PE",
+      "PY",
+      "SG",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1"
+    },
+    "href": "https://api.spotify.com/v1/albums/1mwUxOieg2GvQn4wm5bJR1",
+    "id": "1mwUxOieg2GvQn4wm5bJR1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27333c437cd6d874e3933e66a3f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0233c437cd6d874e3933e66a3f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485133c437cd6d874e3933e66a3f",
+        "width": 64
+      }
+    ],
+    "name": "Phineas and Ferb",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 26,
+    "type": "album",
+    "uri": "spotify:album:1mwUxOieg2GvQn4wm5bJR1"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48biqUQJGRdB9iTPIUPY0h"
+      },
+      "href": "https://api.spotify.com/v1/artists/48biqUQJGRdB9iTPIUPY0h",
+      "id": "48biqUQJGRdB9iTPIUPY0h",
+      "name": "Phineas",
+      "type": "artist",
+      "uri": "spotify:artist:48biqUQJGRdB9iTPIUPY0h"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1CqPoaMpEpjheUuWIOnfHP"
+      },
+      "href": "https://api.spotify.com/v1/artists/1CqPoaMpEpjheUuWIOnfHP",
+      "id": "1CqPoaMpEpjheUuWIOnfHP",
+      "name": "Bobby Fabulous",
+      "type": "artist",
+      "uri": "spotify:artist:1CqPoaMpEpjheUuWIOnfHP"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HK",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "NZ",
+    "PA",
+    "PE",
+    "PY",
+    "SG",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 88933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWD10936383"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1vluT3svKanBmGiWmhJTsH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1vluT3svKanBmGiWmhJTsH",
+  "id": "1vluT3svKanBmGiWmhJTsH",
+  "is_local": false,
+  "name": "Fabulous",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 19,
+  "type": "track",
+  "uri": "spotify:track:1vluT3svKanBmGiWmhJTsH"
+}

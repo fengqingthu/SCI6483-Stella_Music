@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+        "id": "5nPOO9iTcrs9k6yFffPxjH",
+        "name": "Röyksopp",
+        "type": "artist",
+        "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+      }
+    ],
+    "available_markets": [
+      "FR",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3ZBCxww5l2GuPEtOmhP73N"
+    },
+    "href": "https://api.spotify.com/v1/albums/3ZBCxww5l2GuPEtOmhP73N",
+    "id": "3ZBCxww5l2GuPEtOmhP73N",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a59ae6662bb7610e99d7fdb4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a59ae6662bb7610e99d7fdb4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a59ae6662bb7610e99d7fdb4",
+        "width": 64
+      }
+    ],
+    "name": "The Inevitable End",
+    "release_date": "2014-11-10",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:3ZBCxww5l2GuPEtOmhP73N"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+      "id": "5nPOO9iTcrs9k6yFffPxjH",
+      "name": "Röyksopp",
+      "type": "artist",
+      "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UE7nl9mha6s8z0wFQFIZ2",
+      "id": "6UE7nl9mha6s8z0wFQFIZ2",
+      "name": "Robyn",
+      "type": "artist",
+      "uri": "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+    }
+  ],
+  "available_markets": [
+    "FR",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 286520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBW231400027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/616ddBwW0LpyhCpLE5BpIP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/616ddBwW0LpyhCpLE5BpIP",
+  "id": "616ddBwW0LpyhCpLE5BpIP",
+  "is_local": false,
+  "name": "Monument - The Inevitable End Version",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:616ddBwW0LpyhCpLE5BpIP"
+}

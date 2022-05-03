@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        },
+        "href": "https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0",
+        "id": "3iDD7bnsjL9J4fO298r0L0",
+        "name": "Chicago",
+        "type": "artist",
+        "uri": "spotify:artist:3iDD7bnsjL9J4fO298r0L0"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
+    },
+    "href": "https://api.spotify.com/v1/albums/1I5t0om003Ikyhs8Ks3t8C",
+    "id": "1I5t0om003Ikyhs8Ks3t8C",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734b557f4ed73a780583c5af69",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024b557f4ed73a780583c5af69",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514b557f4ed73a780583c5af69",
+        "width": 64
+      }
+    ],
+    "name": "Chicago 16 (Expanded Edition)",
+    "release_date": "1982-06-07",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:1I5t0om003Ikyhs8Ks3t8C"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+      },
+      "href": "https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0",
+      "id": "3iDD7bnsjL9J4fO298r0L0",
+      "name": "Chicago",
+      "type": "artist",
+      "uri": "spotify:artist:3iDD7bnsjL9J4fO298r0L0"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWB10905043"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5nDSJO4909uNzMcZH3CggS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5nDSJO4909uNzMcZH3CggS",
+  "id": "5nDSJO4909uNzMcZH3CggS",
+  "is_local": false,
+  "name": "Hard to Say I'm Sorry - 2009 Remaster",
+  "popularity": 54,
+  "preview_url": "https://p.scdn.co/mp3-preview/0b2d77032f3ef8394e87912986b282a5b85b4920?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:5nDSJO4909uNzMcZH3CggS"
+}

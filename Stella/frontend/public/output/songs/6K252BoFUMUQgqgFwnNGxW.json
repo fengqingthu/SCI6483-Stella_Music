@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+        },
+        "href": "https://api.spotify.com/v1/artists/4UOzqO0jZUrTiTunfBw4tp",
+        "id": "4UOzqO0jZUrTiTunfBw4tp",
+        "name": "Blake Neely",
+        "type": "artist",
+        "uri": "spotify:artist:4UOzqO0jZUrTiTunfBw4tp"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/104ngYgoZfBzgRJGPZA3ls"
+    },
+    "href": "https://api.spotify.com/v1/albums/104ngYgoZfBzgRJGPZA3ls",
+    "id": "104ngYgoZfBzgRJGPZA3ls",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273efd97b816ba8fc8b662460c3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02efd97b816ba8fc8b662460c3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851efd97b816ba8fc8b662460c3",
+        "width": 64
+      }
+    ],
+    "name": "The Flash Vs. Arrow (Music Selections from the Epic 2-Night Event)",
+    "release_date": "2014-12-18",
+    "release_date_precision": "day",
+    "total_tracks": 21,
+    "type": "album",
+    "uri": "spotify:album:104ngYgoZfBzgRJGPZA3ls"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+      },
+      "href": "https://api.spotify.com/v1/artists/4UOzqO0jZUrTiTunfBw4tp",
+      "id": "4UOzqO0jZUrTiTunfBw4tp",
+      "name": "Blake Neely",
+      "type": "artist",
+      "uri": "spotify:artist:4UOzqO0jZUrTiTunfBw4tp"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 135007,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNLR1400993"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6K252BoFUMUQgqgFwnNGxW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6K252BoFUMUQgqgFwnNGxW",
+  "id": "6K252BoFUMUQgqgFwnNGxW",
+  "is_local": false,
+  "name": "The Man in the Yellow Suit - Bonus Track",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/db61716b9bff0116fb75022cd21a9f5bb9f65ca8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 20,
+  "type": "track",
+  "uri": "spotify:track:6K252BoFUMUQgqgFwnNGxW"
+}

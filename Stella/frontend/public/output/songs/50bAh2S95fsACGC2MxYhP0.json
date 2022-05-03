@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ououJVWgWsHWMYDLvT7sH",
+        "id": "1ououJVWgWsHWMYDLvT7sH",
+        "name": "Ball Park Music",
+        "type": "artist",
+        "uri": "spotify:artist:1ououJVWgWsHWMYDLvT7sH"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0VqZMW7zPWT26JZIWxaMjK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0VqZMW7zPWT26JZIWxaMjK",
+    "id": "0VqZMW7zPWT26JZIWxaMjK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273294e4d53bc1fbdf8d7a57e8a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02294e4d53bc1fbdf8d7a57e8a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851294e4d53bc1fbdf8d7a57e8a",
+        "width": 64
+      }
+    ],
+    "name": "Puddinghead",
+    "release_date": "2015-05-29",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0VqZMW7zPWT26JZIWxaMjK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ououJVWgWsHWMYDLvT7sH",
+      "id": "1ououJVWgWsHWMYDLvT7sH",
+      "name": "Ball Park Music",
+      "type": "artist",
+      "uri": "spotify:artist:1ououJVWgWsHWMYDLvT7sH"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 225800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUF301400001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/50bAh2S95fsACGC2MxYhP0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/50bAh2S95fsACGC2MxYhP0",
+  "id": "50bAh2S95fsACGC2MxYhP0",
+  "is_local": false,
+  "name": "She Only Loves Me When I'm There - Live",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/51ddc3a80e2995121a7283e4b743566ba06c631e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:50bAh2S95fsACGC2MxYhP0"
+}

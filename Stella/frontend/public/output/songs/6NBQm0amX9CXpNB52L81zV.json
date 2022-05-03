@@ -1,0 +1,113 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
+        },
+        "href": "https://api.spotify.com/v1/artists/2MQPjAyvdDotQXwvKPAxam",
+        "id": "2MQPjAyvdDotQXwvKPAxam",
+        "name": "The Hickey Underworld",
+        "type": "artist",
+        "uri": "spotify:artist:2MQPjAyvdDotQXwvKPAxam"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BE",
+      "CH",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "IE",
+      "IT",
+      "LU",
+      "NL",
+      "NO",
+      "PT",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/15DYIkWxupkoPXabPQiTJJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/15DYIkWxupkoPXabPQiTJJ",
+    "id": "15DYIkWxupkoPXabPQiTJJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e158c4fe68a5148ac6b4260f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e158c4fe68a5148ac6b4260f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e158c4fe68a5148ac6b4260f",
+        "width": 64
+      }
+    ],
+    "name": "The Hickey Underworld",
+    "release_date": "2009-03-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:15DYIkWxupkoPXabPQiTJJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
+      },
+      "href": "https://api.spotify.com/v1/artists/2MQPjAyvdDotQXwvKPAxam",
+      "id": "2MQPjAyvdDotQXwvKPAxam",
+      "name": "The Hickey Underworld",
+      "type": "artist",
+      "uri": "spotify:artist:2MQPjAyvdDotQXwvKPAxam"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CH",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "IE",
+    "IT",
+    "LU",
+    "NL",
+    "NO",
+    "PT",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 240253,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BED230800005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6NBQm0amX9CXpNB52L81zV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6NBQm0amX9CXpNB52L81zV",
+  "id": "6NBQm0amX9CXpNB52L81zV",
+  "is_local": false,
+  "name": "Future Words",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:6NBQm0amX9CXpNB52L81zV"
+}

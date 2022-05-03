@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1AgxgADPuRIW1wyaA4OKcB",
+        "id": "1AgxgADPuRIW1wyaA4OKcB",
+        "name": "Tom Rosenthal",
+        "type": "artist",
+        "uri": "spotify:artist:1AgxgADPuRIW1wyaA4OKcB"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7minBeEwQKhJrRAN9JTVHZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/7minBeEwQKhJrRAN9JTVHZ",
+    "id": "7minBeEwQKhJrRAN9JTVHZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273987d6222573ea68babbe4a1a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02987d6222573ea68babbe4a1a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851987d6222573ea68babbe4a1a",
+        "width": 64
+      }
+    ],
+    "name": "Go Solo",
+    "release_date": "2014-12-12",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:7minBeEwQKhJrRAN9JTVHZ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+      },
+      "href": "https://api.spotify.com/v1/artists/1AgxgADPuRIW1wyaA4OKcB",
+      "id": "1AgxgADPuRIW1wyaA4OKcB",
+      "name": "Tom Rosenthal",
+      "type": "artist",
+      "uri": "spotify:artist:1AgxgADPuRIW1wyaA4OKcB"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "LI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 131520,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEQ321400476"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3HBPvElmG2VeAs5WJbqLF4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3HBPvElmG2VeAs5WJbqLF4",
+  "id": "3HBPvElmG2VeAs5WJbqLF4",
+  "is_local": false,
+  "name": "Worries",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/5eb6f827511ae387ae6d2dc201d60b570b5ce579?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3HBPvElmG2VeAs5WJbqLF4"
+}

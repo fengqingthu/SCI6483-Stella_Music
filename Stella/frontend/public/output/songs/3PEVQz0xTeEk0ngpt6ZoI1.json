@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1I8PDdpk2ITmQRUlfAOe8H"
+        },
+        "href": "https://api.spotify.com/v1/artists/1I8PDdpk2ITmQRUlfAOe8H",
+        "id": "1I8PDdpk2ITmQRUlfAOe8H",
+        "name": "Scann-Tec",
+        "type": "artist",
+        "uri": "spotify:artist:1I8PDdpk2ITmQRUlfAOe8H"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3mpDuM6zOi5AXO2DNyqMFI"
+    },
+    "href": "https://api.spotify.com/v1/albums/3mpDuM6zOi5AXO2DNyqMFI",
+    "id": "3mpDuM6zOi5AXO2DNyqMFI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739815a50a89dfa1647d3b398a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029815a50a89dfa1647d3b398a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519815a50a89dfa1647d3b398a",
+        "width": 64
+      }
+    ],
+    "name": "Facial Memories",
+    "release_date": "2012-06-04",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3mpDuM6zOi5AXO2DNyqMFI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1I8PDdpk2ITmQRUlfAOe8H"
+      },
+      "href": "https://api.spotify.com/v1/artists/1I8PDdpk2ITmQRUlfAOe8H",
+      "id": "1I8PDdpk2ITmQRUlfAOe8H",
+      "name": "Scann-Tec",
+      "type": "artist",
+      "uri": "spotify:artist:1I8PDdpk2ITmQRUlfAOe8H"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 567666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA2P1285460"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3PEVQz0xTeEk0ngpt6ZoI1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3PEVQz0xTeEk0ngpt6ZoI1",
+  "id": "3PEVQz0xTeEk0ngpt6ZoI1",
+  "is_local": false,
+  "name": "Innermost Desires",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:3PEVQz0xTeEk0ngpt6ZoI1"
+}

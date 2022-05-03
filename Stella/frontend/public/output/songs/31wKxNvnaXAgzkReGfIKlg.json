@@ -1,0 +1,109 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23BtKJexFLn0Ri6s7BEC4d"
+        },
+        "href": "https://api.spotify.com/v1/artists/23BtKJexFLn0Ri6s7BEC4d",
+        "id": "23BtKJexFLn0Ri6s7BEC4d",
+        "name": "Vijay & Sofia Zlatko",
+        "type": "artist",
+        "uri": "spotify:artist:23BtKJexFLn0Ri6s7BEC4d"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Fdoc9ZBntFbRvSklB2BqZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Fdoc9ZBntFbRvSklB2BqZ",
+        "id": "5Fdoc9ZBntFbRvSklB2BqZ",
+        "name": "Notte",
+        "type": "artist",
+        "uri": "spotify:artist:5Fdoc9ZBntFbRvSklB2BqZ"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1clqUuV0dKS3G7dyS1hrSB"
+    },
+    "href": "https://api.spotify.com/v1/albums/1clqUuV0dKS3G7dyS1hrSB",
+    "id": "1clqUuV0dKS3G7dyS1hrSB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ca47f00d38d271fdd677450",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027ca47f00d38d271fdd677450",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517ca47f00d38d271fdd677450",
+        "width": 64
+      }
+    ],
+    "name": "Earth Groove",
+    "release_date": "2017-04-14",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:1clqUuV0dKS3G7dyS1hrSB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23BtKJexFLn0Ri6s7BEC4d"
+      },
+      "href": "https://api.spotify.com/v1/artists/23BtKJexFLn0Ri6s7BEC4d",
+      "id": "23BtKJexFLn0Ri6s7BEC4d",
+      "name": "Vijay & Sofia Zlatko",
+      "type": "artist",
+      "uri": "spotify:artist:23BtKJexFLn0Ri6s7BEC4d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Fdoc9ZBntFbRvSklB2BqZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Fdoc9ZBntFbRvSklB2BqZ",
+      "id": "5Fdoc9ZBntFbRvSklB2BqZ",
+      "name": "Notte",
+      "type": "artist",
+      "uri": "spotify:artist:5Fdoc9ZBntFbRvSklB2BqZ"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 202966,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "IT0311600101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/31wKxNvnaXAgzkReGfIKlg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/31wKxNvnaXAgzkReGfIKlg",
+  "id": "31wKxNvnaXAgzkReGfIKlg",
+  "is_local": false,
+  "name": "Earth Groove",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/fd25c4c336e04f06f3f114be52fd34cb65cbf4d4?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:31wKxNvnaXAgzkReGfIKlg"
+}

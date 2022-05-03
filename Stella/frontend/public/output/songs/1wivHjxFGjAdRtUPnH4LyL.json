@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/69qhRLDvsWJOhWGXXQ0lQQ",
+        "id": "69qhRLDvsWJOhWGXXQ0lQQ",
+        "name": "Helado Negro",
+        "type": "artist",
+        "uri": "spotify:artist:69qhRLDvsWJOhWGXXQ0lQQ"
+      }
+    ],
+    "available_markets": [
+      "MX"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7kzOf7mEmScYNSGpUPkFqp"
+    },
+    "href": "https://api.spotify.com/v1/albums/7kzOf7mEmScYNSGpUPkFqp",
+    "id": "7kzOf7mEmScYNSGpUPkFqp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273279ba542eb9c4da587452198",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02279ba542eb9c4da587452198",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851279ba542eb9c4da587452198",
+        "width": 64
+      }
+    ],
+    "name": "Double Youth",
+    "release_date": "2014-07-30",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:7kzOf7mEmScYNSGpUPkFqp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/69qhRLDvsWJOhWGXXQ0lQQ",
+      "id": "69qhRLDvsWJOhWGXXQ0lQQ",
+      "name": "Helado Negro",
+      "type": "artist",
+      "uri": "spotify:artist:69qhRLDvsWJOhWGXXQ0lQQ"
+    }
+  ],
+  "available_markets": [
+    "MX"
+  ],
+  "disc_number": 1,
+  "duration_ms": 213442,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US64G1412001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1wivHjxFGjAdRtUPnH4LyL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1wivHjxFGjAdRtUPnH4LyL",
+  "id": "1wivHjxFGjAdRtUPnH4LyL",
+  "is_local": false,
+  "name": "Are I Here",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/906a57e2d7b4c30942df7d3d3cf457568a8bb335?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1wivHjxFGjAdRtUPnH4LyL"
+}

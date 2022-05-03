@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/7IAFAOtc9kTYNTizhLSWM6",
+        "id": "7IAFAOtc9kTYNTizhLSWM6",
+        "name": "Hollow Coves",
+        "type": "artist",
+        "uri": "spotify:artist:7IAFAOtc9kTYNTizhLSWM6"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI"
+    },
+    "href": "https://api.spotify.com/v1/albums/4EWd8fo9kyMQjB5LVkFwYI",
+    "id": "4EWd8fo9kyMQjB5LVkFwYI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27301422318f20eced6d4f01628",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0201422318f20eced6d4f01628",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485101422318f20eced6d4f01628",
+        "width": 64
+      }
+    ],
+    "name": "The Woods (Acoustic)",
+    "release_date": "2017-07-14",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4EWd8fo9kyMQjB5LVkFwYI"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7IAFAOtc9kTYNTizhLSWM6",
+      "id": "7IAFAOtc9kTYNTizhLSWM6",
+      "name": "Hollow Coves",
+      "type": "artist",
+      "uri": "spotify:artist:7IAFAOtc9kTYNTizhLSWM6"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 239954,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AUGSG1600015"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0T7OKMuhcMNClxEYQzVyyb",
+  "id": "0T7OKMuhcMNClxEYQzVyyb",
+  "is_local": false,
+  "name": "The Woods (Acoustic)",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/16c0f217e63e034eaf409c7c468a5303216fae42?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0T7OKMuhcMNClxEYQzVyyb"
+}

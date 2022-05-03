@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W"
+        },
+        "href": "https://api.spotify.com/v1/artists/3sQVICf0Bhikl5tlBQSU6W",
+        "id": "3sQVICf0Bhikl5tlBQSU6W",
+        "name": "Kontrust",
+        "type": "artist",
+        "uri": "spotify:artist:3sQVICf0Bhikl5tlBQSU6W"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0rNvWokGgf8TIGmZPRPkqj"
+    },
+    "href": "https://api.spotify.com/v1/albums/0rNvWokGgf8TIGmZPRPkqj",
+    "id": "0rNvWokGgf8TIGmZPRPkqj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c5df12cfa25a3fc5571e55d7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c5df12cfa25a3fc5571e55d7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c5df12cfa25a3fc5571e55d7",
+        "width": 64
+      }
+    ],
+    "name": "Second Hand Wonderland",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0rNvWokGgf8TIGmZPRPkqj"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W"
+      },
+      "href": "https://api.spotify.com/v1/artists/3sQVICf0Bhikl5tlBQSU6W",
+      "id": "3sQVICf0Bhikl5tlBQSU6W",
+      "name": "Kontrust",
+      "type": "artist",
+      "uri": "spotify:artist:3sQVICf0Bhikl5tlBQSU6W"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230440,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261242211"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/66Iy2rrxmK8qTlldV8JdZ0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/66Iy2rrxmK8qTlldV8JdZ0",
+  "id": "66Iy2rrxmK8qTlldV8JdZ0",
+  "is_local": false,
+  "name": "Hey DJ!",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/87fd69f15978cb99fd7efb96fe2966eebccdfa7c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:66Iy2rrxmK8qTlldV8JdZ0"
+}

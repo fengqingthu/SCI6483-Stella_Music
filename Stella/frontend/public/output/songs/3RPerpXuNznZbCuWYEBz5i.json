@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        },
+        "href": "https://api.spotify.com/v1/artists/25mrbNwFzoqPWyYXLhiDRw",
+        "id": "25mrbNwFzoqPWyYXLhiDRw",
+        "name": "Alexi Murdoch",
+        "type": "artist",
+        "uri": "spotify:artist:25mrbNwFzoqPWyYXLhiDRw"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
+    },
+    "href": "https://api.spotify.com/v1/albums/3hQQHMrHUbkCokIf8PmcEU",
+    "id": "3hQQHMrHUbkCokIf8PmcEU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732c48c2f1f653aa8abb23408a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022c48c2f1f653aa8abb23408a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512c48c2f1f653aa8abb23408a",
+        "width": 64
+      }
+    ],
+    "name": "Time Without Consequence",
+    "release_date": "2006-06-06",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3hQQHMrHUbkCokIf8PmcEU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+      },
+      "href": "https://api.spotify.com/v1/artists/25mrbNwFzoqPWyYXLhiDRw",
+      "id": "25mrbNwFzoqPWyYXLhiDRw",
+      "name": "Alexi Murdoch",
+      "type": "artist",
+      "uri": "spotify:artist:25mrbNwFzoqPWyYXLhiDRw"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 297120,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US4B80600001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3RPerpXuNznZbCuWYEBz5i",
+  "id": "3RPerpXuNznZbCuWYEBz5i",
+  "is_local": false,
+  "name": "All My Days",
+  "popularity": 56,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3RPerpXuNznZbCuWYEBz5i"
+}

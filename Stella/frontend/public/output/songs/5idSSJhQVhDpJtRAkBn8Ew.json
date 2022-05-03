@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dOyKMeKD8DPTC2qn0bwk7"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dOyKMeKD8DPTC2qn0bwk7",
+        "id": "4dOyKMeKD8DPTC2qn0bwk7",
+        "name": "Hol Baumann",
+        "type": "artist",
+        "uri": "spotify:artist:4dOyKMeKD8DPTC2qn0bwk7"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3tL7chZ12nUhH2kpz1dbmV"
+    },
+    "href": "https://api.spotify.com/v1/albums/3tL7chZ12nUhH2kpz1dbmV",
+    "id": "3tL7chZ12nUhH2kpz1dbmV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e3c3558359b589f87dbde019",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e3c3558359b589f87dbde019",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e3c3558359b589f87dbde019",
+        "width": 64
+      }
+    ],
+    "name": "[ Human ]",
+    "release_date": "2008-02-14",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:3tL7chZ12nUhH2kpz1dbmV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dOyKMeKD8DPTC2qn0bwk7"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dOyKMeKD8DPTC2qn0bwk7",
+      "id": "4dOyKMeKD8DPTC2qn0bwk7",
+      "name": "Hol Baumann",
+      "type": "artist",
+      "uri": "spotify:artist:4dOyKMeKD8DPTC2qn0bwk7"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 343640,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA2P0804446"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5idSSJhQVhDpJtRAkBn8Ew"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5idSSJhQVhDpJtRAkBn8Ew",
+  "id": "5idSSJhQVhDpJtRAkBn8Ew",
+  "is_local": false,
+  "name": "We are analog",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5idSSJhQVhDpJtRAkBn8Ew"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Wo8zfu7LaSPQrI8Ov6XQh",
+        "id": "0Wo8zfu7LaSPQrI8Ov6XQh",
+        "name": "Starcop",
+        "type": "artist",
+        "uri": "spotify:artist:0Wo8zfu7LaSPQrI8Ov6XQh"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1IpJnmVSsimq6AWU7f3zyV"
+    },
+    "href": "https://api.spotify.com/v1/albums/1IpJnmVSsimq6AWU7f3zyV",
+    "id": "1IpJnmVSsimq6AWU7f3zyV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6315304d98164517d0e837a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6315304d98164517d0e837a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d6315304d98164517d0e837a",
+        "width": 64
+      }
+    ],
+    "name": "Galaxy",
+    "release_date": "2017-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "type": "album",
+    "uri": "spotify:album:1IpJnmVSsimq6AWU7f3zyV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Wo8zfu7LaSPQrI8Ov6XQh",
+      "id": "0Wo8zfu7LaSPQrI8Ov6XQh",
+      "name": "Starcop",
+      "type": "artist",
+      "uri": "spotify:artist:0Wo8zfu7LaSPQrI8Ov6XQh"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 172000,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBSMU4051904"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/69pTijVJdCRjrZ0HdDezKL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/69pTijVJdCRjrZ0HdDezKL",
+  "id": "69pTijVJdCRjrZ0HdDezKL",
+  "is_local": false,
+  "name": "Starcop",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:69pTijVJdCRjrZ0HdDezKL"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI"
+        },
+        "href": "https://api.spotify.com/v1/artists/0hk8VgR64voU5ueK96W2DI",
+        "id": "0hk8VgR64voU5ueK96W2DI",
+        "name": "DeVotchKa",
+        "type": "artist",
+        "uri": "spotify:artist:0hk8VgR64voU5ueK96W2DI"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/223n9IVGQAHd5bW5jkfdex"
+    },
+    "href": "https://api.spotify.com/v1/albums/223n9IVGQAHd5bW5jkfdex",
+    "id": "223n9IVGQAHd5bW5jkfdex",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6f9b9edad0efbab7220eb55",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6f9b9edad0efbab7220eb55",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d6f9b9edad0efbab7220eb55",
+        "width": 64
+      }
+    ],
+    "name": "How It Ends",
+    "release_date": "2004-10-05",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:223n9IVGQAHd5bW5jkfdex"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI"
+      },
+      "href": "https://api.spotify.com/v1/artists/0hk8VgR64voU5ueK96W2DI",
+      "id": "0hk8VgR64voU5ueK96W2DI",
+      "name": "DeVotchKa",
+      "type": "artist",
+      "uri": "spotify:artist:0hk8VgR64voU5ueK96W2DI"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 419680,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA2B0499605"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2muzSvsyjlHTjIZr6gDfMr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2muzSvsyjlHTjIZr6gDfMr",
+  "id": "2muzSvsyjlHTjIZr6gDfMr",
+  "is_local": false,
+  "name": "How It Ends",
+  "popularity": 42,
+  "preview_url": "https://p.scdn.co/mp3-preview/e9a071a691d1b1aceeb012195adf043f25eb52de?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2muzSvsyjlHTjIZr6gDfMr"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        },
+        "href": "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+        "id": "00sazWvoTLOqg5MFwC68Um",
+        "name": "Yann Tiersen",
+        "type": "artist",
+        "uri": "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5PltkUc68UtX8ZOWRQV8Qw"
+    },
+    "href": "https://api.spotify.com/v1/albums/5PltkUc68UtX8ZOWRQV8Qw",
+    "id": "5PltkUc68UtX8ZOWRQV8Qw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27350a1ed44f8005982c9eeb54f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0250a1ed44f8005982c9eeb54f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485150a1ed44f8005982c9eeb54f",
+        "width": 64
+      }
+    ],
+    "name": "EUSA",
+    "release_date": "2016-09-30",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:5PltkUc68UtX8ZOWRQV8Qw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+      },
+      "href": "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+      "id": "00sazWvoTLOqg5MFwC68Um",
+      "name": "Yann Tiersen",
+      "type": "artist",
+      "uri": "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 296480,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRPAH1600040"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/04gk89Ml90KQwgI4Exn0xY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/04gk89Ml90KQwgI4Exn0xY",
+  "id": "04gk89Ml90KQwgI4Exn0xY",
+  "is_local": false,
+  "name": "Porz Goret",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/f1998c659c00394af16275d5fd7b72b9465c2a21?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:04gk89Ml90KQwgI4Exn0xY"
+}

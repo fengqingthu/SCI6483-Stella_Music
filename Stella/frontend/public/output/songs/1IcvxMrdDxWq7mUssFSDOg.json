@@ -1,0 +1,77 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        },
+        "href": "https://api.spotify.com/v1/artists/1BdtWszUR1z5SeU5qXNU31",
+        "id": "1BdtWszUR1z5SeU5qXNU31",
+        "name": "Feine Sahne Fischfilet",
+        "type": "artist",
+        "uri": "spotify:artist:1BdtWszUR1z5SeU5qXNU31"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4chFyHE1uSqAiuus6EmBGu"
+    },
+    "href": "https://api.spotify.com/v1/albums/4chFyHE1uSqAiuus6EmBGu",
+    "id": "4chFyHE1uSqAiuus6EmBGu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731db7ad641b0d2f7a71b533e2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021db7ad641b0d2f7a71b533e2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511db7ad641b0d2f7a71b533e2",
+        "width": 64
+      }
+    ],
+    "name": "Sturm & Dreck",
+    "release_date": "2018-01-12",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4chFyHE1uSqAiuus6EmBGu"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+      },
+      "href": "https://api.spotify.com/v1/artists/1BdtWszUR1z5SeU5qXNU31",
+      "id": "1BdtWszUR1z5SeU5qXNU31",
+      "name": "Feine Sahne Fischfilet",
+      "type": "artist",
+      "uri": "spotify:artist:1BdtWszUR1z5SeU5qXNU31"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 196144,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEBT91800005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1IcvxMrdDxWq7mUssFSDOg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1IcvxMrdDxWq7mUssFSDOg",
+  "id": "1IcvxMrdDxWq7mUssFSDOg",
+  "is_local": false,
+  "name": "Alles auf Rausch",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1IcvxMrdDxWq7mUssFSDOg"
+}

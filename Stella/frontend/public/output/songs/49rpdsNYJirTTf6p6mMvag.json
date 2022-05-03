@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2C2sVVXanbOpymYBMpsi89"
+        },
+        "href": "https://api.spotify.com/v1/artists/2C2sVVXanbOpymYBMpsi89",
+        "id": "2C2sVVXanbOpymYBMpsi89",
+        "name": "The Cab",
+        "type": "artist",
+        "uri": "spotify:artist:2C2sVVXanbOpymYBMpsi89"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/27kmprYNLOGnR8roobHW5D"
+    },
+    "href": "https://api.spotify.com/v1/albums/27kmprYNLOGnR8roobHW5D",
+    "id": "27kmprYNLOGnR8roobHW5D",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27351b73e24fb27b3c68159bcb3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0251b73e24fb27b3c68159bcb3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485151b73e24fb27b3c68159bcb3",
+        "width": 64
+      }
+    ],
+    "name": "Symphony Soldier",
+    "release_date": "2011",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:27kmprYNLOGnR8roobHW5D"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2C2sVVXanbOpymYBMpsi89"
+      },
+      "href": "https://api.spotify.com/v1/artists/2C2sVVXanbOpymYBMpsi89",
+      "id": "2C2sVVXanbOpymYBMpsi89",
+      "name": "The Cab",
+      "type": "artist",
+      "uri": "spotify:artist:2C2sVVXanbOpymYBMpsi89"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 221386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71300669"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/49rpdsNYJirTTf6p6mMvag"
+  },
+  "href": "https://api.spotify.com/v1/tracks/49rpdsNYJirTTf6p6mMvag",
+  "id": "49rpdsNYJirTTf6p6mMvag",
+  "is_local": false,
+  "name": "Angel With A Shotgun",
+  "popularity": 63,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:49rpdsNYJirTTf6p6mMvag"
+}

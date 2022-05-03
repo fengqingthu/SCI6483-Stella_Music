@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        "href": "https://api.spotify.com/v1/artists/5CG9X521RDFWCuAhlo6QoR",
+        "id": "5CG9X521RDFWCuAhlo6QoR",
+        "name": "Fela Kuti",
+        "type": "artist",
+        "uri": "spotify:artist:5CG9X521RDFWCuAhlo6QoR"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd"
+    },
+    "href": "https://api.spotify.com/v1/albums/6RJulnlIwiLw1xz0Jc63Wd",
+    "id": "6RJulnlIwiLw1xz0Jc63Wd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e9be858dd835ca69419a389f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e9be858dd835ca69419a389f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e9be858dd835ca69419a389f",
+        "width": 64
+      }
+    ],
+    "name": "Anthology 2",
+    "release_date": "2010-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:6RJulnlIwiLw1xz0Jc63Wd"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5CG9X521RDFWCuAhlo6QoR",
+      "id": "5CG9X521RDFWCuAhlo6QoR",
+      "name": "Fela Kuti",
+      "type": "artist",
+      "uri": "spotify:artist:5CG9X521RDFWCuAhlo6QoR"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 792360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB2GX1009200"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5FvggTB5kixLoOHtKIUFkg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5FvggTB5kixLoOHtKIUFkg",
+  "id": "5FvggTB5kixLoOHtKIUFkg",
+  "is_local": false,
+  "name": "Expensive Shit",
+  "popularity": 28,
+  "preview_url": "https://p.scdn.co/mp3-preview/3cb486741daa210c2e6d1f0d24f8710c3b9c612d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5FvggTB5kixLoOHtKIUFkg"
+}

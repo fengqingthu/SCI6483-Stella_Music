@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z",
+        "id": "5juOkIIy18sFw9L30syt1Z",
+        "name": "Washed Out",
+        "type": "artist",
+        "uri": "spotify:artist:5juOkIIy18sFw9L30syt1Z"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1yK9hO77ZkXAOtmlCsV7nL"
+    },
+    "href": "https://api.spotify.com/v1/albums/1yK9hO77ZkXAOtmlCsV7nL",
+    "id": "1yK9hO77ZkXAOtmlCsV7nL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fd549231a28950c675653c26",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fd549231a28950c675653c26",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fd549231a28950c675653c26",
+        "width": 64
+      }
+    ],
+    "name": "Paracosm",
+    "release_date": "2013-08-09",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1yK9hO77ZkXAOtmlCsV7nL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z",
+      "id": "5juOkIIy18sFw9L30syt1Z",
+      "name": "Washed Out",
+      "type": "artist",
+      "uri": "spotify:artist:5juOkIIy18sFw9L30syt1Z"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245880,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSUB1305502"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3TJk3TpSy7N33SBSHgdnWx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3TJk3TpSy7N33SBSHgdnWx",
+  "id": "3TJk3TpSy7N33SBSHgdnWx",
+  "is_local": false,
+  "name": "It All Feels Right",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/74bda8d39cfdad7772493db2f223cc38900f850c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:3TJk3TpSy7N33SBSHgdnWx"
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zYJziKktyqWwmoAWXrShP",
+        "id": "5zYJziKktyqWwmoAWXrShP",
+        "name": "Modestep",
+        "type": "artist",
+        "uri": "spotify:artist:5zYJziKktyqWwmoAWXrShP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5WahIyl6daGLtfLn8AIJjR"
+    },
+    "href": "https://api.spotify.com/v1/albums/5WahIyl6daGLtfLn8AIJjR",
+    "id": "5WahIyl6daGLtfLn8AIJjR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273faa223fb712dd5e504505d34",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02faa223fb712dd5e504505d34",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851faa223fb712dd5e504505d34",
+        "width": 64
+      }
+    ],
+    "name": "Evolution Theory",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:5WahIyl6daGLtfLn8AIJjR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zYJziKktyqWwmoAWXrShP",
+      "id": "5zYJziKktyqWwmoAWXrShP",
+      "name": "Modestep",
+      "type": "artist",
+      "uri": "spotify:artist:5zYJziKktyqWwmoAWXrShP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226613,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM71104769"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Ix7doBgImhoWJfDnwezP1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Ix7doBgImhoWJfDnwezP1",
+  "id": "0Ix7doBgImhoWJfDnwezP1",
+  "is_local": false,
+  "name": "Sunlight",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0Ix7doBgImhoWJfDnwezP1"
+}

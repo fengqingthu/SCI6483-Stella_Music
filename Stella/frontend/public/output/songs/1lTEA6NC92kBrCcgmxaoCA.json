@@ -1,0 +1,103 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "TJ",
+      "UZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/72b39FNGGemuU15AD09Mkb"
+    },
+    "href": "https://api.spotify.com/v1/albums/72b39FNGGemuU15AD09Mkb",
+    "id": "72b39FNGGemuU15AD09Mkb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27327fd4f4a9d4755097b7fcccf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0227fd4f4a9d4755097b7fcccf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485127fd4f4a9d4755097b7fcccf",
+        "width": 64
+      }
+    ],
+    "name": "Princessa i Lyagushka (Originalnyi Saundtrek)",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:72b39FNGGemuU15AD09Mkb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG"
+      },
+      "href": "https://api.spotify.com/v1/artists/3OIPwMAZipDCLQwHmxS5EG",
+      "id": "3OIPwMAZipDCLQwHmxS5EG",
+      "name": "Jim Cummings",
+      "type": "artist",
+      "uri": "spotify:artist:3OIPwMAZipDCLQwHmxS5EG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+      },
+      "href": "https://api.spotify.com/v1/artists/7IbO8NvxclKsk7WTOZ42bv",
+      "id": "7IbO8NvxclKsk7WTOZ42bv",
+      "name": "Terence Blanchard",
+      "type": "artist",
+      "uri": "spotify:artist:7IbO8NvxclKsk7WTOZ42bv"
+    }
+  ],
+  "available_markets": [
+    "AM",
+    "AZ",
+    "BY",
+    "KG",
+    "KZ",
+    "TJ",
+    "UZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 115693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWD10936992"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1lTEA6NC92kBrCcgmxaoCA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1lTEA6NC92kBrCcgmxaoCA",
+  "id": "1lTEA6NC92kBrCcgmxaoCA",
+  "is_local": false,
+  "name": "Ma Belle Evangeline",
+  "popularity": 1,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:1lTEA6NC92kBrCcgmxaoCA"
+}

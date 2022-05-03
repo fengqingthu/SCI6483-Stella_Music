@@ -1,0 +1,20 @@
+{
+  "danceability": 0.0685,
+  "energy": 0.0263,
+  "key": 9,
+  "loudness": -28.636,
+  "mode": 1,
+  "speechiness": 0.0432,
+  "acousticness": 0.94,
+  "instrumentalness": 0.929,
+  "liveness": 0.058,
+  "valence": 0.0363,
+  "tempo": 74.382,
+  "type": "audio_features",
+  "id": "2duteIAXNliJDWal4SAkBa",
+  "uri": "spotify:track:2duteIAXNliJDWal4SAkBa",
+  "track_href": "https://api.spotify.com/v1/tracks/2duteIAXNliJDWal4SAkBa",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2duteIAXNliJDWal4SAkBa",
+  "duration_ms": 223173,
+  "time_signature": 4
+}

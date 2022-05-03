@@ -1,0 +1,20 @@
+{
+  "danceability": 0.563,
+  "energy": 0.836,
+  "key": 5,
+  "loudness": -5.891,
+  "mode": 0,
+  "speechiness": 0.0357,
+  "acousticness": 0.000846,
+  "instrumentalness": 0.5,
+  "liveness": 0.116,
+  "valence": 0.154,
+  "tempo": 105.006,
+  "type": "audio_features",
+  "id": "48n92l7OnLEURhalUBtsl7",
+  "uri": "spotify:track:48n92l7OnLEURhalUBtsl7",
+  "track_href": "https://api.spotify.com/v1/tracks/48n92l7OnLEURhalUBtsl7",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/48n92l7OnLEURhalUBtsl7",
+  "duration_ms": 325909,
+  "time_signature": 4
+}

@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        },
+        "href": "https://api.spotify.com/v1/artists/601893mmW5hl1FBOykWZHG",
+        "id": "601893mmW5hl1FBOykWZHG",
+        "name": "Deborah Cox",
+        "type": "artist",
+        "uri": "spotify:artist:601893mmW5hl1FBOykWZHG"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M"
+    },
+    "href": "https://api.spotify.com/v1/albums/6kjhS8hUeK2rPeqZVhdY0M",
+    "id": "6kjhS8hUeK2rPeqZVhdY0M",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739aaf2c72e1f364a2e5b4b2a6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029aaf2c72e1f364a2e5b4b2a6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519aaf2c72e1f364a2e5b4b2a6",
+        "width": 64
+      }
+    ],
+    "name": "One Wish",
+    "release_date": "1998",
+    "release_date_precision": "year",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6kjhS8hUeK2rPeqZVhdY0M"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+      },
+      "href": "https://api.spotify.com/v1/artists/601893mmW5hl1FBOykWZHG",
+      "id": "601893mmW5hl1FBOykWZHG",
+      "name": "Deborah Cox",
+      "type": "artist",
+      "uri": "spotify:artist:601893mmW5hl1FBOykWZHG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jLOGxY81S3FNq29X3qvmj"
+      },
+      "href": "https://api.spotify.com/v1/artists/1jLOGxY81S3FNq29X3qvmj",
+      "id": "1jLOGxY81S3FNq29X3qvmj",
+      "name": "Hex Hector",
+      "type": "artist",
+      "uri": "spotify:artist:1jLOGxY81S3FNq29X3qvmj"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "LI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 254466,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USAR19800109"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0oPBBwNQM6DNZ6COf1YLCO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0oPBBwNQM6DNZ6COf1YLCO",
+  "id": "0oPBBwNQM6DNZ6COf1YLCO",
+  "is_local": false,
+  "name": "Nobody's Supposed to Be Here - Dance Mix",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/365f7c072e7cab7c1b5408339ed74284bbf3f74e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:0oPBBwNQM6DNZ6COf1YLCO"
+}

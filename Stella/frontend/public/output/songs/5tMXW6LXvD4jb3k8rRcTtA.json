@@ -1,0 +1,171 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        "href": "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+        "id": "1o4xLcugkCtDDOw7POAMha",
+        "name": "The Notwist",
+        "type": "artist",
+        "uri": "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IL",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3wAVsD8AOWkBfLG4qA6933"
+    },
+    "href": "https://api.spotify.com/v1/albums/3wAVsD8AOWkBfLG4qA6933",
+    "id": "3wAVsD8AOWkBfLG4qA6933",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a00281dfafc1045561d74675",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a00281dfafc1045561d74675",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a00281dfafc1045561d74675",
+        "width": 64
+      }
+    ],
+    "name": "Neon Golden",
+    "release_date": "2002-01-14",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:3wAVsD8AOWkBfLG4qA6933"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+      },
+      "href": "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+      "id": "1o4xLcugkCtDDOw7POAMha",
+      "name": "The Notwist",
+      "type": "artist",
+      "uri": "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IL",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 268573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DED620118402"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5tMXW6LXvD4jb3k8rRcTtA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5tMXW6LXvD4jb3k8rRcTtA",
+  "id": "5tMXW6LXvD4jb3k8rRcTtA",
+  "is_local": false,
+  "name": "Pilot",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/ac2b01fee086d61913d7d301d94e5f7fb5285e0e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5tMXW6LXvD4jb3k8rRcTtA"
+}

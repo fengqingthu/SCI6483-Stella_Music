@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2zAvisjImPICTNsRgagqlV",
+        "id": "2zAvisjImPICTNsRgagqlV",
+        "name": "Bonnie Prince Billy",
+        "type": "artist",
+        "uri": "spotify:artist:2zAvisjImPICTNsRgagqlV"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3gAWUbjDnItBroEPdjXzG9"
+    },
+    "href": "https://api.spotify.com/v1/albums/3gAWUbjDnItBroEPdjXzG9",
+    "id": "3gAWUbjDnItBroEPdjXzG9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27333bbc550e4881efbeef99e23",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0233bbc550e4881efbeef99e23",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485133bbc550e4881efbeef99e23",
+        "width": 64
+      }
+    ],
+    "name": "I Made A Place",
+    "release_date": "2020-02-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3gAWUbjDnItBroEPdjXzG9"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+      },
+      "href": "https://api.spotify.com/v1/artists/2zAvisjImPICTNsRgagqlV",
+      "id": "2zAvisjImPICTNsRgagqlV",
+      "name": "Bonnie Prince Billy",
+      "type": "artist",
+      "uri": "spotify:artist:2zAvisjImPICTNsRgagqlV"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 166693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US58L1976308"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6EWavrWosARjigWatOwYFQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6EWavrWosARjigWatOwYFQ",
+  "id": "6EWavrWosARjigWatOwYFQ",
+  "is_local": false,
+  "name": "This Is Far From Over",
+  "popularity": 4,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:6EWavrWosARjigWatOwYFQ"
+}

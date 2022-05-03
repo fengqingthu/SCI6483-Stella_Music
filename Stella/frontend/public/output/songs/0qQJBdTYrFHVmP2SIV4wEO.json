@@ -1,0 +1,167 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HRRbATgv6NPHs7Twm74p2",
+        "id": "1HRRbATgv6NPHs7Twm74p2",
+        "name": "Alberto Iglesias",
+        "type": "artist",
+        "uri": "spotify:artist:1HRRbATgv6NPHs7Twm74p2"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/42yP5cBfsGDr1CmQPe9fxV"
+    },
+    "href": "https://api.spotify.com/v1/albums/42yP5cBfsGDr1CmQPe9fxV",
+    "id": "42yP5cBfsGDr1CmQPe9fxV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730e5fbad99a40430399b2b95d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020e5fbad99a40430399b2b95d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510e5fbad99a40430399b2b95d",
+        "width": 64
+      }
+    ],
+    "name": "Tinker Tailor Soldier Spy (Original Motion Picture Soundtrack)",
+    "release_date": "2011-09-12",
+    "release_date_precision": "day",
+    "total_tracks": 19,
+    "type": "album",
+    "uri": "spotify:album:42yP5cBfsGDr1CmQPe9fxV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HRRbATgv6NPHs7Twm74p2",
+      "id": "1HRRbATgv6NPHs7Twm74p2",
+      "name": "Alberto Iglesias",
+      "type": "artist",
+      "uri": "spotify:artist:1HRRbATgv6NPHs7Twm74p2"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "JP",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 318946,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJC1100220"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0qQJBdTYrFHVmP2SIV4wEO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0qQJBdTYrFHVmP2SIV4wEO",
+  "id": "0qQJBdTYrFHVmP2SIV4wEO",
+  "is_local": false,
+  "name": "George Smiley",
+  "popularity": 20,
+  "preview_url": "https://p.scdn.co/mp3-preview/311b9068a99515d4a6a7bd314cf559f0f2a803fd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0qQJBdTYrFHVmP2SIV4wEO"
+}

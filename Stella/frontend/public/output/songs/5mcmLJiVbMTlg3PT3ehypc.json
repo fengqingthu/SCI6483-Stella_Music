@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1vhiRTDEXaBLR0J8O5YJQ8"
+        },
+        "href": "https://api.spotify.com/v1/artists/1vhiRTDEXaBLR0J8O5YJQ8",
+        "id": "1vhiRTDEXaBLR0J8O5YJQ8",
+        "name": "Dunderpatrullen",
+        "type": "artist",
+        "uri": "spotify:artist:1vhiRTDEXaBLR0J8O5YJQ8"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4SFlSpsfNL118qbqNiCzbE"
+    },
+    "href": "https://api.spotify.com/v1/albums/4SFlSpsfNL118qbqNiCzbE",
+    "id": "4SFlSpsfNL118qbqNiCzbE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27393c77558a70361aa11520d8b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0293c77558a70361aa11520d8b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485193c77558a70361aa11520d8b",
+        "width": 64
+      }
+    ],
+    "name": "Keygeneration",
+    "release_date": "2014-06-02",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:4SFlSpsfNL118qbqNiCzbE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1vhiRTDEXaBLR0J8O5YJQ8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1vhiRTDEXaBLR0J8O5YJQ8",
+      "id": "1vhiRTDEXaBLR0J8O5YJQ8",
+      "name": "Dunderpatrullen",
+      "type": "artist",
+      "uri": "spotify:artist:1vhiRTDEXaBLR0J8O5YJQ8"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 327706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SE34N1400110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5mcmLJiVbMTlg3PT3ehypc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5mcmLJiVbMTlg3PT3ehypc",
+  "id": "5mcmLJiVbMTlg3PT3ehypc",
+  "is_local": false,
+  "name": "Singularity",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/209f357d5089f6a3850b4326f593a5144677a6f3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5mcmLJiVbMTlg3PT3ehypc"
+}

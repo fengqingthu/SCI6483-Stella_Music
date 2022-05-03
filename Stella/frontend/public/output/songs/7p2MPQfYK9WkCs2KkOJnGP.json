@@ -1,0 +1,97 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4M8mza6R01rQKdEANjic9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/4M8mza6R01rQKdEANjic9O",
+        "id": "4M8mza6R01rQKdEANjic9O",
+        "name": "Shokk",
+        "type": "artist",
+        "uri": "spotify:artist:4M8mza6R01rQKdEANjic9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0HhTjvbn0dkzcacqavJrBM"
+        },
+        "href": "https://api.spotify.com/v1/artists/0HhTjvbn0dkzcacqavJrBM",
+        "id": "0HhTjvbn0dkzcacqavJrBM",
+        "name": "Angry Children",
+        "type": "artist",
+        "uri": "spotify:artist:0HhTjvbn0dkzcacqavJrBM"
+      }
+    ],
+    "available_markets": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/02i3HieGbRR8VSsyYAMpqB"
+    },
+    "href": "https://api.spotify.com/v1/albums/02i3HieGbRR8VSsyYAMpqB",
+    "id": "02i3HieGbRR8VSsyYAMpqB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27344355c87b85d182c90028435",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0244355c87b85d182c90028435",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485144355c87b85d182c90028435",
+        "width": 64
+      }
+    ],
+    "name": "You Reposted in the Wrong Neighborhood (Lofi Remix)",
+    "release_date": "2020-07-06",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:02i3HieGbRR8VSsyYAMpqB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4M8mza6R01rQKdEANjic9O"
+      },
+      "href": "https://api.spotify.com/v1/artists/4M8mza6R01rQKdEANjic9O",
+      "id": "4M8mza6R01rQKdEANjic9O",
+      "name": "Shokk",
+      "type": "artist",
+      "uri": "spotify:artist:4M8mza6R01rQKdEANjic9O"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0HhTjvbn0dkzcacqavJrBM"
+      },
+      "href": "https://api.spotify.com/v1/artists/0HhTjvbn0dkzcacqavJrBM",
+      "id": "0HhTjvbn0dkzcacqavJrBM",
+      "name": "Angry Children",
+      "type": "artist",
+      "uri": "spotify:artist:0HhTjvbn0dkzcacqavJrBM"
+    }
+  ],
+  "available_markets": [],
+  "disc_number": 1,
+  "duration_ms": 270373,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "TCAFD2033974"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7p2MPQfYK9WkCs2KkOJnGP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7p2MPQfYK9WkCs2KkOJnGP",
+  "id": "7p2MPQfYK9WkCs2KkOJnGP",
+  "is_local": false,
+  "name": "You Reposted in the Wrong Neighborhood (Lofi Remix)",
+  "popularity": 0,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7p2MPQfYK9WkCs2KkOJnGP"
+}

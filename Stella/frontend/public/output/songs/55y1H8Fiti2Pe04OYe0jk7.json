@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        },
+        "href": "https://api.spotify.com/v1/artists/4VpWzXVUAR2YyQuWQpNGAf",
+        "id": "4VpWzXVUAR2YyQuWQpNGAf",
+        "name": "Bohren & Der Club Of Gore",
+        "type": "artist",
+        "uri": "spotify:artist:4VpWzXVUAR2YyQuWQpNGAf"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5CRJpwVreE9DgrjvvM2ZqF"
+    },
+    "href": "https://api.spotify.com/v1/albums/5CRJpwVreE9DgrjvvM2ZqF",
+    "id": "5CRJpwVreE9DgrjvvM2ZqF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cd1ea9944a14e1a667a514c4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cd1ea9944a14e1a667a514c4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cd1ea9944a14e1a667a514c4",
+        "width": 64
+      }
+    ],
+    "name": "Piano Nights",
+    "release_date": "2013",
+    "release_date_precision": "year",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:5CRJpwVreE9DgrjvvM2ZqF"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+      },
+      "href": "https://api.spotify.com/v1/artists/4VpWzXVUAR2YyQuWQpNGAf",
+      "id": "4VpWzXVUAR2YyQuWQpNGAf",
+      "name": "Bohren & Der Club Of Gore",
+      "type": "artist",
+      "uri": "spotify:artist:4VpWzXVUAR2YyQuWQpNGAf"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 329133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMDA61462268"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/55y1H8Fiti2Pe04OYe0jk7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/55y1H8Fiti2Pe04OYe0jk7",
+  "id": "55y1H8Fiti2Pe04OYe0jk7",
+  "is_local": false,
+  "name": "Im Rauch",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/3accffb377a2aa7855884ed20c2a33ce9deac621?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:55y1H8Fiti2Pe04OYe0jk7"
+}

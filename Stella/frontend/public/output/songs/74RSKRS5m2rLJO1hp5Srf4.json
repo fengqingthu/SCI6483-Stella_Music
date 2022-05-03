@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6OnvFAxe7lSHRF5NIwo1SS"
+        },
+        "href": "https://api.spotify.com/v1/artists/6OnvFAxe7lSHRF5NIwo1SS",
+        "id": "6OnvFAxe7lSHRF5NIwo1SS",
+        "name": "Ertebrekers",
+        "type": "artist",
+        "uri": "spotify:artist:6OnvFAxe7lSHRF5NIwo1SS"
+      }
+    ],
+    "available_markets": [
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/266IJE6s7VqH5g2Wwt7Bmc"
+    },
+    "href": "https://api.spotify.com/v1/albums/266IJE6s7VqH5g2Wwt7Bmc",
+    "id": "266IJE6s7VqH5g2Wwt7Bmc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27326e82cfacfd76a7624e8c228",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0226e82cfacfd76a7624e8c228",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485126e82cfacfd76a7624e8c228",
+        "width": 64
+      }
+    ],
+    "name": "Otel",
+    "release_date": "2016-03-25",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:266IJE6s7VqH5g2Wwt7Bmc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6OnvFAxe7lSHRF5NIwo1SS"
+      },
+      "href": "https://api.spotify.com/v1/artists/6OnvFAxe7lSHRF5NIwo1SS",
+      "id": "6OnvFAxe7lSHRF5NIwo1SS",
+      "name": "Ertebrekers",
+      "type": "artist",
+      "uri": "spotify:artist:6OnvFAxe7lSHRF5NIwo1SS"
+    }
+  ],
+  "available_markets": [
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 222453,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "BEEJ51600105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/74RSKRS5m2rLJO1hp5Srf4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/74RSKRS5m2rLJO1hp5Srf4",
+  "id": "74RSKRS5m2rLJO1hp5Srf4",
+  "is_local": false,
+  "name": "Eva Mendes",
+  "popularity": 11,
+  "preview_url": "https://p.scdn.co/mp3-preview/701c266e02f87b70fff8d6874d9c64b2b772a18b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:74RSKRS5m2rLJO1hp5Srf4"
+}

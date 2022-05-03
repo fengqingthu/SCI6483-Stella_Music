@@ -1,0 +1,20 @@
+{
+  "danceability": 0.635,
+  "energy": 0.799,
+  "key": 8,
+  "loudness": -6.628,
+  "mode": 0,
+  "speechiness": 0.0418,
+  "acousticness": 0.311,
+  "instrumentalness": 0.0000652,
+  "liveness": 0.245,
+  "valence": 0.836,
+  "tempo": 120.02,
+  "type": "audio_features",
+  "id": "3vIXQxRqhvYZ7JeInletmE",
+  "uri": "spotify:track:3vIXQxRqhvYZ7JeInletmE",
+  "track_href": "https://api.spotify.com/v1/tracks/3vIXQxRqhvYZ7JeInletmE",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3vIXQxRqhvYZ7JeInletmE",
+  "duration_ms": 241440,
+  "time_signature": 4
+}

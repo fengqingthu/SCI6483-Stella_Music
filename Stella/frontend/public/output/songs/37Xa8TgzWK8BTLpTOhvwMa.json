@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+        "id": "053q0ukIDRgzwTr4vNSwab",
+        "name": "Grimes",
+        "type": "artist",
+        "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        "href": "https://api.spotify.com/v1/artists/0y42IQBDFigO5mmEd1bGQG",
+        "id": "0y42IQBDFigO5mmEd1bGQG",
+        "name": "i_o",
+        "type": "artist",
+        "uri": "spotify:artist:0y42IQBDFigO5mmEd1bGQG"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3CK55HSuQTJoyGNA3gWeJL"
+    },
+    "href": "https://api.spotify.com/v1/albums/3CK55HSuQTJoyGNA3gWeJL",
+    "id": "3CK55HSuQTJoyGNA3gWeJL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c953d066ba405ffaa685d446",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c953d066ba405ffaa685d446",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c953d066ba405ffaa685d446",
+        "width": 64
+      }
+    ],
+    "name": "VIOLENCE",
+    "release_date": "2019-11-08",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:3CK55HSuQTJoyGNA3gWeJL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id": "053q0ukIDRgzwTr4vNSwab",
+      "name": "Grimes",
+      "type": "artist",
+      "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+      },
+      "href": "https://api.spotify.com/v1/artists/0y42IQBDFigO5mmEd1bGQG",
+      "id": "0y42IQBDFigO5mmEd1bGQG",
+      "name": "i_o",
+      "type": "artist",
+      "uri": "spotify:artist:0y42IQBDFigO5mmEd1bGQG"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 220800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAFL1900329"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/37Xa8TgzWK8BTLpTOhvwMa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/37Xa8TgzWK8BTLpTOhvwMa",
+  "id": "37Xa8TgzWK8BTLpTOhvwMa",
+  "is_local": false,
+  "name": "Violence",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/a96e0ff7dd14d49fcc5c6946ee5ce4375a5daedd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:37Xa8TgzWK8BTLpTOhvwMa"
+}

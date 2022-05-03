@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        },
+        "href": "https://api.spotify.com/v1/artists/23IZADrJHPStZ6aMxJVq3s",
+        "id": "23IZADrJHPStZ6aMxJVq3s",
+        "name": "Jarryd James",
+        "type": "artist",
+        "uri": "spotify:artist:23IZADrJHPStZ6aMxJVq3s"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
+    },
+    "href": "https://api.spotify.com/v1/albums/4kZKz4ZQCnuKWV6MqOR2H2",
+    "id": "4kZKz4ZQCnuKWV6MqOR2H2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738819357f0210af47c90a4682",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028819357f0210af47c90a4682",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518819357f0210af47c90a4682",
+        "width": 64
+      }
+    ],
+    "name": "Thirty One",
+    "release_date": "2015-09-11",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4kZKz4ZQCnuKWV6MqOR2H2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+      },
+      "href": "https://api.spotify.com/v1/artists/23IZADrJHPStZ6aMxJVq3s",
+      "id": "23IZADrJHPStZ6aMxJVq3s",
+      "name": "Jarryd James",
+      "type": "artist",
+      "uri": "spotify:artist:23IZADrJHPStZ6aMxJVq3s"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 234866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71504917"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5V53dAjgNInfXNlz2cryvd",
+  "id": "5V53dAjgNInfXNlz2cryvd",
+  "is_local": false,
+  "name": "Do You Remember",
+  "popularity": 50,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5V53dAjgNInfXNlz2cryvd"
+}

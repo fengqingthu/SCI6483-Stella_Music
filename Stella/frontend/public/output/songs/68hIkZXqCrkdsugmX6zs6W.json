@@ -1,0 +1,139 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+        "id": "1Q776wzj2mrtXrNu3iH6nk",
+        "name": "Archive",
+        "type": "artist",
+        "uri": "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "GB",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LU",
+      "ME",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2bVMOHv9kYzF9cIznEC1PJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/2bVMOHv9kYzF9cIznEC1PJ",
+    "id": "2bVMOHv9kYzF9cIznEC1PJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b994e4daf102b639cc982d91",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b994e4daf102b639cc982d91",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b994e4daf102b639cc982d91",
+        "width": 64
+      }
+    ],
+    "name": "You All Look The Same To Me",
+    "release_date": "2002-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2bVMOHv9kYzF9cIznEC1PJ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+      "id": "1Q776wzj2mrtXrNu3iH6nk",
+      "name": "Archive",
+      "type": "artist",
+      "uri": "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "GB",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LU",
+    "ME",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SI",
+    "SK",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 979666,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBEYA0100002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/68hIkZXqCrkdsugmX6zs6W"
+  },
+  "href": "https://api.spotify.com/v1/tracks/68hIkZXqCrkdsugmX6zs6W",
+  "id": "68hIkZXqCrkdsugmX6zs6W",
+  "is_local": false,
+  "name": "Again",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/0c47160c9250b563255522367695924f30d83400?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:68hIkZXqCrkdsugmX6zs6W"
+}

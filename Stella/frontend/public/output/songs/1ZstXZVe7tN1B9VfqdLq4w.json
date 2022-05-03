@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Jotu5LupekFt00kZZZ7C6",
+        "id": "7Jotu5LupekFt00kZZZ7C6",
+        "name": "Hayley Westenra",
+        "type": "artist",
+        "uri": "spotify:artist:7Jotu5LupekFt00kZZZ7C6"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Qy7aFB3uoKqFZNr6tcUxm"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Qy7aFB3uoKqFZNr6tcUxm",
+    "id": "5Qy7aFB3uoKqFZNr6tcUxm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cda2537d9d198f0a5a7dff56",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cda2537d9d198f0a5a7dff56",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cda2537d9d198f0a5a7dff56",
+        "width": 64
+      }
+    ],
+    "name": "World In Union (UK)",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:5Qy7aFB3uoKqFZNr6tcUxm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Jotu5LupekFt00kZZZ7C6",
+      "id": "7Jotu5LupekFt00kZZZ7C6",
+      "name": "Hayley Westenra",
+      "type": "artist",
+      "uri": "spotify:artist:7Jotu5LupekFt00kZZZ7C6"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 200035,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBBA1100780"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1ZstXZVe7tN1B9VfqdLq4w"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1ZstXZVe7tN1B9VfqdLq4w",
+  "id": "1ZstXZVe7tN1B9VfqdLq4w",
+  "is_local": false,
+  "name": "World In Union - English",
+  "popularity": 28,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1ZstXZVe7tN1B9VfqdLq4w"
+}

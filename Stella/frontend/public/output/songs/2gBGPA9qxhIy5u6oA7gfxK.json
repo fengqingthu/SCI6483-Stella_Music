@@ -1,0 +1,181 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        },
+        "href": "https://api.spotify.com/v1/artists/7FQiZr787umw7P5dO3zqld",
+        "id": "7FQiZr787umw7P5dO3zqld",
+        "name": "John Carroll Kirby",
+        "type": "artist",
+        "uri": "spotify:artist:7FQiZr787umw7P5dO3zqld"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IL",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0LnkGWYfg54R7cTqg73Hgw"
+    },
+    "href": "https://api.spotify.com/v1/albums/0LnkGWYfg54R7cTqg73Hgw",
+    "id": "0LnkGWYfg54R7cTqg73Hgw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739ab753be39770e48ffddc6f7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029ab753be39770e48ffddc6f7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519ab753be39770e48ffddc6f7",
+        "width": 64
+      }
+    ],
+    "name": "My Garden",
+    "release_date": "2020-04-24",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:0LnkGWYfg54R7cTqg73Hgw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+      },
+      "href": "https://api.spotify.com/v1/artists/7FQiZr787umw7P5dO3zqld",
+      "id": "7FQiZr787umw7P5dO3zqld",
+      "name": "John Carroll Kirby",
+      "type": "artist",
+      "uri": "spotify:artist:7FQiZr787umw7P5dO3zqld"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IL",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 299936,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US2S72017002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2gBGPA9qxhIy5u6oA7gfxK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2gBGPA9qxhIy5u6oA7gfxK",
+  "id": "2gBGPA9qxhIy5u6oA7gfxK",
+  "is_local": false,
+  "name": "By The Sea",
+  "popularity": 19,
+  "preview_url": "https://p.scdn.co/mp3-preview/ed9a726b431601778baa3d5f6c8a67e91ae90c84?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2gBGPA9qxhIy5u6oA7gfxK"
+}

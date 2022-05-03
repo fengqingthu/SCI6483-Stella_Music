@@ -1,0 +1,169 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4N99bzdRBNRi7hGNCpMuhu"
+        },
+        "href": "https://api.spotify.com/v1/artists/4N99bzdRBNRi7hGNCpMuhu",
+        "id": "4N99bzdRBNRi7hGNCpMuhu",
+        "name": "Suicide Commando",
+        "type": "artist",
+        "uri": "spotify:artist:4N99bzdRBNRi7hGNCpMuhu"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3JW0G3QkH4IFmE4PpCIPeL"
+    },
+    "href": "https://api.spotify.com/v1/albums/3JW0G3QkH4IFmE4PpCIPeL",
+    "id": "3JW0G3QkH4IFmE4PpCIPeL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27355112996a2043b0e79cfb595",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0255112996a2043b0e79cfb595",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485155112996a2043b0e79cfb595",
+        "width": 64
+      }
+    ],
+    "name": "Implements Of Hell",
+    "release_date": "2010-01-22",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3JW0G3QkH4IFmE4PpCIPeL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4N99bzdRBNRi7hGNCpMuhu"
+      },
+      "href": "https://api.spotify.com/v1/artists/4N99bzdRBNRi7hGNCpMuhu",
+      "id": "4N99bzdRBNRi7hGNCpMuhu",
+      "name": "Suicide Commando",
+      "type": "artist",
+      "uri": "spotify:artist:4N99bzdRBNRi7hGNCpMuhu"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 369253,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEBZ70900540"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3YGr9V4z5hLP7omWJqZDyc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3YGr9V4z5hLP7omWJqZDyc",
+  "id": "3YGr9V4z5hLP7omWJqZDyc",
+  "is_local": false,
+  "name": "Die Motherfucker Die",
+  "popularity": 31,
+  "preview_url": "https://p.scdn.co/mp3-preview/53290594b2c0fddaf2beb97323b4a4fa01f663bd?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:3YGr9V4z5hLP7omWJqZDyc"
+}

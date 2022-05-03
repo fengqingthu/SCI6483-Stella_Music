@@ -1,0 +1,20 @@
+{
+  "danceability": 0.662,
+  "energy": 0.654,
+  "key": 0,
+  "loudness": -10.963,
+  "mode": 1,
+  "speechiness": 0.0396,
+  "acousticness": 0.112,
+  "instrumentalness": 0.855,
+  "liveness": 0.513,
+  "valence": 0.294,
+  "tempo": 119.992,
+  "type": "audio_features",
+  "id": "37NuVeAEMEwMu7GdKXbiLX",
+  "uri": "spotify:track:37NuVeAEMEwMu7GdKXbiLX",
+  "track_href": "https://api.spotify.com/v1/tracks/37NuVeAEMEwMu7GdKXbiLX",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/37NuVeAEMEwMu7GdKXbiLX",
+  "duration_ms": 205000,
+  "time_signature": 4
+}

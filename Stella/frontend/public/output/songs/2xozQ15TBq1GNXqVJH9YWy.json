@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ikT9iKpjKsyVX9esa3AZC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ikT9iKpjKsyVX9esa3AZC",
+        "id": "2ikT9iKpjKsyVX9esa3AZC",
+        "name": "Camille Jones",
+        "type": "artist",
+        "uri": "spotify:artist:2ikT9iKpjKsyVX9esa3AZC"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0SmqtmFpzYWtwOnwn90kyK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0SmqtmFpzYWtwOnwn90kyK",
+    "id": "0SmqtmFpzYWtwOnwn90kyK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ddc2604b5eff6919c6148cac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ddc2604b5eff6919c6148cac",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ddc2604b5eff6919c6148cac",
+        "width": 64
+      }
+    ],
+    "name": "Did I Say I Love You",
+    "release_date": "2011-02-18",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:0SmqtmFpzYWtwOnwn90kyK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ikT9iKpjKsyVX9esa3AZC"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ikT9iKpjKsyVX9esa3AZC",
+      "id": "2ikT9iKpjKsyVX9esa3AZC",
+      "name": "Camille Jones",
+      "type": "artist",
+      "uri": "spotify:artist:2ikT9iKpjKsyVX9esa3AZC"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 218693,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKUCA1100008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2xozQ15TBq1GNXqVJH9YWy"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2xozQ15TBq1GNXqVJH9YWy",
+  "id": "2xozQ15TBq1GNXqVJH9YWy",
+  "is_local": false,
+  "name": "The Streets",
+  "popularity": 1,
+  "preview_url": "https://p.scdn.co/mp3-preview/a5c39a33f710f6f5fcb377e3a9c32bfff261d282?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2xozQ15TBq1GNXqVJH9YWy"
+}

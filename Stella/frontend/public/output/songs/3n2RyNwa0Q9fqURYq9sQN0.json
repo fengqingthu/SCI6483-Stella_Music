@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "GB"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5qyso2hoLjA0EsrGhMqQr3"
+    },
+    "href": "https://api.spotify.com/v1/albums/5qyso2hoLjA0EsrGhMqQr3",
+    "id": "5qyso2hoLjA0EsrGhMqQr3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ca1a5e358b3b84c2f57c74f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027ca1a5e358b3b84c2f57c74f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517ca1a5e358b3b84c2f57c74f",
+        "width": 64
+      }
+    ],
+    "name": "CLASSIC FM MOVIES - THE ULTIMATE COLLECTION",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 37,
+    "type": "album",
+    "uri": "spotify:album:5qyso2hoLjA0EsrGhMqQr3"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb"
+      },
+      "href": "https://api.spotify.com/v1/artists/68bqsIINo5RFICYwbkChbb",
+      "id": "68bqsIINo5RFICYwbkChbb",
+      "name": "Michael Kamen",
+      "type": "artist",
+      "uri": "spotify:artist:68bqsIINo5RFICYwbkChbb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/394BrHypBLFHWMyunck3er"
+      },
+      "href": "https://api.spotify.com/v1/artists/394BrHypBLFHWMyunck3er",
+      "id": "394BrHypBLFHWMyunck3er",
+      "name": "John Cerrninaro",
+      "type": "artist",
+      "uri": "spotify:artist:394BrHypBLFHWMyunck3er"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+      },
+      "href": "https://api.spotify.com/v1/artists/5KeUHRKEYWc5cFO5V032sb",
+      "id": "5KeUHRKEYWc5cFO5V032sb",
+      "name": "Seattle Symphony Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:5KeUHRKEYWc5cFO5V032sb"
+    }
+  ],
+  "available_markets": [
+    "GB"
+  ],
+  "disc_number": 2,
+  "duration_ms": 163320,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBF079710610"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3n2RyNwa0Q9fqURYq9sQN0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3n2RyNwa0Q9fqURYq9sQN0",
+  "id": "3n2RyNwa0Q9fqURYq9sQN0",
+  "is_local": false,
+  "name": "Overture [Robin Hood Prince of Thieves]",
+  "popularity": 18,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:3n2RyNwa0Q9fqURYq9sQN0"
+}

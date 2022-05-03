@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+        "id": "2QoU3awHVdcHS8LrZEKvSM",
+        "name": "Wilco",
+        "type": "artist",
+        "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
+    },
+    "href": "https://api.spotify.com/v1/albums/1cezxBJdWm1Xod9ZiGy4YE",
+    "id": "1cezxBJdWm1Xod9ZiGy4YE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733f4874f0518135a803db054c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023f4874f0518135a803db054c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513f4874f0518135a803db054c",
+        "width": 64
+      }
+    ],
+    "name": "Wilco (The Album)",
+    "release_date": "2009",
+    "release_date_precision": "year",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:1cezxBJdWm1Xod9ZiGy4YE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+      },
+      "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+      "id": "2QoU3awHVdcHS8LrZEKvSM",
+      "name": "Wilco",
+      "type": "artist",
+      "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205240,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USNO10900171"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2fdMAIsNH4wY7RRda8aCfL",
+  "id": "2fdMAIsNH4wY7RRda8aCfL",
+  "is_local": false,
+  "name": "You and I",
+  "popularity": 44,
+  "preview_url": "https://p.scdn.co/mp3-preview/c8a5a22c033f153dd1b339416c9c641f25b42356?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:2fdMAIsNH4wY7RRda8aCfL"
+}

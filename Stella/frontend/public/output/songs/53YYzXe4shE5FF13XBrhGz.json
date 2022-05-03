@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        },
+        "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+        "id": "63MQldklfxkjYDoUE4Tppz",
+        "name": "M83",
+        "type": "artist",
+        "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU"
+    },
+    "href": "https://api.spotify.com/v1/albums/5oOaP8n5kFkbxQkzp86tlU",
+    "id": "5oOaP8n5kFkbxQkzp86tlU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a70e58a349e5baa581a6b6de",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a70e58a349e5baa581a6b6de",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a70e58a349e5baa581a6b6de",
+        "width": 64
+      }
+    ],
+    "name": "Midnight City (Eric Prydz Private Remix)",
+    "release_date": "2012",
+    "release_date_precision": "year",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:5oOaP8n5kFkbxQkzp86tlU"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+      },
+      "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+      "id": "63MQldklfxkjYDoUE4Tppz",
+      "name": "M83",
+      "type": "artist",
+      "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 357241,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GB55H1200001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/53YYzXe4shE5FF13XBrhGz",
+  "id": "53YYzXe4shE5FF13XBrhGz",
+  "is_local": false,
+  "name": "Midnight City - Eric Prydz Private Remix",
+  "popularity": 45,
+  "preview_url": "https://p.scdn.co/mp3-preview/046569936764eb29fbe69f2ec98946bfbc4859fa?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:53YYzXe4shE5FF13XBrhGz"
+}

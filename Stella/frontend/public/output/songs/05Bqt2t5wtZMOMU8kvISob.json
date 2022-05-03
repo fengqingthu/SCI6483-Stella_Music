@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+        },
+        "href": "https://api.spotify.com/v1/artists/2X3qFQFHkm1sOGo5ppIoSD",
+        "id": "2X3qFQFHkm1sOGo5ppIoSD",
+        "name": "Ad Infinitum",
+        "type": "artist",
+        "uri": "spotify:artist:2X3qFQFHkm1sOGo5ppIoSD"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/70Jl7oUGebPN30lgtRHAIP"
+    },
+    "href": "https://api.spotify.com/v1/albums/70Jl7oUGebPN30lgtRHAIP",
+    "id": "70Jl7oUGebPN30lgtRHAIP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f40f9a733dad6af0cdbf3950",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f40f9a733dad6af0cdbf3950",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f40f9a733dad6af0cdbf3950",
+        "width": 64
+      }
+    ],
+    "name": "Chapter II - Legacy",
+    "release_date": "2021-10-29",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:70Jl7oUGebPN30lgtRHAIP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+      },
+      "href": "https://api.spotify.com/v1/artists/2X3qFQFHkm1sOGo5ppIoSD",
+      "id": "2X3qFQFHkm1sOGo5ppIoSD",
+      "name": "Ad Infinitum",
+      "type": "artist",
+      "uri": "spotify:artist:2X3qFQFHkm1sOGo5ppIoSD"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 253133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN262105102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/05Bqt2t5wtZMOMU8kvISob"
+  },
+  "href": "https://api.spotify.com/v1/tracks/05Bqt2t5wtZMOMU8kvISob",
+  "id": "05Bqt2t5wtZMOMU8kvISob",
+  "is_local": false,
+  "name": "Unstoppable",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/2cce6e818f6203e1f82468236bc2703048a853e6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:05Bqt2t5wtZMOMU8kvISob"
+}

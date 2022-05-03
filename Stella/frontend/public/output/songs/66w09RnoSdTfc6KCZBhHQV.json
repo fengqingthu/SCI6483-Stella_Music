@@ -1,0 +1,93 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G"
+        },
+        "href": "https://api.spotify.com/v1/artists/0sQ1wgSdRpoysgsa1VnI4G",
+        "id": "0sQ1wgSdRpoysgsa1VnI4G",
+        "name": "Foreign Beggars",
+        "type": "artist",
+        "uri": "spotify:artist:0sQ1wgSdRpoysgsa1VnI4G"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4GNSMzPp9zRHjSF8L4c0ut"
+    },
+    "href": "https://api.spotify.com/v1/albums/4GNSMzPp9zRHjSF8L4c0ut",
+    "id": "4GNSMzPp9zRHjSF8L4c0ut",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dce4d63996591704a95b6106",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dce4d63996591704a95b6106",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dce4d63996591704a95b6106",
+        "width": 64
+      }
+    ],
+    "name": "United Colours Of Beggatron",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:4GNSMzPp9zRHjSF8L4c0ut"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G"
+      },
+      "href": "https://api.spotify.com/v1/artists/0sQ1wgSdRpoysgsa1VnI4G",
+      "id": "0sQ1wgSdRpoysgsa1VnI4G",
+      "name": "Foreign Beggars",
+      "type": "artist",
+      "uri": "spotify:artist:0sQ1wgSdRpoysgsa1VnI4G"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YWj8sohRDjL9deiuRvEEY",
+      "id": "4YWj8sohRDjL9deiuRvEEY",
+      "name": "Noisia",
+      "type": "artist",
+      "uri": "spotify:artist:4YWj8sohRDjL9deiuRvEEY"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 190386,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBQXM0900038"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/66w09RnoSdTfc6KCZBhHQV"
+  },
+  "href": "https://api.spotify.com/v1/tracks/66w09RnoSdTfc6KCZBhHQV",
+  "id": "66w09RnoSdTfc6KCZBhHQV",
+  "is_local": false,
+  "name": "Contact (feat. Noisia)",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/ab9f2267f5ceef053145de5a82c7170cd6df22ef?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:66w09RnoSdTfc6KCZBhHQV"
+}

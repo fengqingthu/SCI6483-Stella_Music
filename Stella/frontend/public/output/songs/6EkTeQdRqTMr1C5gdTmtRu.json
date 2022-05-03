@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        },
+        "href": "https://api.spotify.com/v1/artists/6fNmOWQzfOVyHLQ2UqUQew",
+        "id": "6fNmOWQzfOVyHLQ2UqUQew",
+        "name": "Eva Cassidy",
+        "type": "artist",
+        "uri": "spotify:artist:6fNmOWQzfOVyHLQ2UqUQew"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6rnJN9wmKZljYHuW1xRGnK"
+    },
+    "href": "https://api.spotify.com/v1/albums/6rnJN9wmKZljYHuW1xRGnK",
+    "id": "6rnJN9wmKZljYHuW1xRGnK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737c87325e698ac01272b9766e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027c87325e698ac01272b9766e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517c87325e698ac01272b9766e",
+        "width": 64
+      }
+    ],
+    "name": "Songbird",
+    "release_date": "1998-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6rnJN9wmKZljYHuW1xRGnK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+      },
+      "href": "https://api.spotify.com/v1/artists/6fNmOWQzfOVyHLQ2UqUQew",
+      "id": "6fNmOWQzfOVyHLQ2UqUQew",
+      "name": "Eva Cassidy",
+      "type": "artist",
+      "uri": "spotify:artist:6fNmOWQzfOVyHLQ2UqUQew"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 300973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USA440345010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6EkTeQdRqTMr1C5gdTmtRu"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6EkTeQdRqTMr1C5gdTmtRu",
+  "id": "6EkTeQdRqTMr1C5gdTmtRu",
+  "is_local": false,
+  "name": "Over The Rainbow",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/3f18e58c1f6dda12c564103f58525d5f43a21429?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:6EkTeQdRqTMr1C5gdTmtRu"
+}

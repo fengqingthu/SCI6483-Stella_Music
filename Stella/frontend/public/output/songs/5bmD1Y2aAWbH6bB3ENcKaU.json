@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+        },
+        "href": "https://api.spotify.com/v1/artists/2lHSlOOSjpb0qKUkrpXT6J",
+        "id": "2lHSlOOSjpb0qKUkrpXT6J",
+        "name": "Bremer/McCoy",
+        "type": "artist",
+        "uri": "spotify:artist:2lHSlOOSjpb0qKUkrpXT6J"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6SqnsZ1UJoRyXAaa2NzNuG"
+    },
+    "href": "https://api.spotify.com/v1/albums/6SqnsZ1UJoRyXAaa2NzNuG",
+    "id": "6SqnsZ1UJoRyXAaa2NzNuG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ec2ffb6677cb315d0c026a71",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ec2ffb6677cb315d0c026a71",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ec2ffb6677cb315d0c026a71",
+        "width": 64
+      }
+    ],
+    "name": "Utopia",
+    "release_date": "2019-10-18",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:6SqnsZ1UJoRyXAaa2NzNuG"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+      },
+      "href": "https://api.spotify.com/v1/artists/2lHSlOOSjpb0qKUkrpXT6J",
+      "id": "2lHSlOOSjpb0qKUkrpXT6J",
+      "name": "Bremer/McCoy",
+      "type": "artist",
+      "uri": "spotify:artist:2lHSlOOSjpb0qKUkrpXT6J"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 263106,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USLB11910021"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5bmD1Y2aAWbH6bB3ENcKaU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5bmD1Y2aAWbH6bB3ENcKaU",
+  "id": "5bmD1Y2aAWbH6bB3ENcKaU",
+  "is_local": false,
+  "name": "Højder",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/861560171b53b2f3690717c29ccded242dfed86e?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5bmD1Y2aAWbH6bB3ENcKaU"
+}

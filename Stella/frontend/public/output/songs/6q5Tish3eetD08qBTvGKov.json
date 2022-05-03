@@ -1,0 +1,165 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u"
+        },
+        "href": "https://api.spotify.com/v1/artists/5RZjpmuD14JKXvB8Ry1G1u",
+        "id": "5RZjpmuD14JKXvB8Ry1G1u",
+        "name": "Amanda Seyfried",
+        "type": "artist",
+        "uri": "spotify:artist:5RZjpmuD14JKXvB8Ry1G1u"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4TIJ2DDoY1gQRLHfsio0RP"
+    },
+    "href": "https://api.spotify.com/v1/albums/4TIJ2DDoY1gQRLHfsio0RP",
+    "id": "4TIJ2DDoY1gQRLHfsio0RP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273edb49ad7b719f766ec02476b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02edb49ad7b719f766ec02476b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851edb49ad7b719f766ec02476b",
+        "width": 64
+      }
+    ],
+    "name": "Little House",
+    "release_date": "2010-04-12",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:4TIJ2DDoY1gQRLHfsio0RP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u"
+      },
+      "href": "https://api.spotify.com/v1/artists/5RZjpmuD14JKXvB8Ry1G1u",
+      "id": "5RZjpmuD14JKXvB8Ry1G1u",
+      "name": "Amanda Seyfried",
+      "type": "artist",
+      "uri": "spotify:artist:5RZjpmuD14JKXvB8Ry1G1u"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205586,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US6LQ0900121"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6q5Tish3eetD08qBTvGKov"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6q5Tish3eetD08qBTvGKov",
+  "id": "6q5Tish3eetD08qBTvGKov",
+  "is_local": false,
+  "name": "Dear John - Little House",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6q5Tish3eetD08qBTvGKov"
+}

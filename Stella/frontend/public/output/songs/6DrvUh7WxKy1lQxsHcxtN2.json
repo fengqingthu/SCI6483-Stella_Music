@@ -1,0 +1,127 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        },
+        "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+        "id": "22ojy4H4ZVpowC4lRRC8In",
+        "name": "Destroyer",
+        "type": "artist",
+        "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AU",
+      "BB",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "DM",
+      "DO",
+      "GD",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "NZ",
+      "PA",
+      "SV",
+      "TT",
+      "US",
+      "VC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1"
+    },
+    "href": "https://api.spotify.com/v1/albums/4sVWj2lb9F8nRg57VFTaf1",
+    "id": "4sVWj2lb9F8nRg57VFTaf1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736fd7ec50eeda2f6820f1f873",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026fd7ec50eeda2f6820f1f873",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516fd7ec50eeda2f6820f1f873",
+        "width": 64
+      }
+    ],
+    "name": "Kaputt",
+    "release_date": "2011-01-25",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:4sVWj2lb9F8nRg57VFTaf1"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+      },
+      "href": "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+      "id": "22ojy4H4ZVpowC4lRRC8In",
+      "name": "Destroyer",
+      "type": "artist",
+      "uri": "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AU",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "NZ",
+    "PA",
+    "SV",
+    "TT",
+    "US",
+    "VC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 377973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMRG1136906"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6DrvUh7WxKy1lQxsHcxtN2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6DrvUh7WxKy1lQxsHcxtN2",
+  "id": "6DrvUh7WxKy1lQxsHcxtN2",
+  "is_local": false,
+  "name": "Kaputt",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/37f904bd3103b866e5a5377437301119d83973e7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:6DrvUh7WxKy1lQxsHcxtN2"
+}

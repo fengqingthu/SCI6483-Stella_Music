@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        },
+        "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+        "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+        "name": "The Tallest Man On Earth",
+        "type": "artist",
+        "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3qjQE1u461QuhH1JjcjaP0"
+    },
+    "href": "https://api.spotify.com/v1/albums/3qjQE1u461QuhH1JjcjaP0",
+    "id": "3qjQE1u461QuhH1JjcjaP0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fd07676ac5ddce17f9a23824",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fd07676ac5ddce17f9a23824",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fd07676ac5ddce17f9a23824",
+        "width": 64
+      }
+    ],
+    "name": "Sometimes The Blues Is Just A Passing Bird",
+    "release_date": "2010-09-07",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:3qjQE1u461QuhH1JjcjaP0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+      },
+      "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+      "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+      "name": "The Tallest Man On Earth",
+      "type": "artist",
+      "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 245866,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "SEWFN1000202"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6BdeC4b3dbPucapuLfYqKa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6BdeC4b3dbPucapuLfYqKa",
+  "id": "6BdeC4b3dbPucapuLfYqKa",
+  "is_local": false,
+  "name": "The Dreamer",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/17d0f81ea3c18bd7fd2297174fff29a79ddae3d6?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6BdeC4b3dbPucapuLfYqKa"
+}

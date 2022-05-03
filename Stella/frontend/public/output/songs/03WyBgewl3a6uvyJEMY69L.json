@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1YqGsKpdixxSVgpfaL2AEQ",
+        "id": "1YqGsKpdixxSVgpfaL2AEQ",
+        "name": "Small Faces",
+        "type": "artist",
+        "uri": "spotify:artist:1YqGsKpdixxSVgpfaL2AEQ"
+      }
+    ],
+    "available_markets": [
+      "GB"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/15CGO9aEr69vJgxaiNU56Z"
+    },
+    "href": "https://api.spotify.com/v1/albums/15CGO9aEr69vJgxaiNU56Z",
+    "id": "15CGO9aEr69vJgxaiNU56Z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273212985bb314c5364ff1e8af2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02212985bb314c5364ff1e8af2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851212985bb314c5364ff1e8af2",
+        "width": 64
+      }
+    ],
+    "name": "There Are But Four Small Faces (Expanded)",
+    "release_date": "1967-06-23",
+    "release_date_precision": "day",
+    "total_tracks": 31,
+    "type": "album",
+    "uri": "spotify:album:15CGO9aEr69vJgxaiNU56Z"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YqGsKpdixxSVgpfaL2AEQ",
+      "id": "1YqGsKpdixxSVgpfaL2AEQ",
+      "name": "Small Faces",
+      "type": "artist",
+      "uri": "spotify:artist:1YqGsKpdixxSVgpfaL2AEQ"
+    }
+  ],
+  "available_markets": [
+    "GB"
+  ],
+  "disc_number": 1,
+  "duration_ms": 168133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAJE6700082"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/03WyBgewl3a6uvyJEMY69L"
+  },
+  "href": "https://api.spotify.com/v1/tracks/03WyBgewl3a6uvyJEMY69L",
+  "id": "03WyBgewl3a6uvyJEMY69L",
+  "is_local": false,
+  "name": "Itchycoo Park",
+  "popularity": 48,
+  "preview_url": "https://p.scdn.co/mp3-preview/228cb9bddb096a558f9650296c304c721b63124f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:03WyBgewl3a6uvyJEMY69L"
+}

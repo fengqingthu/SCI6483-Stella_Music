@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dkEByOe0oHqc54qU4hwzV",
+        "id": "7dkEByOe0oHqc54qU4hwzV",
+        "name": "Gloryhammer",
+        "type": "artist",
+        "uri": "spotify:artist:7dkEByOe0oHqc54qU4hwzV"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3QtZum80FjSgioDKg3hGDO"
+    },
+    "href": "https://api.spotify.com/v1/albums/3QtZum80FjSgioDKg3hGDO",
+    "id": "3QtZum80FjSgioDKg3hGDO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736bf3db976235f08ee10897af",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026bf3db976235f08ee10897af",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516bf3db976235f08ee10897af",
+        "width": 64
+      }
+    ],
+    "name": "Legends From Beyond The Galactic Terrorvortex (Deluxe Version)",
+    "release_date": "2019-05-31",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:3QtZum80FjSgioDKg3hGDO"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dkEByOe0oHqc54qU4hwzV",
+      "id": "7dkEByOe0oHqc54qU4hwzV",
+      "name": "Gloryhammer",
+      "type": "artist",
+      "uri": "spotify:artist:7dkEByOe0oHqc54qU4hwzV"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 230293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN261983908"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5p6VSvG1qSptiammkdtDNL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5p6VSvG1qSptiammkdtDNL",
+  "id": "5p6VSvG1qSptiammkdtDNL",
+  "is_local": false,
+  "name": "Hootsforce",
+  "popularity": 41,
+  "preview_url": "https://p.scdn.co/mp3-preview/4c798e0c1156639855f817939fb33818f8d83ef7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5p6VSvG1qSptiammkdtDNL"
+}

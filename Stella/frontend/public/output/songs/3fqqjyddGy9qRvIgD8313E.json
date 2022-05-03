@@ -1,0 +1,113 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        "href": "https://api.spotify.com/v1/artists/2KEqzdPS7M5YwGmiuPTdr5",
+        "id": "2KEqzdPS7M5YwGmiuPTdr5",
+        "name": "Rina Sawayama",
+        "type": "artist",
+        "uri": "spotify:artist:2KEqzdPS7M5YwGmiuPTdr5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6tzRZ39aZlNqlUzQlkuhDV",
+        "id": "6tzRZ39aZlNqlUzQlkuhDV",
+        "name": "Pabllo Vittar",
+        "type": "artist",
+        "uri": "spotify:artist:6tzRZ39aZlNqlUzQlkuhDV"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3qFtslbjPiiWghf2OX2ZNX"
+    },
+    "href": "https://api.spotify.com/v1/albums/3qFtslbjPiiWghf2OX2ZNX",
+    "id": "3qFtslbjPiiWghf2OX2ZNX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c42e1f16d75288e2fd48966b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c42e1f16d75288e2fd48966b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c42e1f16d75288e2fd48966b",
+        "width": 64
+      }
+    ],
+    "name": "Comme des Garçons (Like the Boys) [Brabo Remix feat. Pabllo Vittar]",
+    "release_date": "2020-02-20",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:3qFtslbjPiiWghf2OX2ZNX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KEqzdPS7M5YwGmiuPTdr5",
+      "id": "2KEqzdPS7M5YwGmiuPTdr5",
+      "name": "Rina Sawayama",
+      "type": "artist",
+      "uri": "spotify:artist:2KEqzdPS7M5YwGmiuPTdr5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+      },
+      "href": "https://api.spotify.com/v1/artists/6tzRZ39aZlNqlUzQlkuhDV",
+      "id": "6tzRZ39aZlNqlUzQlkuhDV",
+      "name": "Pabllo Vittar",
+      "type": "artist",
+      "uri": "spotify:artist:6tzRZ39aZlNqlUzQlkuhDV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
+      },
+      "href": "https://api.spotify.com/v1/artists/5K5J6RbtOXM5E39QQLhNKT",
+      "id": "5K5J6RbtOXM5E39QQLhNKT",
+      "name": "Brabo",
+      "type": "artist",
+      "uri": "spotify:artist:5K5J6RbtOXM5E39QQLhNKT"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 222491,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBK3W2001244"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3fqqjyddGy9qRvIgD8313E"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3fqqjyddGy9qRvIgD8313E",
+  "id": "3fqqjyddGy9qRvIgD8313E",
+  "is_local": false,
+  "name": "Comme des Garçons (Like the Boys) [Brabo Remix feat. Pabllo Vittar]",
+  "popularity": 18,
+  "preview_url": "https://p.scdn.co/mp3-preview/8a19b3c990b97e2ca919c8a38616739b22a127d1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3fqqjyddGy9qRvIgD8313E"
+}

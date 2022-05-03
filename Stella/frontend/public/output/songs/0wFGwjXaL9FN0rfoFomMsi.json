@@ -1,0 +1,149 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+        },
+        "href": "https://api.spotify.com/v1/artists/29LOCR81IrdEJjCAeCEOU3",
+        "id": "29LOCR81IrdEJjCAeCEOU3",
+        "name": "Mica Levi",
+        "type": "artist",
+        "uri": "spotify:artist:29LOCR81IrdEJjCAeCEOU3"
+      }
+    ],
+    "available_markets": [
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "BS",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "CW",
+      "DM",
+      "DO",
+      "EC",
+      "GD",
+      "GT",
+      "GY",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "TT",
+      "US",
+      "UY",
+      "VC",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0wbjaWaLvx4hHwVbYh5uVX"
+    },
+    "href": "https://api.spotify.com/v1/albums/0wbjaWaLvx4hHwVbYh5uVX",
+    "id": "0wbjaWaLvx4hHwVbYh5uVX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27360dc6f84cfcc85c209b4eb9b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0260dc6f84cfcc85c209b4eb9b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485160dc6f84cfcc85c209b4eb9b",
+        "width": 64
+      }
+    ],
+    "name": "Monos (Original Motion Picture Soundtrack)",
+    "release_date": "2019-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:0wbjaWaLvx4hHwVbYh5uVX"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+      },
+      "href": "https://api.spotify.com/v1/artists/29LOCR81IrdEJjCAeCEOU3",
+      "id": "29LOCR81IrdEJjCAeCEOU3",
+      "name": "Mica Levi",
+      "type": "artist",
+      "uri": "spotify:artist:29LOCR81IrdEJjCAeCEOU3"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "US",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 240226,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "UKFGV1900033"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0wFGwjXaL9FN0rfoFomMsi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0wFGwjXaL9FN0rfoFomMsi",
+  "id": "0wFGwjXaL9FN0rfoFomMsi",
+  "is_local": false,
+  "name": "Monos",
+  "popularity": 15,
+  "preview_url": "https://p.scdn.co/mp3-preview/72df56a3ad08a66b7d67e59f3e6092f575b297ec?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:0wFGwjXaL9FN0rfoFomMsi"
+}

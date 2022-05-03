@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        },
+        "href": "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+        "id": "3dkbV4qihUeMsqN4vBGg93",
+        "name": "Al Green",
+        "type": "artist",
+        "uri": "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+      }
+    ],
+    "available_markets": [
+      "IN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/488Go22EFOlEyE2VwnLAFV"
+    },
+    "href": "https://api.spotify.com/v1/albums/488Go22EFOlEyE2VwnLAFV",
+    "id": "488Go22EFOlEyE2VwnLAFV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27312edc5a3b797e37049af76a8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0212edc5a3b797e37049af76a8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485112edc5a3b797e37049af76a8",
+        "width": 64
+      }
+    ],
+    "name": "Let's Stay Together",
+    "release_date": "1968-01-30",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:488Go22EFOlEyE2VwnLAFV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+      "id": "3dkbV4qihUeMsqN4vBGg93",
+      "name": "Al Green",
+      "type": "artist",
+      "uri": "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 199396,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US2HK0913701"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4wASBXZ15QVnypp0SY8Jhm"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4wASBXZ15QVnypp0SY8Jhm",
+  "id": "4wASBXZ15QVnypp0SY8Jhm",
+  "is_local": false,
+  "name": "Let's Stay Together",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/a1c1da9c63de9d83a2a16fea7846c84e81ecf20c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4wASBXZ15QVnypp0SY8Jhm"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ",
+        "id": "3MM8mtgFzaEJsqbjZBSsHJ",
+        "name": "Bloc Party",
+        "type": "artist",
+        "uri": "spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
+    },
+    "href": "https://api.spotify.com/v1/albums/4KeTvCYCel3Ky58FirciWp",
+    "id": "4KeTvCYCel3Ky58FirciWp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ef8d4b16fe9b2a83891ae105",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ef8d4b16fe9b2a83891ae105",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ef8d4b16fe9b2a83891ae105",
+        "width": 64
+      }
+    ],
+    "name": "Silent Alarm",
+    "release_date": "2005-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:4KeTvCYCel3Ky58FirciWp"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ",
+      "id": "3MM8mtgFzaEJsqbjZBSsHJ",
+      "name": "Bloc Party",
+      "type": "artist",
+      "uri": "spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 220173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBDNH0400364"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/72aCha2Meq7txnk451hz7k"
+  },
+  "href": "https://api.spotify.com/v1/tracks/72aCha2Meq7txnk451hz7k",
+  "id": "72aCha2Meq7txnk451hz7k",
+  "is_local": false,
+  "name": "Helicopter",
+  "popularity": 53,
+  "preview_url": "https://p.scdn.co/mp3-preview/b1ebb41dc62e31f876a5ef054e227d458d1d27dc?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:72aCha2Meq7txnk451hz7k"
+}

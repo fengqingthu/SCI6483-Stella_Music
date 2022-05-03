@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        },
+        "href": "https://api.spotify.com/v1/artists/6swnqiL41Bd4gO2fnAXXrf",
+        "id": "6swnqiL41Bd4gO2fnAXXrf",
+        "name": "Beyond The Black",
+        "type": "artist",
+        "uri": "spotify:artist:6swnqiL41Bd4gO2fnAXXrf"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2I99cKFwieVeBleyjv5b0w"
+    },
+    "href": "https://api.spotify.com/v1/albums/2I99cKFwieVeBleyjv5b0w",
+    "id": "2I99cKFwieVeBleyjv5b0w",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27331297b4022086689e6ab16e5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0231297b4022086689e6ab16e5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485131297b4022086689e6ab16e5",
+        "width": 64
+      }
+    ],
+    "name": "Lost In Forever (Tour Edition)",
+    "release_date": "2017-01-13",
+    "release_date_precision": "day",
+    "total_tracks": 17,
+    "type": "album",
+    "uri": "spotify:album:2I99cKFwieVeBleyjv5b0w"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+      },
+      "href": "https://api.spotify.com/v1/artists/6swnqiL41Bd4gO2fnAXXrf",
+      "id": "6swnqiL41Bd4gO2fnAXXrf",
+      "name": "Beyond The Black",
+      "type": "artist",
+      "uri": "spotify:artist:6swnqiL41Bd4gO2fnAXXrf"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 268506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DEUM71604787"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1oxojo3GU06CjHnIgeMUnv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1oxojo3GU06CjHnIgeMUnv",
+  "id": "1oxojo3GU06CjHnIgeMUnv",
+  "is_local": false,
+  "name": "Night Will Fade",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/cf608071bba636fb62a9720142b89b7f4c66672a?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:1oxojo3GU06CjHnIgeMUnv"
+}

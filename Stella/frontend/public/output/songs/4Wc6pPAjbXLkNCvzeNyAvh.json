@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5VTWoYYizcOY3uIKnxeCGI",
+        "id": "5VTWoYYizcOY3uIKnxeCGI",
+        "name": "La Femme",
+        "type": "artist",
+        "uri": "spotify:artist:5VTWoYYizcOY3uIKnxeCGI"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CA",
+      "CH",
+      "FR",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2HEv6Q5doNyRFmenLyhkqk"
+    },
+    "href": "https://api.spotify.com/v1/albums/2HEv6Q5doNyRFmenLyhkqk",
+    "id": "2HEv6Q5doNyRFmenLyhkqk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735ccb2318de38100d91661364",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025ccb2318de38100d91661364",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515ccb2318de38100d91661364",
+        "width": 64
+      }
+    ],
+    "name": "Mystère",
+    "release_date": "2016-09-02",
+    "release_date_precision": "day",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:2HEv6Q5doNyRFmenLyhkqk"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+      },
+      "href": "https://api.spotify.com/v1/artists/5VTWoYYizcOY3uIKnxeCGI",
+      "id": "5VTWoYYizcOY3uIKnxeCGI",
+      "name": "La Femme",
+      "type": "artist",
+      "uri": "spotify:artist:5VTWoYYizcOY3uIKnxeCGI"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CA",
+    "CH",
+    "FR",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 238733,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR9W11610758"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Wc6pPAjbXLkNCvzeNyAvh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Wc6pPAjbXLkNCvzeNyAvh",
+  "id": "4Wc6pPAjbXLkNCvzeNyAvh",
+  "is_local": false,
+  "name": "Elle ne t'aime pas",
+  "popularity": 57,
+  "preview_url": "https://p.scdn.co/mp3-preview/27eff2b3dffe909286d5d220463a95e97360747d?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:4Wc6pPAjbXLkNCvzeNyAvh"
+}

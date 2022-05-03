@@ -1,0 +1,125 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/42RxcqYrDSRQRV5AHozxwu"
+        },
+        "href": "https://api.spotify.com/v1/artists/42RxcqYrDSRQRV5AHozxwu",
+        "id": "42RxcqYrDSRQRV5AHozxwu",
+        "name": "Unicorn Kid",
+        "type": "artist",
+        "uri": "spotify:artist:42RxcqYrDSRQRV5AHozxwu"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "BO",
+      "BR",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "DM",
+      "EC",
+      "GT",
+      "HN",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "US",
+      "UY",
+      "VE",
+      "WS"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2LL8WturHup9JrCwN93Muc"
+    },
+    "href": "https://api.spotify.com/v1/albums/2LL8WturHup9JrCwN93Muc",
+    "id": "2LL8WturHup9JrCwN93Muc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739c568bdd2d5ac2a7fa57169c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029c568bdd2d5ac2a7fa57169c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519c568bdd2d5ac2a7fa57169c",
+        "width": 64
+      }
+    ],
+    "name": "Wild Life",
+    "release_date": "2010-10-17",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:2LL8WturHup9JrCwN93Muc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42RxcqYrDSRQRV5AHozxwu"
+      },
+      "href": "https://api.spotify.com/v1/artists/42RxcqYrDSRQRV5AHozxwu",
+      "id": "42RxcqYrDSRQRV5AHozxwu",
+      "name": "Unicorn Kid",
+      "type": "artist",
+      "uri": "spotify:artist:42RxcqYrDSRQRV5AHozxwu"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BO",
+    "BR",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "DM",
+    "EC",
+    "GT",
+    "HN",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "US",
+    "UY",
+    "VE",
+    "WS"
+  ],
+  "disc_number": 1,
+  "duration_ms": 216592,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUS11000637"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/02YbkmBDaaklnIyjlwGnJ0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/02YbkmBDaaklnIyjlwGnJ0",
+  "id": "02YbkmBDaaklnIyjlwGnJ0",
+  "is_local": false,
+  "name": "Wild Life",
+  "popularity": 26,
+  "preview_url": "https://p.scdn.co/mp3-preview/cf3acf91804c01c5348025f79f45cdbf8ee51196?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:02YbkmBDaaklnIyjlwGnJ0"
+}

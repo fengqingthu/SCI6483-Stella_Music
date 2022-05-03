@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5dTYaRzOn4rXGBLH052EeQ",
+        "id": "5dTYaRzOn4rXGBLH052EeQ",
+        "name": "A Fine Frenzy",
+        "type": "artist",
+        "uri": "spotify:artist:5dTYaRzOn4rXGBLH052EeQ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn"
+    },
+    "href": "https://api.spotify.com/v1/albums/07IV5RxLvAUeZbcPm4zOzn",
+    "id": "07IV5RxLvAUeZbcPm4zOzn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e7b8e0abcd5cdc4c8b5a238c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e7b8e0abcd5cdc4c8b5a238c",
+        "width": 64
+      }
+    ],
+    "name": "Bomb In A Birdcage",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:07IV5RxLvAUeZbcPm4zOzn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5dTYaRzOn4rXGBLH052EeQ",
+      "id": "5dTYaRzOn4rXGBLH052EeQ",
+      "name": "A Fine Frenzy",
+      "type": "artist",
+      "uri": "spotify:artist:5dTYaRzOn4rXGBLH052EeQ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 271506,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USVI20900258"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2jQ7ZztDfmt4qeW0tOMIqY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2jQ7ZztDfmt4qeW0tOMIqY",
+  "id": "2jQ7ZztDfmt4qeW0tOMIqY",
+  "is_local": false,
+  "name": "Electric Twist",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2jQ7ZztDfmt4qeW0tOMIqY"
+}

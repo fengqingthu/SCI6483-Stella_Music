@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GSt4ZSP1wEtdbcTTbwjpW"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GSt4ZSP1wEtdbcTTbwjpW",
+        "id": "3GSt4ZSP1wEtdbcTTbwjpW",
+        "name": "Foxes In Fiction",
+        "type": "artist",
+        "uri": "spotify:artist:3GSt4ZSP1wEtdbcTTbwjpW"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "CA",
+      "NZ",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1KvG01ZJrlptdXjJV6swfD"
+    },
+    "href": "https://api.spotify.com/v1/albums/1KvG01ZJrlptdXjJV6swfD",
+    "id": "1KvG01ZJrlptdXjJV6swfD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732c0ae710f70c0d77dec9181f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022c0ae710f70c0d77dec9181f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512c0ae710f70c0d77dec9181f",
+        "width": 64
+      }
+    ],
+    "name": "Ontario Gothic",
+    "release_date": "2014-09-23",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:1KvG01ZJrlptdXjJV6swfD"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3GSt4ZSP1wEtdbcTTbwjpW"
+      },
+      "href": "https://api.spotify.com/v1/artists/3GSt4ZSP1wEtdbcTTbwjpW",
+      "id": "3GSt4ZSP1wEtdbcTTbwjpW",
+      "name": "Foxes In Fiction",
+      "type": "artist",
+      "uri": "spotify:artist:3GSt4ZSP1wEtdbcTTbwjpW"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "CA",
+    "NZ",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 325242,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QMFMG1457557"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7dCz4BVR2DvfLBo0tabZHC"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7dCz4BVR2DvfLBo0tabZHC",
+  "id": "7dCz4BVR2DvfLBo0tabZHC",
+  "is_local": false,
+  "name": "Ontario Gothic",
+  "popularity": 38,
+  "preview_url": "https://p.scdn.co/mp3-preview/57d98ce8aacd9bf8e30e28e51d1523e0a3fbf7e8?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:7dCz4BVR2DvfLBo0tabZHC"
+}

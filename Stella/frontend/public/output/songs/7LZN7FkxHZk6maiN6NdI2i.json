@@ -1,0 +1,85 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ",
+        "id": "75dQReiBOHN37fQgWQrIAJ",
+        "name": "Local Natives",
+        "type": "artist",
+        "uri": "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+    },
+    "href": "https://api.spotify.com/v1/albums/2qiPY1CqHGexT4yWrQ5uX0",
+    "id": "2qiPY1CqHGexT4yWrQ5uX0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731b7b6f5cc146a35bfb545d82",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021b7b6f5cc146a35bfb545d82",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511b7b6f5cc146a35bfb545d82",
+        "width": 64
+      }
+    ],
+    "name": "Sunlit Youth",
+    "release_date": "2016-09-09",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:2qiPY1CqHGexT4yWrQ5uX0"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ",
+      "id": "75dQReiBOHN37fQgWQrIAJ",
+      "name": "Local Natives",
+      "type": "artist",
+      "uri": "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 180413,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USC4R1601922"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7LZN7FkxHZk6maiN6NdI2i",
+  "id": "7LZN7FkxHZk6maiN6NdI2i",
+  "is_local": false,
+  "name": "Dark Days",
+  "popularity": 61,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7LZN7FkxHZk6maiN6NdI2i"
+}

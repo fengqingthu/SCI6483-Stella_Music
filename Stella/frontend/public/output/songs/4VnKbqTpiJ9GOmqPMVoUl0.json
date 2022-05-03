@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1EULJuDFWpZ9xg4YwtUGGt",
+        "id": "1EULJuDFWpZ9xg4YwtUGGt",
+        "name": "Daniel Avery",
+        "type": "artist",
+        "uri": "spotify:artist:1EULJuDFWpZ9xg4YwtUGGt"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2ZJvD9UiI3NcoPS8K7IF5i"
+    },
+    "href": "https://api.spotify.com/v1/albums/2ZJvD9UiI3NcoPS8K7IF5i",
+    "id": "2ZJvD9UiI3NcoPS8K7IF5i",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273af5524aa78091cb923616da3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02af5524aa78091cb923616da3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851af5524aa78091cb923616da3",
+        "width": 64
+      }
+    ],
+    "name": "Song for Alpha",
+    "release_date": "2018-04-06",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:2ZJvD9UiI3NcoPS8K7IF5i"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+      },
+      "href": "https://api.spotify.com/v1/artists/1EULJuDFWpZ9xg4YwtUGGt",
+      "id": "1EULJuDFWpZ9xg4YwtUGGt",
+      "name": "Daniel Avery",
+      "type": "artist",
+      "uri": "spotify:artist:1EULJuDFWpZ9xg4YwtUGGt"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 332320,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBTZZ1700022"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4VnKbqTpiJ9GOmqPMVoUl0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4VnKbqTpiJ9GOmqPMVoUl0",
+  "id": "4VnKbqTpiJ9GOmqPMVoUl0",
+  "is_local": false,
+  "name": "Slow Fade",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/7c829a8f6ebdc0849394463518a0a741a83dad05?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:4VnKbqTpiJ9GOmqPMVoUl0"
+}

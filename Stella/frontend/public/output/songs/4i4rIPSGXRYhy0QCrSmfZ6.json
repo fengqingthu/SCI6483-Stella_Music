@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "compilation",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "name": "Various Artists",
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      }
+    ],
+    "available_markets": [
+      "FR"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ZpENiPIL7B3tLWpHjC51S"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ZpENiPIL7B3tLWpHjC51S",
+    "id": "1ZpENiPIL7B3tLWpHjC51S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cba28b970e2a92c8a6115c67",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cba28b970e2a92c8a6115c67",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cba28b970e2a92c8a6115c67",
+        "width": 64
+      }
+    ],
+    "name": "Ma Chanson D'Enfance",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 18,
+    "type": "album",
+    "uri": "spotify:album:1ZpENiPIL7B3tLWpHjC51S"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FmxE030Xe2H8Bn9bdv6Pd",
+      "id": "1FmxE030Xe2H8Bn9bdv6Pd",
+      "name": "Vanessa Paradis",
+      "type": "artist",
+      "uri": "spotify:artist:1FmxE030Xe2H8Bn9bdv6Pd"
+    }
+  ],
+  "available_markets": [
+    "FR"
+  ],
+  "disc_number": 1,
+  "duration_ms": 222026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ060100140"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4i4rIPSGXRYhy0QCrSmfZ6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4i4rIPSGXRYhy0QCrSmfZ6",
+  "id": "4i4rIPSGXRYhy0QCrSmfZ6",
+  "is_local": false,
+  "name": "Le Tourbillon",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4i4rIPSGXRYhy0QCrSmfZ6"
+}

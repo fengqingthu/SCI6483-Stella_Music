@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw"
+        },
+        "href": "https://api.spotify.com/v1/artists/5HZsYhRCMH3zR0yndRcLVw",
+        "id": "5HZsYhRCMH3zR0yndRcLVw",
+        "name": "MOB CHOIR",
+        "type": "artist",
+        "uri": "spotify:artist:5HZsYhRCMH3zR0yndRcLVw"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4CBot6M5zjEARL7IkNfcpT"
+    },
+    "href": "https://api.spotify.com/v1/albums/4CBot6M5zjEARL7IkNfcpT",
+    "id": "4CBot6M5zjEARL7IkNfcpT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f091e5c680620dc1470c8834",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f091e5c680620dc1470c8834",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f091e5c680620dc1470c8834",
+        "width": 64
+      }
+    ],
+    "name": "99",
+    "release_date": "2016-08-31",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "type": "album",
+    "uri": "spotify:album:4CBot6M5zjEARL7IkNfcpT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HZsYhRCMH3zR0yndRcLVw",
+      "id": "5HZsYhRCMH3zR0yndRcLVw",
+      "name": "MOB CHOIR",
+      "type": "artist",
+      "uri": "spotify:artist:5HZsYhRCMH3zR0yndRcLVw"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 237386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "JPQ461600368"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2mTKeMOQ6x3HhnWTriWijA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2mTKeMOQ6x3HhnWTriWijA",
+  "id": "2mTKeMOQ6x3HhnWTriWijA",
+  "is_local": false,
+  "name": "99",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/baf7221de35ffaa901c580ef674d7cf11c4b653c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2mTKeMOQ6x3HhnWTriWijA"
+}

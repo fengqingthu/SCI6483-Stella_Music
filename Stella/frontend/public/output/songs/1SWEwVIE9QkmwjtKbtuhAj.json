@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        },
+        "href": "https://api.spotify.com/v1/artists/3d7MqowTZa2bC5iy1JXLLt",
+        "id": "3d7MqowTZa2bC5iy1JXLLt",
+        "name": "Hatchie",
+        "type": "artist",
+        "uri": "spotify:artist:3d7MqowTZa2bC5iy1JXLLt"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1hZ3vA8dOG0jrGbmNdaZFy"
+    },
+    "href": "https://api.spotify.com/v1/albums/1hZ3vA8dOG0jrGbmNdaZFy",
+    "id": "1hZ3vA8dOG0jrGbmNdaZFy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c28123e8e6d7fa3337ef082a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c28123e8e6d7fa3337ef082a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c28123e8e6d7fa3337ef082a",
+        "width": 64
+      }
+    ],
+    "name": "Keepsake",
+    "release_date": "2019-06-21",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:1hZ3vA8dOG0jrGbmNdaZFy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3d7MqowTZa2bC5iy1JXLLt",
+      "id": "3d7MqowTZa2bC5iy1JXLLt",
+      "name": "Hatchie",
+      "type": "artist",
+      "uri": "spotify:artist:3d7MqowTZa2bC5iy1JXLLt"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 295328,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "AULI01821520"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1SWEwVIE9QkmwjtKbtuhAj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1SWEwVIE9QkmwjtKbtuhAj",
+  "id": "1SWEwVIE9QkmwjtKbtuhAj",
+  "is_local": false,
+  "name": "Stay With Me",
+  "popularity": 22,
+  "preview_url": "https://p.scdn.co/mp3-preview/9fc1a13a40f910b971943db0f23ffc0505760d25?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:1SWEwVIE9QkmwjtKbtuhAj"
+}

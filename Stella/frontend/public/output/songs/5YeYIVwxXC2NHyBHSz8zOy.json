@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3s398TKZNahAURRacx7oIT",
+        "id": "3s398TKZNahAURRacx7oIT",
+        "name": "Ian Brown",
+        "type": "artist",
+        "uri": "spotify:artist:3s398TKZNahAURRacx7oIT"
+      }
+    ],
+    "available_markets": [
+      "GB",
+      "IE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2EB1HKXeOOB4CqMGoSon1L"
+    },
+    "href": "https://api.spotify.com/v1/albums/2EB1HKXeOOB4CqMGoSon1L",
+    "id": "2EB1HKXeOOB4CqMGoSon1L",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737c571832ec07099defaef790",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027c571832ec07099defaef790",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517c571832ec07099defaef790",
+        "width": 64
+      }
+    ],
+    "name": "Music Of The Spheres",
+    "release_date": "2001-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2EB1HKXeOOB4CqMGoSon1L"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT"
+      },
+      "href": "https://api.spotify.com/v1/artists/3s398TKZNahAURRacx7oIT",
+      "id": "3s398TKZNahAURRacx7oIT",
+      "name": "Ian Brown",
+      "type": "artist",
+      "uri": "spotify:artist:3s398TKZNahAURRacx7oIT"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 268986,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAKW0100123"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5YeYIVwxXC2NHyBHSz8zOy"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5YeYIVwxXC2NHyBHSz8zOy",
+  "id": "5YeYIVwxXC2NHyBHSz8zOy",
+  "is_local": false,
+  "name": "F.E.A.R.",
+  "popularity": 51,
+  "preview_url": "https://p.scdn.co/mp3-preview/7f797019f58aa56b141192dd9eb502b65ab02557?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5YeYIVwxXC2NHyBHSz8zOy"
+}

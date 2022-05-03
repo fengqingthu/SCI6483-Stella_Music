@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        },
+        "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR",
+        "id": "3HJIB8sYPyxrFGuwvKXSLR",
+        "name": "TV On The Radio",
+        "type": "artist",
+        "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+    },
+    "href": "https://api.spotify.com/v1/albums/7xn8nwwutlJFMb7Zf9NEHi",
+    "id": "7xn8nwwutlJFMb7Zf9NEHi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736c65cfa0e9e2f27bedc018c6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026c65cfa0e9e2f27bedc018c6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516c65cfa0e9e2f27bedc018c6",
+        "width": 64
+      }
+    ],
+    "name": "Return To Cookie Mountain",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "type": "album",
+    "uri": "spotify:album:7xn8nwwutlJFMb7Zf9NEHi"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+      },
+      "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR",
+      "id": "3HJIB8sYPyxrFGuwvKXSLR",
+      "name": "TV On The Radio",
+      "type": "artist",
+      "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 279293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USTG30626805"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/03wKMRNYVvw6s9nm4I4jUS",
+  "id": "03wKMRNYVvw6s9nm4I4jUS",
+  "is_local": false,
+  "name": "Wolf Like Me",
+  "popularity": 61,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:03wKMRNYVvw6s9nm4I4jUS"
+}

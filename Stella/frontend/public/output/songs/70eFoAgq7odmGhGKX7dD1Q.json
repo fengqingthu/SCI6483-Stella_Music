@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w"
+        },
+        "href": "https://api.spotify.com/v1/artists/3FIZFOkx25ESPENGx6st5w",
+        "id": "3FIZFOkx25ESPENGx6st5w",
+        "name": "Code Elektro",
+        "type": "artist",
+        "uri": "spotify:artist:3FIZFOkx25ESPENGx6st5w"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2VyP353DDcpEX7Vo8EkOfB"
+    },
+    "href": "https://api.spotify.com/v1/albums/2VyP353DDcpEX7Vo8EkOfB",
+    "id": "2VyP353DDcpEX7Vo8EkOfB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273aed4115fdc7fc645a339c9c1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02aed4115fdc7fc645a339c9c1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851aed4115fdc7fc645a339c9c1",
+        "width": 64
+      }
+    ],
+    "name": "Superstrings",
+    "release_date": "2015-03-23",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:2VyP353DDcpEX7Vo8EkOfB"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FIZFOkx25ESPENGx6st5w",
+      "id": "3FIZFOkx25ESPENGx6st5w",
+      "name": "Code Elektro",
+      "type": "artist",
+      "uri": "spotify:artist:3FIZFOkx25ESPENGx6st5w"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 226426,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKELA1400908"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/70eFoAgq7odmGhGKX7dD1Q"
+  },
+  "href": "https://api.spotify.com/v1/tracks/70eFoAgq7odmGhGKX7dD1Q",
+  "id": "70eFoAgq7odmGhGKX7dD1Q",
+  "is_local": false,
+  "name": "A New World",
+  "popularity": 16,
+  "preview_url": "https://p.scdn.co/mp3-preview/6dc84034c00af80e60dce1cbdb520732b0671531?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:70eFoAgq7odmGhGKX7dD1Q"
+}

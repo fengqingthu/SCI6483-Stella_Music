@@ -1,0 +1,155 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
+        "id": "4uSftVc3FPWe6RJuMZNEe9",
+        "name": "Andrew Bird",
+        "type": "artist",
+        "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AT",
+      "AZ",
+      "BA",
+      "BG",
+      "BY",
+      "CA",
+      "CH",
+      "CZ",
+      "DE",
+      "EE",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "MX",
+      "NL",
+      "PL",
+      "RO",
+      "RS",
+      "SI",
+      "SK",
+      "SM",
+      "UA",
+      "US",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
+    },
+    "href": "https://api.spotify.com/v1/albums/1XBBNeT50E40fWKY5SOvb5",
+    "id": "1XBBNeT50E40fWKY5SOvb5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d5f86e2ed9a548e213030078",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d5f86e2ed9a548e213030078",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d5f86e2ed9a548e213030078",
+        "width": 64
+      }
+    ],
+    "name": "I Want to See Pulaski at Night",
+    "release_date": "2013-11-12",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:1XBBNeT50E40fWKY5SOvb5"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+      },
+      "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
+      "id": "4uSftVc3FPWe6RJuMZNEe9",
+      "name": "Andrew Bird",
+      "type": "artist",
+      "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AT",
+    "AZ",
+    "BA",
+    "BG",
+    "BY",
+    "CA",
+    "CH",
+    "CZ",
+    "DE",
+    "EE",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "MX",
+    "NL",
+    "PL",
+    "RO",
+    "RS",
+    "SI",
+    "SK",
+    "SM",
+    "UA",
+    "US",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 289093,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US4H71311124"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3v6NuKeDbFbaq1lNjw3XtR",
+  "id": "3v6NuKeDbFbaq1lNjw3XtR",
+  "is_local": false,
+  "name": "Pulaski at Night",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/0e72e7b54431c1106ed6cb960307929afeaf0e97?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:3v6NuKeDbFbaq1lNjw3XtR"
+}

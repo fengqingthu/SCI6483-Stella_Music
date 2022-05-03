@@ -1,0 +1,175 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        },
+        "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+        "id": "2kGBy2WHvF0VdZyqiVCkDT",
+        "name": "Father John Misty",
+        "type": "artist",
+        "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AL",
+      "AM",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2BwewedJhrAHvow8qE5PBQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/2BwewedJhrAHvow8qE5PBQ",
+    "id": "2BwewedJhrAHvow8qE5PBQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736818705fd73c100a3413a2f2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026818705fd73c100a3413a2f2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516818705fd73c100a3413a2f2",
+        "width": 64
+      }
+    ],
+    "name": "I Love You, Honeybear",
+    "release_date": "2015-02-09",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2BwewedJhrAHvow8qE5PBQ"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+      "id": "2kGBy2WHvF0VdZyqiVCkDT",
+      "name": "Father John Misty",
+      "type": "artist",
+      "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AL",
+    "AM",
+    "AT",
+    "AZ",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GE",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MD",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SE",
+    "SI",
+    "SK",
+    "SM",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 170840,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USSUB1411502"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1kpV69gQV5aixc3deHdzOr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1kpV69gQV5aixc3deHdzOr",
+  "id": "1kpV69gQV5aixc3deHdzOr",
+  "is_local": false,
+  "name": "Château Lobby #4 (In C for Two Virgins)",
+  "popularity": 47,
+  "preview_url": "https://p.scdn.co/mp3-preview/a7709827b27997c8bc7cd13f2411518309b83632?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1kpV69gQV5aixc3deHdzOr"
+}

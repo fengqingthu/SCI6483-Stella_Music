@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
+        },
+        "href": "https://api.spotify.com/v1/artists/74eY8wbrhhVD7pACbBHwHw",
+        "id": "74eY8wbrhhVD7pACbBHwHw",
+        "name": "Imany",
+        "type": "artist",
+        "uri": "spotify:artist:74eY8wbrhhVD7pACbBHwHw"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3KnASaiKkdqLcff41TwLoc"
+    },
+    "href": "https://api.spotify.com/v1/albums/3KnASaiKkdqLcff41TwLoc",
+    "id": "3KnASaiKkdqLcff41TwLoc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737126321a06b6b23edda7a07c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027126321a06b6b23edda7a07c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517126321a06b6b23edda7a07c",
+        "width": 64
+      }
+    ],
+    "name": "Voodoo Cello",
+    "release_date": "2021-09-03",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3KnASaiKkdqLcff41TwLoc"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
+      },
+      "href": "https://api.spotify.com/v1/artists/74eY8wbrhhVD7pACbBHwHw",
+      "id": "74eY8wbrhhVD7pACbBHwHw",
+      "name": "Imany",
+      "type": "artist",
+      "uri": "spotify:artist:74eY8wbrhhVD7pACbBHwHw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7kxQMdta58rZRrTra9nV9I"
+      },
+      "href": "https://api.spotify.com/v1/artists/7kxQMdta58rZRrTra9nV9I",
+      "id": "7kxQMdta58rZRrTra9nV9I",
+      "name": "Stream Jockey",
+      "type": "artist",
+      "uri": "spotify:artist:7kxQMdta58rZRrTra9nV9I"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 254933,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FR1Q02000180"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5E8plMEFySz3pkxxJYIh8b"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5E8plMEFySz3pkxxJYIh8b",
+  "id": "5E8plMEFySz3pkxxJYIh8b",
+  "is_local": false,
+  "name": "Wonderful Life - Stream Jockey Rework",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:5E8plMEFySz3pkxxJYIh8b"
+}

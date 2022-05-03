@@ -1,0 +1,119 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ZTCpKWDwHhbjhkdHhvTm8",
+        "id": "1ZTCpKWDwHhbjhkdHhvTm8",
+        "name": "Tina Arena",
+        "type": "artist",
+        "uri": "spotify:artist:1ZTCpKWDwHhbjhkdHhvTm8"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "BH",
+      "CH",
+      "DZ",
+      "EG",
+      "FR",
+      "IQ",
+      "JO",
+      "KW",
+      "LB",
+      "LI",
+      "LY",
+      "MA",
+      "MC",
+      "OM",
+      "PS",
+      "QA",
+      "SA",
+      "TN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/66MoDTU20EKgUDOMDz2AMr"
+    },
+    "href": "https://api.spotify.com/v1/albums/66MoDTU20EKgUDOMDz2AMr",
+    "id": "66MoDTU20EKgUDOMDz2AMr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731273703f05dd11915b96a5c6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021273703f05dd11915b96a5c6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511273703f05dd11915b96a5c6",
+        "width": 64
+      }
+    ],
+    "name": "Un Autre Univers/In Deep",
+    "release_date": "1998",
+    "release_date_precision": "year",
+    "total_tracks": 28,
+    "type": "album",
+    "uri": "spotify:album:66MoDTU20EKgUDOMDz2AMr"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ZTCpKWDwHhbjhkdHhvTm8",
+      "id": "1ZTCpKWDwHhbjhkdHhvTm8",
+      "name": "Tina Arena",
+      "type": "artist",
+      "uri": "spotify:artist:1ZTCpKWDwHhbjhkdHhvTm8"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AE",
+    "BH",
+    "CH",
+    "DZ",
+    "EG",
+    "FR",
+    "IQ",
+    "JO",
+    "KW",
+    "LB",
+    "LI",
+    "LY",
+    "MA",
+    "MC",
+    "OM",
+    "PS",
+    "QA",
+    "SA",
+    "TN"
+  ],
+  "disc_number": 2,
+  "duration_ms": 257560,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRZ080500054"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/67HVYTs46uyQKdDRuv0P5l"
+  },
+  "href": "https://api.spotify.com/v1/tracks/67HVYTs46uyQKdDRuv0P5l",
+  "id": "67HVYTs46uyQKdDRuv0P5l",
+  "is_local": false,
+  "name": "Je m'appelle Bagdad",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/2996e3dfac10d627717124e88ddaaf8382d31576?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:67HVYTs46uyQKdDRuv0P5l"
+}

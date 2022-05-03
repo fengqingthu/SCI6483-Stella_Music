@@ -1,0 +1,99 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0A2YaO4tUFeJVNn5Hvjfxa"
+        },
+        "href": "https://api.spotify.com/v1/artists/0A2YaO4tUFeJVNn5Hvjfxa",
+        "id": "0A2YaO4tUFeJVNn5Hvjfxa",
+        "name": "Heidevolk",
+        "type": "artist",
+        "uri": "spotify:artist:0A2YaO4tUFeJVNn5Hvjfxa"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "BA",
+      "CH",
+      "DE",
+      "HR",
+      "ME",
+      "MK",
+      "RS",
+      "SI",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5VFsRUA2edmmUPMCZ53deh"
+    },
+    "href": "https://api.spotify.com/v1/albums/5VFsRUA2edmmUPMCZ53deh",
+    "id": "5VFsRUA2edmmUPMCZ53deh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27350a6140056a987e21a0bddf8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0250a6140056a987e21a0bddf8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485150a6140056a987e21a0bddf8",
+        "width": 64
+      }
+    ],
+    "name": "De Strijdlust Is Geboren",
+    "release_date": "2008-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5VFsRUA2edmmUPMCZ53deh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0A2YaO4tUFeJVNn5Hvjfxa"
+      },
+      "href": "https://api.spotify.com/v1/artists/0A2YaO4tUFeJVNn5Hvjfxa",
+      "id": "0A2YaO4tUFeJVNn5Hvjfxa",
+      "name": "Heidevolk",
+      "type": "artist",
+      "uri": "spotify:artist:0A2YaO4tUFeJVNn5Hvjfxa"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BA",
+    "CH",
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 223360,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "ATN260824612"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5GqjlBKkZzK4KmIu9znthP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5GqjlBKkZzK4KmIu9znthP",
+  "id": "5GqjlBKkZzK4KmIu9znthP",
+  "is_local": false,
+  "name": "Vulgaris Magistralis - Bonus Track",
+  "popularity": 32,
+  "preview_url": "https://p.scdn.co/mp3-preview/d646778ecd6a06eaee7787fe186d602933f869d0?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:5GqjlBKkZzK4KmIu9znthP"
+}

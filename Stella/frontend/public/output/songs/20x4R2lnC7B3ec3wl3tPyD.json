@@ -1,0 +1,189 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        "href": "https://api.spotify.com/v1/artists/02B3Os1lCLuWR6klPJiQpW",
+        "id": "02B3Os1lCLuWR6klPJiQpW",
+        "name": "Nicola Benedetti",
+        "type": "artist",
+        "uri": "spotify:artist:02B3Os1lCLuWR6klPJiQpW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg",
+        "id": "2P6ygesd9xg5DPOBnda2jg",
+        "name": "Arvo Pärt",
+        "type": "artist",
+        "uri": "spotify:artist:2P6ygesd9xg5DPOBnda2jg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        "href": "https://api.spotify.com/v1/artists/436sYg6CZhNefQJogaXeK0",
+        "id": "436sYg6CZhNefQJogaXeK0",
+        "name": "Camille Saint-Saëns",
+        "type": "artist",
+        "uri": "spotify:artist:436sYg6CZhNefQJogaXeK0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        "href": "https://api.spotify.com/v1/artists/2gClsBep1tt1rv1CN210SO",
+        "id": "2gClsBep1tt1rv1CN210SO",
+        "name": "Gabriel Fauré",
+        "type": "artist",
+        "uri": "spotify:artist:2gClsBep1tt1rv1CN210SO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1AoIc5YFH0aSFc4mKqBEeB",
+        "id": "1AoIc5YFH0aSFc4mKqBEeB",
+        "name": "Jules Massenet",
+        "type": "artist",
+        "uri": "spotify:artist:1AoIc5YFH0aSFc4mKqBEeB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        "href": "https://api.spotify.com/v1/artists/17hR0sYHpx7VYTMRfFUOmY",
+        "id": "17hR0sYHpx7VYTMRfFUOmY",
+        "name": "Maurice Ravel",
+        "type": "artist",
+        "uri": "spotify:artist:17hR0sYHpx7VYTMRfFUOmY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+        },
+        "href": "https://api.spotify.com/v1/artists/3L1iFJfRzE7yzilr2yGl6t",
+        "id": "3L1iFJfRzE7yzilr2yGl6t",
+        "name": "Pablo de Sarasate",
+        "type": "artist",
+        "uri": "spotify:artist:3L1iFJfRzE7yzilr2yGl6t"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wNkISK49lKeXuRaZcQVFe",
+        "id": "7wNkISK49lKeXuRaZcQVFe",
+        "name": "Ralph Vaughan Williams",
+        "type": "artist",
+        "uri": "spotify:artist:7wNkISK49lKeXuRaZcQVFe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+        "id": "0Kekt6CKSo0m5mivKcoH51",
+        "name": "Sergei Rachmaninoff",
+        "type": "artist",
+        "uri": "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "GB",
+      "IE",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/50iCOO0HuCsLzLF06UzMpT"
+    },
+    "href": "https://api.spotify.com/v1/albums/50iCOO0HuCsLzLF06UzMpT",
+    "id": "50iCOO0HuCsLzLF06UzMpT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730d9419ecf99bedf4121f71f2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020d9419ecf99bedf4121f71f2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510d9419ecf99bedf4121f71f2",
+        "width": 64
+      }
+    ],
+    "name": "Fantasie",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 8,
+    "type": "album",
+    "uri": "spotify:album:50iCOO0HuCsLzLF06UzMpT"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg",
+      "id": "2P6ygesd9xg5DPOBnda2jg",
+      "name": "Arvo Pärt",
+      "type": "artist",
+      "uri": "spotify:artist:2P6ygesd9xg5DPOBnda2jg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+      },
+      "href": "https://api.spotify.com/v1/artists/02B3Os1lCLuWR6klPJiQpW",
+      "id": "02B3Os1lCLuWR6klPJiQpW",
+      "name": "Nicola Benedetti",
+      "type": "artist",
+      "uri": "spotify:artist:02B3Os1lCLuWR6klPJiQpW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fGBSGw5HQGK9tL5TqqX2D"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fGBSGw5HQGK9tL5TqqX2D",
+      "id": "5fGBSGw5HQGK9tL5TqqX2D",
+      "name": "Alexei Grynyuk",
+      "type": "artist",
+      "uri": "spotify:artist:5fGBSGw5HQGK9tL5TqqX2D"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 590293,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBUM70902410"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/20x4R2lnC7B3ec3wl3tPyD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/20x4R2lnC7B3ec3wl3tPyD",
+  "id": "20x4R2lnC7B3ec3wl3tPyD",
+  "is_local": false,
+  "name": "Spiegel im Spiegel",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:20x4R2lnC7B3ec3wl3tPyD"
+}

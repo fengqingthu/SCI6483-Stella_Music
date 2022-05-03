@@ -1,0 +1,157 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DC2KJDKwTf5RGfuWCzAkc",
+        "id": "2DC2KJDKwTf5RGfuWCzAkc",
+        "name": "Azari & III",
+        "type": "artist",
+        "uri": "spotify:artist:2DC2KJDKwTf5RGfuWCzAkc"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IS",
+      "IT",
+      "KZ",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "XK"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3dlWdiGgcpZ32Dp7zYNHbR"
+    },
+    "href": "https://api.spotify.com/v1/albums/3dlWdiGgcpZ32Dp7zYNHbR",
+    "id": "3dlWdiGgcpZ32Dp7zYNHbR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27370d56e8da02720c0a053d394",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0270d56e8da02720c0a053d394",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485170d56e8da02720c0a053d394",
+        "width": 64
+      }
+    ],
+    "name": "Azari & III",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:3dlWdiGgcpZ32Dp7zYNHbR"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc"
+      },
+      "href": "https://api.spotify.com/v1/artists/2DC2KJDKwTf5RGfuWCzAkc",
+      "id": "2DC2KJDKwTf5RGfuWCzAkc",
+      "name": "Azari & III",
+      "type": "artist",
+      "uri": "spotify:artist:2DC2KJDKwTf5RGfuWCzAkc"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BA",
+    "BE",
+    "BG",
+    "BY",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GR",
+    "HR",
+    "HU",
+    "IS",
+    "IT",
+    "KZ",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "ME",
+    "MK",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "RS",
+    "SI",
+    "SK",
+    "TR",
+    "UA",
+    "XK"
+  ],
+  "disc_number": 1,
+  "duration_ms": 347386,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBX8P1100014"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1NhHIZtTlXVjNtrkKNSSt1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1NhHIZtTlXVjNtrkKNSSt1",
+  "id": "1NhHIZtTlXVjNtrkKNSSt1",
+  "is_local": false,
+  "name": "Reckless (With Your Love)",
+  "popularity": 35,
+  "preview_url": "https://p.scdn.co/mp3-preview/9ee71799ccc990574658e8fd45f4b7c2844f4b36?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1NhHIZtTlXVjNtrkKNSSt1"
+}

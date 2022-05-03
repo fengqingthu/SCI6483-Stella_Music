@@ -1,0 +1,107 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+        "id": "5nPOO9iTcrs9k6yFffPxjH",
+        "name": "Röyksopp",
+        "type": "artist",
+        "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UE7nl9mha6s8z0wFQFIZ2",
+        "id": "6UE7nl9mha6s8z0wFQFIZ2",
+        "name": "Robyn",
+        "type": "artist",
+        "uri": "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV"
+    },
+    "href": "https://api.spotify.com/v1/albums/5rgGVO0mjqDYsHQnD4XkJV",
+    "id": "5rgGVO0mjqDYsHQnD4XkJV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27383f481912754558f3b0146df",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0283f481912754558f3b0146df",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485183f481912754558f3b0146df",
+        "width": 64
+      }
+    ],
+    "name": "Do It Again",
+    "release_date": "2014-04-23",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:5rgGVO0mjqDYsHQnD4XkJV"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+      "id": "5nPOO9iTcrs9k6yFffPxjH",
+      "name": "Röyksopp",
+      "type": "artist",
+      "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UE7nl9mha6s8z0wFQFIZ2",
+      "id": "6UE7nl9mha6s8z0wFQFIZ2",
+      "name": "Robyn",
+      "type": "artist",
+      "uri": "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 306323,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBW231400003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/44eQkbofZeY7rEPnPdobwa",
+  "id": "44eQkbofZeY7rEPnPdobwa",
+  "is_local": false,
+  "name": "Do It Again",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:44eQkbofZeY7rEPnPdobwa"
+}

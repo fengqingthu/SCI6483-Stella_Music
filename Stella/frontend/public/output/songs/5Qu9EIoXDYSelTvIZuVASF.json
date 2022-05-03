@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn",
+        "id": "6Hizgjo92FnMp8wGaRUNTn",
+        "name": "Vertical Horizon",
+        "type": "artist",
+        "uri": "spotify:artist:6Hizgjo92FnMp8wGaRUNTn"
+      }
+    ],
+    "available_markets": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4YLvPRA05HFduTusoq4Sne"
+    },
+    "href": "https://api.spotify.com/v1/albums/4YLvPRA05HFduTusoq4Sne",
+    "id": "4YLvPRA05HFduTusoq4Sne",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bb5e51e06fea4ea34ccf50b0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bb5e51e06fea4ea34ccf50b0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bb5e51e06fea4ea34ccf50b0",
+        "width": 64
+      }
+    ],
+    "name": "Everything You Want",
+    "release_date": "1999",
+    "release_date_precision": "year",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4YLvPRA05HFduTusoq4Sne"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn",
+      "id": "6Hizgjo92FnMp8wGaRUNTn",
+      "name": "Vertical Horizon",
+      "type": "artist",
+      "uri": "spotify:artist:6Hizgjo92FnMp8wGaRUNTn"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE",
+    "LI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 270800,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRC19900050"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Qu9EIoXDYSelTvIZuVASF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Qu9EIoXDYSelTvIZuVASF",
+  "id": "5Qu9EIoXDYSelTvIZuVASF",
+  "is_local": false,
+  "name": "Best I Ever Had (Grey Sky Morning)",
+  "popularity": 13,
+  "preview_url": "https://p.scdn.co/mp3-preview/a42bbf98045c3e32c647f2a94e5d3a446ac1f730?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5Qu9EIoXDYSelTvIZuVASF"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        "href": "https://api.spotify.com/v1/artists/04XggbrM51GcFPTxBYtRXT",
+        "id": "04XggbrM51GcFPTxBYtRXT",
+        "name": "Rostam",
+        "type": "artist",
+        "uri": "spotify:artist:04XggbrM51GcFPTxBYtRXT"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2PjvjbSxiTB4bJK6Ww4T8D"
+    },
+    "href": "https://api.spotify.com/v1/albums/2PjvjbSxiTB4bJK6Ww4T8D",
+    "id": "2PjvjbSxiTB4bJK6Ww4T8D",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27394ff64a7696bb4c692cf5339",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0294ff64a7696bb4c692cf5339",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485194ff64a7696bb4c692cf5339",
+        "width": 64
+      }
+    ],
+    "name": "Changephobia",
+    "release_date": "2021-06-04",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:2PjvjbSxiTB4bJK6Ww4T8D"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+      },
+      "href": "https://api.spotify.com/v1/artists/04XggbrM51GcFPTxBYtRXT",
+      "id": "04XggbrM51GcFPTxBYtRXT",
+      "name": "Rostam",
+      "type": "artist",
+      "uri": "spotify:artist:04XggbrM51GcFPTxBYtRXT"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 234973,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "QM24S2009505"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3gOQuYZ20Bl8q0tET7vECi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3gOQuYZ20Bl8q0tET7vECi",
+  "id": "3gOQuYZ20Bl8q0tET7vECi",
+  "is_local": false,
+  "name": "Unfold You",
+  "popularity": 8,
+  "preview_url": "https://p.scdn.co/mp3-preview/123655cdb60bee9bb7188394e14eab274757298c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3gOQuYZ20Bl8q0tET7vECi"
+}

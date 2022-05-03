@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        "href": "https://api.spotify.com/v1/artists/6cXMpsP9x0SH4kFfMyVezF",
+        "id": "6cXMpsP9x0SH4kFfMyVezF",
+        "name": "Josh Groban",
+        "type": "artist",
+        "uri": "spotify:artist:6cXMpsP9x0SH4kFfMyVezF"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6Uj9VARQcRBOQZ2uBywlrH"
+    },
+    "href": "https://api.spotify.com/v1/albums/6Uj9VARQcRBOQZ2uBywlrH",
+    "id": "6Uj9VARQcRBOQZ2uBywlrH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a04cb2e05a97a56a35aa340",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027a04cb2e05a97a56a35aa340",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517a04cb2e05a97a56a35aa340",
+        "width": 64
+      }
+    ],
+    "name": "Closer",
+    "release_date": "2003-11-11",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:6Uj9VARQcRBOQZ2uBywlrH"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+      },
+      "href": "https://api.spotify.com/v1/artists/6cXMpsP9x0SH4kFfMyVezF",
+      "id": "6cXMpsP9x0SH4kFfMyVezF",
+      "name": "Josh Groban",
+      "type": "artist",
+      "uri": "spotify:artist:6cXMpsP9x0SH4kFfMyVezF"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 280640,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USRE10301516"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5Zde0i4uCV5KW1izzjMFdY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5Zde0i4uCV5KW1izzjMFdY",
+  "id": "5Zde0i4uCV5KW1izzjMFdY",
+  "is_local": false,
+  "name": "Remember When It Rained",
+  "popularity": 37,
+  "preview_url": "https://p.scdn.co/mp3-preview/ed90915fc1067fefd9291051d4482378ff670d33?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:5Zde0i4uCV5KW1izzjMFdY"
+}

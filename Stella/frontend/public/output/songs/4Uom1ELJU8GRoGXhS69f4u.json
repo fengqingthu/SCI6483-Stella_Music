@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+        },
+        "href": "https://api.spotify.com/v1/artists/3kbBWco9PZ5eSQsNScwG6U",
+        "id": "3kbBWco9PZ5eSQsNScwG6U",
+        "name": "Built To Spill",
+        "type": "artist",
+        "uri": "spotify:artist:3kbBWco9PZ5eSQsNScwG6U"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/66opPvfEBehBxjZjj4PWgv"
+    },
+    "href": "https://api.spotify.com/v1/albums/66opPvfEBehBxjZjj4PWgv",
+    "id": "66opPvfEBehBxjZjj4PWgv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fa27d1bf83620263f8131f47",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fa27d1bf83620263f8131f47",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fa27d1bf83620263f8131f47",
+        "width": 64
+      }
+    ],
+    "name": "You In Reverse",
+    "release_date": "2006-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:66opPvfEBehBxjZjj4PWgv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kbBWco9PZ5eSQsNScwG6U",
+      "id": "3kbBWco9PZ5eSQsNScwG6U",
+      "name": "Built To Spill",
+      "type": "artist",
+      "uri": "spotify:artist:3kbBWco9PZ5eSQsNScwG6U"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 522133,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USWB10600397"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Uom1ELJU8GRoGXhS69f4u"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Uom1ELJU8GRoGXhS69f4u",
+  "id": "4Uom1ELJU8GRoGXhS69f4u",
+  "is_local": false,
+  "name": "Goin’ Against Your Mind",
+  "popularity": 23,
+  "preview_url": "https://p.scdn.co/mp3-preview/0cb19aa5ae735602cc0ad23516cf4d14db6b8d6c?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4Uom1ELJU8GRoGXhS69f4u"
+}

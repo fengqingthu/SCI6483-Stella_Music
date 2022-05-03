@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        "href": "https://api.spotify.com/v1/artists/4IS4EyXNmiI2w5SRCjMtEF",
+        "id": "4IS4EyXNmiI2w5SRCjMtEF",
+        "name": "Kendji Girac",
+        "type": "artist",
+        "uri": "spotify:artist:4IS4EyXNmiI2w5SRCjMtEF"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0DHBJN1ahg8LKcSC5ElZYv"
+    },
+    "href": "https://api.spotify.com/v1/albums/0DHBJN1ahg8LKcSC5ElZYv",
+    "id": "0DHBJN1ahg8LKcSC5ElZYv",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730b113a7be9d3fe392c238558",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020b113a7be9d3fe392c238558",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510b113a7be9d3fe392c238558",
+        "width": 64
+      }
+    ],
+    "name": "Kendji",
+    "release_date": "2014-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:0DHBJN1ahg8LKcSC5ElZYv"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+      },
+      "href": "https://api.spotify.com/v1/artists/4IS4EyXNmiI2w5SRCjMtEF",
+      "id": "4IS4EyXNmiI2w5SRCjMtEF",
+      "name": "Kendji Girac",
+      "type": "artist",
+      "uri": "spotify:artist:4IS4EyXNmiI2w5SRCjMtEF"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 167373,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM71401766"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4ZLgFOTrhnOlT5nUQ3wAtK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4ZLgFOTrhnOlT5nUQ3wAtK",
+  "id": "4ZLgFOTrhnOlT5nUQ3wAtK",
+  "is_local": false,
+  "name": "Andalouse",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4ZLgFOTrhnOlT5nUQ3wAtK"
+}

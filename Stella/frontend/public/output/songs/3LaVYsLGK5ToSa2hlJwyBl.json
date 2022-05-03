@@ -1,0 +1,111 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        "href": "https://api.spotify.com/v1/artists/1UbA3tvm40VqUsiFlJaPCs",
+        "id": "1UbA3tvm40VqUsiFlJaPCs",
+        "name": "Matt Dusk",
+        "type": "artist",
+        "uri": "spotify:artist:1UbA3tvm40VqUsiFlJaPCs"
+      }
+    ],
+    "available_markets": [
+      "PL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/02TEnaiMUWk7NONqNaebaP"
+    },
+    "href": "https://api.spotify.com/v1/albums/02TEnaiMUWk7NONqNaebaP",
+    "id": "02TEnaiMUWk7NONqNaebaP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273896759be4ab367cd7211bbbc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02896759be4ab367cd7211bbbc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851896759be4ab367cd7211bbbc",
+        "width": 64
+      }
+    ],
+    "name": "Sinatra Vol. 2",
+    "release_date": "2021-10-22",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:02TEnaiMUWk7NONqNaebaP"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UbA3tvm40VqUsiFlJaPCs",
+      "id": "1UbA3tvm40VqUsiFlJaPCs",
+      "name": "Matt Dusk",
+      "type": "artist",
+      "uri": "spotify:artist:1UbA3tvm40VqUsiFlJaPCs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+      },
+      "href": "https://api.spotify.com/v1/artists/5370ZRL4QLnYElDr8sjDzC",
+      "id": "5370ZRL4QLnYElDr8sjDzC",
+      "name": "Kuba Badach",
+      "type": "artist",
+      "uri": "spotify:artist:5370ZRL4QLnYElDr8sjDzC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH"
+      },
+      "href": "https://api.spotify.com/v1/artists/3sYr49vFJ6BPZnV5Ky1PLH",
+      "id": "3sYr49vFJ6BPZnV5Ky1PLH",
+      "name": "Andrzej Piaseczny",
+      "type": "artist",
+      "uri": "spotify:artist:3sYr49vFJ6BPZnV5Ky1PLH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/71ADVpJx1rN662ENAJIcUZ",
+      "id": "71ADVpJx1rN662ENAJIcUZ",
+      "name": "Natalia Kukulska",
+      "type": "artist",
+      "uri": "spotify:artist:71ADVpJx1rN662ENAJIcUZ"
+    }
+  ],
+  "available_markets": [
+    "PL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 192387,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "PLC592100170"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3LaVYsLGK5ToSa2hlJwyBl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3LaVYsLGK5ToSa2hlJwyBl",
+  "id": "3LaVYsLGK5ToSa2hlJwyBl",
+  "is_local": false,
+  "name": "That’s Life / Żyć Tak",
+  "popularity": 25,
+  "preview_url": "https://p.scdn.co/mp3-preview/71f6a3096e3a8f382696aff41675266515d1dd12?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3LaVYsLGK5ToSa2hlJwyBl"
+}

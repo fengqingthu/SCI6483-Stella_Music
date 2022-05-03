@@ -1,0 +1,91 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
+        },
+        "href": "https://api.spotify.com/v1/artists/74eY8wbrhhVD7pACbBHwHw",
+        "id": "74eY8wbrhhVD7pACbBHwHw",
+        "name": "Imany",
+        "type": "artist",
+        "uri": "spotify:artist:74eY8wbrhhVD7pACbBHwHw"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "MC"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4yaKTDWDpWSCB5chLgRpIS"
+    },
+    "href": "https://api.spotify.com/v1/albums/4yaKTDWDpWSCB5chLgRpIS",
+    "id": "4yaKTDWDpWSCB5chLgRpIS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738fd7d105650aed4b640cba38",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028fd7d105650aed4b640cba38",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518fd7d105650aed4b640cba38",
+        "width": 64
+      }
+    ],
+    "name": "Sous les jupes des filles (Bande originale du film)",
+    "release_date": "2014-05-26",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:4yaKTDWDpWSCB5chLgRpIS"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
+      },
+      "href": "https://api.spotify.com/v1/artists/74eY8wbrhhVD7pACbBHwHw",
+      "id": "74eY8wbrhhVD7pACbBHwHw",
+      "name": "Imany",
+      "type": "artist",
+      "uri": "spotify:artist:74eY8wbrhhVD7pACbBHwHw"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "MC"
+  ],
+  "disc_number": 1,
+  "duration_ms": 167505,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRIDO1400190"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5va7XDCh6eJTh5k18Al6xD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5va7XDCh6eJTh5k18Al6xD",
+  "id": "5va7XDCh6eJTh5k18Al6xD",
+  "is_local": false,
+  "name": "The Good The Bad & The Crazy",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/e87259b16de71cce33256a4890f8e430f3989eb1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5va7XDCh6eJTh5k18Al6xD"
+}

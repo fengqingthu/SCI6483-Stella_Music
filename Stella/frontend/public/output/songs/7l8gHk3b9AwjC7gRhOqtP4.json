@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hV6oxGLeLFw17DGjIPkYD",
+        "id": "6hV6oxGLeLFw17DGjIPkYD",
+        "name": "Cosmo Sheldrake",
+        "type": "artist",
+        "uri": "spotify:artist:6hV6oxGLeLFw17DGjIPkYD"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4vS1qz11W9HQ61YAKAwggh"
+    },
+    "href": "https://api.spotify.com/v1/albums/4vS1qz11W9HQ61YAKAwggh",
+    "id": "4vS1qz11W9HQ61YAKAwggh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a6d36810b604cb78264040ef",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a6d36810b604cb78264040ef",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a6d36810b604cb78264040ef",
+        "width": 64
+      }
+    ],
+    "name": "The Moss",
+    "release_date": "2014-03-05",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "type": "album",
+    "uri": "spotify:album:4vS1qz11W9HQ61YAKAwggh"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hV6oxGLeLFw17DGjIPkYD",
+      "id": "6hV6oxGLeLFw17DGjIPkYD",
+      "name": "Cosmo Sheldrake",
+      "type": "artist",
+      "uri": "spotify:artist:6hV6oxGLeLFw17DGjIPkYD"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 242567,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBKZV1424960"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7l8gHk3b9AwjC7gRhOqtP4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7l8gHk3b9AwjC7gRhOqtP4",
+  "id": "7l8gHk3b9AwjC7gRhOqtP4",
+  "is_local": false,
+  "name": "The Moss",
+  "popularity": 56,
+  "preview_url": "https://p.scdn.co/mp3-preview/ce4b2fd93d098c32c86158386de17c0afa519aa7?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7l8gHk3b9AwjC7gRhOqtP4"
+}

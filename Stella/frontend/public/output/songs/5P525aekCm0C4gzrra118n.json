@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mZC7ndY6oGMxJentRwsuV",
+        "id": "5mZC7ndY6oGMxJentRwsuV",
+        "name": "Young Fathers",
+        "type": "artist",
+        "uri": "spotify:artist:5mZC7ndY6oGMxJentRwsuV"
+      }
+    ],
+    "available_markets": [
+      "JP"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Cf2EY1ZqcNH45Dacg8LZN"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Cf2EY1ZqcNH45Dacg8LZN",
+    "id": "3Cf2EY1ZqcNH45Dacg8LZN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d4fec31a74cf29c0a7d3fcb7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d4fec31a74cf29c0a7d3fcb7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d4fec31a74cf29c0a7d3fcb7",
+        "width": 64
+      }
+    ],
+    "name": "White Men Are Black Men Too",
+    "release_date": "2015-04-04",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3Cf2EY1ZqcNH45Dacg8LZN"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+      },
+      "href": "https://api.spotify.com/v1/artists/5mZC7ndY6oGMxJentRwsuV",
+      "id": "5mZC7ndY6oGMxJentRwsuV",
+      "name": "Young Fathers",
+      "type": "artist",
+      "uri": "spotify:artist:5mZC7ndY6oGMxJentRwsuV"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "disc_number": 1,
+  "duration_ms": 229368,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBCFB1500604"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5P525aekCm0C4gzrra118n"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5P525aekCm0C4gzrra118n",
+  "id": "5P525aekCm0C4gzrra118n",
+  "is_local": false,
+  "name": "Rain Or Shine",
+  "popularity": 5,
+  "preview_url": "https://p.scdn.co/mp3-preview/43b5bdc56f611acb91abfa4310531d95cdf1d71f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5P525aekCm0C4gzrra118n"
+}

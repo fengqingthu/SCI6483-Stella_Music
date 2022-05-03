@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        },
+        "href": "https://api.spotify.com/v1/artists/40Ojab0UtVQFjA76qXr8Ot",
+        "id": "40Ojab0UtVQFjA76qXr8Ot",
+        "name": "Apparat",
+        "type": "artist",
+        "uri": "spotify:artist:40Ojab0UtVQFjA76qXr8Ot"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3uaD3Zl5MAWyDwBLs6yvM7"
+    },
+    "href": "https://api.spotify.com/v1/albums/3uaD3Zl5MAWyDwBLs6yvM7",
+    "id": "3uaD3Zl5MAWyDwBLs6yvM7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27385ec2816775eae420551183f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0285ec2816775eae420551183f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485185ec2816775eae420551183f",
+        "width": 64
+      }
+    ],
+    "name": "LP5",
+    "release_date": "2019-03-22",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:3uaD3Zl5MAWyDwBLs6yvM7"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+      },
+      "href": "https://api.spotify.com/v1/artists/40Ojab0UtVQFjA76qXr8Ot",
+      "id": "40Ojab0UtVQFjA76qXr8Ot",
+      "name": "Apparat",
+      "type": "artist",
+      "uri": "spotify:artist:40Ojab0UtVQFjA76qXr8Ot"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 280408,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBR8R1800755"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0LxAxw5XTiaLuTOCSSGhrB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0LxAxw5XTiaLuTOCSSGhrB",
+  "id": "0LxAxw5XTiaLuTOCSSGhrB",
+  "is_local": false,
+  "name": "CARONTE",
+  "popularity": 27,
+  "preview_url": "https://p.scdn.co/mp3-preview/926e1dac4b65cfdfd676108906a535188871d654?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:0LxAxw5XTiaLuTOCSSGhrB"
+}

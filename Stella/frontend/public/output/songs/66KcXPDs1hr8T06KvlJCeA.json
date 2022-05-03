@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        },
+        "href": "https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3",
+        "id": "25KNo5GDS6ZpLkjasaecA3",
+        "name": "Thievery Corporation",
+        "type": "artist",
+        "uri": "spotify:artist:25KNo5GDS6ZpLkjasaecA3"
+      }
+    ],
+    "available_markets": [
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2CPYbHU0udS9tbx8PmBEV2"
+    },
+    "href": "https://api.spotify.com/v1/albums/2CPYbHU0udS9tbx8PmBEV2",
+    "id": "2CPYbHU0udS9tbx8PmBEV2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e61e33f9dedd11b81b1d08d3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e61e33f9dedd11b81b1d08d3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e61e33f9dedd11b81b1d08d3",
+        "width": 64
+      }
+    ],
+    "name": "The Mirror Conspiracy",
+    "release_date": "2000-08-09",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:2CPYbHU0udS9tbx8PmBEV2"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+      },
+      "href": "https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3",
+      "id": "25KNo5GDS6ZpLkjasaecA3",
+      "name": "Thievery Corporation",
+      "type": "artist",
+      "uri": "spotify:artist:25KNo5GDS6ZpLkjasaecA3"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 288826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USESL0003304"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/66KcXPDs1hr8T06KvlJCeA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/66KcXPDs1hr8T06KvlJCeA",
+  "id": "66KcXPDs1hr8T06KvlJCeA",
+  "is_local": false,
+  "name": "Lebanese Blonde",
+  "popularity": 50,
+  "preview_url": "https://p.scdn.co/mp3-preview/32a7281fe73b9ae642ddcadc40e6385c26fc2910?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:66KcXPDs1hr8T06KvlJCeA"
+}

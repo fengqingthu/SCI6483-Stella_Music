@@ -1,0 +1,123 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        },
+        "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+        "id": "536BYVgOnRky0xjsPT96zl",
+        "name": "Two Door Cinema Club",
+        "type": "artist",
+        "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+      }
+    ],
+    "available_markets": [
+      "AR",
+      "BO",
+      "BR",
+      "BZ",
+      "CA",
+      "CL",
+      "CO",
+      "CR",
+      "EC",
+      "GT",
+      "GY",
+      "HN",
+      "MX",
+      "NI",
+      "PA",
+      "PE",
+      "PY",
+      "SR",
+      "SV",
+      "US",
+      "UY",
+      "VE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7mxF1FNLd12k1e5MpkMdKg"
+    },
+    "href": "https://api.spotify.com/v1/albums/7mxF1FNLd12k1e5MpkMdKg",
+    "id": "7mxF1FNLd12k1e5MpkMdKg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27326695b7ddc3264a22f36cd8b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0226695b7ddc3264a22f36cd8b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485126695b7ddc3264a22f36cd8b",
+        "width": 64
+      }
+    ],
+    "name": "Beacon",
+    "release_date": "2012-08-31",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:7mxF1FNLd12k1e5MpkMdKg"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+      },
+      "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+      "id": "536BYVgOnRky0xjsPT96zl",
+      "name": "Two Door Cinema Club",
+      "type": "artist",
+      "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BO",
+    "BR",
+    "BZ",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "EC",
+    "GT",
+    "GY",
+    "HN",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "US",
+    "UY",
+    "VE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 187720,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRU701200087"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5saMo1BtSHW111VrurVHe8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5saMo1BtSHW111VrurVHe8",
+  "id": "5saMo1BtSHW111VrurVHe8",
+  "is_local": false,
+  "name": "Sun",
+  "popularity": 57,
+  "preview_url": "https://p.scdn.co/mp3-preview/94fe28aafb3b2a014b4e8f7cd0251b7f6918989f?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5saMo1BtSHW111VrurVHe8"
+}

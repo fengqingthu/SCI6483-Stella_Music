@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qpmcQfxhmNxNMCJUrpHwe",
+        "id": "6qpmcQfxhmNxNMCJUrpHwe",
+        "name": "Dissection",
+        "type": "artist",
+        "uri": "spotify:artist:6qpmcQfxhmNxNMCJUrpHwe"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0kNMn5MTuuG4LUuyfJDMPm"
+    },
+    "href": "https://api.spotify.com/v1/albums/0kNMn5MTuuG4LUuyfJDMPm",
+    "id": "0kNMn5MTuuG4LUuyfJDMPm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27340c2396b436ea39b14ddd106",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0240c2396b436ea39b14ddd106",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485140c2396b436ea39b14ddd106",
+        "width": 64
+      }
+    ],
+    "name": "Reinkaos",
+    "release_date": "2006-05-16",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:0kNMn5MTuuG4LUuyfJDMPm"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qpmcQfxhmNxNMCJUrpHwe",
+      "id": "6qpmcQfxhmNxNMCJUrpHwe",
+      "name": "Dissection",
+      "type": "artist",
+      "uri": "spotify:artist:6qpmcQfxhmNxNMCJUrpHwe"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 364466,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "US2420606711"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5VBZc3LZYEz9QmuQK0HTRk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5VBZc3LZYEz9QmuQK0HTRk",
+  "id": "5VBZc3LZYEz9QmuQK0HTRk",
+  "is_local": false,
+  "name": "Maha-Kali",
+  "popularity": 29,
+  "preview_url": "https://p.scdn.co/mp3-preview/5de40739fa0c8f8d3043aefd854e31d0f9e8edd1?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:5VBZc3LZYEz9QmuQK0HTRk"
+}

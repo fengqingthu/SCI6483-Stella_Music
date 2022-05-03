@@ -1,0 +1,163 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        },
+        "href": "https://api.spotify.com/v1/artists/6T08mUIMB32dtqq5ryxQZ3",
+        "id": "6T08mUIMB32dtqq5ryxQZ3",
+        "name": "Izïa",
+        "type": "artist",
+        "uri": "spotify:artist:6T08mUIMB32dtqq5ryxQZ3"
+      }
+    ],
+    "available_markets": [
+      "AE",
+      "AT",
+      "BD",
+      "BE",
+      "BN",
+      "CA",
+      "CH",
+      "CI",
+      "CM",
+      "CR",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FJ",
+      "FR",
+      "GN",
+      "HK",
+      "HU",
+      "ID",
+      "IN",
+      "KR",
+      "LK",
+      "LT",
+      "LU",
+      "LV",
+      "MO",
+      "MU",
+      "MX",
+      "MY",
+      "NL",
+      "PH",
+      "PK",
+      "RW",
+      "SA",
+      "SE",
+      "SN",
+      "TN",
+      "TR",
+      "TW",
+      "US",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6IehctLdSng0qBqvDV5suy"
+    },
+    "href": "https://api.spotify.com/v1/albums/6IehctLdSng0qBqvDV5suy",
+    "id": "6IehctLdSng0qBqvDV5suy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e4cac2d5f908d8023dd7942f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e4cac2d5f908d8023dd7942f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e4cac2d5f908d8023dd7942f",
+        "width": 64
+      }
+    ],
+    "name": "So Much Trouble",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:6IehctLdSng0qBqvDV5suy"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+      },
+      "href": "https://api.spotify.com/v1/artists/6T08mUIMB32dtqq5ryxQZ3",
+      "id": "6T08mUIMB32dtqq5ryxQZ3",
+      "name": "Izïa",
+      "type": "artist",
+      "uri": "spotify:artist:6T08mUIMB32dtqq5ryxQZ3"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AT",
+    "BD",
+    "BE",
+    "BN",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "CR",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FJ",
+    "FR",
+    "GN",
+    "HK",
+    "HU",
+    "ID",
+    "IN",
+    "KR",
+    "LK",
+    "LT",
+    "LU",
+    "LV",
+    "MO",
+    "MU",
+    "MX",
+    "MY",
+    "NL",
+    "PH",
+    "PK",
+    "RW",
+    "SA",
+    "SE",
+    "SN",
+    "TN",
+    "TR",
+    "TW",
+    "US",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 242760,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "FRUM71102002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0o9SvDBP6RblnFQYoj2ZGn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0o9SvDBP6RblnFQYoj2ZGn",
+  "id": "0o9SvDBP6RblnFQYoj2ZGn",
+  "is_local": false,
+  "name": "So Much Trouble",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0o9SvDBP6RblnFQYoj2ZGn"
+}

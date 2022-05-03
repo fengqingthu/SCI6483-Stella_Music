@@ -1,0 +1,83 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6nXSnNEdLuKTzAQozRtqiI",
+        "id": "6nXSnNEdLuKTzAQozRtqiI",
+        "name": "M. Ward",
+        "type": "artist",
+        "uri": "spotify:artist:6nXSnNEdLuKTzAQozRtqiI"
+      }
+    ],
+    "available_markets": [
+      "AU",
+      "NZ"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ScNeSSQYsHf2q4Yv61TQE"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ScNeSSQYsHf2q4Yv61TQE",
+    "id": "1ScNeSSQYsHf2q4Yv61TQE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27316df316c48c28c387f75e29b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0216df316c48c28c387f75e29b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485116df316c48c28c387f75e29b",
+        "width": 64
+      }
+    ],
+    "name": "Hold Time",
+    "release_date": "2009-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:1ScNeSSQYsHf2q4Yv61TQE"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6nXSnNEdLuKTzAQozRtqiI",
+      "id": "6nXSnNEdLuKTzAQozRtqiI",
+      "name": "M. Ward",
+      "type": "artist",
+      "uri": "spotify:artist:6nXSnNEdLuKTzAQozRtqiI"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "disc_number": 1,
+  "duration_ms": 146200,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMRG0932321"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2NgpPFeNLad1rSsRItNMJp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2NgpPFeNLad1rSsRItNMJp",
+  "id": "2NgpPFeNLad1rSsRItNMJp",
+  "is_local": false,
+  "name": "Never Had Nobody Like You",
+  "popularity": 14,
+  "preview_url": "https://p.scdn.co/mp3-preview/0686d396780fca4e8c598ef9d41cc1a419627272?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2NgpPFeNLad1rSsRItNMJp"
+}

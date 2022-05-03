@@ -1,0 +1,87 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6QBN53AVQ0IcbSZrKxqwoB"
+        },
+        "href": "https://api.spotify.com/v1/artists/6QBN53AVQ0IcbSZrKxqwoB",
+        "id": "6QBN53AVQ0IcbSZrKxqwoB",
+        "name": "Sonny Sharrock",
+        "type": "artist",
+        "uri": "spotify:artist:6QBN53AVQ0IcbSZrKxqwoB"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "CR",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0Fx1VWICKcxrZqHJp2l8Jw"
+    },
+    "href": "https://api.spotify.com/v1/albums/0Fx1VWICKcxrZqHJp2l8Jw",
+    "id": "0Fx1VWICKcxrZqHJp2l8Jw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273032de9955a4726a9585c4a1f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02032de9955a4726a9585c4a1f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851032de9955a4726a9585c4a1f",
+        "width": 64
+      }
+    ],
+    "name": "Ask The Ages",
+    "release_date": "1991-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "type": "album",
+    "uri": "spotify:album:0Fx1VWICKcxrZqHJp2l8Jw"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QBN53AVQ0IcbSZrKxqwoB"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QBN53AVQ0IcbSZrKxqwoB",
+      "id": "6QBN53AVQ0IcbSZrKxqwoB",
+      "name": "Sonny Sharrock",
+      "type": "artist",
+      "uri": "spotify:artist:6QBN53AVQ0IcbSZrKxqwoB"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 584706,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USDJ20201018"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3w47XKhk3BtsDRdi9OJxLi"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3w47XKhk3BtsDRdi9OJxLi",
+  "id": "3w47XKhk3BtsDRdi9OJxLi",
+  "is_local": false,
+  "name": "Promises Kept",
+  "popularity": 13,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3w47XKhk3BtsDRdi9OJxLi"
+}

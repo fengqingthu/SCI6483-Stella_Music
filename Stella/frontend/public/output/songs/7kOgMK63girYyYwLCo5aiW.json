@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        "href": "https://api.spotify.com/v1/artists/14Tg9FvbNismPR1PJHxRau",
+        "id": "14Tg9FvbNismPR1PJHxRau",
+        "name": "Sultan + Shepard",
+        "type": "artist",
+        "uri": "spotify:artist:14Tg9FvbNismPR1PJHxRau"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2WjmdXzilku2NtwIRgqkqn"
+    },
+    "href": "https://api.spotify.com/v1/albums/2WjmdXzilku2NtwIRgqkqn",
+    "id": "2WjmdXzilku2NtwIRgqkqn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a561d678c8b6c056100d9831",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a561d678c8b6c056100d9831",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a561d678c8b6c056100d9831",
+        "width": 64
+      }
+    ],
+    "name": "Almost Home",
+    "release_date": "2017-07-28",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:2WjmdXzilku2NtwIRgqkqn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+      },
+      "href": "https://api.spotify.com/v1/artists/14Tg9FvbNismPR1PJHxRau",
+      "id": "14Tg9FvbNismPR1PJHxRau",
+      "name": "Sultan + Shepard",
+      "type": "artist",
+      "uri": "spotify:artist:14Tg9FvbNismPR1PJHxRau"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+      },
+      "href": "https://api.spotify.com/v1/artists/1C60viSZv6BoYtrnkZ44g5",
+      "id": "1C60viSZv6BoYtrnkZ44g5",
+      "name": "Nadia Ali",
+      "type": "artist",
+      "uri": "spotify:artist:1C60viSZv6BoYtrnkZ44g5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TNpNnN7Y8QhtJJnQ08YeF",
+      "id": "3TNpNnN7Y8QhtJJnQ08YeF",
+      "name": "iRO",
+      "type": "artist",
+      "uri": "spotify:artist:3TNpNnN7Y8QhtJJnQ08YeF"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 219750,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLF711706254"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7kOgMK63girYyYwLCo5aiW"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7kOgMK63girYyYwLCo5aiW",
+  "id": "7kOgMK63girYyYwLCo5aiW",
+  "is_local": false,
+  "name": "Almost Home",
+  "popularity": 33,
+  "preview_url": "https://p.scdn.co/mp3-preview/e2f327cef9933cb7dd7411e3f7ac45142bd29c65?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7kOgMK63girYyYwLCo5aiW"
+}

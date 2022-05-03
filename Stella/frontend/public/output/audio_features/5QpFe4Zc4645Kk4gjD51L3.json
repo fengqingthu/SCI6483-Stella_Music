@@ -1,0 +1,20 @@
+{
+  "danceability": 0.319,
+  "energy": 0.626,
+  "key": 1,
+  "loudness": -9.681,
+  "mode": 1,
+  "speechiness": 0.0521,
+  "acousticness": 0.173,
+  "instrumentalness": 0.0308,
+  "liveness": 0.105,
+  "valence": 0.092,
+  "tempo": 119.573,
+  "type": "audio_features",
+  "id": "5QpFe4Zc4645Kk4gjD51L3",
+  "uri": "spotify:track:5QpFe4Zc4645Kk4gjD51L3",
+  "track_href": "https://api.spotify.com/v1/tracks/5QpFe4Zc4645Kk4gjD51L3",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5QpFe4Zc4645Kk4gjD51L3",
+  "duration_ms": 250667,
+  "time_signature": 5
+}

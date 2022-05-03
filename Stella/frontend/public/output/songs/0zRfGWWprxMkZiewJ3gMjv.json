@@ -1,0 +1,81 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        },
+        "href": "https://api.spotify.com/v1/artists/7avo0PmlW8O1YLEt9DnWQT",
+        "id": "7avo0PmlW8O1YLEt9DnWQT",
+        "name": "Studio Killers",
+        "type": "artist",
+        "uri": "spotify:artist:7avo0PmlW8O1YLEt9DnWQT"
+      }
+    ],
+    "available_markets": [
+      "FI"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5eaoWhBweqqjErHzhebjgL"
+    },
+    "href": "https://api.spotify.com/v1/albums/5eaoWhBweqqjErHzhebjgL",
+    "id": "5eaoWhBweqqjErHzhebjgL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273642ae4f0b6a08c83da768c15",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02642ae4f0b6a08c83da768c15",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851642ae4f0b6a08c83da768c15",
+        "width": 64
+      }
+    ],
+    "name": "Studio Killers",
+    "release_date": "2013-06-04",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:5eaoWhBweqqjErHzhebjgL"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+      },
+      "href": "https://api.spotify.com/v1/artists/7avo0PmlW8O1YLEt9DnWQT",
+      "id": "7avo0PmlW8O1YLEt9DnWQT",
+      "name": "Studio Killers",
+      "type": "artist",
+      "uri": "spotify:artist:7avo0PmlW8O1YLEt9DnWQT"
+    }
+  ],
+  "available_markets": [
+    "FI"
+  ],
+  "disc_number": 1,
+  "duration_ms": 227613,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBX2M1200020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zRfGWWprxMkZiewJ3gMjv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zRfGWWprxMkZiewJ3gMjv",
+  "id": "0zRfGWWprxMkZiewJ3gMjv",
+  "is_local": false,
+  "name": "All Men Are Pigs",
+  "popularity": 24,
+  "preview_url": "https://p.scdn.co/mp3-preview/efc07c8bc9c686167919ea89becd020b661c4360?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0zRfGWWprxMkZiewJ3gMjv"
+}

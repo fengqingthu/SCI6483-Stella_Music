@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+        "id": "2eRNMtoi82UZUuaL6naDjA",
+        "name": "Cœur De Pirate",
+        "type": "artist",
+        "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+      }
+    ],
+    "available_markets": [
+      "BE",
+      "CH",
+      "FR",
+      "LU",
+      "NL"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2GduXbWIFL3kHs7kIKc6Pn"
+    },
+    "href": "https://api.spotify.com/v1/albums/2GduXbWIFL3kHs7kIKc6Pn",
+    "id": "2GduXbWIFL3kHs7kIKc6Pn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27371ad4e27893b8e8584114cea",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0271ad4e27893b8e8584114cea",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485171ad4e27893b8e8584114cea",
+        "width": 64
+      }
+    ],
+    "name": "Blonde",
+    "release_date": "2011-01-01",
+    "release_date_precision": "day",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:2GduXbWIFL3kHs7kIKc6Pn"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+      "id": "2eRNMtoi82UZUuaL6naDjA",
+      "name": "Cœur De Pirate",
+      "type": "artist",
+      "uri": "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CH",
+    "FR",
+    "LU",
+    "NL"
+  ],
+  "disc_number": 1,
+  "duration_ms": 187026,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "CAD431192204"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1uRgahyBkqcXAnXA6BCUzg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1uRgahyBkqcXAnXA6BCUzg",
+  "id": "1uRgahyBkqcXAnXA6BCUzg",
+  "is_local": false,
+  "name": "Golden Baby",
+  "popularity": 36,
+  "preview_url": "https://p.scdn.co/mp3-preview/4d66e03e529be5d3eacc8a01719e757adb1f29e3?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:1uRgahyBkqcXAnXA6BCUzg"
+}

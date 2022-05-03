@@ -1,0 +1,89 @@
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr"
+        },
+        "href": "https://api.spotify.com/v1/artists/6rmNdcuNwzokE2TQaI0ubr",
+        "id": "6rmNdcuNwzokE2TQaI0ubr",
+        "name": "Girls in Airports",
+        "type": "artist",
+        "uri": "spotify:artist:6rmNdcuNwzokE2TQaI0ubr"
+      }
+    ],
+    "available_markets": [
+      "DK",
+      "FI",
+      "IS",
+      "NO",
+      "SE"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4oTKA7yUp8h6cQorbIhsAz"
+    },
+    "href": "https://api.spotify.com/v1/albums/4oTKA7yUp8h6cQorbIhsAz",
+    "id": "4oTKA7yUp8h6cQorbIhsAz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27344021858df886a316f9acbf8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0244021858df886a316f9acbf8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485144021858df886a316f9acbf8",
+        "width": 64
+      }
+    ],
+    "name": "Dive",
+    "release_date": "2020-11-27",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:4oTKA7yUp8h6cQorbIhsAz"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr"
+      },
+      "href": "https://api.spotify.com/v1/artists/6rmNdcuNwzokE2TQaI0ubr",
+      "id": "6rmNdcuNwzokE2TQaI0ubr",
+      "name": "Girls in Airports",
+      "type": "artist",
+      "uri": "spotify:artist:6rmNdcuNwzokE2TQaI0ubr"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "disc_number": 1,
+  "duration_ms": 234664,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "DKADG2000965"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3lGgUdlzMIRskPzQKGTBRq"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3lGgUdlzMIRskPzQKGTBRq",
+  "id": "3lGgUdlzMIRskPzQKGTBRq",
+  "is_local": false,
+  "name": "Stonehouse",
+  "popularity": 12,
+  "preview_url": "https://p.scdn.co/mp3-preview/d45d94a581efe6bb9f7a98a1a9ca6ad1e3c27b16?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:3lGgUdlzMIRskPzQKGTBRq"
+}

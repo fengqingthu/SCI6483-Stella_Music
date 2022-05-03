@@ -1,0 +1,20 @@
+{
+  "danceability": 0.137,
+  "energy": 0.987,
+  "key": 2,
+  "loudness": -3.367,
+  "mode": 1,
+  "speechiness": 0.167,
+  "acousticness": 0.000106,
+  "instrumentalness": 0.000475,
+  "liveness": 0.379,
+  "valence": 0.28,
+  "tempo": 199.964,
+  "type": "audio_features",
+  "id": "5TFDKCg738tqykCuezzoL1",
+  "uri": "spotify:track:5TFDKCg738tqykCuezzoL1",
+  "track_href": "https://api.spotify.com/v1/tracks/5TFDKCg738tqykCuezzoL1",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TFDKCg738tqykCuezzoL1",
+  "duration_ms": 435507,
+  "time_signature": 4
+}

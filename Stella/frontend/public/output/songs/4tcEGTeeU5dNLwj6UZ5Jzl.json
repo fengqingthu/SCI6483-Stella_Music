@@ -1,0 +1,101 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+        "id": "4AVFqumd2ogHFlRbKIjp1t",
+        "name": "Alesso",
+        "type": "artist",
+        "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+        "name": "Armin van Buuren",
+        "type": "artist",
+        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+      }
+    ],
+    "available_markets": [
+      "CA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/62qQfjaufJKhsBbMewEY9v"
+    },
+    "href": "https://api.spotify.com/v1/albums/62qQfjaufJKhsBbMewEY9v",
+    "id": "62qQfjaufJKhsBbMewEY9v",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dd7106c0cb27aa6a401e07c0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dd7106c0cb27aa6a401e07c0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dd7106c0cb27aa6a401e07c0",
+        "width": 64
+      }
+    ],
+    "name": "Leave a Little Love",
+    "release_date": "2021-02-26",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "type": "album",
+    "uri": "spotify:album:62qQfjaufJKhsBbMewEY9v"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+      "id": "4AVFqumd2ogHFlRbKIjp1t",
+      "name": "Alesso",
+      "type": "artist",
+      "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+      "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+      "name": "Armin van Buuren",
+      "type": "artist",
+      "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 187029,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "NLF712101358"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4tcEGTeeU5dNLwj6UZ5Jzl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4tcEGTeeU5dNLwj6UZ5Jzl",
+  "id": "4tcEGTeeU5dNLwj6UZ5Jzl",
+  "is_local": false,
+  "name": "Leave a Little Love",
+  "popularity": 43,
+  "preview_url": "https://p.scdn.co/mp3-preview/064ec2a24380109d726f598489b7ed29bcb07a0b?cid=ca9db14086f4432bb29b1dc2745dbc05",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4tcEGTeeU5dNLwj6UZ5Jzl"
+}
