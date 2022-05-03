@@ -1,0 +1,190 @@
+import * as THREE from "three";
+import React, { useRef, Suspense,useState } from "react";
+import { Canvas, extend, useFrame, useLoader } from "@react-three/fiber";
+import { shaderMaterial,OrbitControls } from "@react-three/drei";
+import glsl from "babel-plugin-glsl/macro";
+import "./App.css";
+import { Range } from 'react-range';
+import { Vector3 } from "three";
+
+const WaveShaderMaterial = shaderMaterial(
+  // Uniform
+  {
+    uPi:3.14,
+    uTime:0.0,
+    uColor: new THREE.Color(0.0, 0.0, 0.0),
+    // uPoint:new THREE.Vector3(0.6,0.8,0.0),
+    uPointArray:[new THREE.Vector3(0.6,0.8,Math.sqrt(0.0)),new THREE.Vector3(0.0,0.0,1.0),new THREE.Vector3(0.0,0.6,0.8),new THREE.Vector3(-0.25,-0.1,-Math.sqrt(1.0-0.25**2.0-0.01))],
+    uSizeArray:[1.0,0.5,1.5,1.2],
+    uCrateNum:80,
+    uFlatR:0.1,
+    uCraterR:0.2,
+    uSteepness:3.0,
+    uRimHF:0.16,
+    uSphereR:1.0,
+  },
+  // Vertex Shader
+  glsl`
+  
+    precision mediump float;
+    uniform float uCraterR;
+    uniform float uFlatR;
+    uniform float uRimHF;
+    uniform float uSphereR;
+    uniform float uSteepness;
+    uniform int uCrateNum;
+    uniform vec3 uPointArray[80];
+    uniform float uSizeArray[80];
+    
+    uniform float uTime;
+    uniform float uPi;
+    // varying float modelz;
+    // uniform vec3 uPoint;
+    varying float vDent;
+    varying vec3 vPos;
+    varying vec3 vNormal;
+    // varying float distanceToCenter;
+    
+    #pragma glslify: snoise3 = require(glsl-noise/simplex/3d);
+
+
+    void main() {
+      vPos=position;
+      // vec4 pos=position;
+      vec4 modelPosition=modelMatrix* vec4(position, 1.0);
+      // pos.x=sin(uTime);
+      // pos.z=cos(uTime);
+      vec4 posA=modelPosition;
+      vec4 posB=modelMatrix*vec4(vPos.x,(vPos.y+0.0001),sqrt(pow(vPos.x,2.0)+pow((vPos.y+0.001),2.0)),1.0);
+      vec4 posC=modelMatrix*vec4((vPos.x+0.0001),vPos.y,sqrt(pow(vPos.y,2.0)+pow((vPos.x+0.001),2.0)),1.0);
+      vec4 a[3] = vec4[3](posA,posB,posC);
+      vec4[3] r;
+      for(int k=0;k<3;k++){
+        vec4 pos=a[k];
+        float sAngle=0.0;
+
+        float noiseFreq =2.0;
+        float noiseAmp = 0.001;
+        float noiseL=0.0;
+        for(int i=0;i<5;i++){
+          vec3 noisePos = vec3( pos.x * noiseFreq,  pos.y * noiseFreq,  pos.z* noiseFreq);
+          noiseL+=snoise3(noisePos)*noiseAmp;
+          noiseFreq=noiseFreq*2.0;
+          noiseAmp=noiseAmp*0.5;
+        }
+        float snoiseFreq =5000.0;
+        float snoiseAmp = 0.0001;
+        for(int i=0;i<5;i++){
+          vec3 noisePos = vec3( pos.x * snoiseFreq,  pos.y * snoiseFreq,  pos.z* snoiseFreq);
+          noiseL+=snoise3(noisePos)*snoiseAmp;
+          snoiseFreq=noiseFreq*2.0;
+          snoiseAmp=noiseAmp*0.5;
+        }
+        
+
+        float disloc=noiseL;
+        for(int j=0;j<uCrateNum;j+=1){
+          vec3 uPoint=uPointArray[j];
+          float sizeF=uSizeArray[j];
+          float CraterR=sizeF*uCraterR;
+          float FlatR=sizeF*uFlatR;  
+          float distanceToCenter=pow(pos.x-uPoint.x,2.0)+pow(pos.y-uPoint.y,2.0)+pow(pos.z-uPoint.z,2.0);
+          
+          float RimH=pow(CraterR,2.0)*uSteepness*uRimHF;
+          float deHeight=pow(CraterR,2.0)*uSteepness-RimH;
+          float fHeight=deHeight-pow(FlatR,2.0)*uSteepness;
+          float curR=sqrt(pow(pos.x,2.0)+pow(pos.y,2.0)+pow(pos.z,2.0));
+          if (distanceToCenter>pow(CraterR*1.4,2.0)){
+            float pFactor=(curR+disloc)/curR;
+            pos.z=pos.z*pFactor;
+            pos.y=pos.y*pFactor;
+            pos.x=pos.x*pFactor;
+          }else if (distanceToCenter>=pow(CraterR,2.0)&&distanceToCenter<pow(CraterR*1.4,2.0)){
+            float disToEdge=CraterR*1.4-sqrt(distanceToCenter);
+            float h=pow(disToEdge,2.0)*3.0;
+            float pFactor=(curR+h+disloc)/curR;
+            pos.z=pos.z*pFactor;
+            pos.y=pos.y*pFactor;
+            pos.x=pos.x*pFactor;
+          }else if (distanceToCenter>pow(FlatR,2.0)&&distanceToCenter<pow(CraterR,2.0)){
+            float pFactor=(curR+distanceToCenter*uSteepness-deHeight+disloc)/curR;
+            pos.z=pos.z*pFactor;
+            pos.y=pos.y*pFactor;
+            pos.x=pos.x*pFactor;
+          }else if(distanceToCenter<=pow(FlatR,2.0)){
+            float pFactor=(curR-fHeight+disloc)/curR;
+            pos.z=pos.z*pFactor;
+            pos.y=pos.y*pFactor;
+            pos.x=pos.x*pFactor;
+
+          }
+        }
+        r[k]=pos;
+      }
+      vec4 nVec_1=r[1]-r[0];
+      vec4 nVec_2=r[2]-r[0];
+      if (r[0].x>0.0){
+        vNormal=abs(nVec_1.xyz*nVec_2.xyz);
+      }else{
+        vNormal=-abs(nVec_1.xyz*nVec_2.xyz);
+      }
+      // float newR=sqrt(pow(pos.x,2.0)+pow(pos.z,2.0));
+
+      // if(pos.z>=-0.03){
+      //   sAngle=asin(pos.x/newR)+uTime;
+      // }else if(pos.x>=0.000000){
+      //   sAngle=uPi-asin(pos.x/newR)+uTime;
+      // }else{
+      //   sAngle=-uPi-asin(pos.x/newR)+uTime;
+      // }
+      // pos.x=sin(sAngle)*newR;
+      // pos.z=cos(sAngle)*newR;
+
+      
+      vDent=1.0-sqrt(pow(r[0].x,2.0)+pow(r[0].y,2.0)+pow(r[0].z,2.0));
+      // if (pos.x*pos.x+pos.y*pos.y<0.02)
+      //   pos.z += (0.02*2.0-0.08);
+      // modelz=pos.z+0.08;
+      // modelz=pos.z;
+      // pos.z+=uTime;
+
+      vec4 viewPosition=viewMatrix*r[0];
+      vec4 projectedPosition=projectionMatrix*viewPosition;
+      gl_Position = projectedPosition;  
+    }
+  `,
+  // Fragment Shader
+  glsl`
+    precision mediump float;
+
+    uniform vec3 uColor;
+    // uniform vec3 uPoint;
+    varying float vDent;
+    varying vec3 vPos;
+    // uniform float uTime;
+    // uniform sampler2D uTexture;
+    varying vec3 vNormal;
+    // varying vec2 vUv;
+    // varying float modelz;
+    // varying float distanceToCenter;
+    #pragma glslify: snoise3 = require(glsl-noise/simplex/3d);
+    void main() {
+      // float wave = vWave * 0.2;
+      // vec3 texture = texture2D(uTexture, vUv + wave).rgb;
+      // gl_FragColor = vec4(0.8-abs(abs(modelz)-1.0)*1.0,0.8-abs(abs(modelz)-1.0)*1.0,0.8-abs(abs(modelz)-1.0)*1.0, 1.0); 
+      float shadow=-(dot(vNormal,vec3(0.6,0.8,0.0))*0.5-0.5);
+      float noiseFreq =1.0;
+      float noiseAmp = 0.2;
+      float noiseL=0.0;
+      for(int i=0;i<5;i++){
+        vec3 noisePos = vec3( vPos.x * noiseFreq,  vPos.y * noiseFreq, vPos.z* noiseFreq);
+        noiseL+=snoise3(noisePos)*noiseAmp;
+        noiseFreq=noiseFreq*2.0;
+        noiseAmp=noiseAmp*0.5;
+      }
+      
+      gl_FragColor = vec4((0.5-vDent*3.0+noiseL)*shadow,(0.5-vDent*3.0)*shadow,(0.5-vDent*3.0)*shadow,1.0);
+      // gl_FragColor = vec4(1.0,1.0,1.0,1.0);
+    }
+  `
+);
